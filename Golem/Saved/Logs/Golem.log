@@ -12752,3 +12752,1480 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.25-04.10.49:410][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Blueprints/Enemies/WaveController]
 [2021.05.25-04.10.49:449][119]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Golem-War-Prototype/Golem/Saved/WaveController_Auto2BF5052384E840D2527CD9A9D23B57F75.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Golem-War-Prototype/Golem/Saved/Autosaves/Game/TwinStickBP/Blueprints/Enemies/WaveController_Auto2.uasset'
 [2021.05.25-04.10.49:452][119]LogFileHelpers: Auto-saving content packages took 0.223
+[2021.05.25-05.00.28:845][359]LogSlate: Window 'Message Log' being destroyed
+[2021.05.25-05.00.28:857][359]LogSlate: Window 'Message Log' being destroyed
+[2021.05.25-05.00.30:330][445]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-05.00.30:350][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-05.00.30:350][445]PIE: New page: PIE session: TwinStickExampleMap (26/05/2021, 5:00:30 am)
+[2021.05.25-05.00.30:351][445]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2021.05.25-05.00.30:379][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027034s)
+[2021.05.25-05.00.30:383][445]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2021.05.25-05.00.30:384][445]LogPlayLevel: PIE: World Init took: (0.005039s)
+[2021.05.25-05.00.30:384][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.032688s)
+[2021.05.25-05.00.30:877][445]LogUObjectHash: Compacting FUObjectHashTables data took  13.93ms
+[2021.05.25-05.00.30:894][445]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.05.25-05.00.30:894][445]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-05.00.30:894][445]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-05.00.30:894][445]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-05.00.30:894][445]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-05.00.30:894][445]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-05.00.30:894][445]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-05.00.30:894][445]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-05.00.30:894][445]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-05.00.30:895][445]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-05.00.30:895][445]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-05.00.30:901][445]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-05.00.30:901][445]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-05.00.30:938][445]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek High Definition Audio)
+[2021.05.25-05.00.30:944][445]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-05.00.30:944][445]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-05.00.30:944][445]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-05.00.30:948][445]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-05.00.30:948][445]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-05.00.30:948][445]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-05.00.30:969][445]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-05.00.30:969][445]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-05.00.30:969][445]LogInit: FAudioDevice initialized.
+[2021.05.25-05.00.30:969][445]LogAudio: Display: Audio Device (ID: 20) registered with world 'TwinStickExampleMap'.
+[2021.05.25-05.00.31:038][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-05.00.31:038][445]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.05.25-05.00.31:045][445]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2021.05.25-17.00.31
+[2021.05.25-05.00.31:048][445]LogWorld: Bringing up level for play took: 0.008514
+[2021.05.25-05.00.31:049][445]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.05.25-05.00.31:056][445]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.31:064][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  WaveController Function:  Execute Ubergraph Wave Controller Graph:  EventGraph Node:  Spawn Default Controller
+[2021.05.25-05.00.31:079][445]PIE: Server logged in
+[2021.05.25-05.00.31:082][445]PIE: Play in editor total start time 0.737 seconds.
+[2021.05.25-05.00.31:963][456]LogBlueprintUserMessages: [UnitAIController_C_0] Unit
+[2021.05.25-05.00.31:963][456]LogBlueprintUserMessages: [UnitAIController_C_1] 
+[2021.05.25-05.00.31:965][456]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.31:965][456]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.32:024][457]LogBlueprintUserMessages: [Player] Floor
+[2021.05.25-05.00.32:686][471]LogBlueprintUserMessages: [Projectile_C_0] Unit
+[2021.05.25-05.00.32:687][471]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_0
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.32:689][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:737][472]LogBlueprintUserMessages: [Projectile_C_0] Unit
+[2021.05.25-05.00.32:738][472]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_0
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.32:739][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:739][472]LogBlueprintUserMessages: [Projectile_C_0] Unit
+[2021.05.25-05.00.32:739][472]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_0
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.32:740][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:740][472]LogBlueprintUserMessages: [Projectile_C_0] Unit
+[2021.05.25-05.00.32:741][472]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_0
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.32:741][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:787][473]LogBlueprintUserMessages: [Projectile_C_0] Unit
+[2021.05.25-05.00.32:787][473]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_0
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.32:789][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:790][473]LogBlueprintUserMessages: [Projectile_C_0] Unit
+[2021.05.25-05.00.32:791][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:791][473]LogBlueprintUserMessages: [Projectile_C_0] Unit
+[2021.05.25-05.00.32:792][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:792][473]LogBlueprintUserMessages: [Projectile_C_0] Unit
+[2021.05.25-05.00.32:792][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:844][474]LogBlueprintUserMessages: [Projectile_C_0] Unit
+[2021.05.25-05.00.32:844][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:845][474]LogBlueprintUserMessages: [Projectile_C_0] Unit
+[2021.05.25-05.00.32:845][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:846][474]LogBlueprintUserMessages: [Projectile_C_0] Unit
+[2021.05.25-05.00.32:846][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:894][475]LogBlueprintUserMessages: [Projectile_C_0] Unit
+[2021.05.25-05.00.32:894][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:895][475]LogBlueprintUserMessages: [Projectile_C_0] Unit
+[2021.05.25-05.00.32:895][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:943][476]LogBlueprintUserMessages: [Projectile_C_0] Unit
+[2021.05.25-05.00.32:944][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:945][476]LogBlueprintUserMessages: [Projectile_C_0] Unit
+[2021.05.25-05.00.32:946][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:946][476]LogBlueprintUserMessages: [Projectile_C_0] Unit
+[2021.05.25-05.00.32:947][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:947][476]LogBlueprintUserMessages: [Projectile_C_0] Unit
+[2021.05.25-05.00.32:947][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:991][477]LogBlueprintUserMessages: [UnitAIController_C_0] Unit
+[2021.05.25-05.00.32:991][477]LogBlueprintUserMessages: [UnitAIController_C_1] RangedUnit
+[2021.05.25-05.00.32:992][477]LogBlueprintUserMessages: [Projectile_C_1] RangedUnit
+[2021.05.25-05.00.32:993][477]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_1
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.32:993][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.32:997][477]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.32:997][477]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.33:046][478]LogBlueprintUserMessages: [Projectile_C_1] RangedUnit
+[2021.05.25-05.00.33:047][478]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_1
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:047][478]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:153][480]LogBlueprintUserMessages: [Projectile_C_2] RangedUnit
+[2021.05.25-05.00.33:154][480]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_2
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:154][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:205][481]LogBlueprintUserMessages: [Projectile_C_2] RangedUnit
+[2021.05.25-05.00.33:206][481]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_2
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:206][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:207][481]LogBlueprintUserMessages: [Projectile_C_2] RangedUnit
+[2021.05.25-05.00.33:207][481]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_2
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:207][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:208][481]LogBlueprintUserMessages: [Projectile_C_2] RangedUnit
+[2021.05.25-05.00.33:208][481]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_2
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:208][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:254][482]LogBlueprintUserMessages: [Projectile_C_1] Unit
+[2021.05.25-05.00.33:254][482]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_1
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:256][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:256][482]LogBlueprintUserMessages: [Projectile_C_1] Unit
+[2021.05.25-05.00.33:256][482]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_1
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:257][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:259][482]LogBlueprintUserMessages: [Projectile_C_2] RangedUnit
+[2021.05.25-05.00.33:259][482]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_2
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:260][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:260][482]LogBlueprintUserMessages: [Projectile_C_2] RangedUnit
+[2021.05.25-05.00.33:261][482]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_2
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:261][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:311][483]LogBlueprintUserMessages: [Projectile_C_2] RangedUnit
+[2021.05.25-05.00.33:311][483]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_2
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:311][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:312][483]LogBlueprintUserMessages: [Projectile_C_2] RangedUnit
+[2021.05.25-05.00.33:312][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:363][484]LogBlueprintUserMessages: [Projectile_C_4] RangedUnit
+[2021.05.25-05.00.33:363][484]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_4
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:364][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:364][484]LogBlueprintUserMessages: [Projectile_C_4] RangedUnit
+[2021.05.25-05.00.33:365][484]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_4
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:365][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:412][485]LogBlueprintUserMessages: [Projectile_C_4] RangedUnit
+[2021.05.25-05.00.33:412][485]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_4
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:413][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:414][485]LogBlueprintUserMessages: [Projectile_C_2] RangedUnit
+[2021.05.25-05.00.33:414][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:415][485]LogBlueprintUserMessages: [Projectile_C_4] RangedUnit
+[2021.05.25-05.00.33:415][485]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_4
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:415][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:416][485]LogBlueprintUserMessages: [Projectile_C_2] RangedUnit
+[2021.05.25-05.00.33:416][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:416][485]LogBlueprintUserMessages: [Projectile_C_4] RangedUnit
+[2021.05.25-05.00.33:417][485]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_4
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:418][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:467][486]LogBlueprintUserMessages: [Projectile_C_4] RangedUnit
+[2021.05.25-05.00.33:467][486]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_4
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:467][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:468][486]LogBlueprintUserMessages: [Projectile_C_4] RangedUnit
+[2021.05.25-05.00.33:468][486]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_4
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:469][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:470][486]LogBlueprintUserMessages: [Projectile_C_3] RangedUnit
+[2021.05.25-05.00.33:470][486]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_3
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:470][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:522][487]LogBlueprintUserMessages: [Projectile_C_4] RangedUnit
+[2021.05.25-05.00.33:522][487]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_4
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:522][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:523][487]LogBlueprintUserMessages: [Projectile_C_4] RangedUnit
+[2021.05.25-05.00.33:523][487]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_4
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:523][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:532][487]LogBlueprintUserMessages: [Projectile_C_6] Unit
+[2021.05.25-05.00.33:533][487]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_6
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:533][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:582][488]LogBlueprintUserMessages: [Projectile_C_6] Unit
+[2021.05.25-05.00.33:582][488]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_6
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:582][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:583][488]LogBlueprintUserMessages: [Projectile_C_6] Unit
+[2021.05.25-05.00.33:583][488]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_6
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:583][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:585][488]LogBlueprintUserMessages: [Projectile_C_4] RangedUnit
+[2021.05.25-05.00.33:585][488]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_4
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:585][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:586][488]LogBlueprintUserMessages: [Projectile_C_4] RangedUnit
+[2021.05.25-05.00.33:586][488]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_4
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:586][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:624][489]LogBlueprintUserMessages: [Projectile_C_6] Unit
+[2021.05.25-05.00.33:624][489]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_6
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:624][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:625][489]LogBlueprintUserMessages: [Projectile_C_4] RangedUnit
+[2021.05.25-05.00.33:625][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:671][490]LogBlueprintUserMessages: [Projectile_C_6] Unit
+[2021.05.25-05.00.33:672][490]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_6
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:673][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:674][490]LogBlueprintUserMessages: [Projectile_C_5] RangedUnit
+[2021.05.25-05.00.33:674][490]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_5
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:674][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:717][491]LogBlueprintUserMessages: [Projectile_C_6] Unit
+[2021.05.25-05.00.33:718][491]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit
+	Projectile_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.Projectile_C_6
+	Function /Game/TwinStickBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0329
+[2021.05.25-05.00.33:718][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:719][491]LogBlueprintUserMessages: [Projectile_C_6] Unit
+[2021.05.25-05.00.33:721][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlayer_Unit". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  Attacked
+[2021.05.25-05.00.33:814][493]LogBlueprintUserMessages: [Projectile_C_5] Floor
+[2021.05.25-05.00.33:814][493]LogBlueprintUserMessages: [Projectile_C_7] RangedEnemy
+[2021.05.25-05.00.34:010][497]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.34:011][497]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.34:778][513]LogBlueprintUserMessages: [Projectile_C_9] Projectile8
+[2021.05.25-05.00.34:779][513]LogBlueprintUserMessages: [Projectile_C_8] Projectile9
+[2021.05.25-05.00.35:029][518]LogBlueprintUserMessages: [Projectile_C_8] Enemy
+[2021.05.25-05.00.35:033][518]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.35:033][518]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.35:505][528]LogBlueprintUserMessages: [Projectile_C_10] Floor
+[2021.05.25-05.00.35:562][529]LogBlueprintUserMessages: [Projectile_C_11] Floor
+[2021.05.25-05.00.35:705][532]LogBlueprintUserMessages: [Projectile_C_12] Floor
+[2021.05.25-05.00.35:990][538]LogBlueprintUserMessages: [Projectile_C_13] Floor
+[2021.05.25-05.00.36:045][539]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.36:046][539]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.36:092][540]LogBlueprintUserMessages: [Projectile_C_14] Projectile13
+[2021.05.25-05.00.36:092][540]LogBlueprintUserMessages: [Projectile_C_13] Projectile14
+[2021.05.25-05.00.36:556][550]LogBlueprintUserMessages: [Projectile_C_15] Floor
+[2021.05.25-05.00.37:073][561]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.37:073][561]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.37:269][565]LogBlueprintUserMessages: [Projectile_C_16] Enemy
+[2021.05.25-05.00.37:317][566]LogBlueprintUserMessages: [Projectile_C_18] Enemy
+[2021.05.25-05.00.37:602][572]LogBlueprintUserMessages: [Projectile_C_17] Floor
+[2021.05.25-05.00.37:702][574]LogBlueprintUserMessages: [Projectile_C_19] Enemy
+[2021.05.25-05.00.37:704][574]LogBlueprintUserMessages: [Projectile_C_19] Enemy
+[2021.05.25-05.00.37:746][575]LogBlueprintUserMessages: [Projectile_C_20] Enemy
+[2021.05.25-05.00.37:794][576]LogBlueprintUserMessages: [Projectile_C_20] Enemy
+[2021.05.25-05.00.37:795][576]LogBlueprintUserMessages: [Projectile_C_21] Floor
+[2021.05.25-05.00.37:941][579]LogBlueprintUserMessages: [Projectile_C_22] Enemy
+[2021.05.25-05.00.38:083][582]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.38:083][582]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.38:323][587]LogBlueprintUserMessages: [Projectile_C_23] Floor
+[2021.05.25-05.00.38:516][591]LogBlueprintUserMessages: [Projectile_C_26] Enemy3
+[2021.05.25-05.00.38:563][592]LogBlueprintUserMessages: [Projectile_C_26] Enemy3
+[2021.05.25-05.00.38:564][592]LogBlueprintUserMessages: [Projectile_C_26] Enemy3
+[2021.05.25-05.00.38:610][593]LogBlueprintUserMessages: [Projectile_C_26] Enemy3
+[2021.05.25-05.00.38:612][593]LogBlueprintUserMessages: [Projectile_C_25] Enemy3
+[2021.05.25-05.00.38:667][594]LogBlueprintUserMessages: [Projectile_C_25] Enemy3
+[2021.05.25-05.00.38:668][594]LogBlueprintUserMessages: [Projectile_C_24] Floor
+[2021.05.25-05.00.38:761][596]LogBlueprintUserMessages: [Projectile_C_27] Enemy3
+[2021.05.25-05.00.39:101][603]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.39:101][603]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.39:239][606]LogBlueprintUserMessages: [Projectile_C_28] Floor
+[2021.05.25-05.00.40:135][624]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.40:135][624]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.40:387][629]LogBlueprintUserMessages: [Projectile_C_29] Enemy3
+[2021.05.25-05.00.40:389][629]LogBlueprintUserMessages: [Projectile_C_29] Enemy3
+[2021.05.25-05.00.40:591][633]LogBlueprintUserMessages: [Projectile_C_30] Enemy3
+[2021.05.25-05.00.40:591][633]LogBlueprintUserMessages: [Projectile_C_30] Enemy3
+[2021.05.25-05.00.40:751][636]LogBlueprintUserMessages: [Projectile_C_30] Player
+[2021.05.25-05.00.40:805][637]LogBlueprintUserMessages: [Projectile_C_33] Projectile34
+[2021.05.25-05.00.40:806][637]LogBlueprintUserMessages: [Projectile_C_34] Projectile33
+[2021.05.25-05.00.40:858][638]LogBlueprintUserMessages: [Projectile_C_31] Enemy
+[2021.05.25-05.00.40:858][638]LogBlueprintUserMessages: [Projectile_C_31] Enemy
+[2021.05.25-05.00.40:860][638]LogBlueprintUserMessages: [Projectile_C_31] Enemy4
+[2021.05.25-05.00.40:860][638]LogBlueprintUserMessages: [Projectile_C_32] Enemy4
+[2021.05.25-05.00.40:910][639]LogBlueprintUserMessages: [Projectile_C_31] Enemy3
+[2021.05.25-05.00.40:959][640]LogBlueprintUserMessages: [Projectile_C_31] Enemy3
+[2021.05.25-05.00.40:961][640]LogBlueprintUserMessages: [Projectile_C_37] Projectile33
+[2021.05.25-05.00.40:961][640]LogBlueprintUserMessages: [Projectile_C_33] Projectile37
+[2021.05.25-05.00.41:059][642]LogBlueprintUserMessages: [Projectile_C_32] Enemy3
+[2021.05.25-05.00.41:165][644]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.41:165][644]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.41:315][647]LogBlueprintUserMessages: [Projectile_C_36] Floor
+[2021.05.25-05.00.41:364][648]LogBlueprintUserMessages: [Projectile_C_39] Enemy1
+[2021.05.25-05.00.41:365][648]LogBlueprintUserMessages: [Projectile_C_35] Floor
+[2021.05.25-05.00.41:419][649]LogBlueprintUserMessages: [Projectile_C_39] Projectile40
+[2021.05.25-05.00.41:419][649]LogBlueprintUserMessages: [Projectile_C_40] Projectile39
+[2021.05.25-05.00.41:521][651]LogBlueprintUserMessages: [Projectile_C_39] Enemy1
+[2021.05.25-05.00.41:522][651]LogBlueprintUserMessages: [Projectile_C_41] Enemy3
+[2021.05.25-05.00.41:569][652]LogBlueprintUserMessages: [Projectile_C_39] Enemy1
+[2021.05.25-05.00.41:570][652]LogBlueprintUserMessages: [Projectile_C_39] Enemy4
+[2021.05.25-05.00.41:623][653]LogBlueprintUserMessages: [Projectile_C_39] Enemy4
+[2021.05.25-05.00.41:624][653]LogBlueprintUserMessages: [Projectile_C_38] Floor
+[2021.05.25-05.00.41:625][653]LogBlueprintUserMessages: [Projectile_C_40] Floor
+[2021.05.25-05.00.41:783][656]LogBlueprintUserMessages: [Projectile_C_42] Floor
+[2021.05.25-05.00.42:034][661]LogBlueprintUserMessages: [Projectile_C_43] Floor
+[2021.05.25-05.00.42:217][664]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.42:218][664]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.42:273][665]LogBlueprintUserMessages: [Projectile_C_44] Floor
+[2021.05.25-05.00.42:407][668]LogBlueprintUserMessages: [Projectile_C_47] Enemy5
+[2021.05.25-05.00.42:553][671]LogBlueprintUserMessages: [Projectile_C_45] Enemy2
+[2021.05.25-05.00.42:554][671]LogBlueprintUserMessages: [Projectile_C_46] Floor
+[2021.05.25-05.00.42:603][672]LogBlueprintUserMessages: [Projectile_C_45] Enemy1
+[2021.05.25-05.00.42:604][672]LogBlueprintUserMessages: [Projectile_C_45] Enemy1
+[2021.05.25-05.00.42:659][673]LogBlueprintUserMessages: [Projectile_C_45] Enemy1
+[2021.05.25-05.00.42:660][673]LogBlueprintUserMessages: [Projectile_C_45] Enemy1
+[2021.05.25-05.00.42:716][674]LogBlueprintUserMessages: [Projectile_C_45] Enemy1
+[2021.05.25-05.00.42:717][674]LogBlueprintUserMessages: [Projectile_C_45] Enemy1
+[2021.05.25-05.00.42:719][674]LogBlueprintUserMessages: [Projectile_C_49] Projectile47
+[2021.05.25-05.00.42:719][674]LogBlueprintUserMessages: [Projectile_C_47] Projectile49
+[2021.05.25-05.00.42:767][675]LogBlueprintUserMessages: [Projectile_C_45] Enemy1
+[2021.05.25-05.00.42:767][675]LogBlueprintUserMessages: [Projectile_C_45] Enemy1
+[2021.05.25-05.00.42:818][676]LogBlueprintUserMessages: [Projectile_C_45] Enemy1
+[2021.05.25-05.00.42:818][676]LogBlueprintUserMessages: [Projectile_C_45] Enemy1
+[2021.05.25-05.00.42:825][676]LogBlueprintUserMessages: [Projectile_C_52] Projectile49
+[2021.05.25-05.00.42:825][676]LogBlueprintUserMessages: [Projectile_C_49] Projectile52
+[2021.05.25-05.00.42:874][677]LogBlueprintUserMessages: [Projectile_C_51] Player
+[2021.05.25-05.00.42:933][678]LogBlueprintUserMessages: [Projectile_C_48] Floor
+[2021.05.25-05.00.43:222][684]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.43:222][684]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.43:277][685]LogBlueprintUserMessages: [Projectile_C_50] Floor
+[2021.05.25-05.00.43:325][686]LogBlueprintUserMessages: [Projectile_C_54] Enemy5
+[2021.05.25-05.00.43:325][686]LogBlueprintUserMessages: [Projectile_C_54] Enemy5
+[2021.05.25-05.00.43:366][687]LogBlueprintUserMessages: [Projectile_C_54] Enemy5
+[2021.05.25-05.00.43:368][687]LogBlueprintUserMessages: [Projectile_C_53] Floor
+[2021.05.25-05.00.43:368][687]LogBlueprintUserMessages: [Projectile_C_55] Projectile54
+[2021.05.25-05.00.43:369][687]LogBlueprintUserMessages: [Projectile_C_54] Projectile55
+[2021.05.25-05.00.43:412][688]LogBlueprintUserMessages: [Projectile_C_54] Enemy3
+[2021.05.25-05.00.43:465][689]LogBlueprintUserMessages: [Projectile_C_54] Enemy
+[2021.05.25-05.00.43:466][689]LogBlueprintUserMessages: [Projectile_C_55] Enemy3
+[2021.05.25-05.00.43:515][690]LogBlueprintUserMessages: [Projectile_C_54] Enemy
+[2021.05.25-05.00.43:516][690]LogBlueprintUserMessages: [Projectile_C_55] Enemy3
+[2021.05.25-05.00.43:518][690]LogBlueprintUserMessages: [Projectile_C_56] Floor
+[2021.05.25-05.00.43:563][691]LogBlueprintUserMessages: [Projectile_C_54] Enemy
+[2021.05.25-05.00.43:564][691]LogBlueprintUserMessages: [Projectile_C_57] Enemy4
+[2021.05.25-05.00.43:610][692]LogBlueprintUserMessages: [Projectile_C_54] Enemy
+[2021.05.25-05.00.43:664][693]LogBlueprintUserMessages: [Projectile_C_55] Enemy6
+[2021.05.25-05.00.43:664][693]LogBlueprintUserMessages: [Projectile_C_55] Enemy6
+[2021.05.25-05.00.43:716][694]LogBlueprintUserMessages: [Projectile_C_57] Enemy3
+[2021.05.25-05.00.43:770][695]LogBlueprintUserMessages: [Projectile_C_57] Enemy5
+[2021.05.25-05.00.43:771][695]LogBlueprintUserMessages: [Projectile_C_57] Projectile58
+[2021.05.25-05.00.43:771][695]LogBlueprintUserMessages: [Projectile_C_58] Projectile57
+[2021.05.25-05.00.43:818][696]LogBlueprintUserMessages: [Projectile_C_57] Enemy5
+[2021.05.25-05.00.43:819][696]LogBlueprintUserMessages: [Projectile_C_60] Floor
+[2021.05.25-05.00.43:965][699]LogBlueprintUserMessages: [Projectile_C_59] Floor
+[2021.05.25-05.00.44:251][705]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.44:251][705]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.44:296][706]LogBlueprintUserMessages: [Projectile_C_63] Enemy5
+[2021.05.25-05.00.44:342][707]LogBlueprintUserMessages: [Projectile_C_63] Enemy3
+[2021.05.25-05.00.44:344][707]LogBlueprintUserMessages: [Projectile_C_61] Floor
+[2021.05.25-05.00.44:386][708]LogBlueprintUserMessages: [Projectile_C_63] Enemy3
+[2021.05.25-05.00.44:434][709]LogBlueprintUserMessages: [Projectile_C_63] Enemy3
+[2021.05.25-05.00.44:437][709]LogBlueprintUserMessages: [Projectile_C_62] Floor
+[2021.05.25-05.00.44:483][710]LogBlueprintUserMessages: [Projectile_C_63] Enemy3
+[2021.05.25-05.00.44:484][710]LogBlueprintUserMessages: [Projectile_C_63] Enemy3
+[2021.05.25-05.00.44:486][710]LogBlueprintUserMessages: [Projectile_C_64] Floor
+[2021.05.25-05.00.44:531][711]LogBlueprintUserMessages: [Projectile_C_63] Enemy3
+[2021.05.25-05.00.44:532][711]LogBlueprintUserMessages: [Projectile_C_63] Enemy3
+[2021.05.25-05.00.44:576][712]LogBlueprintUserMessages: [Projectile_C_63] Enemy3
+[2021.05.25-05.00.44:791][716]LogBlueprintUserMessages: [Projectile_C_65] Floor
+[2021.05.25-05.00.44:936][719]LogBlueprintUserMessages: [Projectile_C_66] Enemy5
+[2021.05.25-05.00.44:998][720]LogBlueprintUserMessages: [Projectile_C_66] Enemy5
+[2021.05.25-05.00.44:998][720]LogBlueprintUserMessages: [Projectile_C_66] Enemy5
+[2021.05.25-05.00.45:050][721]LogBlueprintUserMessages: [Projectile_C_66] Enemy5
+[2021.05.25-05.00.45:050][721]LogBlueprintUserMessages: [Projectile_C_66] Enemy5
+[2021.05.25-05.00.45:096][722]LogBlueprintUserMessages: [Projectile_C_66] Enemy5
+[2021.05.25-05.00.45:140][723]LogBlueprintUserMessages: [Projectile_C_66] Enemy5
+[2021.05.25-05.00.45:186][724]LogBlueprintUserMessages: [Projectile_C_70] Enemy4
+[2021.05.25-05.00.45:285][726]LogBlueprintUserMessages: [Projectile_C_69] Floor
+[2021.05.25-05.00.45:286][726]LogBlueprintUserMessages: [Projectile_C_72] Floor
+[2021.05.25-05.00.45:289][726]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.45:290][726]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.45:429][729]LogBlueprintUserMessages: [Projectile_C_67] Floor
+[2021.05.25-05.00.45:480][730]LogBlueprintUserMessages: [Projectile_C_71] Floor
+[2021.05.25-05.00.45:533][731]LogBlueprintUserMessages: [Projectile_C_68] Floor
+[2021.05.25-05.00.45:583][732]LogBlueprintUserMessages: [Projectile_C_73] Floor
+[2021.05.25-05.00.45:628][733]LogBlueprintUserMessages: [Projectile_C_74] Enemy7
+[2021.05.25-05.00.45:629][733]LogBlueprintUserMessages: [Projectile_C_75] Enemy7
+[2021.05.25-05.00.45:831][737]LogBlueprintUserMessages: [Projectile_C_74] Enemy1
+[2021.05.25-05.00.45:832][737]LogBlueprintUserMessages: [Projectile_C_74] Enemy1
+[2021.05.25-05.00.45:880][738]LogBlueprintUserMessages: [Projectile_C_77] Enemy7
+[2021.05.25-05.00.46:030][741]LogBlueprintUserMessages: [Projectile_C_77] Enemy1
+[2021.05.25-05.00.46:080][742]LogBlueprintUserMessages: [Projectile_C_77] Enemy1
+[2021.05.25-05.00.46:082][742]LogBlueprintUserMessages: [Projectile_C_76] Floor
+[2021.05.25-05.00.46:083][742]LogBlueprintUserMessages: [Projectile_C_78] Enemy7
+[2021.05.25-05.00.46:130][743]LogBlueprintUserMessages: [Projectile_C_77] Enemy1
+[2021.05.25-05.00.46:174][744]LogBlueprintUserMessages: [Projectile_C_78] Enemy3
+[2021.05.25-05.00.46:175][744]LogBlueprintUserMessages: [Projectile_C_77] Enemy1
+[2021.05.25-05.00.46:230][745]LogBlueprintUserMessages: [Projectile_C_78] Enemy3
+[2021.05.25-05.00.46:230][745]LogBlueprintUserMessages: [Projectile_C_78] Enemy3
+[2021.05.25-05.00.46:275][746]LogBlueprintUserMessages: [Projectile_C_78] Enemy3
+[2021.05.25-05.00.46:275][746]LogBlueprintUserMessages: [Projectile_C_78] Enemy3
+[2021.05.25-05.00.46:276][746]LogBlueprintUserMessages: [Projectile_C_79] Enemy7
+[2021.05.25-05.00.46:322][747]LogBlueprintUserMessages: [Projectile_C_78] Enemy3
+[2021.05.25-05.00.46:322][747]LogBlueprintUserMessages: [Projectile_C_78] Enemy3
+[2021.05.25-05.00.46:327][747]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.46:327][747]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.46:370][748]LogBlueprintUserMessages: [Projectile_C_78] Enemy3
+[2021.05.25-05.00.46:371][748]LogBlueprintUserMessages: [Projectile_C_79] Enemy4
+[2021.05.25-05.00.46:372][748]LogBlueprintUserMessages: [Projectile_C_80] Enemy7
+[2021.05.25-05.00.46:372][748]LogBlueprintUserMessages: [Projectile_C_80] Enemy7
+[2021.05.25-05.00.46:424][749]LogBlueprintUserMessages: [Projectile_C_79] Enemy4
+[2021.05.25-05.00.46:468][750]LogBlueprintUserMessages: [Projectile_C_79] Enemy4
+[2021.05.25-05.00.46:469][750]LogBlueprintUserMessages: [Projectile_C_82] Enemy7
+[2021.05.25-05.00.46:470][750]LogBlueprintUserMessages: [Projectile_C_81] Projectile82
+[2021.05.25-05.00.46:470][750]LogBlueprintUserMessages: [Projectile_C_82] Projectile81
+[2021.05.25-05.00.46:519][751]LogBlueprintUserMessages: [Projectile_C_79] Enemy3
+[2021.05.25-05.00.46:519][751]LogBlueprintUserMessages: [Projectile_C_79] Enemy3
+[2021.05.25-05.00.46:520][751]LogBlueprintUserMessages: [Projectile_C_86] Projectile83
+[2021.05.25-05.00.46:520][751]LogBlueprintUserMessages: [Projectile_C_83] Projectile86
+[2021.05.25-05.00.46:567][752]LogBlueprintUserMessages: [Projectile_C_79] Enemy3
+[2021.05.25-05.00.46:612][753]LogBlueprintUserMessages: [Projectile_C_80] Enemy4
+[2021.05.25-05.00.46:716][755]LogBlueprintUserMessages: [Projectile_C_82] Enemy4
+[2021.05.25-05.00.46:718][755]LogBlueprintUserMessages: [Projectile_C_83] Enemy7
+[2021.05.25-05.00.46:763][756]LogBlueprintUserMessages: [Projectile_C_84] Enemy7
+[2021.05.25-05.00.46:863][758]LogBlueprintUserMessages: [Projectile_C_85] Enemy7
+[2021.05.25-05.00.46:911][759]LogBlueprintUserMessages: [Projectile_C_85] Enemy7
+[2021.05.25-05.00.46:911][759]LogBlueprintUserMessages: [Projectile_C_85] Enemy7
+[2021.05.25-05.00.47:063][762]LogBlueprintUserMessages: [Projectile_C_91] Projectile88
+[2021.05.25-05.00.47:063][762]LogBlueprintUserMessages: [Projectile_C_88] Projectile91
+[2021.05.25-05.00.47:109][763]LogBlueprintUserMessages: [Projectile_C_85] Enemy4
+[2021.05.25-05.00.47:110][763]LogBlueprintUserMessages: [Projectile_C_87] Enemy7
+[2021.05.25-05.00.47:156][764]LogBlueprintUserMessages: [Projectile_C_85] Enemy4
+[2021.05.25-05.00.47:157][764]LogBlueprintUserMessages: [Projectile_C_88] Projectile89
+[2021.05.25-05.00.47:157][764]LogBlueprintUserMessages: [Projectile_C_89] Projectile88
+[2021.05.25-05.00.47:204][765]LogBlueprintUserMessages: [Projectile_C_91] Enemy6
+[2021.05.25-05.00.47:204][765]LogBlueprintUserMessages: [Projectile_C_91] Enemy6
+[2021.05.25-05.00.47:253][766]LogBlueprintUserMessages: [Projectile_C_88] Enemy
+[2021.05.25-05.00.47:254][766]LogBlueprintUserMessages: [Projectile_C_91] Enemy6
+[2021.05.25-05.00.47:254][766]LogBlueprintUserMessages: [Projectile_C_91] Enemy6
+[2021.05.25-05.00.47:255][766]LogBlueprintUserMessages: [Projectile_C_89] Projectile90
+[2021.05.25-05.00.47:255][766]LogBlueprintUserMessages: [Projectile_C_90] Projectile89
+[2021.05.25-05.00.47:302][767]LogBlueprintUserMessages: [Projectile_C_88] Enemy
+[2021.05.25-05.00.47:302][767]LogBlueprintUserMessages: [Projectile_C_88] Enemy
+[2021.05.25-05.00.47:303][767]LogBlueprintUserMessages: [Projectile_C_91] Enemy6
+[2021.05.25-05.00.47:303][767]LogBlueprintUserMessages: [Projectile_C_91] Enemy6
+[2021.05.25-05.00.47:349][768]LogBlueprintUserMessages: [Projectile_C_88] Enemy
+[2021.05.25-05.00.47:350][768]LogBlueprintUserMessages: [Projectile_C_91] Enemy6
+[2021.05.25-05.00.47:351][768]LogBlueprintUserMessages: [Projectile_C_91] Enemy6
+[2021.05.25-05.00.47:353][768]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.47:353][768]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.47:403][769]LogBlueprintUserMessages: [Projectile_C_95] Player
+[2021.05.25-05.00.47:447][770]LogBlueprintUserMessages: [Projectile_C_90] Floor
+[2021.05.25-05.00.47:501][771]LogBlueprintUserMessages: [Projectile_C_97] Player
+[2021.05.25-05.00.47:548][772]LogBlueprintUserMessages: [Projectile_C_92] Enemy7
+[2021.05.25-05.00.47:601][773]LogBlueprintUserMessages: [Projectile_C_93] Enemy7
+[2021.05.25-05.00.47:653][774]LogBlueprintUserMessages: [Projectile_C_99] Projectile98
+[2021.05.25-05.00.47:654][774]LogBlueprintUserMessages: [Projectile_C_98] Projectile99
+[2021.05.25-05.00.47:888][778]LogBlueprintUserMessages: [Projectile_C_94] Floor
+[2021.05.25-05.00.48:049][782]LogBlueprintUserMessages: [Projectile_C_96] Projectile94
+[2021.05.25-05.00.48:049][782]LogBlueprintUserMessages: [Projectile_C_94] Projectile96
+[2021.05.25-05.00.48:382][789]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.48:382][789]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.48:428][790]LogBlueprintUserMessages: [Projectile_C_101] Floor
+[2021.05.25-05.00.48:535][792]LogBlueprintUserMessages: [Projectile_C_102] Enemy1
+[2021.05.25-05.00.48:627][794]LogBlueprintUserMessages: [Projectile_C_100] Floor
+[2021.05.25-05.00.48:726][796]LogBlueprintUserMessages: [Projectile_C_102] Enemy3
+[2021.05.25-05.00.48:726][796]LogBlueprintUserMessages: [Projectile_C_102] Enemy3
+[2021.05.25-05.00.48:726][796]LogBlueprintUserMessages: [Projectile_C_102] Enemy3
+[2021.05.25-05.00.48:726][796]LogBlueprintUserMessages: [Projectile_C_102] Enemy3
+[2021.05.25-05.00.48:774][797]LogBlueprintUserMessages: [Projectile_C_102] Enemy3
+[2021.05.25-05.00.48:775][797]LogBlueprintUserMessages: [Projectile_C_103] Enemy1
+[2021.05.25-05.00.48:776][797]LogBlueprintUserMessages: [Projectile_C_103] Enemy1
+[2021.05.25-05.00.48:822][798]LogBlueprintUserMessages: [Projectile_C_103] Enemy1
+[2021.05.25-05.00.48:823][798]LogBlueprintUserMessages: [Projectile_C_102] Enemy4
+[2021.05.25-05.00.48:823][798]LogBlueprintUserMessages: [Projectile_C_102] Enemy4
+[2021.05.25-05.00.48:962][801]LogBlueprintUserMessages: [Projectile_C_103] Enemy
+[2021.05.25-05.00.48:962][801]LogBlueprintUserMessages: [Projectile_C_103] Enemy
+[2021.05.25-05.00.48:963][801]LogBlueprintUserMessages: [Projectile_C_103] Enemy3
+[2021.05.25-05.00.48:964][801]LogBlueprintUserMessages: [Projectile_C_104] Enemy7
+[2021.05.25-05.00.49:010][802]LogBlueprintUserMessages: [Projectile_C_103] Enemy
+[2021.05.25-05.00.49:010][802]LogBlueprintUserMessages: [Projectile_C_103] Enemy
+[2021.05.25-05.00.49:010][802]LogBlueprintUserMessages: [Projectile_C_103] Enemy3
+[2021.05.25-05.00.49:010][802]LogBlueprintUserMessages: [Projectile_C_104] Enemy1
+[2021.05.25-05.00.49:011][802]LogBlueprintUserMessages: [Projectile_C_104] Enemy7
+[2021.05.25-05.00.49:059][803]LogBlueprintUserMessages: [Projectile_C_103] Enemy
+[2021.05.25-05.00.49:059][803]LogBlueprintUserMessages: [Projectile_C_103] Enemy
+[2021.05.25-05.00.49:059][803]LogBlueprintUserMessages: [Projectile_C_103] Enemy3
+[2021.05.25-05.00.49:060][803]LogBlueprintUserMessages: [Projectile_C_104] Enemy1
+[2021.05.25-05.00.49:106][804]LogBlueprintUserMessages: [Projectile_C_105] Enemy7
+[2021.05.25-05.00.49:156][805]LogBlueprintUserMessages: [Projectile_C_105] Enemy7
+[2021.05.25-05.00.49:156][805]LogBlueprintUserMessages: [Projectile_C_105] Enemy7
+[2021.05.25-05.00.49:210][806]LogBlueprintUserMessages: [Projectile_C_105] Enemy7
+[2021.05.25-05.00.49:210][806]LogBlueprintUserMessages: [Projectile_C_105] Enemy7
+[2021.05.25-05.00.49:259][807]LogBlueprintUserMessages: [Projectile_C_105] Enemy7
+[2021.05.25-05.00.49:260][807]LogBlueprintUserMessages: [Projectile_C_106] Enemy8
+[2021.05.25-05.00.49:303][808]LogBlueprintUserMessages: [Projectile_C_105] Enemy1
+[2021.05.25-05.00.49:357][809]LogBlueprintUserMessages: [Projectile_C_105] Enemy1
+[2021.05.25-05.00.49:358][809]LogBlueprintUserMessages: [Projectile_C_106] Enemy5
+[2021.05.25-05.00.49:400][810]LogBlueprintUserMessages: [Projectile_C_107] Enemy8
+[2021.05.25-05.00.49:401][810]LogBlueprintUserMessages: [Projectile_C_106] Enemy5
+[2021.05.25-05.00.49:401][810]LogBlueprintUserMessages: [Projectile_C_106] Enemy5
+[2021.05.25-05.00.49:405][810]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.49:405][810]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.49:452][811]LogBlueprintUserMessages: [Projectile_C_106] Enemy
+[2021.05.25-05.00.49:501][812]LogBlueprintUserMessages: [Projectile_C_106] Enemy
+[2021.05.25-05.00.49:554][813]LogBlueprintUserMessages: [Projectile_C_106] Enemy
+[2021.05.25-05.00.49:554][813]LogBlueprintUserMessages: [Projectile_C_106] Enemy
+[2021.05.25-05.00.49:567][813]LogBlueprintUserMessages: [Projectile_C_116] Enemy4
+[2021.05.25-05.00.49:611][814]LogBlueprintUserMessages: [Projectile_C_113] Projectile111
+[2021.05.25-05.00.49:612][814]LogBlueprintUserMessages: [Projectile_C_111] Projectile113
+[2021.05.25-05.00.49:612][814]LogBlueprintUserMessages: [Projectile_C_108] Floor
+[2021.05.25-05.00.49:612][814]LogBlueprintUserMessages: [Projectile_C_111] Projectile112
+[2021.05.25-05.00.49:612][814]LogBlueprintUserMessages: [Projectile_C_112] Projectile111
+[2021.05.25-05.00.49:677][815]LogBlueprintUserMessages: [Projectile_C_109] Floor
+[2021.05.25-05.00.49:724][816]LogBlueprintUserMessages: [Projectile_C_111] Enemy8
+[2021.05.25-05.00.49:724][816]LogBlueprintUserMessages: [Projectile_C_111] Enemy8
+[2021.05.25-05.00.49:724][816]LogBlueprintUserMessages: [Projectile_C_113] Enemy5
+[2021.05.25-05.00.49:793][817]LogBlueprintUserMessages: [Projectile_C_113] Enemy2
+[2021.05.25-05.00.49:793][817]LogBlueprintUserMessages: [Projectile_C_111] Enemy8
+[2021.05.25-05.00.49:793][817]LogBlueprintUserMessages: [Projectile_C_111] Enemy8
+[2021.05.25-05.00.49:795][817]LogBlueprintUserMessages: [Projectile_C_113] Enemy5
+[2021.05.25-05.00.49:795][817]LogBlueprintUserMessages: [Projectile_C_113] Enemy5
+[2021.05.25-05.00.49:798][817]LogBlueprintUserMessages: [Projectile_C_110] Floor
+[2021.05.25-05.00.49:844][818]LogBlueprintUserMessages: [Projectile_C_113] Enemy2
+[2021.05.25-05.00.49:844][818]LogBlueprintUserMessages: [Projectile_C_111] Enemy8
+[2021.05.25-05.00.49:845][818]LogBlueprintUserMessages: [Projectile_C_111] Enemy8
+[2021.05.25-05.00.49:847][818]LogBlueprintUserMessages: [Projectile_C_111] Enemy5
+[2021.05.25-05.00.49:847][818]LogBlueprintUserMessages: [Projectile_C_113] Enemy5
+[2021.05.25-05.00.49:850][818]LogBlueprintUserMessages: [Projectile_C_112] Floor
+[2021.05.25-05.00.49:889][819]LogBlueprintUserMessages: [Projectile_C_111] Enemy8
+[2021.05.25-05.00.49:890][819]LogBlueprintUserMessages: [Projectile_C_111] Enemy5
+[2021.05.25-05.00.49:890][819]LogBlueprintUserMessages: [Projectile_C_113] Enemy5
+[2021.05.25-05.00.50:052][822]LogBlueprintUserMessages: [Projectile_C_114] Floor
+[2021.05.25-05.00.50:053][822]LogBlueprintUserMessages: [Projectile_C_115] Floor
+[2021.05.25-05.00.50:213][826]LogBlueprintUserMessages: [Projectile_C_119] Floor
+[2021.05.25-05.00.50:311][828]LogBlueprintUserMessages: [Projectile_C_122] Projectile123
+[2021.05.25-05.00.50:312][828]LogBlueprintUserMessages: [Projectile_C_123] Projectile122
+[2021.05.25-05.00.50:366][829]LogBlueprintUserMessages: [Projectile_C_121] Floor
+[2021.05.25-05.00.50:367][829]LogBlueprintUserMessages: [Projectile_C_117] Floor
+[2021.05.25-05.00.50:419][830]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.50:420][830]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.50:464][831]LogBlueprintUserMessages: [Projectile_C_124] Floor
+[2021.05.25-05.00.50:510][832]LogBlueprintUserMessages: [Projectile_C_120] Floor
+[2021.05.25-05.00.50:523][832]LogBlueprintUserMessages: [Projectile_C_131] Projectile132
+[2021.05.25-05.00.50:523][832]LogBlueprintUserMessages: [Projectile_C_132] Projectile131
+[2021.05.25-05.00.50:561][833]LogBlueprintUserMessages: [Projectile_C_128] Floor
+[2021.05.25-05.00.50:612][834]LogBlueprintUserMessages: [Projectile_C_127] Enemy2
+[2021.05.25-05.00.50:612][834]LogBlueprintUserMessages: [Projectile_C_130] Player
+[2021.05.25-05.00.50:613][834]LogBlueprintUserMessages: [Projectile_C_118] Floor
+[2021.05.25-05.00.50:613][834]LogBlueprintUserMessages: [Projectile_C_126] Enemy2
+[2021.05.25-05.00.50:673][835]LogBlueprintUserMessages: [Projectile_C_126] Enemy2
+[2021.05.25-05.00.50:723][836]LogBlueprintUserMessages: [Projectile_C_127] Enemy3
+[2021.05.25-05.00.50:723][836]LogBlueprintUserMessages: [Projectile_C_127] Enemy3
+[2021.05.25-05.00.50:728][836]LogBlueprintUserMessages: [Projectile_C_133] Projectile132
+[2021.05.25-05.00.50:729][836]LogBlueprintUserMessages: [Projectile_C_132] Projectile133
+[2021.05.25-05.00.50:785][837]LogBlueprintUserMessages: [Projectile_C_127] Enemy3
+[2021.05.25-05.00.50:786][837]LogBlueprintUserMessages: [Projectile_C_127] Enemy8
+[2021.05.25-05.00.50:786][837]LogBlueprintUserMessages: [Projectile_C_126] Enemy8
+[2021.05.25-05.00.50:791][837]LogBlueprintUserMessages: [Projectile_C_135] Player
+[2021.05.25-05.00.50:836][838]LogBlueprintUserMessages: [Projectile_C_127] Enemy5
+[2021.05.25-05.00.50:872][839]LogBlueprintUserMessages: [Projectile_C_127] Enemy5
+[2021.05.25-05.00.50:874][839]LogBlueprintUserMessages: [Projectile_C_125] Floor
+[2021.05.25-05.00.50:920][840]LogBlueprintUserMessages: [Projectile_C_129] Floor
+[2021.05.25-05.00.51:014][842]LogBlueprintUserMessages: [Projectile_C_136] Projectile134
+[2021.05.25-05.00.51:014][842]LogBlueprintUserMessages: [Projectile_C_134] Projectile136
+[2021.05.25-05.00.51:015][842]LogBlueprintUserMessages: [Projectile_C_134] Projectile137
+[2021.05.25-05.00.51:015][842]LogBlueprintUserMessages: [Projectile_C_137] Projectile134
+[2021.05.25-05.00.51:055][843]LogBlueprintUserMessages: [Projectile_C_137] Projectile135
+[2021.05.25-05.00.51:055][843]LogBlueprintUserMessages: [Projectile_C_135] Projectile137
+[2021.05.25-05.00.51:204][846]LogBlueprintUserMessages: [Projectile_C_137] Enemy10
+[2021.05.25-05.00.51:404][850]LogBlueprintUserMessages: [Projectile_C_139] Player
+[2021.05.25-05.00.51:461][851]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.51:461][851]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.51:561][853]LogBlueprintUserMessages: [Projectile_C_145] Enemy2
+[2021.05.25-05.00.51:607][854]LogBlueprintUserMessages: [Projectile_C_138] Floor
+[2021.05.25-05.00.51:670][855]LogBlueprintUserMessages: [Projectile_C_145] Enemy8
+[2021.05.25-05.00.51:679][855]LogBlueprintUserMessages: [Projectile_C_141] Projectile143
+[2021.05.25-05.00.51:680][855]LogBlueprintUserMessages: [Projectile_C_143] Projectile141
+[2021.05.25-05.00.51:739][856]LogBlueprintUserMessages: [Projectile_C_144] Projectile141
+[2021.05.25-05.00.51:740][856]LogBlueprintUserMessages: [Projectile_C_141] Projectile144
+[2021.05.25-05.00.51:740][856]LogBlueprintUserMessages: [Projectile_C_143] Floor
+[2021.05.25-05.00.51:740][856]LogBlueprintUserMessages: [Projectile_C_140] Floor
+[2021.05.25-05.00.51:885][859]LogBlueprintUserMessages: [Projectile_C_147] Enemy11
+[2021.05.25-05.00.51:886][859]LogBlueprintUserMessages: [Projectile_C_147] Enemy11
+[2021.05.25-05.00.51:887][859]LogBlueprintUserMessages: [Projectile_C_147] Enemy11
+[2021.05.25-05.00.51:888][859]LogBlueprintUserMessages: [Projectile_C_151] Projectile152
+[2021.05.25-05.00.51:888][859]LogBlueprintUserMessages: [Projectile_C_152] Projectile151
+[2021.05.25-05.00.51:931][860]LogBlueprintUserMessages: [Projectile_C_147] Enemy11
+[2021.05.25-05.00.51:934][860]LogBlueprintUserMessages: [Projectile_C_146] Projectile147
+[2021.05.25-05.00.51:934][860]LogBlueprintUserMessages: [Projectile_C_147] Projectile146
+[2021.05.25-05.00.51:983][861]LogBlueprintUserMessages: [Projectile_C_147] Enemy11
+[2021.05.25-05.00.51:984][861]LogBlueprintUserMessages: [Projectile_C_142] Floor
+[2021.05.25-05.00.52:037][862]LogBlueprintUserMessages: [Projectile_C_147] Enemy11
+[2021.05.25-05.00.52:089][863]LogBlueprintUserMessages: [Projectile_C_147] Enemy11
+[2021.05.25-05.00.52:090][863]LogBlueprintUserMessages: [Projectile_C_147] Enemy11
+[2021.05.25-05.00.52:128][864]LogBlueprintUserMessages: [Projectile_C_147] Enemy11
+[2021.05.25-05.00.52:129][864]LogBlueprintUserMessages: [Projectile_C_150] Floor
+[2021.05.25-05.00.52:185][865]LogBlueprintUserMessages: [Projectile_C_146] Enemy11
+[2021.05.25-05.00.52:230][866]LogBlueprintUserMessages: [Projectile_C_146] Enemy11
+[2021.05.25-05.00.52:326][868]LogBlueprintUserMessages: [Projectile_C_153] Floor
+[2021.05.25-05.00.52:378][869]LogBlueprintUserMessages: [Projectile_C_148] Floor
+[2021.05.25-05.00.52:380][869]LogBlueprintUserMessages: [Projectile_C_149] Floor
+[2021.05.25-05.00.52:484][871]LogBlueprintUserMessages: [Projectile_C_155] Floor
+[2021.05.25-05.00.52:488][871]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.52:488][871]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.52:601][873]LogBlueprintUserMessages: [Projectile_C_159] Player
+[2021.05.25-05.00.52:793][877]LogBlueprintUserMessages: [Projectile_C_154] Floor
+[2021.05.25-05.00.52:889][879]LogBlueprintUserMessages: [Projectile_C_158] Projectile159
+[2021.05.25-05.00.52:889][879]LogBlueprintUserMessages: [Projectile_C_159] Projectile158
+[2021.05.25-05.00.52:939][880]LogBlueprintUserMessages: [Projectile_C_162] Enemy6
+[2021.05.25-05.00.52:940][880]LogBlueprintUserMessages: [Projectile_C_162] Enemy6
+[2021.05.25-05.00.52:940][880]LogBlueprintUserMessages: [Projectile_C_162] Enemy6
+[2021.05.25-05.00.52:940][880]LogBlueprintUserMessages: [Projectile_C_162] Enemy6
+[2021.05.25-05.00.53:043][882]LogBlueprintUserMessages: [Projectile_C_158] Enemy4
+[2021.05.25-05.00.53:098][883]LogBlueprintUserMessages: [Projectile_C_162] Enemy4
+[2021.05.25-05.00.53:099][883]LogBlueprintUserMessages: [Projectile_C_158] Enemy10
+[2021.05.25-05.00.53:099][883]LogBlueprintUserMessages: [Projectile_C_158] Enemy10
+[2021.05.25-05.00.53:100][883]LogBlueprintUserMessages: [Projectile_C_162] Enemy4
+[2021.05.25-05.00.53:142][884]LogBlueprintUserMessages: [Projectile_C_162] Enemy4
+[2021.05.25-05.00.53:142][884]LogBlueprintUserMessages: [Projectile_C_162] Enemy4
+[2021.05.25-05.00.53:143][884]LogBlueprintUserMessages: [Projectile_C_158] Enemy10
+[2021.05.25-05.00.53:197][885]LogBlueprintUserMessages: [Projectile_C_162] Enemy9
+[2021.05.25-05.00.53:197][885]LogBlueprintUserMessages: [Projectile_C_162] Enemy9
+[2021.05.25-05.00.53:198][885]LogBlueprintUserMessages: [Projectile_C_163] Projectile166
+[2021.05.25-05.00.53:198][885]LogBlueprintUserMessages: [Projectile_C_166] Projectile163
+[2021.05.25-05.00.53:199][885]LogBlueprintUserMessages: [Projectile_C_156] Floor
+[2021.05.25-05.00.53:199][885]LogBlueprintUserMessages: [Projectile_C_167] Projectile165
+[2021.05.25-05.00.53:199][885]LogBlueprintUserMessages: [Projectile_C_165] Projectile167
+[2021.05.25-05.00.53:249][886]LogBlueprintUserMessages: [Projectile_C_164] Projectile163
+[2021.05.25-05.00.53:249][886]LogBlueprintUserMessages: [Projectile_C_163] Projectile164
+[2021.05.25-05.00.53:249][886]LogBlueprintUserMessages: [Projectile_C_169] Projectile167
+[2021.05.25-05.00.53:249][886]LogBlueprintUserMessages: [Projectile_C_167] Projectile169
+[2021.05.25-05.00.53:302][887]LogBlueprintUserMessages: [Projectile_C_157] Floor
+[2021.05.25-05.00.53:302][887]LogBlueprintUserMessages: [Projectile_C_165] Enemy12
+[2021.05.25-05.00.53:302][887]LogBlueprintUserMessages: [Projectile_C_168] Projectile170
+[2021.05.25-05.00.53:302][887]LogBlueprintUserMessages: [Projectile_C_170] Projectile168
+[2021.05.25-05.00.53:344][888]LogBlueprintUserMessages: [Projectile_C_161] Floor
+[2021.05.25-05.00.53:344][888]LogBlueprintUserMessages: [Projectile_C_166] Floor
+[2021.05.25-05.00.53:344][888]LogBlueprintUserMessages: [Projectile_C_173] Projectile168
+[2021.05.25-05.00.53:344][888]LogBlueprintUserMessages: [Projectile_C_168] Projectile173
+[2021.05.25-05.00.53:391][889]LogBlueprintUserMessages: [Projectile_C_169] Enemy1
+[2021.05.25-05.00.53:391][889]LogBlueprintUserMessages: [Projectile_C_169] Enemy1
+[2021.05.25-05.00.53:392][889]LogBlueprintUserMessages: [Projectile_C_172] Projectile171
+[2021.05.25-05.00.53:392][889]LogBlueprintUserMessages: [Projectile_C_171] Projectile172
+[2021.05.25-05.00.53:435][890]LogBlueprintUserMessages: [Projectile_C_169] Enemy1
+[2021.05.25-05.00.53:436][890]LogBlueprintUserMessages: [Projectile_C_169] Enemy1
+[2021.05.25-05.00.53:440][890]LogBlueprintUserMessages: [Projectile_C_160] Floor
+[2021.05.25-05.00.53:481][891]LogBlueprintUserMessages: [Projectile_C_169] Enemy1
+[2021.05.25-05.00.53:481][891]LogBlueprintUserMessages: [Projectile_C_169] Enemy1
+[2021.05.25-05.00.53:482][891]LogBlueprintUserMessages: [Projectile_C_165] Enemy4
+[2021.05.25-05.00.53:482][891]LogBlueprintUserMessages: [Projectile_C_169] Enemy6
+[2021.05.25-05.00.53:483][891]LogBlueprintUserMessages: [Projectile_C_169] Enemy6
+[2021.05.25-05.00.53:489][891]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.53:489][891]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.53:541][892]LogBlueprintUserMessages: [Projectile_C_169] Enemy1
+[2021.05.25-05.00.53:541][892]LogBlueprintUserMessages: [Projectile_C_169] Enemy1
+[2021.05.25-05.00.53:542][892]LogBlueprintUserMessages: [Projectile_C_169] Enemy6
+[2021.05.25-05.00.53:542][892]LogBlueprintUserMessages: [Projectile_C_168] Enemy6
+[2021.05.25-05.00.53:542][892]LogBlueprintUserMessages: [Projectile_C_168] Enemy6
+[2021.05.25-05.00.53:542][892]LogBlueprintUserMessages: [Projectile_C_169] Enemy6
+[2021.05.25-05.00.53:543][892]LogBlueprintUserMessages: [Projectile_C_170] Player
+[2021.05.25-05.00.53:552][892]LogBlueprintUserMessages: [Projectile_C_176] Projectile177
+[2021.05.25-05.00.53:552][892]LogBlueprintUserMessages: [Projectile_C_177] Projectile176
+[2021.05.25-05.00.53:604][893]LogBlueprintUserMessages: [Projectile_C_168] Enemy6
+[2021.05.25-05.00.53:605][893]LogBlueprintUserMessages: [Projectile_C_168] Enemy6
+[2021.05.25-05.00.53:664][894]LogBlueprintUserMessages: [Projectile_C_173] Enemy5
+[2021.05.25-05.00.53:665][894]LogBlueprintUserMessages: [Projectile_C_173] Enemy5
+[2021.05.25-05.00.54:002][901]LogBlueprintUserMessages: [Projectile_C_175] Floor
+[2021.05.25-05.00.54:045][902]LogBlueprintUserMessages: [Projectile_C_174] Floor
+[2021.05.25-05.00.54:459][911]LogBlueprintUserMessages: [Projectile_C_178] Enemy12
+[2021.05.25-05.00.54:505][912]LogBlueprintUserMessages: [Projectile_C_178] Enemy4
+[2021.05.25-05.00.54:506][912]LogBlueprintUserMessages: [Projectile_C_179] Enemy5
+[2021.05.25-05.00.54:507][912]LogBlueprintUserMessages: [Projectile_C_178] Enemy12
+[2021.05.25-05.00.54:509][912]LogBlueprintUserMessages: [Projectile_C_184] Projectile181
+[2021.05.25-05.00.54:509][912]LogBlueprintUserMessages: [Projectile_C_181] Projectile184
+[2021.05.25-05.00.54:509][912]LogBlueprintUserMessages: [Projectile_C_179] Enemy5
+[2021.05.25-05.00.54:515][912]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.54:515][912]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.54:561][913]LogBlueprintUserMessages: [Projectile_C_178] Enemy4
+[2021.05.25-05.00.54:562][913]LogBlueprintUserMessages: [Projectile_C_179] Enemy5
+[2021.05.25-05.00.54:565][913]LogBlueprintUserMessages: [Projectile_C_180] Enemy4
+[2021.05.25-05.00.54:609][914]LogBlueprintUserMessages: [Projectile_C_180] Enemy4
+[2021.05.25-05.00.54:610][914]LogBlueprintUserMessages: [Projectile_C_178] Enemy4
+[2021.05.25-05.00.54:610][914]LogBlueprintUserMessages: [Projectile_C_178] Enemy4
+[2021.05.25-05.00.54:610][914]LogBlueprintUserMessages: [Projectile_C_180] Enemy4
+[2021.05.25-05.00.54:611][914]LogBlueprintUserMessages: [Projectile_C_179] Enemy6
+[2021.05.25-05.00.54:613][914]LogBlueprintUserMessages: [Projectile_C_185] Projectile184
+[2021.05.25-05.00.54:613][914]LogBlueprintUserMessages: [Projectile_C_184] Projectile185
+[2021.05.25-05.00.54:613][914]LogBlueprintUserMessages: [Projectile_C_182] Projectile186
+[2021.05.25-05.00.54:614][914]LogBlueprintUserMessages: [Projectile_C_186] Projectile182
+[2021.05.25-05.00.54:674][915]LogBlueprintUserMessages: [Projectile_C_180] Enemy4
+[2021.05.25-05.00.54:675][915]LogBlueprintUserMessages: [Projectile_C_178] Enemy4
+[2021.05.25-05.00.54:675][915]LogBlueprintUserMessages: [Projectile_C_179] Enemy5
+[2021.05.25-05.00.54:676][915]LogBlueprintUserMessages: [Projectile_C_179] Enemy5
+[2021.05.25-05.00.54:677][915]LogBlueprintUserMessages: [Projectile_C_179] Enemy6
+[2021.05.25-05.00.54:677][915]LogBlueprintUserMessages: [Projectile_C_179] Enemy6
+[2021.05.25-05.00.54:741][916]LogBlueprintUserMessages: [Projectile_C_187] Enemy3
+[2021.05.25-05.00.54:742][916]LogBlueprintUserMessages: [Projectile_C_187] Enemy3
+[2021.05.25-05.00.54:743][916]LogBlueprintUserMessages: [Projectile_C_180] Enemy4
+[2021.05.25-05.00.54:743][916]LogBlueprintUserMessages: [Projectile_C_178] Enemy4
+[2021.05.25-05.00.54:743][916]LogBlueprintUserMessages: [Projectile_C_179] Enemy5
+[2021.05.25-05.00.54:744][916]LogBlueprintUserMessages: [Projectile_C_179] Enemy6
+[2021.05.25-05.00.54:744][916]LogBlueprintUserMessages: [Projectile_C_179] Enemy6
+[2021.05.25-05.00.54:745][916]LogBlueprintUserMessages: [Projectile_C_187] Enemy3
+[2021.05.25-05.00.54:745][916]LogBlueprintUserMessages: [Projectile_C_181] Enemy12
+[2021.05.25-05.00.54:792][917]LogBlueprintUserMessages: [Projectile_C_180] Enemy4
+[2021.05.25-05.00.54:792][917]LogBlueprintUserMessages: [Projectile_C_180] Enemy4
+[2021.05.25-05.00.54:792][917]LogBlueprintUserMessages: [Projectile_C_179] Enemy5
+[2021.05.25-05.00.54:792][917]LogBlueprintUserMessages: [Projectile_C_179] Enemy5
+[2021.05.25-05.00.54:793][917]LogBlueprintUserMessages: [Projectile_C_179] Enemy6
+[2021.05.25-05.00.54:793][917]LogBlueprintUserMessages: [Projectile_C_179] Enemy6
+[2021.05.25-05.00.54:844][918]LogBlueprintUserMessages: [Projectile_C_180] Enemy4
+[2021.05.25-05.00.54:845][918]LogBlueprintUserMessages: [Projectile_C_183] Enemy12
+[2021.05.25-05.00.55:147][924]LogBlueprintUserMessages: [Projectile_C_188] Enemy12
+[2021.05.25-05.00.55:340][926]LogBlueprintUserMessages: [Projectile_C_193] Enemy12
+[2021.05.25-05.00.55:340][926]LogBlueprintUserMessages: [Projectile_C_192] Enemy
+[2021.05.25-05.00.55:340][926]LogBlueprintUserMessages: [Projectile_C_194] Projectile193
+[2021.05.25-05.00.55:340][926]LogBlueprintUserMessages: [Projectile_C_193] Projectile194
+[2021.05.25-05.00.55:390][927]LogBlueprintUserMessages: [Projectile_C_192] Enemy
+[2021.05.25-05.00.55:390][927]LogBlueprintUserMessages: [Projectile_C_193] Enemy12
+[2021.05.25-05.00.55:391][927]LogBlueprintUserMessages: [Projectile_C_190] Floor
+[2021.05.25-05.00.55:438][928]LogBlueprintUserMessages: [Projectile_C_194] Enemy
+[2021.05.25-05.00.55:438][928]LogBlueprintUserMessages: [Projectile_C_192] Enemy3
+[2021.05.25-05.00.55:438][928]LogBlueprintUserMessages: [Projectile_C_192] Enemy3
+[2021.05.25-05.00.55:439][928]LogBlueprintUserMessages: [Projectile_C_193] Enemy12
+[2021.05.25-05.00.55:439][928]LogBlueprintUserMessages: [Projectile_C_196] Projectile195
+[2021.05.25-05.00.55:439][928]LogBlueprintUserMessages: [Projectile_C_195] Projectile196
+[2021.05.25-05.00.55:493][929]LogBlueprintUserMessages: [Projectile_C_194] Enemy
+[2021.05.25-05.00.55:493][929]LogBlueprintUserMessages: [Projectile_C_194] Enemy
+[2021.05.25-05.00.55:494][929]LogBlueprintUserMessages: [Projectile_C_192] Enemy6
+[2021.05.25-05.00.55:497][929]LogBlueprintUserMessages: [Projectile_C_189] Floor
+[2021.05.25-05.00.55:499][929]LogBlueprintUserMessages: [Projectile_C_197] Projectile196
+[2021.05.25-05.00.55:500][929]LogBlueprintUserMessages: [Projectile_C_196] Projectile197
+[2021.05.25-05.00.55:539][930]LogBlueprintUserMessages: [Projectile_C_194] Enemy
+[2021.05.25-05.00.55:540][930]LogBlueprintUserMessages: [Projectile_C_192] Enemy
+[2021.05.25-05.00.55:541][930]LogBlueprintUserMessages: [Projectile_C_192] Enemy6
+[2021.05.25-05.00.55:543][930]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.55:544][930]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.55:592][931]LogBlueprintUserMessages: [Projectile_C_201] Player
+[2021.05.25-05.00.55:640][932]LogBlueprintUserMessages: [Projectile_C_196] Enemy12
+[2021.05.25-05.00.55:693][933]LogBlueprintUserMessages: [Projectile_C_196] Enemy12
+[2021.05.25-05.00.55:693][933]LogBlueprintUserMessages: [Projectile_C_196] Enemy12
+[2021.05.25-05.00.55:694][933]LogBlueprintUserMessages: [Projectile_C_191] Floor
+[2021.05.25-05.00.55:740][934]LogBlueprintUserMessages: [Projectile_C_196] Enemy12
+[2021.05.25-05.00.55:740][934]LogBlueprintUserMessages: [Projectile_C_196] Enemy12
+[2021.05.25-05.00.55:741][934]LogBlueprintUserMessages: [Projectile_C_203] Projectile204
+[2021.05.25-05.00.55:741][934]LogBlueprintUserMessages: [Projectile_C_204] Projectile203
+[2021.05.25-05.00.55:741][934]LogBlueprintUserMessages: [Projectile_C_204] Projectile202
+[2021.05.25-05.00.55:742][934]LogBlueprintUserMessages: [Projectile_C_202] Projectile204
+[2021.05.25-05.00.55:913][937]LogBlueprintUserMessages: [Projectile_C_208] Projectile206
+[2021.05.25-05.00.55:913][937]LogBlueprintUserMessages: [Projectile_C_206] Projectile208
+[2021.05.25-05.00.55:952][938]LogBlueprintUserMessages: [Projectile_C_204] Enemy3
+[2021.05.25-05.00.55:953][938]LogBlueprintUserMessages: [Projectile_C_198] Floor
+[2021.05.25-05.00.55:953][938]LogBlueprintUserMessages: [Projectile_C_209] Player
+[2021.05.25-05.00.56:001][939]LogBlueprintUserMessages: [Projectile_C_204] Enemy3
+[2021.05.25-05.00.56:002][939]LogBlueprintUserMessages: [Projectile_C_204] Enemy3
+[2021.05.25-05.00.56:003][939]LogBlueprintUserMessages: [Projectile_C_203] Enemy11
+[2021.05.25-05.00.56:104][941]LogBlueprintUserMessages: [Projectile_C_217] Player
+[2021.05.25-05.00.56:153][942]LogBlueprintUserMessages: [Projectile_C_214] Projectile211
+[2021.05.25-05.00.56:153][942]LogBlueprintUserMessages: [Projectile_C_211] Projectile214
+[2021.05.25-05.00.56:200][943]LogBlueprintUserMessages: [Projectile_C_199] Floor
+[2021.05.25-05.00.56:252][944]LogBlueprintUserMessages: [Projectile_C_200] Floor
+[2021.05.25-05.00.56:341][946]LogBlueprintUserMessages: [Projectile_C_205] Floor
+[2021.05.25-05.00.56:392][947]LogBlueprintUserMessages: [Projectile_C_216] Projectile217
+[2021.05.25-05.00.56:392][947]LogBlueprintUserMessages: [Projectile_C_217] Projectile216
+[2021.05.25-05.00.56:393][947]LogBlueprintUserMessages: [Projectile_C_210] Floor
+[2021.05.25-05.00.56:450][948]LogBlueprintUserMessages: [Projectile_C_219] Player
+[2021.05.25-05.00.56:505][949]LogBlueprintUserMessages: [Projectile_C_222] Projectile220
+[2021.05.25-05.00.56:505][949]LogBlueprintUserMessages: [Projectile_C_220] Projectile222
+[2021.05.25-05.00.56:505][949]LogBlueprintUserMessages: [Projectile_C_225] Projectile219
+[2021.05.25-05.00.56:505][949]LogBlueprintUserMessages: [Projectile_C_219] Projectile225
+[2021.05.25-05.00.56:505][949]LogBlueprintUserMessages: [Projectile_C_220] Projectile218
+[2021.05.25-05.00.56:505][949]LogBlueprintUserMessages: [Projectile_C_218] Projectile220
+[2021.05.25-05.00.56:505][949]LogBlueprintUserMessages: [Projectile_C_212] Floor
+[2021.05.25-05.00.56:506][949]LogBlueprintUserMessages: [Projectile_C_207] Floor
+[2021.05.25-05.00.56:506][949]LogBlueprintUserMessages: [Projectile_C_218] RangedEnemy9
+[2021.05.25-05.00.56:565][950]LogBlueprintUserMessages: [Projectile_C_228] Projectile224
+[2021.05.25-05.00.56:565][950]LogBlueprintUserMessages: [Projectile_C_224] Projectile228
+[2021.05.25-05.00.56:565][950]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.56:565][950]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.56:668][952]LogBlueprintUserMessages: [Projectile_C_222] Enemy2
+[2021.05.25-05.00.56:670][952]LogBlueprintUserMessages: [Projectile_C_224] Projectile226
+[2021.05.25-05.00.56:671][952]LogBlueprintUserMessages: [Projectile_C_226] Projectile224
+[2021.05.25-05.00.56:716][953]LogBlueprintUserMessages: [Projectile_C_222] Enemy2
+[2021.05.25-05.00.56:716][953]LogBlueprintUserMessages: [Projectile_C_222] Enemy2
+[2021.05.25-05.00.56:716][953]LogBlueprintUserMessages: [Projectile_C_222] Enemy2
+[2021.05.25-05.00.56:716][953]LogBlueprintUserMessages: [Projectile_C_222] Enemy2
+[2021.05.25-05.00.56:720][953]LogBlueprintUserMessages: [Projectile_C_223] Projectile224
+[2021.05.25-05.00.56:720][953]LogBlueprintUserMessages: [Projectile_C_224] Projectile223
+[2021.05.25-05.00.56:720][953]LogBlueprintUserMessages: [Projectile_C_221] Projectile219
+[2021.05.25-05.00.56:720][953]LogBlueprintUserMessages: [Projectile_C_219] Projectile221
+[2021.05.25-05.00.56:764][954]LogBlueprintUserMessages: [Projectile_C_222] Enemy2
+[2021.05.25-05.00.56:765][954]LogBlueprintUserMessages: [Projectile_C_222] Enemy2
+[2021.05.25-05.00.56:820][955]LogBlueprintUserMessages: [Projectile_C_230] Projectile232
+[2021.05.25-05.00.56:820][955]LogBlueprintUserMessages: [Projectile_C_232] Projectile230
+[2021.05.25-05.00.56:820][955]LogBlueprintUserMessages: [Projectile_C_213] Floor
+[2021.05.25-05.00.56:821][955]LogBlueprintUserMessages: [Projectile_C_229] Projectile231
+[2021.05.25-05.00.56:821][955]LogBlueprintUserMessages: [Projectile_C_231] Projectile229
+[2021.05.25-05.00.56:821][955]LogBlueprintUserMessages: [Projectile_C_226] Floor
+[2021.05.25-05.00.56:890][956]LogBlueprintUserMessages: [Projectile_C_215] Floor
+[2021.05.25-05.00.56:890][956]LogBlueprintUserMessages: [Projectile_C_235] Projectile230
+[2021.05.25-05.00.56:891][956]LogBlueprintUserMessages: [Projectile_C_230] Projectile235
+[2021.05.25-05.00.56:891][956]LogBlueprintUserMessages: [Projectile_C_231] Projectile232
+[2021.05.25-05.00.56:891][956]LogBlueprintUserMessages: [Projectile_C_232] Projectile231
+[2021.05.25-05.00.56:942][957]LogBlueprintUserMessages: [Projectile_C_221] Enemy8
+[2021.05.25-05.00.56:944][957]LogBlueprintUserMessages: [Projectile_C_238] Player
+[2021.05.25-05.00.56:988][958]LogBlueprintUserMessages: [Projectile_C_221] Enemy8
+[2021.05.25-05.00.56:988][958]LogBlueprintUserMessages: [Projectile_C_221] Enemy8
+[2021.05.25-05.00.57:048][959]LogBlueprintUserMessages: [Projectile_C_232] Floor
+[2021.05.25-05.00.57:109][960]LogBlueprintUserMessages: [Projectile_C_233] Projectile231
+[2021.05.25-05.00.57:109][960]LogBlueprintUserMessages: [Projectile_C_231] Projectile233
+[2021.05.25-05.00.57:109][960]LogBlueprintUserMessages: [Projectile_C_237] Projectile238
+[2021.05.25-05.00.57:109][960]LogBlueprintUserMessages: [Projectile_C_238] Projectile237
+[2021.05.25-05.00.57:200][962]LogBlueprintUserMessages: [Projectile_C_243] Player
+[2021.05.25-05.00.57:246][963]LogBlueprintUserMessages: [Projectile_C_233] Enemy8
+[2021.05.25-05.00.57:248][963]LogBlueprintUserMessages: [Projectile_C_239] Floor
+[2021.05.25-05.00.57:249][963]LogBlueprintUserMessages: [Projectile_C_227] Floor
+[2021.05.25-05.00.57:305][964]LogBlueprintUserMessages: [Projectile_C_233] Enemy8
+[2021.05.25-05.00.57:350][965]LogBlueprintUserMessages: [Projectile_C_233] Enemy8
+[2021.05.25-05.00.57:399][966]LogBlueprintUserMessages: [Projectile_C_245] Projectile242
+[2021.05.25-05.00.57:399][966]LogBlueprintUserMessages: [Projectile_C_242] Projectile245
+[2021.05.25-05.00.57:399][966]LogBlueprintUserMessages: [Projectile_C_234] Floor
+[2021.05.25-05.00.57:445][967]LogBlueprintUserMessages: [Projectile_C_242] Projectile244
+[2021.05.25-05.00.57:445][967]LogBlueprintUserMessages: [Projectile_C_244] Projectile242
+[2021.05.25-05.00.57:494][968]LogBlueprintUserMessages: [Projectile_C_244] Projectile243
+[2021.05.25-05.00.57:494][968]LogBlueprintUserMessages: [Projectile_C_243] Projectile244
+[2021.05.25-05.00.57:494][968]LogBlueprintUserMessages: [Projectile_C_236] Floor
+[2021.05.25-05.00.57:591][970]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.57:591][970]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.57:643][971]LogBlueprintUserMessages: [Projectile_C_240] Floor
+[2021.05.25-05.00.57:751][973]LogBlueprintUserMessages: [Projectile_C_241] Floor
+[2021.05.25-05.00.57:752][973]LogBlueprintUserMessages: [Projectile_C_247] Projectile248
+[2021.05.25-05.00.57:752][973]LogBlueprintUserMessages: [Projectile_C_248] Projectile247
+[2021.05.25-05.00.57:931][977]LogBlueprintUserMessages: [Projectile_C_249] Floor
+[2021.05.25-05.00.58:039][979]LogBlueprintUserMessages: [Projectile_C_246] Floor
+[2021.05.25-05.00.58:190][982]LogBlueprintUserMessages: [Projectile_C_254] Projectile252
+[2021.05.25-05.00.58:190][982]LogBlueprintUserMessages: [Projectile_C_252] Projectile254
+[2021.05.25-05.00.58:190][982]LogBlueprintUserMessages: [Projectile_C_250] Floor
+[2021.05.25-05.00.58:384][986]LogBlueprintUserMessages: [Projectile_C_252] Projectile253
+[2021.05.25-05.00.58:384][986]LogBlueprintUserMessages: [Projectile_C_253] Projectile252
+[2021.05.25-05.00.58:479][988]LogBlueprintUserMessages: [Projectile_C_257] Enemy1
+[2021.05.25-05.00.58:479][988]LogBlueprintUserMessages: [Projectile_C_257] Enemy1
+[2021.05.25-05.00.58:479][988]LogBlueprintUserMessages: [Projectile_C_257] Enemy1
+[2021.05.25-05.00.58:480][988]LogBlueprintUserMessages: [Projectile_C_257] Enemy1
+[2021.05.25-05.00.58:624][991]LogBlueprintUserMessages: [Projectile_C_256] Enemy14
+[2021.05.25-05.00.58:628][991]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.58:628][991]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.58:691][992]LogBlueprintUserMessages: [Projectile_C_260] Enemy14
+[2021.05.25-05.00.58:691][992]LogBlueprintUserMessages: [Projectile_C_261] Projectile256
+[2021.05.25-05.00.58:691][992]LogBlueprintUserMessages: [Projectile_C_256] Projectile261
+[2021.05.25-05.00.58:742][993]LogBlueprintUserMessages: [Projectile_C_265] Projectile257
+[2021.05.25-05.00.58:742][993]LogBlueprintUserMessages: [Projectile_C_257] Projectile265
+[2021.05.25-05.00.58:792][994]LogBlueprintUserMessages: [Projectile_C_251] Floor
+[2021.05.25-05.00.58:792][994]LogBlueprintUserMessages: [Projectile_C_255] Floor
+[2021.05.25-05.00.58:887][996]LogBlueprintUserMessages: [Projectile_C_260] Enemy
+[2021.05.25-05.00.58:888][996]LogBlueprintUserMessages: [Projectile_C_263] Projectile262
+[2021.05.25-05.00.58:888][996]LogBlueprintUserMessages: [Projectile_C_262] Projectile263
+[2021.05.25-05.00.58:889][996]LogBlueprintUserMessages: [Projectile_C_262] Enemy14
+[2021.05.25-05.00.58:939][997]LogBlueprintUserMessages: [Projectile_C_260] Enemy
+[2021.05.25-05.00.58:939][997]LogBlueprintUserMessages: [Projectile_C_260] Enemy
+[2021.05.25-05.00.58:944][997]LogBlueprintUserMessages: [Projectile_C_262] Enemy14
+[2021.05.25-05.00.59:005][998]LogBlueprintUserMessages: [Projectile_C_259] Floor
+[2021.05.25-05.00.59:061][999]LogBlueprintUserMessages: [Projectile_C_266] Projectile268
+[2021.05.25-05.00.59:061][999]LogBlueprintUserMessages: [Projectile_C_268] Projectile266
+[2021.05.25-05.00.59:061][999]LogBlueprintUserMessages: [Projectile_C_258] Floor
+[2021.05.25-05.00.59:105][  0]LogBlueprintUserMessages: [Projectile_C_262] Enemy2
+[2021.05.25-05.00.59:109][  0]LogBlueprintUserMessages: [Projectile_C_262] Enemy9
+[2021.05.25-05.00.59:110][  0]LogBlueprintUserMessages: [Projectile_C_263] Enemy9
+[2021.05.25-05.00.59:152][  1]LogBlueprintUserMessages: [Projectile_C_263] Enemy9
+[2021.05.25-05.00.59:152][  1]LogBlueprintUserMessages: [Projectile_C_262] Enemy9
+[2021.05.25-05.00.59:152][  1]LogBlueprintUserMessages: [Projectile_C_262] Enemy9
+[2021.05.25-05.00.59:152][  1]LogBlueprintUserMessages: [Projectile_C_263] Enemy9
+[2021.05.25-05.00.59:153][  1]LogBlueprintUserMessages: [Projectile_C_263] Enemy7
+[2021.05.25-05.00.59:153][  1]LogBlueprintUserMessages: [Projectile_C_263] Enemy7
+[2021.05.25-05.00.59:153][  1]LogBlueprintUserMessages: [Projectile_C_263] Enemy7
+[2021.05.25-05.00.59:153][  1]LogBlueprintUserMessages: [Projectile_C_267] Projectile266
+[2021.05.25-05.00.59:153][  1]LogBlueprintUserMessages: [Projectile_C_266] Projectile267
+[2021.05.25-05.00.59:166][  1]LogBlueprintUserMessages: [Projectile_C_272] Enemy6
+[2021.05.25-05.00.59:211][  2]LogBlueprintUserMessages: [Projectile_C_266] Enemy14
+[2021.05.25-05.00.59:212][  2]LogBlueprintUserMessages: [Projectile_C_264] Floor
+[2021.05.25-05.00.59:255][  3]LogBlueprintUserMessages: [Projectile_C_266] Enemy14
+[2021.05.25-05.00.59:256][  3]LogBlueprintUserMessages: [Projectile_C_271] Projectile270
+[2021.05.25-05.00.59:256][  3]LogBlueprintUserMessages: [Projectile_C_270] Projectile271
+[2021.05.25-05.00.59:305][  4]LogBlueprintUserMessages: [Projectile_C_269] Enemy14
+[2021.05.25-05.00.59:353][  5]LogBlueprintUserMessages: [Projectile_C_269] Enemy14
+[2021.05.25-05.00.59:354][  5]LogBlueprintUserMessages: [Projectile_C_273] Projectile274
+[2021.05.25-05.00.59:354][  5]LogBlueprintUserMessages: [Projectile_C_274] Projectile273
+[2021.05.25-05.00.59:410][  6]LogBlueprintUserMessages: [Projectile_C_267] Enemy2
+[2021.05.25-05.00.59:410][  6]LogBlueprintUserMessages: [Projectile_C_267] Enemy2
+[2021.05.25-05.00.59:453][  7]LogBlueprintUserMessages: [Projectile_C_271] Enemy5
+[2021.05.25-05.00.59:454][  7]LogBlueprintUserMessages: [Projectile_C_270] Floor
+[2021.05.25-05.00.59:510][  8]LogBlueprintUserMessages: [Projectile_C_274] Enemy1
+[2021.05.25-05.00.59:511][  8]LogBlueprintUserMessages: [Projectile_C_271] Enemy5
+[2021.05.25-05.00.59:511][  8]LogBlueprintUserMessages: [Projectile_C_271] Enemy5
+[2021.05.25-05.00.59:512][  8]LogBlueprintUserMessages: [Projectile_C_278] Enemy15
+[2021.05.25-05.00.59:512][  8]LogBlueprintUserMessages: [Projectile_C_278] Enemy15
+[2021.05.25-05.00.59:513][  8]LogBlueprintUserMessages: [Projectile_C_278] Enemy15
+[2021.05.25-05.00.59:554][  9]LogBlueprintUserMessages: [Projectile_C_269] Enemy2
+[2021.05.25-05.00.59:554][  9]LogBlueprintUserMessages: [Projectile_C_271] Enemy5
+[2021.05.25-05.00.59:554][  9]LogBlueprintUserMessages: [Projectile_C_271] Enemy5
+[2021.05.25-05.00.59:658][ 11]LogBlueprintUserMessages: [Projectile_C_273] Enemy10
+[2021.05.25-05.00.59:661][ 11]LogBlueprintUserMessages: [Projectile_C_281] Projectile280
+[2021.05.25-05.00.59:661][ 11]LogBlueprintUserMessages: [Projectile_C_280] Projectile281
+[2021.05.25-05.00.59:668][ 11]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.00.59:669][ 11]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.00.59:720][ 12]LogBlueprintUserMessages: [Projectile_C_277] Enemy1
+[2021.05.25-05.00.59:763][ 13]LogBlueprintUserMessages: [Projectile_C_277] Enemy1
+[2021.05.25-05.00.59:763][ 13]LogBlueprintUserMessages: [Projectile_C_277] Enemy1
+[2021.05.25-05.00.59:763][ 13]LogBlueprintUserMessages: [Projectile_C_277] Enemy4
+[2021.05.25-05.00.59:764][ 13]LogBlueprintUserMessages: [Projectile_C_279] Player
+[2021.05.25-05.00.59:814][ 14]LogBlueprintUserMessages: [Projectile_C_277] Enemy4
+[2021.05.25-05.00.59:817][ 14]LogBlueprintUserMessages: [Projectile_C_275] Floor
+[2021.05.25-05.00.59:818][ 14]LogBlueprintUserMessages: [Projectile_C_280] Enemy15
+[2021.05.25-05.00.59:863][ 15]LogBlueprintUserMessages: [Projectile_C_277] Enemy4
+[2021.05.25-05.00.59:864][ 15]LogBlueprintUserMessages: [Projectile_C_281] Enemy12
+[2021.05.25-05.00.59:864][ 15]LogBlueprintUserMessages: [Projectile_C_276] Floor
+[2021.05.25-05.00.59:913][ 16]LogBlueprintUserMessages: [Projectile_C_277] Enemy4
+[2021.05.25-05.00.59:913][ 16]LogBlueprintUserMessages: [Projectile_C_277] Enemy4
+[2021.05.25-05.00.59:978][ 17]LogBlueprintUserMessages: [Projectile_C_277] Enemy4
+[2021.05.25-05.00.59:979][ 17]LogBlueprintUserMessages: [Projectile_C_277] Enemy4
+[2021.05.25-05.00.59:980][ 17]LogBlueprintUserMessages: [Projectile_C_282] Enemy15
+[2021.05.25-05.01.00:049][ 18]LogBlueprintUserMessages: [Projectile_C_279] Enemy1
+[2021.05.25-05.01.00:049][ 18]LogBlueprintUserMessages: [Projectile_C_279] Enemy1
+[2021.05.25-05.01.00:051][ 18]LogBlueprintUserMessages: [Projectile_C_284] Enemy15
+[2021.05.25-05.01.00:172][ 20]LogBlueprintUserMessages: [Projectile_C_283] Enemy15
+[2021.05.25-05.01.00:224][ 21]LogBlueprintUserMessages: [Projectile_C_283] Enemy15
+[2021.05.25-05.01.00:224][ 21]LogBlueprintUserMessages: [Projectile_C_283] Enemy15
+[2021.05.25-05.01.00:287][ 22]LogBlueprintUserMessages: [Projectile_C_283] Enemy15
+[2021.05.25-05.01.00:287][ 22]LogBlueprintUserMessages: [Projectile_C_283] Enemy15
+[2021.05.25-05.01.00:336][ 23]LogBlueprintUserMessages: [Projectile_C_283] Enemy15
+[2021.05.25-05.01.00:337][ 23]LogBlueprintUserMessages: [Projectile_C_283] Enemy15
+[2021.05.25-05.01.00:338][ 23]LogBlueprintUserMessages: [Projectile_C_285] Floor
+[2021.05.25-05.01.00:339][ 23]LogBlueprintUserMessages: [Projectile_C_286] Enemy15
+[2021.05.25-05.01.00:400][ 24]LogBlueprintUserMessages: [Projectile_C_283] Enemy15
+[2021.05.25-05.01.00:400][ 24]LogBlueprintUserMessages: [Projectile_C_283] Enemy15
+[2021.05.25-05.01.00:462][ 25]LogBlueprintUserMessages: [Projectile_C_283] Enemy15
+[2021.05.25-05.01.00:462][ 25]LogBlueprintUserMessages: [Projectile_C_283] Enemy15
+[2021.05.25-05.01.00:566][ 27]LogBlueprintUserMessages: [Projectile_C_287] Player
+[2021.05.25-05.01.00:683][ 29]LogBlueprintUserMessages: [Projectile_C_296] Enemy2
+[2021.05.25-05.01.00:683][ 29]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.00:683][ 29]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.00:726][ 30]LogBlueprintUserMessages: [Projectile_C_296] Enemy2
+[2021.05.25-05.01.00:728][ 30]LogBlueprintUserMessages: [Projectile_C_289] Projectile288
+[2021.05.25-05.01.00:729][ 30]LogBlueprintUserMessages: [Projectile_C_288] Projectile289
+[2021.05.25-05.01.00:729][ 30]LogBlueprintUserMessages: [Projectile_C_292] Enemy6
+[2021.05.25-05.01.00:782][ 31]LogBlueprintUserMessages: [Projectile_C_294] Enemy6
+[2021.05.25-05.01.00:827][ 32]LogBlueprintUserMessages: [Projectile_C_294] Enemy6
+[2021.05.25-05.01.00:828][ 32]LogBlueprintUserMessages: [Projectile_C_287] Enemy14
+[2021.05.25-05.01.00:829][ 32]LogBlueprintUserMessages: [Projectile_C_297] Projectile290
+[2021.05.25-05.01.00:829][ 32]LogBlueprintUserMessages: [Projectile_C_290] Projectile297
+[2021.05.25-05.01.00:830][ 32]LogBlueprintUserMessages: [Projectile_C_291] Enemy11
+[2021.05.25-05.01.00:830][ 32]LogBlueprintUserMessages: [Projectile_C_293] Projectile289
+[2021.05.25-05.01.00:830][ 32]LogBlueprintUserMessages: [Projectile_C_289] Projectile293
+[2021.05.25-05.01.00:881][ 33]LogBlueprintUserMessages: [Projectile_C_295] Projectile297
+[2021.05.25-05.01.00:881][ 33]LogBlueprintUserMessages: [Projectile_C_297] Projectile295
+[2021.05.25-05.01.00:929][ 34]LogBlueprintUserMessages: [Projectile_C_299] Projectile298
+[2021.05.25-05.01.00:929][ 34]LogBlueprintUserMessages: [Projectile_C_298] Projectile299
+[2021.05.25-05.01.00:930][ 34]LogBlueprintUserMessages: [Projectile_C_290] Enemy2
+[2021.05.25-05.01.00:979][ 35]LogBlueprintUserMessages: [Projectile_C_290] Enemy2
+[2021.05.25-05.01.01:036][ 36]LogBlueprintUserMessages: [Projectile_C_290] Enemy2
+[2021.05.25-05.01.01:036][ 36]LogBlueprintUserMessages: [Projectile_C_291] Enemy9
+[2021.05.25-05.01.01:037][ 36]LogBlueprintUserMessages: [Projectile_C_291] Enemy9
+[2021.05.25-05.01.01:039][ 36]LogBlueprintUserMessages: [Projectile_C_302] Projectile299
+[2021.05.25-05.01.01:039][ 36]LogBlueprintUserMessages: [Projectile_C_299] Projectile302
+[2021.05.25-05.01.01:039][ 36]LogBlueprintUserMessages: [Projectile_C_298] Projectile295
+[2021.05.25-05.01.01:039][ 36]LogBlueprintUserMessages: [Projectile_C_295] Projectile298
+[2021.05.25-05.01.01:094][ 37]LogBlueprintUserMessages: [Projectile_C_291] Enemy3
+[2021.05.25-05.01.01:094][ 37]LogBlueprintUserMessages: [Projectile_C_291] Enemy3
+[2021.05.25-05.01.01:094][ 37]LogBlueprintUserMessages: [Projectile_C_291] Enemy3
+[2021.05.25-05.01.01:094][ 37]LogBlueprintUserMessages: [Projectile_C_291] Enemy3
+[2021.05.25-05.01.01:095][ 37]LogBlueprintUserMessages: [Projectile_C_290] Enemy2
+[2021.05.25-05.01.01:095][ 37]LogBlueprintUserMessages: [Projectile_C_290] Enemy8
+[2021.05.25-05.01.01:095][ 37]LogBlueprintUserMessages: [Projectile_C_290] Enemy8
+[2021.05.25-05.01.01:096][ 37]LogBlueprintUserMessages: [Projectile_C_293] Enemy6
+[2021.05.25-05.01.01:096][ 37]LogBlueprintUserMessages: [Projectile_C_293] Enemy6
+[2021.05.25-05.01.01:096][ 37]LogBlueprintUserMessages: [Projectile_C_293] Enemy6
+[2021.05.25-05.01.01:265][ 40]LogBlueprintUserMessages: [Projectile_C_304] Projectile303
+[2021.05.25-05.01.01:265][ 40]LogBlueprintUserMessages: [Projectile_C_303] Projectile304
+[2021.05.25-05.01.01:267][ 40]LogBlueprintUserMessages: [Projectile_C_300] Enemy11
+[2021.05.25-05.01.01:310][ 41]LogBlueprintUserMessages: [Projectile_C_308] Projectile306
+[2021.05.25-05.01.01:311][ 41]LogBlueprintUserMessages: [Projectile_C_306] Projectile308
+[2021.05.25-05.01.01:311][ 41]LogBlueprintUserMessages: [Projectile_C_305] Projectile307
+[2021.05.25-05.01.01:311][ 41]LogBlueprintUserMessages: [Projectile_C_307] Projectile305
+[2021.05.25-05.01.01:312][ 41]LogBlueprintUserMessages: [Projectile_C_311] Projectile310
+[2021.05.25-05.01.01:313][ 41]LogBlueprintUserMessages: [Projectile_C_310] Projectile311
+[2021.05.25-05.01.01:363][ 42]LogBlueprintUserMessages: [Projectile_C_300] Enemy2
+[2021.05.25-05.01.01:363][ 42]LogBlueprintUserMessages: [Projectile_C_300] Enemy8
+[2021.05.25-05.01.01:365][ 42]LogBlueprintUserMessages: [Projectile_C_303] Enemy11
+[2021.05.25-05.01.01:367][ 42]LogBlueprintUserMessages: [Projectile_C_307] Projectile308
+[2021.05.25-05.01.01:368][ 42]LogBlueprintUserMessages: [Projectile_C_308] Projectile307
+[2021.05.25-05.01.01:369][ 42]LogBlueprintUserMessages: [Projectile_C_309] Projectile307
+[2021.05.25-05.01.01:369][ 42]LogBlueprintUserMessages: [Projectile_C_307] Projectile309
+[2021.05.25-05.01.01:370][ 42]LogBlueprintUserMessages: [Projectile_C_310] Projectile305
+[2021.05.25-05.01.01:370][ 42]LogBlueprintUserMessages: [Projectile_C_305] Projectile310
+[2021.05.25-05.01.01:415][ 43]LogBlueprintUserMessages: [Projectile_C_300] Enemy8
+[2021.05.25-05.01.01:416][ 43]LogBlueprintUserMessages: [Projectile_C_300] Enemy8
+[2021.05.25-05.01.01:421][ 43]LogBlueprintUserMessages: [Projectile_C_303] Projectile306
+[2021.05.25-05.01.01:421][ 43]LogBlueprintUserMessages: [Projectile_C_306] Projectile303
+[2021.05.25-05.01.01:465][ 44]LogBlueprintUserMessages: [Projectile_C_300] Enemy8
+[2021.05.25-05.01.01:466][ 44]LogBlueprintUserMessages: [Projectile_C_301] Floor
+[2021.05.25-05.01.01:466][ 44]LogBlueprintUserMessages: [Projectile_C_314] Projectile311
+[2021.05.25-05.01.01:466][ 44]LogBlueprintUserMessages: [Projectile_C_311] Projectile314
+[2021.05.25-05.01.01:524][ 45]LogBlueprintUserMessages: [Projectile_C_300] Enemy14
+[2021.05.25-05.01.01:524][ 45]LogBlueprintUserMessages: [Projectile_C_312] Projectile315
+[2021.05.25-05.01.01:524][ 45]LogBlueprintUserMessages: [Projectile_C_315] Projectile312
+[2021.05.25-05.01.01:567][ 46]LogBlueprintUserMessages: [Projectile_C_306] Projectile301
+[2021.05.25-05.01.01:567][ 46]LogBlueprintUserMessages: [Projectile_C_301] Projectile306
+[2021.05.25-05.01.01:568][ 46]LogBlueprintUserMessages: [Projectile_C_316] Projectile305
+[2021.05.25-05.01.01:568][ 46]LogBlueprintUserMessages: [Projectile_C_305] Projectile316
+[2021.05.25-05.01.01:568][ 46]LogBlueprintUserMessages: [Projectile_C_313] Player
+[2021.05.25-05.01.01:619][ 47]LogBlueprintUserMessages: [Projectile_C_315] Player
+[2021.05.25-05.01.01:676][ 48]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.01:676][ 48]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.01:738][ 49]LogBlueprintUserMessages: [Projectile_C_313] Enemy11
+[2021.05.25-05.01.01:775][ 50]LogBlueprintUserMessages: [Projectile_C_313] Enemy11
+[2021.05.25-05.01.01:823][ 51]LogBlueprintUserMessages: [Projectile_C_313] Enemy11
+[2021.05.25-05.01.02:142][ 57]LogBlueprintUserMessages: [Projectile_C_318] Projectile317
+[2021.05.25-05.01.02:143][ 57]LogBlueprintUserMessages: [Projectile_C_317] Projectile318
+[2021.05.25-05.01.02:143][ 57]LogBlueprintUserMessages: [Projectile_C_320] Enemy12
+[2021.05.25-05.01.02:143][ 57]LogBlueprintUserMessages: [Projectile_C_317] Enemy3
+[2021.05.25-05.01.02:182][ 58]LogBlueprintUserMessages: [Projectile_C_320] Enemy12
+[2021.05.25-05.01.02:183][ 58]LogBlueprintUserMessages: [Projectile_C_319] Projectile320
+[2021.05.25-05.01.02:183][ 58]LogBlueprintUserMessages: [Projectile_C_320] Projectile319
+[2021.05.25-05.01.02:232][ 59]LogBlueprintUserMessages: [Projectile_C_320] Enemy12
+[2021.05.25-05.01.02:233][ 59]LogBlueprintUserMessages: [Projectile_C_322] Projectile319
+[2021.05.25-05.01.02:233][ 59]LogBlueprintUserMessages: [Projectile_C_319] Projectile322
+[2021.05.25-05.01.02:296][ 60]LogBlueprintUserMessages: [Projectile_C_321] Enemy17
+[2021.05.25-05.01.02:345][ 61]LogBlueprintUserMessages: [Projectile_C_320] Enemy12
+[2021.05.25-05.01.02:345][ 61]LogBlueprintUserMessages: [Projectile_C_318] Enemy10
+[2021.05.25-05.01.02:346][ 61]LogBlueprintUserMessages: [Projectile_C_321] Enemy3
+[2021.05.25-05.01.02:392][ 62]LogBlueprintUserMessages: [Projectile_C_320] Enemy12
+[2021.05.25-05.01.02:393][ 62]LogBlueprintUserMessages: [Projectile_C_320] Enemy12
+[2021.05.25-05.01.02:394][ 62]LogBlueprintUserMessages: [Projectile_C_318] Enemy10
+[2021.05.25-05.01.02:394][ 62]LogBlueprintUserMessages: [Projectile_C_318] Enemy10
+[2021.05.25-05.01.02:440][ 63]LogBlueprintUserMessages: [Projectile_C_321] Enemy17
+[2021.05.25-05.01.02:495][ 64]LogBlueprintUserMessages: [Projectile_C_321] Enemy17
+[2021.05.25-05.01.02:495][ 64]LogBlueprintUserMessages: [Projectile_C_321] Enemy17
+[2021.05.25-05.01.02:548][ 65]LogBlueprintUserMessages: [Projectile_C_321] Enemy17
+[2021.05.25-05.01.02:548][ 65]LogBlueprintUserMessages: [Projectile_C_321] Enemy17
+[2021.05.25-05.01.02:549][ 65]LogBlueprintUserMessages: [Projectile_C_324] Enemy10
+[2021.05.25-05.01.02:550][ 65]LogBlueprintUserMessages: [Projectile_C_323] Enemy10
+[2021.05.25-05.01.02:596][ 66]LogBlueprintUserMessages: [Projectile_C_323] Enemy10
+[2021.05.25-05.01.02:596][ 66]LogBlueprintUserMessages: [Projectile_C_323] Enemy10
+[2021.05.25-05.01.02:643][ 67]LogBlueprintUserMessages: [Projectile_C_323] Enemy10
+[2021.05.25-05.01.02:708][ 68]LogBlueprintUserMessages: [Projectile_C_323] Enemy10
+[2021.05.25-05.01.02:708][ 68]LogBlueprintUserMessages: [Projectile_C_323] Enemy10
+[2021.05.25-05.01.02:712][ 68]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.02:712][ 68]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.02:751][ 69]LogBlueprintUserMessages: [Projectile_C_323] Enemy10
+[2021.05.25-05.01.02:751][ 69]LogBlueprintUserMessages: [Projectile_C_323] Enemy10
+[2021.05.25-05.01.02:806][ 70]LogBlueprintUserMessages: [Projectile_C_323] Enemy10
+[2021.05.25-05.01.02:806][ 70]LogBlueprintUserMessages: [Projectile_C_323] Enemy10
+[2021.05.25-05.01.03:629][ 87]LogBlueprintUserMessages: [Projectile_C_325] Enemy17
+[2021.05.25-05.01.03:745][ 89]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.03:745][ 89]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.03:981][ 94]LogCharacterMovement: Enemy_C_2 is stuck and failed to move! Velocity: X=90.51 Y=-44.73 Z=0.00 Location: X=-1015.57 Y=9.45 Z=96.15 Normal: X=-0.72 Y=-0.69 Z=-0.01 PenetrationDepth:0.032 Actor:Enemy_C_9 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2021.05.25-05.01.04:035][ 95]LogCharacterMovement: Enemy_C_9 is stuck and failed to move! Velocity: X=125.63 Y=-91.35 Z=0.00 Location: X=-991.02 Y=33.22 Z=96.15 Normal: X=0.72 Y=0.69 Z=0.01 PenetrationDepth:0.028 Actor:Enemy_C_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2021.05.25-05.01.04:328][101]LogBlueprintUserMessages: [Projectile_C_326] Enemy4
+[2021.05.25-05.01.04:775][110]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.04:776][110]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.05:482][124]LogBlueprintUserMessages: [Projectile_C_328] Enemy4
+[2021.05.25-05.01.05:529][125]LogBlueprintUserMessages: [Projectile_C_328] Enemy4
+[2021.05.25-05.01.05:529][125]LogBlueprintUserMessages: [Projectile_C_328] Enemy4
+[2021.05.25-05.01.05:530][125]LogBlueprintUserMessages: [Projectile_C_328] Enemy4
+[2021.05.25-05.01.05:532][125]LogBlueprintUserMessages: [Projectile_C_327] Player
+[2021.05.25-05.01.05:575][126]LogBlueprintUserMessages: [Projectile_C_328] Enemy4
+[2021.05.25-05.01.05:576][126]LogBlueprintUserMessages: [Projectile_C_328] Enemy4
+[2021.05.25-05.01.05:625][127]LogBlueprintUserMessages: [Projectile_C_328] Enemy4
+[2021.05.25-05.01.05:626][127]LogBlueprintUserMessages: [Projectile_C_328] Enemy4
+[2021.05.25-05.01.05:626][127]LogBlueprintUserMessages: [Projectile_C_328] Enemy4
+[2021.05.25-05.01.05:627][127]LogBlueprintUserMessages: [Projectile_C_328] Enemy4
+[2021.05.25-05.01.05:628][127]LogBlueprintUserMessages: [Projectile_C_328] Enemy4
+[2021.05.25-05.01.05:628][127]LogBlueprintUserMessages: [Projectile_C_328] Enemy4
+[2021.05.25-05.01.05:793][130]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.05:793][130]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.05:895][132]LogBlueprintUserMessages: [Projectile_C_329] Enemy4
+[2021.05.25-05.01.05:935][133]LogBlueprintUserMessages: [Projectile_C_329] Enemy4
+[2021.05.25-05.01.06:739][149]LogCharacterMovement: Enemy_C_10 is stuck and failed to move! Velocity: X=39.23 Y=-55.37 Z=0.00 Location: X=-1053.12 Y=3.33 Z=96.14 Normal: X=-0.26 Y=0.97 Z=0.00 PenetrationDepth:0.153 Actor:Player Component:ShipMeshComponent BoneName:None (0 other events since notify)
+[2021.05.25-05.01.06:741][149]LogBlueprintUserMessages: [Projectile_C_330] Player
+[2021.05.25-05.01.06:841][151]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.06:841][151]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.06:893][152]LogBlueprintUserMessages: [Projectile_C_331] Enemy20
+[2021.05.25-05.01.06:893][152]LogBlueprintUserMessages: [Projectile_C_331] Enemy20
+[2021.05.25-05.01.06:932][153]LogBlueprintUserMessages: [Projectile_C_331] Projectile330
+[2021.05.25-05.01.06:932][153]LogBlueprintUserMessages: [Projectile_C_330] Projectile331
+[2021.05.25-05.01.06:981][154]LogBlueprintUserMessages: [Projectile_C_332] Projectile330
+[2021.05.25-05.01.06:981][154]LogBlueprintUserMessages: [Projectile_C_330] Projectile332
+[2021.05.25-05.01.07:026][155]LogCharacterMovement: Enemy_C_6 is stuck and failed to move! Velocity: X=72.50 Y=-54.15 Z=0.00 Location: X=-995.95 Y=24.52 Z=96.09 Normal: X=0.99 Y=-0.11 Z=0.00 PenetrationDepth:0.015 Actor:Enemy_C_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2021.05.25-05.01.07:078][156]LogBlueprintUserMessages: [Projectile_C_331] Enemy20
+[2021.05.25-05.01.07:079][156]LogBlueprintUserMessages: [Projectile_C_331] Enemy20
+[2021.05.25-05.01.07:125][157]LogBlueprintUserMessages: [Projectile_C_331] Enemy20
+[2021.05.25-05.01.07:179][158]LogBlueprintUserMessages: [Projectile_C_331] Enemy20
+[2021.05.25-05.01.07:181][158]LogBlueprintUserMessages: [Projectile_C_333] Projectile332
+[2021.05.25-05.01.07:182][158]LogBlueprintUserMessages: [Projectile_C_332] Projectile333
+[2021.05.25-05.01.07:334][161]LogBlueprintUserMessages: [Projectile_C_334] Enemy
+[2021.05.25-05.01.07:477][164]LogCharacterMovement: Enemy_C_1 is stuck and failed to move! Velocity: X=104.59 Y=-15.84 Z=0.00 Location: X=-1068.40 Y=-19.51 Z=96.15 Normal: X=-0.98 Y=-0.19 Z=0.00 PenetrationDepth:0.434 Actor:Player Component:ShipMeshComponent BoneName:None (0 other events since notify)
+[2021.05.25-05.01.07:533][165]LogCharacterMovement: Enemy_C_20 is stuck and failed to move! Velocity: X=37.12 Y=41.10 Z=0.00 Location: X=-1058.20 Y=-52.47 Z=96.15 Normal: X=-0.97 Y=-0.26 Z=0.00 PenetrationDepth:1.172 Actor:Player Component:ShipMeshComponent BoneName:None (0 other events since notify)
+[2021.05.25-05.01.07:535][165]LogBlueprintUserMessages: [Projectile_C_339] Enemy14
+[2021.05.25-05.01.07:535][165]LogBlueprintUserMessages: [Projectile_C_335] Projectile334
+[2021.05.25-05.01.07:535][165]LogBlueprintUserMessages: [Projectile_C_334] Projectile335
+[2021.05.25-05.01.07:597][166]LogBlueprintUserMessages: [Projectile_C_337] Projectile339
+[2021.05.25-05.01.07:597][166]LogBlueprintUserMessages: [Projectile_C_339] Projectile337
+[2021.05.25-05.01.07:597][166]LogBlueprintUserMessages: [Projectile_C_336] Player
+[2021.05.25-05.01.07:652][167]LogBlueprintUserMessages: [Projectile_C_342] Projectile341
+[2021.05.25-05.01.07:653][167]LogBlueprintUserMessages: [Projectile_C_341] Projectile342
+[2021.05.25-05.01.07:756][169]LogBlueprintUserMessages: [Projectile_C_340] Projectile336
+[2021.05.25-05.01.07:756][169]LogBlueprintUserMessages: [Projectile_C_336] Projectile340
+[2021.05.25-05.01.07:756][169]LogBlueprintUserMessages: [Projectile_C_338] Enemy20
+[2021.05.25-05.01.07:861][171]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.07:861][171]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.08:051][175]LogCharacterMovement: Enemy_C_6 is stuck and failed to move! Velocity: X=-358.93 Y=271.42 Z=0.00 Location: X=-995.95 Y=24.50 Z=96.09 Normal: X=0.99 Y=-0.11 Z=0.00 PenetrationDepth:0.012 Actor:Enemy_C_2 Component:CollisionCylinder BoneName:None (19 other events since notify)
+[2021.05.25-05.01.08:210][178]LogBlueprintUserMessages: [Projectile_C_343] Enemy2
+[2021.05.25-05.01.08:252][179]LogBlueprintUserMessages: [Projectile_C_343] Enemy2
+[2021.05.25-05.01.08:252][179]LogBlueprintUserMessages: [Projectile_C_343] Enemy2
+[2021.05.25-05.01.08:399][182]LogBlueprintUserMessages: [Projectile_C_345] Projectile343
+[2021.05.25-05.01.08:399][182]LogBlueprintUserMessages: [Projectile_C_343] Projectile345
+[2021.05.25-05.01.08:400][182]LogBlueprintUserMessages: [Projectile_C_344] Enemy21
+[2021.05.25-05.01.08:550][185]LogBlueprintUserMessages: [Projectile_C_346] Enemy4
+[2021.05.25-05.01.08:658][187]LogBlueprintUserMessages: [Projectile_C_345] Enemy14
+[2021.05.25-05.01.08:658][187]LogBlueprintUserMessages: [Projectile_C_345] Enemy14
+[2021.05.25-05.01.08:864][191]LogBlueprintUserMessages: [Projectile_C_347] Enemy2
+[2021.05.25-05.01.08:870][191]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.08:870][191]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.09:019][194]LogBlueprintUserMessages: [Projectile_C_348] Player
+[2021.05.25-05.01.09:159][197]LogBlueprintUserMessages: [Projectile_C_348] Enemy
+[2021.05.25-05.01.09:160][197]LogBlueprintUserMessages: [Projectile_C_348] Enemy22
+[2021.05.25-05.01.09:208][198]LogBlueprintUserMessages: [Projectile_C_348] Enemy22
+[2021.05.25-05.01.09:209][198]LogBlueprintUserMessages: [Projectile_C_349] Enemy
+[2021.05.25-05.01.09:266][199]LogBlueprintUserMessages: [Projectile_C_349] Enemy
+[2021.05.25-05.01.09:266][199]LogBlueprintUserMessages: [Projectile_C_349] Enemy
+[2021.05.25-05.01.09:268][199]LogBlueprintUserMessages: [Projectile_C_348] Enemy22
+[2021.05.25-05.01.09:309][200]LogBlueprintUserMessages: [Projectile_C_349] Enemy
+[2021.05.25-05.01.09:356][201]LogBlueprintUserMessages: [Projectile_C_349] Enemy
+[2021.05.25-05.01.09:356][201]LogBlueprintUserMessages: [Projectile_C_349] Enemy
+[2021.05.25-05.01.09:360][201]LogBlueprintUserMessages: [Projectile_C_350] Enemy
+[2021.05.25-05.01.09:409][202]LogBlueprintUserMessages: [Projectile_C_349] Enemy
+[2021.05.25-05.01.09:409][202]LogBlueprintUserMessages: [Projectile_C_350] Enemy
+[2021.05.25-05.01.09:409][202]LogBlueprintUserMessages: [Projectile_C_349] Enemy
+[2021.05.25-05.01.09:409][202]LogBlueprintUserMessages: [Projectile_C_350] Enemy
+[2021.05.25-05.01.09:409][202]LogBlueprintUserMessages: [Projectile_C_350] Enemy
+[2021.05.25-05.01.09:409][202]LogBlueprintUserMessages: [Projectile_C_349] Enemy
+[2021.05.25-05.01.09:460][203]LogBlueprintUserMessages: [Projectile_C_349] Enemy
+[2021.05.25-05.01.09:460][203]LogBlueprintUserMessages: [Projectile_C_350] Enemy
+[2021.05.25-05.01.09:460][203]LogBlueprintUserMessages: [Projectile_C_350] Enemy
+[2021.05.25-05.01.09:460][203]LogBlueprintUserMessages: [Projectile_C_349] Enemy
+[2021.05.25-05.01.09:460][203]LogBlueprintUserMessages: [Projectile_C_349] Enemy
+[2021.05.25-05.01.09:460][203]LogBlueprintUserMessages: [Projectile_C_350] Enemy
+[2021.05.25-05.01.09:460][203]LogBlueprintUserMessages: [Projectile_C_350] Enemy
+[2021.05.25-05.01.09:460][203]LogBlueprintUserMessages: [Projectile_C_349] Enemy
+[2021.05.25-05.01.09:510][204]LogBlueprintUserMessages: [Projectile_C_350] Enemy
+[2021.05.25-05.01.09:510][204]LogBlueprintUserMessages: [Projectile_C_350] Enemy
+[2021.05.25-05.01.09:510][204]LogBlueprintUserMessages: [Projectile_C_350] Enemy
+[2021.05.25-05.01.09:780][209]LogBlueprintUserMessages: [Projectile_C_352] Enemy
+[2021.05.25-05.01.09:825][210]LogBlueprintUserMessages: [Projectile_C_351] Enemy7
+[2021.05.25-05.01.09:885][211]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.09:885][211]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.09:925][212]LogBlueprintUserMessages: [Projectile_C_356] Enemy17
+[2021.05.25-05.01.09:926][212]LogBlueprintUserMessages: [Projectile_C_356] Enemy17
+[2021.05.25-05.01.09:926][212]LogBlueprintUserMessages: [Projectile_C_355] Enemy17
+[2021.05.25-05.01.09:935][212]LogBlueprintUserMessages: [Projectile_C_361] Projectile357
+[2021.05.25-05.01.09:935][212]LogBlueprintUserMessages: [Projectile_C_357] Projectile361
+[2021.05.25-05.01.10:050][214]LogBlueprintUserMessages: [Projectile_C_356] Player
+[2021.05.25-05.01.10:050][214]LogBlueprintUserMessages: [Projectile_C_354] Enemy7
+[2021.05.25-05.01.10:094][215]LogBlueprintUserMessages: [Projectile_C_351] Enemy7
+[2021.05.25-05.01.10:095][215]LogBlueprintUserMessages: [Projectile_C_351] Enemy7
+[2021.05.25-05.01.10:095][215]LogBlueprintUserMessages: [Projectile_C_351] Enemy7
+[2021.05.25-05.01.10:095][215]LogBlueprintUserMessages: [Projectile_C_351] Enemy7
+[2021.05.25-05.01.10:095][215]LogBlueprintUserMessages: [Projectile_C_351] Enemy7
+[2021.05.25-05.01.10:095][215]LogBlueprintUserMessages: [Projectile_C_351] Enemy7
+[2021.05.25-05.01.10:095][215]LogBlueprintUserMessages: [Projectile_C_353] Enemy15
+[2021.05.25-05.01.10:099][215]LogBlueprintUserMessages: [Projectile_C_358] Projectile355
+[2021.05.25-05.01.10:099][215]LogBlueprintUserMessages: [Projectile_C_355] Projectile358
+[2021.05.25-05.01.10:100][215]LogBlueprintUserMessages: [Projectile_C_353] Player
+[2021.05.25-05.01.10:144][216]LogBlueprintUserMessages: [Projectile_C_357] Enemy17
+[2021.05.25-05.01.10:244][218]LogBlueprintUserMessages: [Projectile_C_354] Enemy17
+[2021.05.25-05.01.10:244][218]LogBlueprintUserMessages: [Projectile_C_359] Enemy15
+[2021.05.25-05.01.10:245][218]LogBlueprintUserMessages: [Projectile_C_360] Enemy14
+[2021.05.25-05.01.10:303][219]LogBlueprintUserMessages: [Projectile_C_360] Enemy14
+[2021.05.25-05.01.10:303][219]LogBlueprintUserMessages: [Projectile_C_360] Enemy14
+[2021.05.25-05.01.10:304][219]LogBlueprintUserMessages: [Projectile_C_354] Enemy17
+[2021.05.25-05.01.10:342][220]LogBlueprintUserMessages: [Projectile_C_360] Enemy14
+[2021.05.25-05.01.10:390][221]LogBlueprintUserMessages: [Projectile_C_360] Enemy14
+[2021.05.25-05.01.10:439][222]LogBlueprintUserMessages: [Projectile_C_362] Enemy17
+[2021.05.25-05.01.10:533][224]LogCharacterMovement: Enemy_C_0 is stuck and failed to move! Velocity: X=105.46 Y=-11.85 Z=0.00 Location: X=-1033.05 Y=-58.67 Z=96.04 Normal: X=0.37 Y=-0.93 Z=0.00 PenetrationDepth:0.806 Actor:Player Component:ShipMeshComponent BoneName:None (0 other events since notify)
+[2021.05.25-05.01.10:534][224]LogBlueprintUserMessages: [Projectile_C_360] Enemy2
+[2021.05.25-05.01.10:889][231]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.10:890][231]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.11:472][243]LogCharacterMovement: Enemy_C_23 is stuck and failed to move! Velocity: X=26.79 Y=99.41 Z=0.00 Location: X=-997.18 Y=-34.23 Z=95.98 Normal: X=0.95 Y=0.30 Z=0.00 PenetrationDepth:0.768 Actor:Player Component:ShipMeshComponent BoneName:None (0 other events since notify)
+[2021.05.25-05.01.11:572][245]LogBlueprintUserMessages: [Projectile_C_363] Player
+[2021.05.25-05.01.11:781][249]LogBlueprintUserMessages: [Projectile_C_364] Player
+[2021.05.25-05.01.11:931][252]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.11:932][252]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.12:096][255]LogBlueprintUserMessages: [Projectile_C_365] Enemy2
+[2021.05.25-05.01.12:136][256]LogBlueprintUserMessages: [Projectile_C_365] Enemy2
+[2021.05.25-05.01.12:137][256]LogBlueprintUserMessages: [Projectile_C_365] Enemy2
+[2021.05.25-05.01.12:137][256]LogBlueprintUserMessages: [Projectile_C_365] Enemy2
+[2021.05.25-05.01.12:138][256]LogBlueprintUserMessages: [Projectile_C_365] Enemy2
+[2021.05.25-05.01.12:139][256]LogBlueprintUserMessages: [Projectile_C_365] Enemy2
+[2021.05.25-05.01.12:139][256]LogBlueprintUserMessages: [Projectile_C_365] Enemy2
+[2021.05.25-05.01.12:207][257]LogBlueprintUserMessages: [Projectile_C_365] Enemy2
+[2021.05.25-05.01.12:245][258]LogBlueprintUserMessages: [Projectile_C_365] Enemy2
+[2021.05.25-05.01.12:295][259]LogBlueprintUserMessages: [Projectile_C_365] Enemy2
+[2021.05.25-05.01.12:349][260]LogBlueprintUserMessages: [Projectile_C_365] Enemy2
+[2021.05.25-05.01.12:349][260]LogBlueprintUserMessages: [Projectile_C_365] Enemy2
+[2021.05.25-05.01.12:492][263]LogBlueprintUserMessages: [Projectile_C_366] Enemy14
+[2021.05.25-05.01.12:540][264]LogBlueprintUserMessages: [Projectile_C_366] Enemy14
+[2021.05.25-05.01.12:540][264]LogBlueprintUserMessages: [Projectile_C_366] Enemy14
+[2021.05.25-05.01.12:793][269]LogBlueprintUserMessages: [Projectile_C_367] Player
+[2021.05.25-05.01.12:847][270]LogBlueprintUserMessages: [Projectile_C_367] Enemy8
+[2021.05.25-05.01.12:900][271]LogCharacterMovement: Enemy_C_8 is stuck and failed to move! Velocity: X=-37.68 Y=-69.46 Z=0.00 Location: X=-1014.22 Y=8.67 Z=96.14 Normal: X=0.95 Y=0.30 Z=0.00 PenetrationDepth:4.204 Actor:Player Component:ShipMeshComponent BoneName:None (0 other events since notify)
+[2021.05.25-05.01.12:953][272]LogBlueprintUserMessages: [Projectile_C_367] Enemy6
+[2021.05.25-05.01.12:956][272]LogBlueprintUserMessages: [Projectile_C_368] Enemy
+[2021.05.25-05.01.12:956][272]LogBlueprintUserMessages: [Projectile_C_370] Enemy14
+[2021.05.25-05.01.12:961][272]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.12:961][272]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.13:011][273]LogBlueprintUserMessages: [Projectile_C_367] Enemy6
+[2021.05.25-05.01.13:012][273]LogBlueprintUserMessages: [Projectile_C_370] Enemy14
+[2021.05.25-05.01.13:012][273]LogBlueprintUserMessages: [Projectile_C_370] Enemy14
+[2021.05.25-05.01.13:054][274]LogBlueprintUserMessages: [Projectile_C_367] Enemy6
+[2021.05.25-05.01.13:054][274]LogBlueprintUserMessages: [Projectile_C_370] Enemy14
+[2021.05.25-05.01.13:054][274]LogBlueprintUserMessages: [Projectile_C_370] Enemy14
+[2021.05.25-05.01.13:111][275]LogBlueprintUserMessages: [Projectile_C_370] Enemy14
+[2021.05.25-05.01.13:111][275]LogBlueprintUserMessages: [Projectile_C_370] Enemy14
+[2021.05.25-05.01.13:111][275]LogBlueprintUserMessages: [Projectile_C_370] Enemy14
+[2021.05.25-05.01.13:111][275]LogBlueprintUserMessages: [Projectile_C_368] Enemy14
+[2021.05.25-05.01.13:111][275]LogBlueprintUserMessages: [Projectile_C_368] Enemy14
+[2021.05.25-05.01.13:162][276]LogBlueprintUserMessages: [Projectile_C_368] Enemy14
+[2021.05.25-05.01.13:163][276]LogBlueprintUserMessages: [Projectile_C_368] Enemy14
+[2021.05.25-05.01.13:164][276]LogBlueprintUserMessages: [Projectile_C_369] Projectile370
+[2021.05.25-05.01.13:164][276]LogBlueprintUserMessages: [Projectile_C_370] Projectile369
+[2021.05.25-05.01.13:215][277]LogBlueprintUserMessages: [Projectile_C_368] Enemy14
+[2021.05.25-05.01.13:215][277]LogCharacterMovement: Enemy_C_24 is stuck and failed to move! Velocity: X=78.11 Y=-49.27 Z=0.00 Location: X=-1065.79 Y=-4.30 Z=96.15 Normal: X=-0.30 Y=0.95 Z=0.00 PenetrationDepth:3.060 Actor:Player Component:ShipMeshComponent BoneName:None (0 other events since notify)
+[2021.05.25-05.01.13:261][278]LogBlueprintUserMessages: [Projectile_C_369] Enemy15
+[2021.05.25-05.01.13:368][280]LogBlueprintUserMessages: [Projectile_C_369] Enemy14
+[2021.05.25-05.01.13:368][280]LogBlueprintUserMessages: [Projectile_C_369] Enemy14
+[2021.05.25-05.01.13:368][280]LogBlueprintUserMessages: [Projectile_C_369] Enemy14
+[2021.05.25-05.01.13:415][281]LogBlueprintUserMessages: [Projectile_C_369] Enemy14
+[2021.05.25-05.01.13:415][281]LogBlueprintUserMessages: [Projectile_C_369] Enemy14
+[2021.05.25-05.01.13:415][281]LogBlueprintUserMessages: [Projectile_C_369] Enemy14
+[2021.05.25-05.01.13:518][283]LogBlueprintUserMessages: [Projectile_C_371] Enemy7
+[2021.05.25-05.01.13:518][283]LogBlueprintUserMessages: [Projectile_C_372] Projectile373
+[2021.05.25-05.01.13:518][283]LogBlueprintUserMessages: [Projectile_C_373] Projectile372
+[2021.05.25-05.01.13:568][284]LogBlueprintUserMessages: [Projectile_C_373] Enemy14
+[2021.05.25-05.01.13:731][287]LogBlueprintUserMessages: [Projectile_C_371] Enemy15
+[2021.05.25-05.01.13:731][287]LogBlueprintUserMessages: [Projectile_C_371] Enemy15
+[2021.05.25-05.01.13:782][288]LogBlueprintUserMessages: [Projectile_C_374] Enemy17
+[2021.05.25-05.01.13:835][289]LogBlueprintUserMessages: [Projectile_C_374] Enemy17
+[2021.05.25-05.01.13:835][289]LogBlueprintUserMessages: [Projectile_C_374] Enemy17
+[2021.05.25-05.01.13:883][290]LogBlueprintUserMessages: [Projectile_C_374] Enemy17
+[2021.05.25-05.01.13:883][290]LogBlueprintUserMessages: [Projectile_C_374] Enemy17
+[2021.05.25-05.01.13:883][290]LogBlueprintUserMessages: [Projectile_C_374] Enemy17
+[2021.05.25-05.01.14:000][292]LogBlueprintUserMessages: [Projectile_C_374] Enemy14
+[2021.05.25-05.01.14:000][292]LogBlueprintUserMessages: [Projectile_C_374] Enemy14
+[2021.05.25-05.01.14:006][292]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.14:006][292]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.14:056][293]LogBlueprintUserMessages: [Projectile_C_374] Enemy14
+[2021.05.25-05.01.14:056][293]LogBlueprintUserMessages: [Projectile_C_374] Enemy14
+[2021.05.25-05.01.14:104][294]LogBlueprintUserMessages: [Projectile_C_375] Enemy23
+[2021.05.25-05.01.14:112][294]LogBlueprintUserMessages: [Projectile_C_378] Enemy5
+[2021.05.25-05.01.14:157][295]LogBlueprintUserMessages: [Projectile_C_375] Enemy17
+[2021.05.25-05.01.14:158][295]LogBlueprintUserMessages: [Projectile_C_375] Enemy17
+[2021.05.25-05.01.14:210][296]LogBlueprintUserMessages: [Projectile_C_375] Enemy17
+[2021.05.25-05.01.14:210][296]LogBlueprintUserMessages: [Projectile_C_375] Enemy17
+[2021.05.25-05.01.14:256][297]LogBlueprintUserMessages: [Projectile_C_375] Enemy17
+[2021.05.25-05.01.14:313][298]LogBlueprintUserMessages: [Projectile_C_375] Enemy17
+[2021.05.25-05.01.14:313][298]LogBlueprintUserMessages: [Projectile_C_375] Enemy17
+[2021.05.25-05.01.14:362][299]LogBlueprintUserMessages: [Projectile_C_375] Enemy17
+[2021.05.25-05.01.14:362][299]LogBlueprintUserMessages: [Projectile_C_376] Enemy7
+[2021.05.25-05.01.14:424][300]LogBlueprintUserMessages: [Projectile_C_377] RangedEnemy7
+[2021.05.25-05.01.14:477][301]LogBlueprintUserMessages: [Projectile_C_380] Projectile376
+[2021.05.25-05.01.14:478][301]LogBlueprintUserMessages: [Projectile_C_376] Projectile380
+[2021.05.25-05.01.14:479][301]LogBlueprintUserMessages: [Projectile_C_379] Enemy8
+[2021.05.25-05.01.14:577][303]LogBlueprintUserMessages: [Projectile_C_386] Enemy7
+[2021.05.25-05.01.14:634][304]LogBlueprintUserMessages: [Projectile_C_382] Enemy23
+[2021.05.25-05.01.14:635][304]LogBlueprintUserMessages: [Projectile_C_381] Enemy14
+[2021.05.25-05.01.14:798][307]LogBlueprintUserMessages: [Projectile_C_383] Player
+[2021.05.25-05.01.14:799][307]LogBlueprintUserMessages: [Projectile_C_384] Enemy23
+[2021.05.25-05.01.14:851][308]LogBlueprintUserMessages: [Projectile_C_382] Enemy2
+[2021.05.25-05.01.14:853][308]LogBlueprintUserMessages: [Projectile_C_386] Enemy7
+[2021.05.25-05.01.14:853][308]LogBlueprintUserMessages: [Projectile_C_386] Enemy7
+[2021.05.25-05.01.14:853][308]LogBlueprintUserMessages: [Projectile_C_386] Enemy7
+[2021.05.25-05.01.14:854][308]LogBlueprintUserMessages: [Projectile_C_386] Enemy7
+[2021.05.25-05.01.14:856][308]LogBlueprintUserMessages: [Projectile_C_390] Projectile383
+[2021.05.25-05.01.14:856][308]LogBlueprintUserMessages: [Projectile_C_383] Projectile390
+[2021.05.25-05.01.14:856][308]LogBlueprintUserMessages: [Projectile_C_385] Projectile384
+[2021.05.25-05.01.14:857][308]LogBlueprintUserMessages: [Projectile_C_384] Projectile385
+[2021.05.25-05.01.14:913][309]LogBlueprintUserMessages: [Projectile_C_382] Enemy2
+[2021.05.25-05.01.14:913][309]LogBlueprintUserMessages: [Projectile_C_382] Enemy2
+[2021.05.25-05.01.14:914][309]LogBlueprintUserMessages: [Projectile_C_382] Enemy2
+[2021.05.25-05.01.14:915][309]LogBlueprintUserMessages: [Projectile_C_387] Enemy23
+[2021.05.25-05.01.14:963][310]LogBlueprintUserMessages: [Projectile_C_389] Projectile385
+[2021.05.25-05.01.14:963][310]LogBlueprintUserMessages: [Projectile_C_385] Projectile389
+[2021.05.25-05.01.14:963][310]LogBlueprintUserMessages: [Projectile_C_388] Enemy7
+[2021.05.25-05.01.15:005][311]LogBlueprintUserMessages: [Projectile_C_388] Enemy7
+[2021.05.25-05.01.15:005][311]LogBlueprintUserMessages: [Projectile_C_388] Enemy7
+[2021.05.25-05.01.15:014][311]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.15:014][311]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.15:021][311]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_C_24 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_C_24 is pending kill". Blueprint:  WaveController Function:  Execute Ubergraph Wave Controller Graph:  EventGraph Node:  Spawn Default Controller
+[2021.05.25-05.01.15:131][313]LogBlueprintUserMessages: [Projectile_C_390] Enemy7
+[2021.05.25-05.01.15:131][313]LogBlueprintUserMessages: [Projectile_C_390] Enemy7
+[2021.05.25-05.01.15:549][321]LogBlueprintUserMessages: [Projectile_C_391] Enemy17
+[2021.05.25-05.01.15:550][321]LogBlueprintUserMessages: [Projectile_C_393] Projectile391
+[2021.05.25-05.01.15:550][321]LogBlueprintUserMessages: [Projectile_C_391] Projectile393
+[2021.05.25-05.01.15:650][323]LogBlueprintUserMessages: [Projectile_C_392] Player
+[2021.05.25-05.01.15:718][324]LogBlueprintUserMessages: [Projectile_C_395] Enemy7
+[2021.05.25-05.01.15:759][325]LogCharacterMovement: Enemy_C_9 is stuck and failed to move! Velocity: X=52.51 Y=-32.97 Z=0.00 Location: X=-1065.37 Y=-4.66 Z=96.15 Normal: X=-0.33 Y=0.94 Z=-0.00 PenetrationDepth:2.712 Actor:Player Component:ShipMeshComponent BoneName:None (12 other events since notify)
+[2021.05.25-05.01.15:761][325]LogBlueprintUserMessages: [Projectile_C_394] Enemy14
+[2021.05.25-05.01.15:973][329]LogBlueprintUserMessages: [Projectile_C_394] Enemy14
+[2021.05.25-05.01.15:973][329]LogBlueprintUserMessages: [Projectile_C_394] Enemy14
+[2021.05.25-05.01.16:024][330]LogBlueprintUserMessages: [Projectile_C_394] Enemy14
+[2021.05.25-05.01.16:024][330]LogBlueprintUserMessages: [Projectile_C_394] Enemy14
+[2021.05.25-05.01.16:025][330]LogBlueprintUserMessages: [Projectile_C_394] Enemy14
+[2021.05.25-05.01.16:025][330]LogBlueprintUserMessages: [Projectile_C_396] Enemy7
+[2021.05.25-05.01.16:030][330]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.16:030][330]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.16:033][330]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_C_24 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_C_24 is pending kill". Blueprint:  WaveController Function:  Execute Ubergraph Wave Controller Graph:  EventGraph Node:  Spawn Default Controller
+[2021.05.25-05.01.16:140][332]LogCharacterMovement: Enemy_C_7 is stuck and failed to move! Velocity: X=-44.59 Y=86.86 Z=0.00 Location: X=-1031.97 Y=-61.06 Z=96.15 Normal: X=-0.27 Y=-0.96 Z=0.00 PenetrationDepth:0.202 Actor:Player Component:ShipMeshComponent BoneName:None (0 other events since notify)
+[2021.05.25-05.01.16:142][332]LogBlueprintUserMessages: [Projectile_C_397] Enemy17
+[2021.05.25-05.01.16:191][333]LogBlueprintUserMessages: [Projectile_C_398] Projectile397
+[2021.05.25-05.01.16:191][333]LogBlueprintUserMessages: [Projectile_C_397] Projectile398
+[2021.05.25-05.01.16:242][334]LogBlueprintUserMessages: [Projectile_C_399] Enemy7
+[2021.05.25-05.01.16:350][336]LogCharacterMovement: Enemy_C_2 is stuck and failed to move! Velocity: X=-68.24 Y=-84.25 Z=0.00 Location: X=-1012.65 Y=0.72 Z=96.14 Normal: X=0.53 Y=0.85 Z=0.00 PenetrationDepth:5.158 Actor:Player Component:ShipMeshComponent BoneName:None (8 other events since notify)
+[2021.05.25-05.01.16:589][340]LogBlueprintUserMessages: [Projectile_C_402] Enemy15
+[2021.05.25-05.01.16:590][340]LogBlueprintUserMessages: [Projectile_C_405] Projectile407
+[2021.05.25-05.01.16:590][340]LogBlueprintUserMessages: [Projectile_C_407] Projectile405
+[2021.05.25-05.01.16:645][341]LogBlueprintUserMessages: [Projectile_C_402] Enemy15
+[2021.05.25-05.01.16:645][341]LogBlueprintUserMessages: [Projectile_C_402] Enemy15
+[2021.05.25-05.01.16:645][341]LogBlueprintUserMessages: [Projectile_C_402] Enemy15
+[2021.05.25-05.01.16:646][341]LogBlueprintUserMessages: [Projectile_C_400] Player
+[2021.05.25-05.01.16:719][342]LogBlueprintUserMessages: [Projectile_C_406] Enemy15
+[2021.05.25-05.01.16:770][343]LogBlueprintUserMessages: [Projectile_C_406] Enemy15
+[2021.05.25-05.01.16:770][343]LogBlueprintUserMessages: [Projectile_C_406] Enemy15
+[2021.05.25-05.01.16:835][344]LogBlueprintUserMessages: [Projectile_C_411] Enemy17
+[2021.05.25-05.01.16:835][344]LogBlueprintUserMessages: [Projectile_C_411] Enemy17
+[2021.05.25-05.01.16:836][344]LogBlueprintUserMessages: [Projectile_C_403] Projectile401
+[2021.05.25-05.01.16:836][344]LogBlueprintUserMessages: [Projectile_C_401] Projectile403
+[2021.05.25-05.01.16:836][344]LogBlueprintUserMessages: [Projectile_C_411] Enemy17
+[2021.05.25-05.01.16:837][344]LogBlueprintUserMessages: [Projectile_C_404] Enemy17
+[2021.05.25-05.01.16:838][344]LogBlueprintUserMessages: [Projectile_C_401] Projectile400
+[2021.05.25-05.01.16:838][344]LogBlueprintUserMessages: [Projectile_C_400] Projectile401
+[2021.05.25-05.01.16:839][344]LogBlueprintUserMessages: [Projectile_C_409] Projectile402
+[2021.05.25-05.01.16:839][344]LogBlueprintUserMessages: [Projectile_C_402] Projectile409
+[2021.05.25-05.01.16:894][345]LogBlueprintUserMessages: [Projectile_C_404] Enemy17
+[2021.05.25-05.01.16:895][345]LogBlueprintUserMessages: [Projectile_C_411] Enemy17
+[2021.05.25-05.01.16:895][345]LogBlueprintUserMessages: [Projectile_C_411] Enemy17
+[2021.05.25-05.01.16:895][345]LogBlueprintUserMessages: [Projectile_C_404] Enemy17
+[2021.05.25-05.01.16:895][345]LogBlueprintUserMessages: [Projectile_C_411] Enemy17
+[2021.05.25-05.01.16:955][346]LogBlueprintUserMessages: [Projectile_C_404] Enemy17
+[2021.05.25-05.01.16:955][346]LogBlueprintUserMessages: [Projectile_C_404] Enemy17
+[2021.05.25-05.01.16:955][346]LogBlueprintUserMessages: [Projectile_C_404] Enemy17
+[2021.05.25-05.01.16:955][346]LogBlueprintUserMessages: [Projectile_C_404] Enemy17
+[2021.05.25-05.01.16:956][346]LogBlueprintUserMessages: [Projectile_C_408] Projectile403
+[2021.05.25-05.01.16:956][346]LogBlueprintUserMessages: [Projectile_C_403] Projectile408
+[2021.05.25-05.01.17:065][348]LogBlueprintUserMessages: [Projectile_C_410] Projectile408
+[2021.05.25-05.01.17:065][348]LogBlueprintUserMessages: [Projectile_C_408] Projectile410
+[2021.05.25-05.01.17:071][348]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.17:071][348]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.17:075][348]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_C_24 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_C_24 is pending kill". Blueprint:  WaveController Function:  Execute Ubergraph Wave Controller Graph:  EventGraph Node:  Spawn Default Controller
+[2021.05.25-05.01.17:132][349]LogBlueprintUserMessages: [Projectile_C_415] Player
+[2021.05.25-05.01.17:201][350]LogBlueprintUserMessages: [Projectile_C_412] Projectile408
+[2021.05.25-05.01.17:201][350]LogBlueprintUserMessages: [Projectile_C_408] Projectile412
+[2021.05.25-05.01.17:253][351]LogBlueprintUserMessages: [Projectile_C_415] Enemy15
+[2021.05.25-05.01.17:254][351]LogBlueprintUserMessages: [Projectile_C_415] Enemy15
+[2021.05.25-05.01.17:255][351]LogBlueprintUserMessages: [Projectile_C_416] Enemy15
+[2021.05.25-05.01.17:255][351]LogBlueprintUserMessages: [Projectile_C_414] Enemy2
+[2021.05.25-05.01.17:261][351]LogBlueprintUserMessages: [Projectile_C_418] Projectile415
+[2021.05.25-05.01.17:262][351]LogBlueprintUserMessages: [Projectile_C_415] Projectile418
+[2021.05.25-05.01.17:312][352]LogBlueprintUserMessages: [Projectile_C_415] Enemy15
+[2021.05.25-05.01.17:313][352]LogBlueprintUserMessages: [Projectile_C_417] Enemy
+[2021.05.25-05.01.17:366][353]LogBlueprintUserMessages: [Projectile_C_416] RangedEnemy18
+[2021.05.25-05.01.17:366][353]LogBlueprintUserMessages: [Projectile_C_416] RangedEnemy18
+[2021.05.25-05.01.17:366][353]LogBlueprintUserMessages: [Projectile_C_416] RangedEnemy18
+[2021.05.25-05.01.17:366][353]LogBlueprintUserMessages: [Projectile_C_416] RangedEnemy18
+[2021.05.25-05.01.17:370][353]LogBlueprintUserMessages: [Projectile_C_413] Projectile414
+[2021.05.25-05.01.17:370][353]LogBlueprintUserMessages: [Projectile_C_414] Projectile413
+[2021.05.25-05.01.17:427][354]LogBlueprintUserMessages: [Projectile_C_416] RangedEnemy18
+[2021.05.25-05.01.17:427][354]LogBlueprintUserMessages: [Projectile_C_416] RangedEnemy18
+[2021.05.25-05.01.17:427][354]LogBlueprintUserMessages: [Projectile_C_416] RangedEnemy18
+[2021.05.25-05.01.17:427][354]LogBlueprintUserMessages: [Projectile_C_416] RangedEnemy18
+[2021.05.25-05.01.17:493][355]LogBlueprintUserMessages: [Projectile_C_416] RangedEnemy18
+[2021.05.25-05.01.17:493][355]LogBlueprintUserMessages: [Projectile_C_416] RangedEnemy18
+[2021.05.25-05.01.17:494][355]LogBlueprintUserMessages: [Projectile_C_416] RangedEnemy18
+[2021.05.25-05.01.17:494][355]LogBlueprintUserMessages: [Projectile_C_416] RangedEnemy18
+[2021.05.25-05.01.17:494][355]LogBlueprintUserMessages: [Projectile_C_416] RangedEnemy18
+[2021.05.25-05.01.17:729][359]LogBlueprintUserMessages: [Projectile_C_420] Player
+[2021.05.25-05.01.17:949][363]LogBlueprintUserMessages: [Projectile_C_419] Enemy15
+[2021.05.25-05.01.17:950][363]LogBlueprintUserMessages: [Projectile_C_419] Enemy15
+[2021.05.25-05.01.18:000][364]LogBlueprintUserMessages: [Projectile_C_424] Enemy
+[2021.05.25-05.01.18:001][364]LogBlueprintUserMessages: [Projectile_C_424] Enemy
+[2021.05.25-05.01.18:004][364]LogBlueprintUserMessages: [Projectile_C_421] Projectile419
+[2021.05.25-05.01.18:005][364]LogBlueprintUserMessages: [Projectile_C_419] Projectile421
+[2021.05.25-05.01.18:005][364]LogBlueprintUserMessages: [Projectile_C_424] Enemy
+[2021.05.25-05.01.18:015][364]LogBlueprintUserMessages: [Projectile_C_425] Player
+[2021.05.25-05.01.18:062][365]LogBlueprintUserMessages: [Projectile_C_424] Enemy
+[2021.05.25-05.01.18:062][365]LogBlueprintUserMessages: [Projectile_C_424] Enemy
+[2021.05.25-05.01.18:064][365]LogBlueprintUserMessages: [Projectile_C_425] RangedEnemy11
+[2021.05.25-05.01.18:064][365]LogBlueprintUserMessages: [Projectile_C_425] RangedEnemy11
+[2021.05.25-05.01.18:119][366]LogBlueprintUserMessages: [Projectile_C_425] RangedEnemy11
+[2021.05.25-05.01.18:119][366]LogBlueprintUserMessages: [Projectile_C_425] RangedEnemy11
+[2021.05.25-05.01.18:124][366]LogBlueprintUserMessages: [WaveController_2] Hello
+[2021.05.25-05.01.18:125][366]LogBlueprintUserMessages: [WaveController_2] spawn
+[2021.05.25-05.01.18:129][366]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_C_24 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_C_24 is pending kill". Blueprint:  WaveController Function:  Execute Ubergraph Wave Controller Graph:  EventGraph Node:  Spawn Default Controller
+[2021.05.25-05.01.18:180][367]LogBlueprintUserMessages: [Projectile_C_425] RangedEnemy11
+[2021.05.25-05.01.18:180][367]LogBlueprintUserMessages: [Projectile_C_425] RangedEnemy11
+[2021.05.25-05.01.18:181][367]LogBlueprintUserMessages: [Projectile_C_423] RangedEnemy18
+[2021.05.25-05.01.18:239][368]LogBlueprintUserMessages: [Projectile_C_425] RangedEnemy11
+[2021.05.25-05.01.18:239][368]LogBlueprintUserMessages: [Projectile_C_425] RangedEnemy11
+[2021.05.25-05.01.18:241][368]LogBlueprintUserMessages: [Projectile_C_422] RangedEnemy18
+[2021.05.25-05.01.18:252][368]LogBlueprintUserMessages: [Projectile_C_430] Projectile425
+[2021.05.25-05.01.18:252][368]LogBlueprintUserMessages: [Projectile_C_425] Projectile430
+[2021.05.25-05.01.18:319][369]LogBlueprintUserMessages: [Projectile_C_424] Enemy
+[2021.05.25-05.01.18:319][369]LogBlueprintUserMessages: [Projectile_C_424] Enemy
+[2021.05.25-05.01.18:320][369]LogBlueprintUserMessages: [Projectile_C_422] RangedEnemy18
+[2021.05.25-05.01.18:320][369]LogBlueprintUserMessages: [Projectile_C_422] RangedEnemy18
+[2021.05.25-05.01.18:320][369]LogBlueprintUserMessages: [Projectile_C_422] RangedEnemy18
+[2021.05.25-05.01.18:320][369]LogBlueprintUserMessages: [Projectile_C_422] RangedEnemy18
+[2021.05.25-05.01.18:320][369]LogBlueprintUserMessages: [Projectile_C_422] RangedEnemy18
+[2021.05.25-05.01.18:321][369]LogBlueprintUserMessages: [Projectile_C_425] RangedEnemy11
+[2021.05.25-05.01.18:321][369]LogBlueprintUserMessages: [Projectile_C_425] RangedEnemy11
+[2021.05.25-05.01.18:322][369]LogBlueprintUserMessages: [Projectile_C_427] Projectile426
+[2021.05.25-05.01.18:322][369]LogBlueprintUserMessages: [Projectile_C_426] Projectile427
+[2021.05.25-05.01.18:425][371]LogBlueprintUserMessages: [Projectile_C_430] RangedEnemy11
+[2021.05.25-05.01.18:425][371]LogBlueprintUserMessages: [Projectile_C_426] Player
+[2021.05.25-05.01.18:499][372]LogBlueprintUserMessages: [Projectile_C_430] RangedEnemy11
+[2021.05.25-05.01.18:499][372]LogBlueprintUserMessages: [Projectile_C_430] RangedEnemy11
+[2021.05.25-05.01.18:499][372]LogBlueprintUserMessages: [Projectile_C_433] Player
+[2021.05.25-05.01.18:500][372]LogBlueprintUserMessages: [Projectile_C_428] Player
+[2021.05.25-05.01.18:614][374]LogBlueprintUserMessages: [Projectile_C_431] Enemy
+[2021.05.25-05.01.18:615][374]LogBlueprintUserMessages: [Projectile_C_429] Enemy15
+[2021.05.25-05.01.18:615][374]LogBlueprintUserMessages: [Projectile_C_432] RangedEnemy18
+[2021.05.25-05.01.20:691][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-05.01.20:696][415]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2021.05.25-05.01.20:696][415]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.25-05.01.20:811][415]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-05.01.20:813][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-05.01.20:843][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-05.01.20:869][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-05.01.20:952][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-05.01.20:953][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-05.01.20:999][415]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2021.05.25-05.01.21:205][416]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.05.25-05.01.28:431][835]LogSlate: Window 'Message Log' being destroyed
+[2021.05.25-05.01.28:450][835]LogSlate: Window 'Message Log' being destroyed
