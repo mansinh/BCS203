@@ -7328,3 +7328,15 @@ Script Stack (0 frames):
 [2021.05.28-11.12.08:794][ 36]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/Enemy_Sentinell.Enemy_Sentinell
 [2021.05.28-11.12.08:794][ 36]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/Enemy_Shooter.Enemy_Shooter
 [2021.05.28-11.12.08:794][ 36]LogContentValidation: Display: Validating World /Game/Golem/Maps/Field.Field
+[2021.05.28-14.45.00:805][113]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.28-14.45.00:914][113]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.28-14.45.00:914][113]LogAudioMixer: Display: 1: FrontRight
+[2021.05.30-05.46.49:086][123]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.30-05.46.49:087][123]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.30-05.46.56:268][123]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.30-05.46.56:268][123]LogAudioMixer: Display: 1: FrontRight
+[2021.05.30-05.48.40:672][124]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.30-05.48.40:779][124]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.30-05.48.40:779][124]LogAudioMixer: Display: 1: FrontRight
+[2021.05.30-05.52.03:052][473]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.30-06.10.00:467][997]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
