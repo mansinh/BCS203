@@ -1,0 +1,1514 @@
+﻿Log file open, 06/04/21 18:56:40
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Golem
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 5.159200
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/manhk/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Pentium(R) CPU G4400 @ 3.30GHz, GPU: NVIDIA GeForce GTX 950
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: G:/UE4/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Engine.ini]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2021.06.04-06.56.45:744][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2021.06.04-06.56.45:745][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Engine.ini]
+[2021.06.04-06.56.45:746][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Engine.ini]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Engine.ini]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.06.04-06.56.45:746][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Engine.ini]
+[2021.06.04-06.56.45:746][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Engine.ini]
+[2021.06.04-06.56.45:769][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Scalability.ini]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Scalability.ini]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Scalability.ini]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.04-06.56.45:769][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Scalability.ini]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Scalability.ini]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Scalability.ini]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.04-06.56.45:770][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.04-06.56.45:771][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.04-06.56.45:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.04-06.56.45:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.04-06.56.45:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.04-06.56.45:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.04-06.56.45:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.04-06.56.45:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.04-06.56.45:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.04-06.56.45:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.04-06.56.45:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.04-06.56.45:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.04-06.56.45:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.04-06.56.45:771][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Scalability.ini]
+[2021.06.04-06.56.45:771][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.04-06.56.45:771][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.04-06.56.45:771][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Scalability.ini]
+[2021.06.04-06.56.45:771][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.04-06.56.45:771][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.04-06.56.45:771][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.04-06.56.45:771][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.04-06.56.45:771][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.04-06.56.45:774][  0]LogHAL: Display: Platform has ~ 8 GB [8547704832 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.04-06.56.45:774][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.04-06.56.45:774][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Scalability.ini]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Scalability.ini]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Scalability.ini]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Scalability.ini]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.04-06.56.45:774][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Scalability.ini]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Scalability.ini]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.04-06.56.45:775][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Scalability.ini]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Scalability.ini]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.04-06.56.45:776][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.04-06.56.45:788][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.04-06.56.45:788][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.04-06.56.45:788][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.06.04-06.56.45:788][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Engine.ini]
+[2021.06.04-06.56.45:788][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Config/Windows/Editor.ini]
+[2021.06.04-06.56.45:788][  0]LogInit: Computer: DESKTOP-V2BT1F0
+[2021.06.04-06.56.45:788][  0]LogInit: User: manhk
+[2021.06.04-06.56.45:788][  0]LogInit: CPU Page size=4096, Cores=2
+[2021.06.04-06.56.45:788][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.04-06.56.45:788][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2021.06.04-06.56.45:788][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.04-06.56.45:788][  0]LogMemory: Process Physical Memory: 134.07 MB used, 134.07 MB peak
+[2021.06.04-06.56.45:788][  0]LogMemory: Process Virtual Memory: 117.20 MB used, 117.20 MB peak
+[2021.06.04-06.56.45:788][  0]LogMemory: Physical Memory: 5601.82 MB used,  2549.90 MB free, 8151.73 MB total
+[2021.06.04-06.56.45:788][  0]LogMemory: Virtual Memory: 134213552.00 MB used,  4174.88 MB free, 134217728.00 MB total
+[2021.06.04-06.56.45:795][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.04-06.56.46:190][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.06.04-06.56.46:220][  0]LogInit: Using OS detected language (en-US).
+[2021.06.04-06.56.46:220][  0]LogInit: Using OS detected locale (en-NZ).
+[2021.06.04-06.56.46:336][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.06.04-06.56.47:277][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.04-06.56.47:333][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.04-06.56.47:562][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.04-06.56.47:562][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.04-06.56.54:123][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.04-06.56.54:124][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.04-06.56.54:124][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.04-06.56.54:124][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.04-06.56.54:233][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950' (Feature Level 11_0)
+[2021.06.04-06.56.54:233][  0]LogD3D11RHI:       2007/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.06.04-06.56.54:237][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.04-06.56.54:237][  0]LogD3D11RHI:       0/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.04-06.56.54:237][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.04-06.56.54:245][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.04-06.56.54:245][  0]LogD3D11RHI:     GPU DeviceId: 0x1402 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.04-06.56.54:245][  0]LogWindows: EnumDisplayDevices:
+[2021.06.04-06.56.54:245][  0]LogWindows:    0. 'NVIDIA GeForce GTX 950' (P:1 D:1)
+[2021.06.04-06.56.54:245][  0]LogWindows:    1. 'NVIDIA GeForce GTX 950' (P:0 D:1)
+[2021.06.04-06.56.54:246][  0]LogWindows:    2. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2021.06.04-06.56.54:246][  0]LogWindows:    3. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2021.06.04-06.56.54:246][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.06.04-06.56.54:246][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950
+[2021.06.04-06.56.54:246][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.06.04-06.56.54:246][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.06.04-06.56.54:246][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2021.06.04-06.56.54:331][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.06.04-06.56.54:333][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.04-06.56.54:333][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.06.04-06.56.54:601][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.04-06.56.54:607][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.06.04-06.56.55:701][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.04-06.56.55:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.04-06.56.55:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.04-06.56.55:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.04-06.56.55:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.04-06.56.55:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.04-06.56.55:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.04-06.56.55:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.04-06.56.55:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.04-06.56.55:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.04-06.56.55:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.04-06.56.55:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.04-06.56.55:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.04-06.56.55:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.04-06.56.55:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.04-06.56.55:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.04-06.56.55:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.04-06.56.55:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.04-06.56.55:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.04-06.56.55:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.04-06.56.56:011][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.04-06.56.56:011][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.04-06.56.56:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.04-06.56.56:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.04-06.56.56:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.04-06.56.56:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.04-06.56.56:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.04-06.56.56:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.04-06.56.56:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.04-06.56.56:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.04-06.56.56:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.04-06.56.56:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.04-06.56.56:192][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.04-06.56.56:226][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.04-06.56.56:847][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.06.04-06.56.56:849][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Intermediate/Shaders/WorkingDirectory/9376/).
+[2021.06.04-06.56.56:850][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/manhk/AppData/Local/Temp/UnrealShaderWorkingDir/80FB936F472541DB3C77C3A4BA696D1D/'.
+[2021.06.04-06.56.56:850][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.04-06.56.56:850][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.04-06.57.03:409][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.04-06.57.03:630][  0]LogDerivedDataCache: Loaded boot cache 0.22s 77MB C:/Users/manhk/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.04-06.57.03:631][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/manhk/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.04-06.57.03:632][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.04-06.57.03:632][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.04-06.57.03:632][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.04-06.57.03:632][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.04-06.57.03:722][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.04-06.57.03:722][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.04-06.57.03:722][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.04-06.57.03:757][  0]LogDerivedDataCache: Speed tests for C:/Users/manhk/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2021.06.04-06.57.03:757][  0]LogDerivedDataCache: Display: Performance to C:/Users/manhk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=52.80MBs, RandomWriteSpeed=56.12MBs. Assigned SpeedClass 'Local'
+[2021.06.04-06.57.03:782][  0]LogDerivedDataCache: Using Local data cache path C:/Users/manhk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.04-06.57.03:782][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.04-06.57.03:782][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.04-06.57.03:889][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.04-06.57.03:897][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.04-06.57.04:220][  0]LogAssetRegistry: FAssetRegistry took 0.0160 seconds to start up
+[2021.06.04-06.57.08:984][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.04-06.57.08:984][  0]LogInit: Active device profile: [000001E8E0417600][000001E8DEE22980 49] Windows
+[2021.06.04-06.57.08:984][  0]LogInit: Profiles: [000001E8E0417600][000001E8DEE22980 49] Windows, [000001E8E03E4B00][000001E8DEE2AB00 49] WindowsNoEditor, [000001E8E0414C00][000001E8DEE2EC80 49] WindowsServer, [000001E8E03E6F00][000001E8DEE32E00 49] WindowsClient, [000001E8E0416E00][000001E8DEE36F80 49] IOS, [000001E8E03E5400][000001E8DEE3B100 49] iPadAir, [000001E8E0415300][000001E8DEE3F280 49] iPadAir2, [000001E8E03A8A00][000001E8DEE47540 49] IPadPro, [000001E8E03A8B00][000001E8DEE43580 49] iPadAir3, [000001E8E0416900][000001E8DEE4B700 49] iPadAir4, [000001E8E03AB800][000001E8E1051880 49] iPadMini2, [000001E8E0415700][000001E8DEE279C0 49] iPadMini3, [000001E8E03AA000][000001E8E1055B00 49] iPadMini4, [000001E8E0417A00][000001E8E1059C40 49] iPadMini5, [000001E8E03E4800][000001E8E1064240 49] iPhone6, [000001E8E03E7A00][000001E8E1060280 49] iPodTouch6, [000001E8E03AA400][000001E8E106C540 49] iPhone7, [000001E8E03AA300][000001E8E1068580 49] iPodTouch7, [000001E8E03E7900][000001E8E1070700 49] iPhone5S, [000001E8E03AAE00][000001E8E1074880 49] iPhone6Plus, [000001E8E03E6700][000001E8E1078A00 49] iPhone6S, [000001E8E03AAF00][000001E8E107CB80 49] iPhone6SPlus, [000001E8E03E5E00][000001E8E1080D00 49] iPhone7Plus, [000001E8E03A9600][000001E8E1084E80 49] iPhoneSE, [000001E8E03E7300][000001E8E1089000 49] iPhone8, [000001E8E03ABA00][000001E8E108D180 49] iPhone8Plus, [000001E8E03E7B00][000001E8E1091300 49] iPhoneX, [000001E8E03A9E00][000001E8E1095480 49] iPhoneXS, [000001E8E03E6C00][000001E8E1099600 49] iPhoneXSMax, [000001E8E03A9700][000001E8E109D780 49] iPhoneXR, [000001E8E03E4C00][000001E8E10A1900 49] iPhone11, [000001E8E03A8900][000001E8E105DA40 49] iPhone11Pro, [000001E8E03E4400][000001E8E10A5B80 49] iPhone11ProMax, [000001E8E03A9800][000001E8E10A9CC0 49] iPhoneSE2, [000001E8E03E4200][000001E8E10B0180 49] iPhone12Mini, [000001E8E03A8D00][000001E8E10B4300 49] iPhone12, [000001E8E03E7700][000001E8E10B8480 49] iPhone12Pro, [000001E8E03ABC00][000001E8E10BC600 49] iPhone12ProMax, [000001E8E03E4F00][000001E8E10C0780 49] iPadPro105, [000001E8E03AB700][000001E8E10C4900 49] iPadPro129, [000001E8E03E7F00][000001E8E10C8A80 49] iPadPro97, [000001E8E03A8500][000001E8E10CCC00 49] iPadPro2_129, [000001E8E03E5C00][000001E8E10D0D80 49] iPad5, [000001E8E03ABE00][000001E8E10D4F00 49] iPad6, [000001E8E03E5300][000001E8E10D9080 49] iPad7, [000001E8E03AB200][000001E8E10DD200 49] iPad8, [000001E8E03E6100][000001E8E10E1380 49] iPadPro11, [000001E8E03A9A00][000001E8E10E5500 49] iPadPro2_11, [000001E8E03E4A00][000001E8E10E9680 49] iPadPro3_129, [000001E8E03AB100][000001E8E10ED800 49] iPadPro4_129, [000001E8E03E7200][000001E8E10F1980 49] AppleTV, [000001E8E03A9000][000001E8E10ADAC0 49] AppleTV4K, [000001E8E03E6200][000001E8E10F5C00 49] TVOS, [000001E8E03A8400][000001E8E10F9D40 49] Mac, [000001E8E03E6D00][000001E8E10FC1C0 49] MacClient, [000001E8E03A8200][000001E8E1104340 49] MacNoEditor, [000001E8E03E6400][000001E8E11084C0 49] MacServer, [000001E8E03A8300][000001E8E110C640 49] Linux, [000001E8E0414700][000001E8E11107C0 49] LinuxAArch64, [000001E8E0481800][000001E8E1114940 49] LinuxNoEditor, [000001E8E0417800][000001E8E1118AC0 49] LinuxAArch64NoEditor, [000001E8E0481500][000001E8E111CC40 49] LinuxClient, [000001E8E0414800][000001E8E1120DC0 49] LinuxAArch64Client, [000001E8E0480400][000001E8E1124F40 49] LinuxServer, [000001E8E0417000][000001E8E11290C0 49] LinuxAArch64Server, [000001E8E0481600][000001E8E112D240 49] Android, [000001E8E0415400][000001E8E11313C0 49] Android_Low, [000001E8E0480200][000001E8E1135540 49] Android_Mid, [000001E8E0415E00][000001E8E11396C0 49] Android_High, [000001E8E0480500][000001E8E113D840 49] Android_Default, [000001E8E0414F00][000001E8E11419C0 49] Android_Adreno4xx, [000001E8E0480300][000001E8E1101B00 49] Android_Adreno5xx_Low, [000001E8E0414400][000001E8E1145C40 49] Android_Adreno5xx, [000001E8E0480900][000001E8E11480C0 49] Android_Adreno6xx, [000001E8E03ABF00][000001E8E114C200 49] Android_Adreno6xx_Vulkan, [000001E8E03E7C00][000001E8E1154380 49] Android_Mali_T6xx, [000001E8E03AB400][000001E8E1158500 49] Android_Mali_T7xx, [000001E8E03E7800][000001E8E115C680 49] Android_Mali_T8xx, [000001E8E03A8700][000001E8E1160800 49] Android_Mali_G71, [000001E8E03E5000][000001E8E1164980 49] Android_Mali_G72, [000001E8E03A9F00][000001E8E1168B00 49] Android_Mali_G72_Vulkan, [000001E8E03E6800][000001E8E116CC80 49] Android_Mali_G76, [000001E8E03AA900][000001E8E1170E00 49] Android_Mali_G76_Vulkan, [000001E8E03E4D00][000001E8E1174F80 49] Android_Mali_G77, [000001E8E03A8100][000001E8E1179100 49] Android_Mali_G77_Vulkan, [000001E8E03E6900][000001E8E117D280 49] Android_Vulkan_SM5, [000001E8E03A9100][000001E8E1181400 49] Android_PowerVR_G6xxx, [000001E8E03E6600][000001E8E1185580 49] Android_PowerVR_GT7xxx, [000001E8E03AAB00][000001E8E1189700 49] Android_PowerVR_GE8xxx, [000001E8E03E6B00][000001E8E118D880 49] Android_PowerVR_GM9xxx, [000001E8E03A9D00][000001E8E1191A00 49] Android_PowerVR_GM9xxx_Vulkan, [000001E8E0481000][000001E8E1195B80 49] Android_TegraK1, [000001E8E03A9400][000001E8E1151CC0 49] Android_Unknown_Vulkan, [000001E8E0480A00][000001E8E1198140 49] Lumin, [000001E8E03ABD00][000001E8E119C280 49] Lumin_Desktop, [000001E8E0481D00][000001E8E11A4400 49] HoloLens, 
+[2021.06.04-06.57.11:412][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.04-06.57.11:412][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.04-06.57.11:412][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.04-06.57.11:412][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.04-06.57.11:414][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.04-06.57.11:710][  0]LogNetVersion: Golem 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4180901818)
+[2021.06.04-06.57.38:509][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.06.04-06.57.38:634][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.080667 seconds
+[2021.06.04-06.57.38:654][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.06.04-06.57.38:664][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.06.04-06.57.38:664][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.04-06.57.48:300][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.04-06.57.48:333][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.04-06.57.49:776][  0]SourceControl: Source control is disabled
+[2021.06.04-06.57.49:776][  0]SourceControl: Source control is disabled
+[2021.06.04-06.57.49:922][  0]SourceControl: Source control is disabled
+[2021.06.04-06.57.49:981][  0]SourceControl: Source control is disabled
+[2021.06.04-06.57.50:165][  0]SourceControl: Source control is disabled
+[2021.06.04-06.57.50:213][  0]LogUProjectInfo: Found projects:
+[2021.06.04-06.57.53:561][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.04-06.57.53:659][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.04-06.57.53:659][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.04-06.57.54:138][  0]LogCollectionManager: Loaded 0 collections in 0.016041 seconds
+[2021.06.04-06.57.54:266][  0]LogFileCache: Scanning file cache for directory 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Collections/' took 0.00s
+[2021.06.04-06.57.54:266][  0]LogFileCache: Scanning file cache for directory 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Developers/manhk/Collections/' took 0.00s
+[2021.06.04-06.57.54:266][  0]LogFileCache: Scanning file cache for directory 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Collections/' took 0.00s
+[2021.06.04-06.57.54:266][  0]LogOcInput: OculusInput pre-init called
+[2021.06.04-06.57.54:357][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.06.04-06.57.54:357][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.06.04-06.57.55:307][  0]LogEngine: Initializing Engine...
+[2021.06.04-06.57.55:335][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.04-06.57.55:346][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.06.04-06.57.55:380][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2021.06.04-06.57.55:552][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.04-06.57.55:666][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.04-06.57.55:669][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.04-06.57.55:704][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.04-06.57.55:704][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.04-06.57.55:704][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-06.57.55:704][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-06.57.55:704][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-06.57.55:704][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-06.57.55:704][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-06.57.55:704][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-06.57.55:704][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-06.57.55:705][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-06.57.55:706][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-06.57.55:706][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-06.57.55:865][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-06.57.55:865][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-06.57.55:947][  0]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.04-06.57.55:965][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.04-06.57.55:967][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.04-06.57.55:967][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.04-06.57.55:969][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.04-06.57.55:969][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.04-06.57.55:969][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.04-06.57.55:970][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.04-06.57.55:970][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.04-06.57.55:970][  0]LogInit: FAudioDevice initialized.
+[2021.06.04-06.57.55:972][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.04-06.57.55:973][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.04-06.57.56:064][  0]LogDerivedDataCache: Saved boot cache 0.09s 77MB C:/Users/manhk/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.04-06.57.56:066][  0]LogInit: Texture streaming: Enabled
+[2021.06.04-06.57.56:131][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.06.04-06.57.56:159][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.04-06.57.56:159][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={F2161CBA-451A-9430-0A3D-EEBFB39B3AC4}
+[2021.06.04-06.57.56:159][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.04-06.57.56:164][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.04-06.57.56:408][  0]LogInit: Transaction tracking system initialized
+[2021.06.04-06.57.56:652][  0]BlueprintLog: New page: Editor Load
+[2021.06.04-06.57.57:715][  0]LocalizationService: Localization service is disabled
+[2021.06.04-06.57.58:065][  0]TimingProfiler: Initialize
+[2021.06.04-06.57.58:068][  0]TimingProfiler: OnSessionChanged
+[2021.06.04-06.57.58:068][  0]LoadingProfiler: Initialize
+[2021.06.04-06.57.58:069][  0]LoadingProfiler: OnSessionChanged
+[2021.06.04-06.57.58:070][  0]NetworkingProfiler: Initialize
+[2021.06.04-06.57.58:070][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.04-06.57.58:070][  0]MemoryProfiler: Initialize
+[2021.06.04-06.57.58:071][  0]MemoryProfiler: OnSessionChanged
+[2021.06.04-06.58.01:010][  0]LogFileCache: Scanning file cache for directory 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/' took 0.01s
+[2021.06.04-06.58.01:010][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.04-06.58.01:011][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.04-06.58.07:999][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.06.04-06.58.08:312][  0]SourceControl: Source control is disabled
+[2021.06.04-06.58.08:312][  0]LogUnrealEdMisc: Loading editor; pre map load, took 224.024
+[2021.06.04-06.58.08:375][  0]Cmd: MAP LOAD FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/UI/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.04-06.58.08:377][  0]LightingResults: New page: Lighting Build
+[2021.06.04-06.58.08:456][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-06.58.08:456][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-06.58.08:457][  0]MapCheck: New page: Map Check
+[2021.06.04-06.58.08:457][  0]LightingResults: New page: Lighting Build
+[2021.06.04-06.58.08:478][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.06.04-06.58.08:686][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.06.04-06.58.08:687][  0]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.04-06.58.08:688][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.04-06.58.08:701][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.06.04-06.58.08:721][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.04-06.58.08:722][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.243ms to complete.
+[2021.06.04-06.58.08:722][  0]LogFileHelpers: Loading map 'MainMenu' took 0.381
+[2021.06.04-06.58.08:832][  0]LogUnrealEdMisc: Total Editor Startup Time, took 224.543
+[2021.06.04-06.58.09:668][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-06.58.09:703][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-06.58.09:722][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-06.58.09:733][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-06.58.10:131][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0117 seconds. Added 3601 classes and 859 folders.
+[2021.06.04-06.58.10:383][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.06.04-06.58.10:624][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.04-06.58.10:624][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:624][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.04-06.58.10:624][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.06.04-06.58.10:671][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.04-06.58.10:671][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:671][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.04-06.58.10:671][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.06.04-06.58.10:702][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.04-06.58.10:702][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:702][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.04-06.58.10:702][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.06.04-06.58.10:719][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.04-06.58.10:719][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:719][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.04-06.58.10:719][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.06.04-06.58.10:732][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.04-06.58.10:732][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:732][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.04-06.58.10:732][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.06.04-06.58.10:751][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.04-06.58.10:751][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:751][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.04-06.58.10:751][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.06.04-06.58.10:759][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.04-06.58.10:759][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:759][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.04-06.58.10:759][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.06.04-06.58.10:770][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.04-06.58.10:770][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:770][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.04-06.58.10:770][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.06.04-06.58.10:782][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.04-06.58.10:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.04-06.58.10:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.06.04-06.58.10:790][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.04-06.58.10:790][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:790][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.04-06.58.10:790][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.06.04-06.58.10:798][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.04-06.58.10:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.04-06.58.10:799][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.06.04-06.58.10:808][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.04-06.58.10:808][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:808][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.04-06.58.10:808][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2021.06.04-06.58.10:816][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.04-06.58.10:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.04-06.58.10:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2021.06.04-06.58.10:824][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.04-06.58.10:825][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:825][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.04-06.58.10:825][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2021.06.04-06.58.10:834][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.04-06.58.10:834][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:834][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.04-06.58.10:834][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2021.06.04-06.58.10:843][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.04-06.58.10:843][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:843][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.04-06.58.10:843][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2021.06.04-06.58.10:853][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.04-06.58.10:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.04-06.58.10:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2021.06.04-06.58.10:861][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.04-06.58.10:862][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:862][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.04-06.58.10:862][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2021.06.04-06.58.10:871][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.04-06.58.10:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.04-06.58.10:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2021.06.04-06.58.10:885][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.04-06.58.10:885][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:885][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.04-06.58.10:885][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2021.06.04-06.58.10:893][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.04-06.58.10:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:893][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.04-06.58.10:893][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2021.06.04-06.58.10:902][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.04-06.58.10:902][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:902][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.04-06.58.10:903][  0]LogPakFile: OnPakFileMounted2Time == 0.000126
+[2021.06.04-06.58.10:911][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.04-06.58.10:911][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:911][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.04-06.58.10:911][  0]LogPakFile: OnPakFileMounted2Time == 0.000131
+[2021.06.04-06.58.10:922][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.04-06.58.10:922][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:922][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.04-06.58.10:922][  0]LogPakFile: OnPakFileMounted2Time == 0.000136
+[2021.06.04-06.58.10:932][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.04-06.58.10:932][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:932][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.04-06.58.10:932][  0]LogPakFile: OnPakFileMounted2Time == 0.000140
+[2021.06.04-06.58.10:940][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.04-06.58.10:940][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.04-06.58.10:940][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.04-06.58.10:940][  0]LogPakFile: OnPakFileMounted2Time == 0.000145
+[2021.06.04-06.58.19:121][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.06.04-06.58.19:122][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.06.04-06.58.19:764][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.04-06.58.19:766][  0]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.04-06.58.19:820][  0]LogSlate: Took 0.029541 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.04-06.58.20:352][  0]LogRenderer: Reallocating scene render targets to support 1208x488 Format 10 NumSamples 1 (Frame:1).
+[2021.06.04-06.58.20:869][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.06.04-06.58.20:876][  0]LogLoad: (Engine Initialization) Total time: 236.59 seconds
+[2021.06.04-06.58.20:876][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.04-06.58.20:876][  0]LogInit: First time updating LLM stats...
+[2021.06.04-06.58.21:148][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.04-06.58.21:256][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/' took 0.32s
+[2021.06.04-06.58.21:261][  1]LogAssetRegistry: Asset discovery search completed in 77.0427 seconds
+[2021.06.04-06.58.21:263][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.06.04-06.58.21:678][  2]LogSlate: Took 0.050991 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.04-06.58.22:263][  4]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.04-07.00.22:106][844]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.04-07.00.22:113][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.04-07.00.22:113][844]PIE: New page: PIE session: MainMenu (5/06/2021, 7:00:22 am)
+[2021.06.04-07.00.22:114][844]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.04-07.00.22:115][844]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.06.04-07.00.22:116][844]LogPlayLevel: Creating play world package: /Game/Golem/UI/UEDPIE_0_MainMenu
+[2021.06.04-07.00.22:117][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001283s)
+[2021.06.04-07.00.22:118][844]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.04-07.00.22:118][844]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2021.06.04-07.00.22:118][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/UI/MainMenu.MainMenu to /Game/Golem/UI/UEDPIE_0_MainMenu.MainMenu (0.002797s)
+[2021.06.04-07.00.22:126][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.06.04-07.00.22:127][844]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.06.04-07.00.22:127][844]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-07.00.22:127][844]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-07.00.22:127][844]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-07.00.22:127][844]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-07.00.22:127][844]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-07.00.22:127][844]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-07.00.22:127][844]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-07.00.22:127][844]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-07.00.22:128][844]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-07.00.22:128][844]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-07.00.22:134][844]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-07.00.22:134][844]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-07.00.22:151][844]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.04-07.00.22:151][844]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.04-07.00.22:151][844]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.04-07.00.22:151][844]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.04-07.00.22:152][844]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.04-07.00.22:152][844]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.04-07.00.22:152][844]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.04-07.00.22:169][844]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.04-07.00.22:169][844]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.04-07.00.22:169][844]LogInit: FAudioDevice initialized.
+[2021.06.04-07.00.22:169][844]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2021.06.04-07.00.22:180][844]LogLinker: Warning: Failed to load '/Game/TwinStickBP/Blueprints/TwinStickGameMode': Can't find file.
+[2021.06.04-07.00.22:180][844]LogLinker: Warning: Failed to load '/Game/TwinStickBP/Blueprints/TwinStickGameMode': Can't find file.
+[2021.06.04-07.00.22:180][844]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C'
+[2021.06.04-07.00.22:180][844]LogLoad: Game class is 'GameModeBase'
+[2021.06.04-07.00.22:181][844]LogWorld: Bringing World /Game/Golem/UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.06.04-19.00.22
+[2021.06.04-07.00.22:181][844]LogWorld: Bringing up level for play took: 0.000395
+[2021.06.04-07.00.22:181][844]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.06.04-07.00.22:484][844]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2021.06.04-07.00.22:492][844]PIE: Server logged in
+[2021.06.04-07.00.22:496][844]PIE: Play in editor total start time 0.384 seconds.
+[2021.06.04-07.00.23:555][933]LogNet: Browse: /Game/Golem/Maps/Field
+[2021.06.04-07.00.23:555][933]LogLoad: LoadMap: /Game/Golem/Maps/Field
+[2021.06.04-07.00.23:555][933]LogWorld: BeginTearingDown for /Game/Golem/UI/UEDPIE_0_MainMenu
+[2021.06.04-07.00.23:555][933]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-07.00.23:555][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-07.00.23:583][933]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-07.00.23:585][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.06.04-07.00.23:630][933]LogLinker: Warning: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\TwinStick\Materials\M_Concrete_Poured.uasset: Failed to load '/Game/MobileStarterContent/Textures/T_Concrete_Poured_D': Can't find file.
+[2021.06.04-07.00.23:631][933]LoadErrors: Failed to load /Game/TwinStick/Materials/M_Concrete_Poured.M_Concrete_Poured Referenced by PlaceholderMesh_GEN_VARIABLE
+[2021.06.04-07.00.23:631][933]LogLinker: Warning: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\TwinStick\Materials\M_Concrete_Poured.uasset: Failed to load '/Game/MobileStarterContent/Textures/T_Concrete_Poured_D': Can't find file.
+[2021.06.04-07.00.23:631][933]LogLinker: Warning: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\TwinStick\Materials\M_Concrete_Poured.uasset: Failed to load '/Game/MobileStarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.06.04-07.00.23:632][933]LogLinker: Warning: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\TwinStick\Materials\M_Concrete_Poured.uasset: Failed to load '/Game/MobileStarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.06.04-07.00.23:632][933]LogLinker: Warning: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\TwinStick\Materials\M_Concrete_Poured.uasset: Failed to load '/Game/MobileStarterContent/Textures/T_Concrete_Poured_D': Can't find file.
+[2021.06.04-07.00.23:632][933]LogLinker: Warning: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\TwinStick\Materials\M_Concrete_Poured.uasset: Failed to load '/Game/MobileStarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.06.04-07.00.24:059][933]LogLinker: Warning: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\TwinStick\Materials\M_Concrete_Poured.uasset: Failed to load '/Game/MobileStarterContent/Textures/T_Concrete_Poured_D': Can't find file.
+[2021.06.04-07.00.24:059][933]LoadErrors: Failed to load /Game/MobileStarterContent/Textures/T_Concrete_Poured_D.T_Concrete_Poured_D Referenced by MaterialExpressionTextureSample_64
+[2021.06.04-07.00.24:059][933]LogLinker: Warning: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\TwinStick\Materials\M_Concrete_Poured.uasset: Failed to load '/Game/MobileStarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.06.04-07.00.24:059][933]LoadErrors: Failed to load /Game/MobileStarterContent/Textures/T_Concrete_Poured_N.T_Concrete_Poured_N Referenced by MaterialExpressionTextureSample_65
+[2021.06.04-07.00.24:105][933]LogMaterial: Display: Missing cached shader map for material SandMaterial_2, compiling. 
+[2021.06.04-07.00.24:209][933]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 21
+[2021.06.04-07.00.24:209][933]LogMaterial: Display: Missing cached shader map for material M_Concrete_Poured, compiling. 
+[2021.06.04-07.00.24:210][933]LogMaterial: Warning: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\TwinStick\Materials\M_Concrete_Poured.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-07.00.24:210][933]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.04-07.00.24:253][933]LogAudio: Display: Audio Device (ID: 2) registered with world 'Field'.
+[2021.06.04-07.00.24:254][933]LogAIModule: Creating AISystem for world Field
+[2021.06.04-07.00.24:255][933]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.04-07.00.24:262][933]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Field.Field up for play (max tick rate 0) at 2021.06.04-19.00.24
+[2021.06.04-07.00.24:263][933]LogWorld: Bringing up level for play took: 0.007572
+[2021.06.04-07.00.24:268][933]LogLoad: Took 0.713156 seconds to LoadMap(/Game/Golem/Maps/Field)
+[2021.06.04-07.00.25:265][955]LogBlueprintUserMessages: [Corpse_2] Hello
+[2021.06.04-07.00.25:268][955]LogBlueprintUserMessages: [RangedCorpse_2] Hello
+[2021.06.04-07.00.29:659][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-07.00.29:659][223]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Field
+[2021.06.04-07.00.29:660][223]LogWorld: UWorld::CleanupWorld for Field, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-07.00.29:660][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-07.00.29:725][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.04-07.00.29:726][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-07.00.29:736][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-07.00.29:738][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-07.00.29:740][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-07.00.29:779][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.06.04-07.00.29:795][224]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.06.04-07.00.49:637][307]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TwinStick/Materials/SandMaterial_2.SandMaterial_2
+[2021.06.04-07.00.49:712][307]LogMaterial: Display: Missing cached shader map for material SandMaterial_2, compiling. 
+[2021.06.04-07.00.50:432][307]LogMaterial: Display: Missing cached shader map for material SandMaterial_2, compiling. 
+[2021.06.04-07.00.50:486][307]LogMaterial: Display: Missing cached shader map for material SandMaterial_2, compiling. 
+[2021.06.04-07.00.50:511][307]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.06.04-07.00.50:517][307]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2021.06.04-07.00.50:695][307]LogSlate: Took 0.132497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.04-07.01.39:606][763]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.06.04-07.01.45:213][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.06.04-07.01.46:949][123]LogMaterialEditor: Applying material SandMaterial_2
+[2021.06.04-07.01.47:601][123]LogMaterial: Display: Missing cached shader map for material SandMaterial_2, compiling. 
+[2021.06.04-07.01.47:659][123]LogMaterial: Display: Missing cached shader map for material SandMaterial_2, compiling. 
+[2021.06.04-07.01.52:855][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 51
+[2021.06.04-07.01.52:855][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 50
+[2021.06.04-07.01.52:855][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 49
+[2021.06.04-07.01.52:919][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.06.04-07.01.52:950][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 48
+[2021.06.04-07.01.52:957][123]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.04-07.01.53:522][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 49
+[2021.06.04-07.01.54:082][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 48
+[2021.06.04-07.01.55:204][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 47
+[2021.06.04-07.01.55:764][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 46
+[2021.06.04-07.01.56:324][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 45
+[2021.06.04-07.01.57:446][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 44
+[2021.06.04-07.01.58:008][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 43
+[2021.06.04-07.01.58:569][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 42
+[2021.06.04-07.01.59:129][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 41
+[2021.06.04-07.02.00:811][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 40
+[2021.06.04-07.02.01:373][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 39
+[2021.06.04-07.02.01:934][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 38
+[2021.06.04-07.02.02:496][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 37
+[2021.06.04-07.02.03:060][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 36
+[2021.06.04-07.02.03:625][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 35
+[2021.06.04-07.02.04:185][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 34
+[2021.06.04-07.02.04:185][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 33
+[2021.06.04-07.02.04:458][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 32
+[2021.06.04-07.02.04:471][123]TextureStreamingBuild: Display: Compiling optional shaders took 11.521 seconds.
+[2021.06.04-07.02.08:557][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.06.04-07.02.08:576][123]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 22
+[2021.06.04-07.02.12:506][412]LogMaterialEditor: Saving and Compiling material SandMaterial_2
+[2021.06.04-07.02.17:583][412]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 12
+[2021.06.04-07.02.22:065][412]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 2
+[2021.06.04-07.02.22:688][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStick/Materials/SandMaterial_2" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/TwinStick/Materials/SandMaterial_2.uasset" SILENT=true
+[2021.06.04-07.02.22:696][412]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/SandMaterial_2AE02388D4E8F2E2D26FAA592832411B1.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/TwinStick/Materials/SandMaterial_2.uasset'
+[2021.06.04-07.02.22:736][412]AssetCheck: New page: Asset Save: SandMaterial_2
+[2021.06.04-07.02.22:736][412]LogContentValidation: Display: Validating Material /Game/TwinStick/Materials/SandMaterial_2.SandMaterial_2
+[2021.06.04-07.02.22:738][412]MaterialEditorStats: Base pass shader: 121 instructions
+[2021.06.04-07.02.22:738][412]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2021.06.04-07.02.22:738][412]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2021.06.04-07.02.22:738][412]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.04-07.02.22:738][412]MaterialEditorStats: Texture samplers: 4/16
+[2021.06.04-07.02.22:738][412]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.04-07.02.22:738][412]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.04-07.02.22:779][412]LogSlate: Took 0.027986 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.04-07.02.24:202][550]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-07.02.24:202][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-07.02.29:063][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.06.04-07.02.29:105][928]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Golem/Maps/Field.Field
+[2021.06.04-07.02.29:105][928]Cmd: MAP LOAD FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Maps/Field.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.04-07.02.29:105][928]LightingResults: New page: Lighting Build
+[2021.06.04-07.02.29:105][928]LoadErrors: New page: Loading map: Field.umap
+[2021.06.04-07.02.29:106][928]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-07.02.29:106][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-07.02.29:106][928]MapCheck: New page: Map Check
+[2021.06.04-07.02.29:106][928]LightingResults: New page: Lighting Build
+[2021.06.04-07.02.29:114][928]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-07.02.29:117][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.06.04-07.02.29:118][928]LogAudio: Display: Audio Device (ID: 1) registered with world 'Field'.
+[2021.06.04-07.02.29:209][928]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.04-07.02.29:210][928]LogAIModule: Creating AISystem for world Field
+[2021.06.04-07.02.29:222][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.06.04-07.02.29:233][928]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.04-07.02.29:233][928]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.158ms to complete.
+[2021.06.04-07.02.29:233][928]LogFileHelpers: Loading map 'Field' took 0.128
+[2021.06.04-07.02.31:382][129]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.04-07.02.31:389][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.04-07.02.31:390][129]PIE: New page: PIE session: Field (5/06/2021, 7:02:31 am)
+[2021.06.04-07.02.31:390][129]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Field
+[2021.06.04-07.02.31:397][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007112s)
+[2021.06.04-07.02.31:398][129]LogAIModule: Creating AISystem for world Field
+[2021.06.04-07.02.31:399][129]LogPlayLevel: PIE: World Init took: (0.001686s)
+[2021.06.04-07.02.31:399][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Field.Field to /Game/Golem/Maps/UEDPIE_0_Field.Field (0.008973s)
+[2021.06.04-07.02.31:407][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.06.04-07.02.31:408][129]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.06.04-07.02.31:408][129]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-07.02.31:408][129]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-07.02.31:408][129]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-07.02.31:408][129]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-07.02.31:408][129]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-07.02.31:408][129]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-07.02.31:408][129]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-07.02.31:408][129]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-07.02.31:409][129]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-07.02.31:409][129]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-07.02.31:415][129]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-07.02.31:416][129]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-07.02.31:433][129]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.04-07.02.31:434][129]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.04-07.02.31:434][129]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.04-07.02.31:434][129]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.04-07.02.31:435][129]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.04-07.02.31:435][129]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.04-07.02.31:435][129]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.04-07.02.31:451][129]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.04-07.02.31:451][129]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.04-07.02.31:451][129]LogInit: FAudioDevice initialized.
+[2021.06.04-07.02.31:451][129]LogAudio: Display: Audio Device (ID: 3) registered with world 'Field'.
+[2021.06.04-07.02.31:462][129]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.04-07.02.31:464][129]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Field.Field up for play (max tick rate 0) at 2021.06.04-19.02.31
+[2021.06.04-07.02.31:464][129]LogWorld: Bringing up level for play took: 0.001458
+[2021.06.04-07.02.31:465][129]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.06.04-07.02.31:470][129]PIE: Server logged in
+[2021.06.04-07.02.31:470][129]PIE: Play in editor total start time 0.082 seconds.
+[2021.06.04-07.02.32:438][196]LogBlueprintUserMessages: [Corpse_2] Hello
+[2021.06.04-07.02.32:439][196]LogBlueprintUserMessages: [RangedCorpse_2] Hello
+[2021.06.04-07.03.08:397][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-07.03.08:397][757]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Field
+[2021.06.04-07.03.08:397][757]LogWorld: UWorld::CleanupWorld for Field, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-07.03.08:398][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-07.03.08:417][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.04-07.03.08:422][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-07.03.08:442][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-07.03.08:443][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-07.03.08:444][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-07.03.08:477][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.06.04-07.03.08:494][758]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.06.04-07.03.24:760][300]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.04-07.03.25:449][300]LogBlueprintEditor: Perf: 0.7 total seconds to load all 6 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.06.04-07.03.25:450][300]LogBlueprintEditor: Perf: 0.6 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2021.06.04-07.03.25:623][300]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 126 classes and 0 folders.
+[2021.06.04-07.03.27:193][301]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.04-07.03.30:177][535]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Units/RangedUnit.RangedUnit
+[2021.06.04-07.03.43:841][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.06.04-07.03.46:273][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.06.04-07.03.48:288][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.06.04-07.04.03:302][962]LogContentBrowser: Attempting asset rename: RangedUnit_2 -> MeleeUnit
+[2021.06.04-07.04.03:428][962]LogMetaData: Removing '/Game/Golem/Blueprints/Units/MeleeUnit.SKEL_MeleeUnit_C' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.04.03:428][962]LogMetaData: Removing '/Game/Golem/Blueprints/Units/MeleeUnit.MeleeUnit_C' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.04.03:428][962]LogMetaData: Removing '/Game/Golem/Blueprints/Units/MeleeUnit.SKEL_MeleeUnit_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.04.03:428][962]LogMetaData: Removing '/Game/Golem/Blueprints/Units/MeleeUnit.SKEL_MeleeUnit_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.04.03:428][962]LogMetaData: Removing '/Game/Golem/Blueprints/Units/MeleeUnit.SKEL_MeleeUnit_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.04.03:428][962]LogMetaData: Removing '/Game/Golem/Blueprints/Units/MeleeUnit.SKEL_MeleeUnit_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.04.03:428][962]LogMetaData: Removing '/Game/Golem/Blueprints/Units/MeleeUnit.MeleeUnit_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.04.03:428][962]LogMetaData: Removing '/Game/Golem/Blueprints/Units/MeleeUnit.MeleeUnit_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.04.03:508][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/MeleeUnit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/MeleeUnit.uasset" SILENT=true
+[2021.06.04-07.04.03:544][962]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/MeleeUnit8F2CB20942E6D047EC22C59EFAE85278.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/MeleeUnit.uasset'
+[2021.06.04-07.04.03:636][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.06.04-07.04.03:673][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.06.04-07.04.03:699][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.06.04-07.04.03:766][962]AssetCheck: New page: Asset Save: MeleeUnit
+[2021.06.04-07.04.03:766][962]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/MeleeUnit.MeleeUnit
+[2021.06.04-07.04.15:150][857]LogContentBrowser: Attempting asset rename: MeleeUnit -> MeleeUnit
+[2021.06.04-07.04.26:778][786]LogContentBrowser: Attempting asset rename: RangedUnit_3 -> DefenderUnit
+[2021.06.04-07.04.26:806][786]LogMetaData: Removing '/Game/Golem/Blueprints/Units/DefenderUnit.SKEL_DefenderUnit_C' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_3.PackageMetaData'
+[2021.06.04-07.04.26:806][786]LogMetaData: Removing '/Game/Golem/Blueprints/Units/DefenderUnit.DefenderUnit_C' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_3.PackageMetaData'
+[2021.06.04-07.04.26:806][786]LogMetaData: Removing '/Game/Golem/Blueprints/Units/DefenderUnit.SKEL_DefenderUnit_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_3.PackageMetaData'
+[2021.06.04-07.04.26:807][786]LogMetaData: Removing '/Game/Golem/Blueprints/Units/DefenderUnit.SKEL_DefenderUnit_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_3.PackageMetaData'
+[2021.06.04-07.04.26:807][786]LogMetaData: Removing '/Game/Golem/Blueprints/Units/DefenderUnit.SKEL_DefenderUnit_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_3.PackageMetaData'
+[2021.06.04-07.04.26:807][786]LogMetaData: Removing '/Game/Golem/Blueprints/Units/DefenderUnit.SKEL_DefenderUnit_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_3.PackageMetaData'
+[2021.06.04-07.04.26:807][786]LogMetaData: Removing '/Game/Golem/Blueprints/Units/DefenderUnit.DefenderUnit_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_3.PackageMetaData'
+[2021.06.04-07.04.26:807][786]LogMetaData: Removing '/Game/Golem/Blueprints/Units/DefenderUnit.DefenderUnit_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_3.PackageMetaData'
+[2021.06.04-07.04.26:875][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/DefenderUnit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/DefenderUnit.uasset" SILENT=true
+[2021.06.04-07.04.26:911][786]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/DefenderUnitA4E3CC6C44A01482F0760E88C2573579.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/DefenderUnit.uasset'
+[2021.06.04-07.04.27:004][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.06.04-07.04.27:043][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.06.04-07.04.27:069][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.06.04-07.04.27:108][786]AssetCheck: New page: Asset Save: DefenderUnit
+[2021.06.04-07.04.27:108][786]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/DefenderUnit.DefenderUnit
+[2021.06.04-07.04.34:699][515]LogContentBrowser: Attempting asset rename: RangedUnit_4 -> MageUnit
+[2021.06.04-07.04.34:723][515]LogMetaData: Removing '/Game/Golem/Blueprints/Units/MageUnit.SKEL_MageUnit_C' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_4.PackageMetaData'
+[2021.06.04-07.04.34:723][515]LogMetaData: Removing '/Game/Golem/Blueprints/Units/MageUnit.MageUnit_C' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_4.PackageMetaData'
+[2021.06.04-07.04.34:723][515]LogMetaData: Removing '/Game/Golem/Blueprints/Units/MageUnit.SKEL_MageUnit_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_4.PackageMetaData'
+[2021.06.04-07.04.34:723][515]LogMetaData: Removing '/Game/Golem/Blueprints/Units/MageUnit.SKEL_MageUnit_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_4.PackageMetaData'
+[2021.06.04-07.04.34:723][515]LogMetaData: Removing '/Game/Golem/Blueprints/Units/MageUnit.SKEL_MageUnit_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_4.PackageMetaData'
+[2021.06.04-07.04.34:723][515]LogMetaData: Removing '/Game/Golem/Blueprints/Units/MageUnit.SKEL_MageUnit_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_4.PackageMetaData'
+[2021.06.04-07.04.34:723][515]LogMetaData: Removing '/Game/Golem/Blueprints/Units/MageUnit.MageUnit_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_4.PackageMetaData'
+[2021.06.04-07.04.34:723][515]LogMetaData: Removing '/Game/Golem/Blueprints/Units/MageUnit.MageUnit_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_4.PackageMetaData'
+[2021.06.04-07.04.34:795][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/MageUnit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/MageUnit.uasset" SILENT=true
+[2021.06.04-07.04.34:831][515]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/MageUnit151F19C64D0A43E15C8A149C82E0B43E.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/MageUnit.uasset'
+[2021.06.04-07.04.34:923][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.06.04-07.04.34:965][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.06.04-07.04.34:992][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.04-07.04.35:031][515]AssetCheck: New page: Asset Save: MageUnit
+[2021.06.04-07.04.35:031][515]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/MageUnit.MageUnit
+[2021.06.04-07.04.39:898][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.06.04-07.04.47:173][450]LogContentBrowser: Attempting asset rename: RangedUnit_2 -> BomberUnit
+[2021.06.04-07.04.47:191][450]LogMetaData: Removing '/Game/Golem/Blueprints/Units/BomberUnit.SKEL_BomberUnit_C' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.04.47:192][450]LogMetaData: Removing '/Game/Golem/Blueprints/Units/BomberUnit.BomberUnit_C' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.04.47:192][450]LogMetaData: Removing '/Game/Golem/Blueprints/Units/BomberUnit.SKEL_BomberUnit_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.04.47:192][450]LogMetaData: Removing '/Game/Golem/Blueprints/Units/BomberUnit.SKEL_BomberUnit_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.04.47:192][450]LogMetaData: Removing '/Game/Golem/Blueprints/Units/BomberUnit.SKEL_BomberUnit_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.04.47:192][450]LogMetaData: Removing '/Game/Golem/Blueprints/Units/BomberUnit.SKEL_BomberUnit_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.04.47:192][450]LogMetaData: Removing '/Game/Golem/Blueprints/Units/BomberUnit.BomberUnit_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.04.47:192][450]LogMetaData: Removing '/Game/Golem/Blueprints/Units/BomberUnit.BomberUnit_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.04.47:268][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/BomberUnit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/BomberUnit.uasset" SILENT=true
+[2021.06.04-07.04.47:305][450]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/BomberUnitF617EB5A46C6A3CF10E961BC555E2E2D.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/BomberUnit.uasset'
+[2021.06.04-07.04.47:405][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.06.04-07.04.47:442][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.06.04-07.04.47:468][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.04-07.04.47:507][450]AssetCheck: New page: Asset Save: BomberUnit
+[2021.06.04-07.04.47:507][450]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/BomberUnit.BomberUnit
+[2021.06.04-07.04.52:425][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.06.04-07.05.04:415][951]LogContentBrowser: Attempting asset rename: RangedUnit_2 -> SentinelUnit
+[2021.06.04-07.05.04:441][951]LogMetaData: Removing '/Game/Golem/Blueprints/Units/SentinelUnit.SKEL_SentinelUnit_C' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.05.04:441][951]LogMetaData: Removing '/Game/Golem/Blueprints/Units/SentinelUnit.SentinelUnit_C' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.05.04:441][951]LogMetaData: Removing '/Game/Golem/Blueprints/Units/SentinelUnit.SKEL_SentinelUnit_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.05.04:441][951]LogMetaData: Removing '/Game/Golem/Blueprints/Units/SentinelUnit.SKEL_SentinelUnit_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.05.04:442][951]LogMetaData: Removing '/Game/Golem/Blueprints/Units/SentinelUnit.SKEL_SentinelUnit_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.05.04:442][951]LogMetaData: Removing '/Game/Golem/Blueprints/Units/SentinelUnit.SKEL_SentinelUnit_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.05.04:442][951]LogMetaData: Removing '/Game/Golem/Blueprints/Units/SentinelUnit.SentinelUnit_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.05.04:442][951]LogMetaData: Removing '/Game/Golem/Blueprints/Units/SentinelUnit.SentinelUnit_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit_2.PackageMetaData'
+[2021.06.04-07.05.04:514][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/SentinelUnit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/SentinelUnit.uasset" SILENT=true
+[2021.06.04-07.05.04:552][951]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/SentinelUnit02DD6CD84720D0B345EF42B84245E026.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/SentinelUnit.uasset'
+[2021.06.04-07.05.04:639][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.06.04-07.05.04:676][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.06.04-07.05.04:703][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.04-07.05.04:742][951]AssetCheck: New page: Asset Save: SentinelUnit
+[2021.06.04-07.05.04:742][951]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/SentinelUnit.SentinelUnit
+[2021.06.04-07.05.14:952][807]LogContentBrowser: Attempting asset rename: DefenderUnit -> UnitDefender
+[2021.06.04-07.05.14:976][807]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitDefender.UnitDefender_C' ref from Metadata '/Game/Golem/Blueprints/Units/DefenderUnit.PackageMetaData'
+[2021.06.04-07.05.14:976][807]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitDefender.UnitDefender_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/DefenderUnit.PackageMetaData'
+[2021.06.04-07.05.14:976][807]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitDefender.UnitDefender_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/DefenderUnit.PackageMetaData'
+[2021.06.04-07.05.14:976][807]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitDefender.SKEL_UnitDefender_C' ref from Metadata '/Game/Golem/Blueprints/Units/DefenderUnit.PackageMetaData'
+[2021.06.04-07.05.14:976][807]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitDefender.SKEL_UnitDefender_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Golem/Blueprints/Units/DefenderUnit.PackageMetaData'
+[2021.06.04-07.05.14:976][807]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitDefender.SKEL_UnitDefender_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/DefenderUnit.PackageMetaData'
+[2021.06.04-07.05.14:976][807]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitDefender.SKEL_UnitDefender_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/DefenderUnit.PackageMetaData'
+[2021.06.04-07.05.14:976][807]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitDefender.SKEL_UnitDefender_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Units/DefenderUnit.PackageMetaData'
+[2021.06.04-07.05.15:050][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/UnitDefender" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/UnitDefender.uasset" SILENT=true
+[2021.06.04-07.05.15:086][807]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/UnitDefender3F776F6348BBCAB16D8DDBB26609AE98.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/UnitDefender.uasset'
+[2021.06.04-07.05.15:520][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.06.04-07.05.15:557][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.06.04-07.05.15:595][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.04-07.05.15:635][807]AssetCheck: New page: Asset Save: UnitDefender
+[2021.06.04-07.05.15:635][807]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/UnitDefender.UnitDefender
+[2021.06.04-07.05.20:961][312]LogContentBrowser: Attempting asset rename: MageUnit -> UnitMage
+[2021.06.04-07.05.20:992][312]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitMage.UnitMage_C' ref from Metadata '/Game/Golem/Blueprints/Units/MageUnit.PackageMetaData'
+[2021.06.04-07.05.20:992][312]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitMage.UnitMage_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/MageUnit.PackageMetaData'
+[2021.06.04-07.05.20:992][312]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitMage.UnitMage_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/MageUnit.PackageMetaData'
+[2021.06.04-07.05.20:992][312]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitMage.SKEL_UnitMage_C' ref from Metadata '/Game/Golem/Blueprints/Units/MageUnit.PackageMetaData'
+[2021.06.04-07.05.20:992][312]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitMage.SKEL_UnitMage_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Golem/Blueprints/Units/MageUnit.PackageMetaData'
+[2021.06.04-07.05.20:993][312]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitMage.SKEL_UnitMage_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/MageUnit.PackageMetaData'
+[2021.06.04-07.05.20:993][312]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitMage.SKEL_UnitMage_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/MageUnit.PackageMetaData'
+[2021.06.04-07.05.20:993][312]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitMage.SKEL_UnitMage_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Units/MageUnit.PackageMetaData'
+[2021.06.04-07.05.21:074][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/UnitMage" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/UnitMage.uasset" SILENT=true
+[2021.06.04-07.05.21:110][312]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/UnitMageB11E3AEC40AB384ED97ABF8141005A0F.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/UnitMage.uasset'
+[2021.06.04-07.05.21:235][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.06.04-07.05.21:272][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.06.04-07.05.21:298][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.06.04-07.05.21:338][312]AssetCheck: New page: Asset Save: UnitMage
+[2021.06.04-07.05.21:338][312]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/UnitMage.UnitMage
+[2021.06.04-07.05.28:341][ 16]LogContentBrowser: Attempting asset rename: MeleeUnit -> UnitMelee
+[2021.06.04-07.05.28:360][ 16]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitMelee.UnitMelee_C' ref from Metadata '/Game/Golem/Blueprints/Units/MeleeUnit.PackageMetaData'
+[2021.06.04-07.05.28:360][ 16]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitMelee.UnitMelee_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/MeleeUnit.PackageMetaData'
+[2021.06.04-07.05.28:360][ 16]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitMelee.UnitMelee_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/MeleeUnit.PackageMetaData'
+[2021.06.04-07.05.28:360][ 16]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitMelee.SKEL_UnitMelee_C' ref from Metadata '/Game/Golem/Blueprints/Units/MeleeUnit.PackageMetaData'
+[2021.06.04-07.05.28:360][ 16]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitMelee.SKEL_UnitMelee_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Golem/Blueprints/Units/MeleeUnit.PackageMetaData'
+[2021.06.04-07.05.28:360][ 16]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitMelee.SKEL_UnitMelee_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/MeleeUnit.PackageMetaData'
+[2021.06.04-07.05.28:360][ 16]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitMelee.SKEL_UnitMelee_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/MeleeUnit.PackageMetaData'
+[2021.06.04-07.05.28:360][ 16]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitMelee.SKEL_UnitMelee_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Units/MeleeUnit.PackageMetaData'
+[2021.06.04-07.05.28:433][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/UnitMelee" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/UnitMelee.uasset" SILENT=true
+[2021.06.04-07.05.28:468][ 16]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/UnitMeleeCAF8994E45DFEDF90601688AC9B5F65C.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/UnitMelee.uasset'
+[2021.06.04-07.05.28:561][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.06.04-07.05.28:601][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.06.04-07.05.28:629][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.04-07.05.28:668][ 16]AssetCheck: New page: Asset Save: UnitMelee
+[2021.06.04-07.05.28:668][ 16]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/UnitMelee.UnitMelee
+[2021.06.04-07.05.38:898][922]LogContentBrowser: Attempting asset rename: RangedUnit -> UnitRanged
+[2021.06.04-07.05.39:241][922]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitRanged.UnitRanged_C' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit.PackageMetaData'
+[2021.06.04-07.05.39:241][922]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitRanged.SKEL_UnitRanged_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit.PackageMetaData'
+[2021.06.04-07.05.39:241][922]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitRanged.SKEL_UnitRanged_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit.PackageMetaData'
+[2021.06.04-07.05.39:241][922]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitRanged.SKEL_UnitRanged_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit.PackageMetaData'
+[2021.06.04-07.05.39:241][922]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitRanged.SKEL_UnitRanged_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit.PackageMetaData'
+[2021.06.04-07.05.39:241][922]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitRanged.SKEL_UnitRanged_C' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit.PackageMetaData'
+[2021.06.04-07.05.39:241][922]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitRanged.UnitRanged_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit.PackageMetaData'
+[2021.06.04-07.05.39:241][922]LogMetaData: Removing '/Game/Golem/Blueprints/Units/UnitRanged.UnitRanged_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/RangedUnit.PackageMetaData'
+[2021.06.04-07.05.39:406][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/UnitRanged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/UnitRanged.uasset" SILENT=true
+[2021.06.04-07.05.39:445][922]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/UnitRangedFC8B13DB4B992DF09663DEA1C4E3E76E.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/UnitRanged.uasset'
+[2021.06.04-07.05.39:548][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.06.04-07.05.39:592][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.06.04-07.05.39:625][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.06.04-07.05.39:660][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Corpses/RangedCorpse" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Corpses/RangedCorpse.uasset" SILENT=true
+[2021.06.04-07.05.39:670][922]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/RangedCorpse70E94D4E4A2607155CEC19BAA21C6D30.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Corpses/RangedCorpse.uasset'
+[2021.06.04-07.05.39:723][922]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.04-07.05.39:723][922]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Corpses/RangedCorpse.RangedCorpse
+[2021.06.04-07.05.39:723][922]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/UnitRanged.UnitRanged
+[2021.06.04-07.05.57:075][669]LogContentBrowser: Attempting asset rename: SentinelUnit -> Unit_Sentinel
+[2021.06.04-07.05.57:094][669]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Sentinel.Unit_Sentinel_C' ref from Metadata '/Game/Golem/Blueprints/Units/SentinelUnit.PackageMetaData'
+[2021.06.04-07.05.57:094][669]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Sentinel.Unit_Sentinel_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/SentinelUnit.PackageMetaData'
+[2021.06.04-07.05.57:094][669]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Sentinel.Unit_Sentinel_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/SentinelUnit.PackageMetaData'
+[2021.06.04-07.05.57:094][669]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Sentinel.SKEL_Unit_Sentinel_C' ref from Metadata '/Game/Golem/Blueprints/Units/SentinelUnit.PackageMetaData'
+[2021.06.04-07.05.57:094][669]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Sentinel.SKEL_Unit_Sentinel_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Golem/Blueprints/Units/SentinelUnit.PackageMetaData'
+[2021.06.04-07.05.57:094][669]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Sentinel.SKEL_Unit_Sentinel_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/SentinelUnit.PackageMetaData'
+[2021.06.04-07.05.57:094][669]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Sentinel.SKEL_Unit_Sentinel_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/SentinelUnit.PackageMetaData'
+[2021.06.04-07.05.57:094][669]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Sentinel.SKEL_Unit_Sentinel_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Units/SentinelUnit.PackageMetaData'
+[2021.06.04-07.05.57:176][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit_Sentinel" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Sentinel.uasset" SILENT=true
+[2021.06.04-07.05.57:214][669]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Unit_Sentinel0D1B50244401336783F408ADE4D9937C.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Sentinel.uasset'
+[2021.06.04-07.05.57:308][669]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.06.04-07.05.57:350][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.06.04-07.05.57:377][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.04-07.05.57:416][669]AssetCheck: New page: Asset Save: Unit_Sentinel
+[2021.06.04-07.05.57:416][669]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit_Sentinel.Unit_Sentinel
+[2021.06.04-07.06.05:889][470]LogContentBrowser: Attempting asset rename: UnitMage -> Unit_Mage
+[2021.06.04-07.06.05:912][470]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Mage.Unit_Mage_C' ref from Metadata '/Game/Golem/Blueprints/Units/UnitMage.PackageMetaData'
+[2021.06.04-07.06.05:912][470]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Mage.Unit_Mage_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/UnitMage.PackageMetaData'
+[2021.06.04-07.06.05:912][470]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Mage.Unit_Mage_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/UnitMage.PackageMetaData'
+[2021.06.04-07.06.05:912][470]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Mage.SKEL_Unit_Mage_C' ref from Metadata '/Game/Golem/Blueprints/Units/UnitMage.PackageMetaData'
+[2021.06.04-07.06.05:912][470]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Mage.SKEL_Unit_Mage_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Golem/Blueprints/Units/UnitMage.PackageMetaData'
+[2021.06.04-07.06.05:912][470]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Mage.SKEL_Unit_Mage_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/UnitMage.PackageMetaData'
+[2021.06.04-07.06.05:912][470]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Mage.SKEL_Unit_Mage_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/UnitMage.PackageMetaData'
+[2021.06.04-07.06.05:912][470]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Mage.SKEL_Unit_Mage_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Units/UnitMage.PackageMetaData'
+[2021.06.04-07.06.05:991][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit_Mage" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Mage.uasset" SILENT=true
+[2021.06.04-07.06.06:027][470]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Unit_Mage5FE782E242EA39061FDAAE9C1F6586C0.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Mage.uasset'
+[2021.06.04-07.06.06:126][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.06.04-07.06.06:162][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.06.04-07.06.06:189][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.06.04-07.06.06:230][470]AssetCheck: New page: Asset Save: Unit_Mage
+[2021.06.04-07.06.06:230][470]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit_Mage.Unit_Mage
+[2021.06.04-07.06.13:104][110]LogContentBrowser: Attempting asset rename: UnitMelee -> Unit_Melee
+[2021.06.04-07.06.13:128][110]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Melee.Unit_Melee_C' ref from Metadata '/Game/Golem/Blueprints/Units/UnitMelee.PackageMetaData'
+[2021.06.04-07.06.13:128][110]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Melee.Unit_Melee_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/UnitMelee.PackageMetaData'
+[2021.06.04-07.06.13:128][110]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Melee.Unit_Melee_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/UnitMelee.PackageMetaData'
+[2021.06.04-07.06.13:128][110]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Melee.SKEL_Unit_Melee_C' ref from Metadata '/Game/Golem/Blueprints/Units/UnitMelee.PackageMetaData'
+[2021.06.04-07.06.13:128][110]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Melee.SKEL_Unit_Melee_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Golem/Blueprints/Units/UnitMelee.PackageMetaData'
+[2021.06.04-07.06.13:128][110]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Melee.SKEL_Unit_Melee_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/UnitMelee.PackageMetaData'
+[2021.06.04-07.06.13:128][110]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Melee.SKEL_Unit_Melee_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/UnitMelee.PackageMetaData'
+[2021.06.04-07.06.13:128][110]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Melee.SKEL_Unit_Melee_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Units/UnitMelee.PackageMetaData'
+[2021.06.04-07.06.13:201][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit_Melee" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Melee.uasset" SILENT=true
+[2021.06.04-07.06.13:237][110]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Unit_MeleeACEADA1D46669671D2E7FE9429813705.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Melee.uasset'
+[2021.06.04-07.06.13:326][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.06.04-07.06.13:363][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.06.04-07.06.13:390][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.06.04-07.06.13:430][110]AssetCheck: New page: Asset Save: Unit_Melee
+[2021.06.04-07.06.13:430][110]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit_Melee.Unit_Melee
+[2021.06.04-07.06.21:930][828]LogContentBrowser: Attempting asset rename: UnitRanged -> Unit_Ranged
+[2021.06.04-07.06.21:946][828]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Ranged.Unit_Ranged_C' ref from Metadata '/Game/Golem/Blueprints/Units/UnitRanged.PackageMetaData'
+[2021.06.04-07.06.21:946][828]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Ranged.Unit_Ranged_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/UnitRanged.PackageMetaData'
+[2021.06.04-07.06.21:946][828]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Ranged.Unit_Ranged_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/UnitRanged.PackageMetaData'
+[2021.06.04-07.06.21:946][828]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Ranged.SKEL_Unit_Ranged_C' ref from Metadata '/Game/Golem/Blueprints/Units/UnitRanged.PackageMetaData'
+[2021.06.04-07.06.21:946][828]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Ranged.SKEL_Unit_Ranged_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Golem/Blueprints/Units/UnitRanged.PackageMetaData'
+[2021.06.04-07.06.21:946][828]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Ranged.SKEL_Unit_Ranged_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/UnitRanged.PackageMetaData'
+[2021.06.04-07.06.21:946][828]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Ranged.SKEL_Unit_Ranged_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/UnitRanged.PackageMetaData'
+[2021.06.04-07.06.21:946][828]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Ranged.SKEL_Unit_Ranged_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Units/UnitRanged.PackageMetaData'
+[2021.06.04-07.06.22:041][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Ranged.uasset" SILENT=true
+[2021.06.04-07.06.22:080][828]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Unit_Ranged11F2079140E1B7D685807AAC9934621B.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Ranged.uasset'
+[2021.06.04-07.06.22:178][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.06.04-07.06.22:218][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.06.04-07.06.22:244][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.04-07.06.22:277][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Corpses/RangedCorpse" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Corpses/RangedCorpse.uasset" SILENT=true
+[2021.06.04-07.06.22:287][828]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/RangedCorpseC2998F834C01EF3B24FFF8ABF72ADB95.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Corpses/RangedCorpse.uasset'
+[2021.06.04-07.06.22:335][828]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.04-07.06.22:335][828]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Corpses/RangedCorpse.RangedCorpse
+[2021.06.04-07.06.22:335][828]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit_Ranged.Unit_Ranged
+[2021.06.04-07.06.30:282][480]LogContentBrowser: Attempting asset rename: UnitDefender -> Unit_Defender
+[2021.06.04-07.06.30:313][480]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Defender.Unit_Defender_C' ref from Metadata '/Game/Golem/Blueprints/Units/UnitDefender.PackageMetaData'
+[2021.06.04-07.06.30:313][480]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Defender.Unit_Defender_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/UnitDefender.PackageMetaData'
+[2021.06.04-07.06.30:313][480]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Defender.Unit_Defender_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/UnitDefender.PackageMetaData'
+[2021.06.04-07.06.30:313][480]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Defender.SKEL_Unit_Defender_C' ref from Metadata '/Game/Golem/Blueprints/Units/UnitDefender.PackageMetaData'
+[2021.06.04-07.06.30:313][480]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Defender.SKEL_Unit_Defender_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Golem/Blueprints/Units/UnitDefender.PackageMetaData'
+[2021.06.04-07.06.30:313][480]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Defender.SKEL_Unit_Defender_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/UnitDefender.PackageMetaData'
+[2021.06.04-07.06.30:313][480]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Defender.SKEL_Unit_Defender_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/UnitDefender.PackageMetaData'
+[2021.06.04-07.06.30:313][480]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Defender.SKEL_Unit_Defender_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Units/UnitDefender.PackageMetaData'
+[2021.06.04-07.06.30:407][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit_Defender" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Defender.uasset" SILENT=true
+[2021.06.04-07.06.30:443][480]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Unit_DefenderC0D074D346E25D3B7396719D9E080A4F.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Defender.uasset'
+[2021.06.04-07.06.30:529][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.06.04-07.06.30:566][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.06.04-07.06.30:599][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.04-07.06.30:639][480]AssetCheck: New page: Asset Save: Unit_Defender
+[2021.06.04-07.06.30:639][480]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit_Defender.Unit_Defender
+[2021.06.04-07.06.44:406][432]LogContentBrowser: Attempting asset rename: BomberUnit -> Unit_Bomb
+[2021.06.04-07.06.44:430][432]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Bomb.Unit_Bomb_C' ref from Metadata '/Game/Golem/Blueprints/Units/BomberUnit.PackageMetaData'
+[2021.06.04-07.06.44:430][432]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Bomb.Unit_Bomb_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/BomberUnit.PackageMetaData'
+[2021.06.04-07.06.44:430][432]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Bomb.Unit_Bomb_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/BomberUnit.PackageMetaData'
+[2021.06.04-07.06.44:431][432]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Bomb.SKEL_Unit_Bomb_C' ref from Metadata '/Game/Golem/Blueprints/Units/BomberUnit.PackageMetaData'
+[2021.06.04-07.06.44:431][432]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Bomb.SKEL_Unit_Bomb_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Golem/Blueprints/Units/BomberUnit.PackageMetaData'
+[2021.06.04-07.06.44:431][432]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Bomb.SKEL_Unit_Bomb_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Units/BomberUnit.PackageMetaData'
+[2021.06.04-07.06.44:431][432]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Bomb.SKEL_Unit_Bomb_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Units/BomberUnit.PackageMetaData'
+[2021.06.04-07.06.44:431][432]LogMetaData: Removing '/Game/Golem/Blueprints/Units/Unit_Bomb.SKEL_Unit_Bomb_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Units/BomberUnit.PackageMetaData'
+[2021.06.04-07.06.44:530][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit_Bomb" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Bomb.uasset" SILENT=true
+[2021.06.04-07.06.44:566][432]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Unit_BombA3F8501242B7936386A14AA4D02FFB62.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Bomb.uasset'
+[2021.06.04-07.06.44:661][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.06.04-07.06.44:698][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.06.04-07.06.44:726][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.04-07.06.44:766][432]AssetCheck: New page: Asset Save: Unit_Bomb
+[2021.06.04-07.06.44:766][432]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit_Bomb.Unit_Bomb
+[2021.06.04-07.06.55:067][864]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Units/Unit_Melee.Unit_Melee
+[2021.06.04-07.06.58:305][  5]LogSlate: Window 'Unit_Melee' being destroyed
+[2021.06.04-07.09.48:279][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.04-07.09.48:399][808]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Unit44FC256347EE0628F23D50BD0EDBEDC9.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.04-07.09.48:414][808]AssetCheck: New page: Asset Save: Unit
+[2021.06.04-07.09.48:414][808]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.04-07.11.45:781][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.04-07.11.45:860][ 17]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/UnitBBC6D7964F8FBABB9AA48A9A3E2B15F1.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.04-07.11.45:876][ 17]AssetCheck: New page: Asset Save: Unit
+[2021.06.04-07.11.45:876][ 17]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.04-07.11.59:563][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.04-07.11.59:623][492]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Unit1BE56A1F433EA4B2E3D6D68E8AFBBB7E.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.04-07.11.59:648][492]AssetCheck: New page: Asset Save: Unit
+[2021.06.04-07.11.59:648][492]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.04-07.12.10:316][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.04-07.12.10:375][552]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/UnitF49CD28D42A3F2E78336ECBC1AB409C5.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.04-07.12.10:397][552]AssetCheck: New page: Asset Save: Unit
+[2021.06.04-07.12.10:397][552]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.04-07.12.17:614][349]BlueprintLog: New page: Compile Unit
+[2021.06.04-07.12.17:670][349]LogBlueprint: Error: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\Golem\Blueprints\Units\Unit.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.06.04-07.12.17:740][349]LogBlueprint: Error: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\Golem\Blueprints\Units\Unit_Melee.uasset: [Compiler] Could not find a function named "ShootTarget" in 'Unit_Melee_C'.
+Make sure 'Unit_Melee_C' has been compiled for  Shoot Target
+[2021.06.04-07.12.17:898][349]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.06.04-07.12.42:516][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.04-07.12.42:573][ 13]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Unit0763EBDB4D46A59C0FA6D9BB832BEC8E.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.04-07.12.42:588][ 13]AssetCheck: New page: Asset Save: Unit
+[2021.06.04-07.12.42:588][ 13]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.04-07.12.44:007][173]BlueprintLog: New page: Compile Unit
+[2021.06.04-07.12.44:048][173]LogBlueprint: Error: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\Golem\Blueprints\Units\Unit_Melee.uasset: [Compiler] Could not find a function named "ShootTarget" in 'Unit_Melee_C'.
+Make sure 'Unit_Melee_C' has been compiled for  Shoot Target
+[2021.06.04-07.12.44:189][173]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.06.04-07.13.55:491][810]LogEditorTransaction: Undo Delete current selection
+[2021.06.04-07.16.24:969][439]LogSlate: Took 0.023489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.06.04-07.16.30:362][990]BlueprintLog: New page: Compile Unit_Melee
+[2021.06.04-07.16.30:366][990]LogBlueprint: Error: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\Golem\Blueprints\Units\Unit_Melee.uasset: [Compiler] Could not find a function named "ShootTarget" in 'Unit_Melee_C'.
+Make sure 'Unit_Melee_C' has been compiled for  Shoot Target
+[2021.06.04-07.16.30:464][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.06.04-07.18.24:552][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit_Melee" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Melee.uasset" SILENT=true
+[2021.06.04-07.18.24:590][516]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Unit_MeleeA1E3D60B41F9F1629437BEBF9F22BC2D.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Melee.uasset'
+[2021.06.04-07.18.24:607][516]AssetCheck: New page: Asset Save: Unit_Melee
+[2021.06.04-07.18.24:607][516]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit_Melee.Unit_Melee
+[2021.06.04-07.18.39:437][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit_Melee" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Melee.uasset" SILENT=true
+[2021.06.04-07.18.39:470][167]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Unit_MeleeA80EAE5D416FA17F12E4168762511090.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Melee.uasset'
+[2021.06.04-07.18.39:485][167]AssetCheck: New page: Asset Save: Unit_Melee
+[2021.06.04-07.18.39:485][167]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit_Melee.Unit_Melee
+[2021.06.04-07.19.04:361][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.06.04-07.19.04:363][965]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Golem/Maps/Field' took 0.039
+[2021.06.04-07.19.04:365][965]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Golem/Blueprints/Units/Unit_Ranged] ([1] browsable assets)...
+[2021.06.04-07.19.04:384][965]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Golem/Blueprints/Units/Unit_Ranged.Unit_Ranged]
+[2021.06.04-07.19.04:384][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/Golem/Blueprints/Units/Unit_Ranged]
+[2021.06.04-07.19.04:422][965]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Unit_Ranged_Auto1D1F458014C9CBF8B5A439885F06EBC4A.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Autosaves/Game/Golem/Blueprints/Units/Unit_Ranged_Auto1.uasset'
+[2021.06.04-07.19.04:424][965]LogFileHelpers: Auto-saving content packages took 0.060
+[2021.06.04-07.19.13:298][962]BlueprintLog: New page: Compile Unit_Melee
+[2021.06.04-07.19.13:302][962]LogBlueprint: Error: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\Golem\Blueprints\Units\Unit_Melee.uasset: [Compiler] Could not find a function named "ShootTarget" in 'Unit_Melee_C'.
+Make sure 'Unit_Melee_C' has been compiled for  Shoot Target
+[2021.06.04-07.19.13:310][962]LogBlueprint: Error: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\Golem\Blueprints\Units\Unit_Melee.uasset: [Compiler] The current value of the ' Hit ' pin is invalid: 'Hit' in action 'Break Hit Result' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.06.04-07.19.13:427][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.06.04-07.19.45:255][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit_Melee" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Melee.uasset" SILENT=true
+[2021.06.04-07.19.45:293][549]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Unit_Melee3602A63D4FAD321B6A183DACD5FB15F4.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Melee.uasset'
+[2021.06.04-07.19.45:307][549]AssetCheck: New page: Asset Save: Unit_Melee
+[2021.06.04-07.19.45:308][549]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit_Melee.Unit_Melee
+[2021.06.04-07.19.50:039][ 47]BlueprintLog: New page: Compile Unit_Melee
+[2021.06.04-07.19.50:047][ 47]LogBlueprint: Error: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\Golem\Blueprints\Units\Unit_Melee.uasset: [Compiler] The current value of the ' Hit ' pin is invalid: 'Hit' in action 'Break Hit Result' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.06.04-07.19.50:108][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.06.04-07.20.02:623][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit_Melee" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Melee.uasset" SILENT=true
+[2021.06.04-07.20.02:660][429]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Unit_MeleeD1DB5A5A4F1B5B2100706195642A8DA6.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Melee.uasset'
+[2021.06.04-07.20.02:674][429]AssetCheck: New page: Asset Save: Unit_Melee
+[2021.06.04-07.20.02:674][429]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit_Melee.Unit_Melee
+[2021.06.04-07.20.07:481][984]BlueprintLog: New page: Compile Unit_Melee
+[2021.06.04-07.20.07:552][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.06.04-07.20.12:232][511]BlueprintLog: New page: Compile Unit_Melee
+[2021.06.04-07.20.12:304][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.06.04-07.21.01:942][273]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/GolemInterface.GolemInterface
+[2021.06.04-07.21.05:104][556]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-07.21.05:104][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-07.21.08:842][956]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/GolemInterface.GolemInterface
+[2021.06.04-07.21.47:864][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/GolemInterface" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/GolemInterface.uasset" SILENT=true
+[2021.06.04-07.21.47:868][517]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/GolemInterfaceE05FC5C048245981202DEA8C9C9FD21D.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/GolemInterface.uasset'
+[2021.06.04-07.21.47:887][517]AssetCheck: New page: Asset Save: GolemInterface
+[2021.06.04-07.21.47:887][517]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/GolemInterface.GolemInterface
+[2021.06.04-07.22.24:608][450]BlueprintLog: New page: Compile GolemInterface
+[2021.06.04-07.22.24:794][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.06.04-07.24.47:840][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.04-07.24.47:898][786]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/UnitBAC303D8426DC9FBA6E36886B79604D6.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.04-07.24.47:948][786]AssetCheck: New page: Asset Save: Unit
+[2021.06.04-07.24.47:948][786]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.04-07.27.12:496][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit_Melee" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Melee.uasset" SILENT=true
+[2021.06.04-07.27.12:536][611]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Unit_Melee9121CF4747CF4A63DA706F93E4EB7A0C.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Melee.uasset'
+[2021.06.04-07.27.12:563][611]AssetCheck: New page: Asset Save: Unit_Melee
+[2021.06.04-07.27.12:564][611]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit_Melee.Unit_Melee
+[2021.06.04-07.27.14:961][865]BlueprintLog: New page: Compile Unit_Melee
+[2021.06.04-07.27.14:970][865]LogBlueprint: Error: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\Golem\Blueprints\Units\Unit_Melee.uasset: [Compiler] The property associated with  Knockback  could not be found in '/Game/Golem/Blueprints/Units/Unit_Melee.Unit_Melee_C'
+[2021.06.04-07.27.15:044][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.06.04-07.27.25:624][ 11]BlueprintLog: New page: Compile Unit_Melee
+[2021.06.04-07.27.25:631][ 11]LogBlueprint: Error: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Nalbina\Golem\Content\Golem\Blueprints\Units\Unit_Melee.uasset: [Compiler] The property associated with  Knockback  could not be found in '/Game/Golem/Blueprints/Units/Unit_Melee.Unit_Melee_C'
+[2021.06.04-07.27.25:696][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.06.04-07.27.46:316][252]BlueprintLog: New page: Compile Unit
+[2021.06.04-07.27.46:519][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.06.04-07.27.49:982][582]BlueprintLog: New page: Compile Unit_Melee
+[2021.06.04-07.27.50:062][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.06.04-07.28.01:432][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit_Melee" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Melee.uasset" SILENT=true
+[2021.06.04-07.28.01:471][802]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Saved/Unit_Melee10887EDF4CE70E5D778A00A3F7E34DA0.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Blueprints/Units/Unit_Melee.uasset'
+[2021.06.04-07.28.01:495][802]AssetCheck: New page: Asset Save: Unit_Melee
+[2021.06.04-07.28.01:495][802]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit_Melee.Unit_Melee
+[2021.06.04-07.28.30:079][177]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.04-07.28.30:086][177]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.04-07.28.30:087][177]LogPlayLevel: [PlayLevel] Compiling Unit_Melee before play...
+[2021.06.04-07.28.30:194][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.06.04-07.28.30:196][177]LogPlayLevel: PlayLevel: Blueprint regeneration took 109 ms (1 blueprints)
+[2021.06.04-07.28.30:196][177]PIE: New page: PIE session: Field (5/06/2021, 7:28:30 am)
+[2021.06.04-07.28.30:196][177]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Field
+[2021.06.04-07.28.30:203][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007039s)
+[2021.06.04-07.28.30:205][177]LogAIModule: Creating AISystem for world Field
+[2021.06.04-07.28.30:205][177]LogPlayLevel: PIE: World Init took: (0.001849s)
+[2021.06.04-07.28.30:205][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Field.Field to /Game/Golem/Maps/UEDPIE_0_Field.Field (0.009068s)
+[2021.06.04-07.28.30:242][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.06.04-07.28.30:242][177]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.06.04-07.28.30:242][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-07.28.30:242][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-07.28.30:242][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-07.28.30:242][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-07.28.30:242][177]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-07.28.30:242][177]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-07.28.30:242][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-07.28.30:242][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-07.28.30:243][177]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-07.28.30:243][177]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-07.28.30:543][177]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-07.28.30:543][177]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-07.28.30:595][177]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.04-07.28.30:595][177]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.04-07.28.30:595][177]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.04-07.28.30:595][177]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.04-07.28.30:596][177]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.04-07.28.30:596][177]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.04-07.28.30:596][177]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.04-07.28.30:597][177]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.04-07.28.30:597][177]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.04-07.28.30:597][177]LogInit: FAudioDevice initialized.
+[2021.06.04-07.28.30:597][177]LogAudio: Display: Audio Device (ID: 4) registered with world 'Field'.
+[2021.06.04-07.28.30:611][177]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.04-07.28.30:612][177]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Field.Field up for play (max tick rate 0) at 2021.06.04-19.28.30
+[2021.06.04-07.28.30:612][177]LogWorld: Bringing up level for play took: 0.001173
+[2021.06.04-07.28.30:613][177]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.06.04-07.28.30:631][177]PIE: Server logged in
+[2021.06.04-07.28.30:632][177]PIE: Play in editor total start time 0.547 seconds.
+[2021.06.04-07.28.31:241][231]LogBlueprintUserMessages: [Corpse_2] Hello
+[2021.06.04-07.28.31:243][231]LogBlueprintUserMessages: [RangedCorpse_2] Hello
+[2021.06.04-07.28.33:830][460]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-494.229 Y=290.353 Z=101.705] for [RangedCorpse_C]
