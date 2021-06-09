@@ -754,3 +754,219 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.09-08.37.28:992][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
 [2021.06.09-08.37.29:010][  0]SourceControl: Source control is disabled
 [2021.06.09-08.37.29:185][  0]LogSlate: Took 0.000441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.09-08.42.07:437][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2021.06.09-08.42.07:438][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.09-08.42.07:470][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.09-08.42.09:964][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2021.06.09-08.42.09:964][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.09-08.42.09:972][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Golem/Blueprints/Units/PlayerUnit
+/Game/Golem/Blueprints/Units/U_Sentinel
+/Game/Golem/Maps/Field
+/Game/Golem/GolemMaterials/M_Metal_Steel
+[2021.06.09-08.42.09:982][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.09-08.42.09:983][  0]LogUnrealEdMisc: Loading editor; pre map load, took 413.375
+[2021.06.09-08.42.09:984][  0]Cmd: MAP LOAD FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/UI/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.09-08.42.09:984][  0]LightingResults: New page: Lighting Build
+[2021.06.09-08.42.09:985][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-08.42.09:986][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-08.42.09:986][  0]MapCheck: New page: Map Check
+[2021.06.09-08.42.09:986][  0]LightingResults: New page: Lighting Build
+[2021.06.09-08.42.10:131][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.06.09-08.42.10:153][  0]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.09-08.42.10:154][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.09-08.42.10:163][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.06.09-08.42.10:164][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.09-08.42.10:164][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.193ms to complete.
+[2021.06.09-08.42.10:164][  0]LogFileHelpers: Loading map 'MainMenu' took 0.181
+[2021.06.09-08.42.10:167][  0]LogUnrealEdMisc: Total Editor Startup Time, took 413.559
+[2021.06.09-08.42.10:262][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.09-08.42.10:271][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.09-08.42.10:278][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.09-08.42.10:288][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.09-08.42.10:308][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0138 seconds. Added 3601 classes and 859 folders.
+[2021.06.09-08.42.10:311][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.09-08.42.10:313][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.09-08.42.10:313][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:313][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.09-08.42.10:313][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.06.09-08.42.10:314][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.09-08.42.10:314][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:314][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.09-08.42.10:314][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.06.09-08.42.10:315][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.09-08.42.10:315][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:315][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.09-08.42.10:315][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.06.09-08.42.10:316][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.09-08.42.10:316][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:316][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.09-08.42.10:316][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.06.09-08.42.10:317][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.09-08.42.10:317][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:317][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.09-08.42.10:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.06.09-08.42.10:318][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.09-08.42.10:318][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:318][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.09-08.42.10:318][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.06.09-08.42.10:323][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.09-08.42.10:323][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:323][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.09-08.42.10:323][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.06.09-08.42.10:323][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.09-08.42.10:323][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:323][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.09-08.42.10:324][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.06.09-08.42.10:325][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.09-08.42.10:325][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:325][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.09-08.42.10:325][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.06.09-08.42.10:326][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.09-08.42.10:326][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:326][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.09-08.42.10:326][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.06.09-08.42.10:327][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.09-08.42.10:327][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:327][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.09-08.42.10:327][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.06.09-08.42.10:328][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.09-08.42.10:328][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:328][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.09-08.42.10:328][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.06.09-08.42.10:330][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.09-08.42.10:330][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:330][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.09-08.42.10:330][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.06.09-08.42.10:331][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.09-08.42.10:331][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:331][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.09-08.42.10:331][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.06.09-08.42.10:332][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.09-08.42.10:333][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:333][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.09-08.42.10:333][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2021.06.09-08.42.10:334][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.09-08.42.10:334][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:334][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.09-08.42.10:334][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2021.06.09-08.42.10:335][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.09-08.42.10:335][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:335][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.09-08.42.10:335][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2021.06.09-08.42.10:336][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.09-08.42.10:336][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:336][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.09-08.42.10:336][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2021.06.09-08.42.10:337][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.09-08.42.10:337][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:337][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.09-08.42.10:337][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.06.09-08.42.10:337][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.09-08.42.10:337][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:337][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.09-08.42.10:337][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2021.06.09-08.42.10:338][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.09-08.42.10:338][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:338][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.09-08.42.10:338][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2021.06.09-08.42.10:339][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.09-08.42.10:339][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:339][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.09-08.42.10:339][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2021.06.09-08.42.10:340][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.09-08.42.10:340][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:340][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.09-08.42.10:340][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2021.06.09-08.42.10:341][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.09-08.42.10:341][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:341][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.09-08.42.10:341][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
+[2021.06.09-08.42.10:342][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.09-08.42.10:342][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:342][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.09-08.42.10:342][  0]LogPakFile: OnPakFileMounted2Time == 0.000115
+[2021.06.09-08.42.10:342][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.09-08.42.10:343][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-08.42.10:343][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.09-08.42.10:343][  0]LogPakFile: OnPakFileMounted2Time == 0.000118
+[2021.06.09-08.42.10:431][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.09-08.42.10:433][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.06.09-08.42.10:551][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.09-08.42.10:556][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.09-08.42.10:622][  0]LogRenderer: Reallocating scene render targets to support 1248x480 Format 10 NumSamples 1 (Frame:1).
+[2021.06.09-08.42.10:960][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.09-08.42.10:960][  0]LogLoad: (Engine Initialization) Total time: 414.35 seconds
+[2021.06.09-08.42.10:960][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.09-08.42.10:960][  0]LogInit: First time updating LLM stats...
+[2021.06.09-08.42.11:025][  0]LogAssetRegistry: Asset discovery search completed in 325.3173 seconds
+[2021.06.09-08.42.11:026][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.06.09-08.42.11:026][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.09-08.42.11:444][  3]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.09-08.42.11:982][ 61]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.09-08.42.15:459][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.06.09-08.42.17:561][401]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Golem/Maps/Field.Field
+[2021.06.09-08.42.17:561][401]Cmd: MAP LOAD FILE="C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/Golem/Maps/Field.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.09-08.42.17:561][401]LightingResults: New page: Lighting Build
+[2021.06.09-08.42.17:561][401]LoadErrors: New page: Loading map: Field.umap
+[2021.06.09-08.42.17:621][401]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-08.42.17:622][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-08.42.17:622][401]MapCheck: New page: Map Check
+[2021.06.09-08.42.17:622][401]LightingResults: New page: Lighting Build
+[2021.06.09-08.42.17:644][401]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.09-08.42.17:658][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.06.09-08.42.17:659][401]LogAudio: Display: Audio Device (ID: 1) registered with world 'Field'.
+[2021.06.09-08.42.17:821][401]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.09-08.42.17:821][401]LogAIModule: Creating AISystem for world Field
+[2021.06.09-08.42.17:841][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.06.09-08.42.17:857][401]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.09-08.42.17:857][401]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2021.06.09-08.42.17:857][401]LogFileHelpers: Loading map 'Field' took 0.296
+[2021.06.09-08.42.17:885][401]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/' took 6.89s
+[2021.06.09-08.42.27:476][398]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.09-08.42.28:433][398]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.06.09-08.42.30:038][398]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.09-08.42.30:455][398]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TwinStick/Materials/M_Rock_Sandstone.M_Rock_Sandstone
+[2021.06.09-08.42.30:456][398]LogMaterial: Display: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2021.06.09-08.42.31:114][398]LogMaterial: Display: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2021.06.09-08.42.31:124][398]LogMaterial: Display: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2021.06.09-08.42.31:139][398]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.06.09-08.42.31:147][398]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.09-08.42.31:154][398]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.06.09-08.42.31:204][398]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Units/U_Mage.U_Mage
+[2021.06.09-08.42.31:621][398]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Golem/GolemMaterials/M_crystal.M_crystal
+[2021.06.09-08.42.31:623][398]LogMaterial: Display: Missing cached shader map for material M_crystal, compiling. 
+[2021.06.09-08.42.31:702][398]LogMaterial: Display: Missing cached shader map for material M_crystal, compiling. 
+[2021.06.09-08.42.31:710][398]LogMaterial: Display: Missing cached shader map for material M_crystal, compiling. 
+[2021.06.09-08.42.31:727][398]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.09-08.42.31:731][398]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.06.09-08.42.31:735][398]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.06.09-08.42.31:739][398]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.09-08.42.31:888][398]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Turret.Turret
+[2021.06.09-08.42.32:388][398]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Golem/GolemMaterials/M_Glass.M_Glass
+[2021.06.09-08.42.32:390][398]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2021.06.09-08.42.32:503][398]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2021.06.09-08.42.32:519][398]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2021.06.09-08.42.32:543][398]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.06.09-08.42.32:587][398]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Units/PlayerUnit.PlayerUnit
+[2021.06.09-08.42.32:969][398]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.06.09-08.42.33:142][398]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Golem/GolemMaterials/M_clay.M_clay
+[2021.06.09-08.42.33:144][398]LogMaterial: Display: Missing cached shader map for material M_clay, compiling. 
+[2021.06.09-08.42.33:223][398]LogMaterial: Display: Missing cached shader map for material M_clay, compiling. 
+[2021.06.09-08.42.33:230][398]LogMaterial: Display: Missing cached shader map for material M_clay, compiling. 
+[2021.06.09-08.42.33:248][398]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.06.09-08.42.33:252][398]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.06.09-08.42.33:256][398]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.09-08.42.33:375][398]LogSlate: Took 0.031647 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.09-08.42.33:946][401]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.09-08.42.56:056][540]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (Player)
+[2021.06.09-08.43.02:108][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.09-08.43.13:439][184]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 92
+[2021.06.09-08.43.16:515][197]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 91
+[2021.06.09-08.43.17:313][207]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 90
+[2021.06.09-08.43.17:894][214]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 89
+[2021.06.09-08.43.19:615][226]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 88
+[2021.06.09-08.43.22:212][237]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 87
+[2021.06.09-08.43.23:120][248]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 86
+[2021.06.09-08.43.23:768][256]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 85
+[2021.06.09-08.43.24:675][267]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 84

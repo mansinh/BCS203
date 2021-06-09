@@ -906,3 +906,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.09-08.40.30:552][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/manhk/OneDrive/Documents/BCS/Nalbina/Golem/Content/' took 0.29s
 [2021.06.09-08.40.30:940][  2]LogSlate: Took 0.040815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.06.09-08.40.31:571][  4]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.09-08.42.31:520][362]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.06.09-08.42.48:317][375]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.06.09-08.42.55:889][384]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.06.09-08.43.08:553][409]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
