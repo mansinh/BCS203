@@ -16120,3 +16120,21 @@ Make sure 'PlayerUnit_C' has been compiled for  Set InControlRange
 [2021.06.10-22.06.27:569][803]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B43A32D54-4280-B70D-1FC4-F3A5493350A3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=fed9e47a4424cdbe7d119382c0da8429%7C4d7b79c7d233430e9bcf00c6a8b69b55%7Cda90c9d9-09a6-4d9d-8dea-8cadde8b72d1&AppEnvironment=datacollector-binary&UploadType=eteventstream
 [2021.06.10-22.07.06:961][856]LogAnalytics: Warning: EventCache either took too long to flush (4.352 ms) or had a very large payload (0.436 KB, 1 events). Listing events in the payload for investigation:
 [2021.06.10-22.07.06:973][856]LogAnalytics: Warning:     Editor.Usage.Heartbeat,433
+[2021.06.10-22.13.30:019][409]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.10-22.15.31:696][882]BlueprintLog: New page: Compile U_Melee
+[2021.06.10-22.15.32:417][882]LogUObjectHash: Compacting FUObjectHashTables data took  50.79ms
+[2021.06.10-22.16.27:787][729]LogUObjectHash: Compacting FUObjectHashTables data took   9.21ms
+[2021.06.10-22.16.28:017][729]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemBattle/Golem/Saved/Field_Auto0DA9E02AF4034F62469F1FEAF5D15D480.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemBattle/Golem/Saved/Autosaves/Game/Golem/Maps/Field_Auto0.umap'
+[2021.06.10-22.16.28:041][729]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Golem/Maps/Field' took 0.379
+[2021.06.10-22.16.28:041][729]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.379
+[2021.06.10-22.16.28:045][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Golem/Blueprints/Units/U_Melee] ([1] browsable assets)...
+[2021.06.10-22.16.28:102][729]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee]
+[2021.06.10-22.16.28:102][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Golem/Blueprints/Units/U_Melee]
+[2021.06.10-22.16.28:550][729]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemBattle/Golem/Saved/U_Melee_Auto0B256A5AB47330CB91BCB73A37BCAEBCF.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemBattle/Golem/Saved/Autosaves/Game/Golem/Blueprints/Units/U_Melee_Auto0.uasset'
+[2021.06.10-22.16.28:555][729]LogFileHelpers: Auto-saving content packages took 0.513
+[2021.06.10-22.21.31:928][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemBattle/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.10-22.21.32:146][ 65]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemBattle/Golem/Saved/U_MeleeF7C096634F7E10989FADA391A7651884.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemBattle/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.10-22.21.32:516][ 65]AssetCheck: New page: Asset Save: U_Melee
+[2021.06.10-22.21.32:517][ 65]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.10-22.21.46:788][890]BlueprintLog: New page: Compile U_Melee
+[2021.06.10-22.21.47:038][890]LogUObjectHash: Compacting FUObjectHashTables data took   8.42ms
