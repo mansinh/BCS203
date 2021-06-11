@@ -23296,3 +23296,7 @@ Make sure 'PlayerUnit_C' has been compiled for  Set InControlRange
 [2021.06.11-02.58.11:250][963]LogFileHelpers: Saving map 'Field' took 0.369
 [2021.06.11-02.58.11:293][963]AssetCheck: New page: Asset Save: Field
 [2021.06.11-02.58.11:293][963]LogContentValidation: Display: Validating World /Game/Golem/Maps/Field.Field
+[2021.06.11-06.01.44:736][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemBattle/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.11-06.01.45:332][393]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemBattle/Golem/Saved/U_Defender2A0752A74D72DCCCD6E20196A60B34FF.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemBattle/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.11-06.01.45:785][393]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.11-06.01.45:786][393]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
