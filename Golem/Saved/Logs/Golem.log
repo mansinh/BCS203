@@ -976,3 +976,246 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.14-06.12.57:769][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.06.14-06.12.57:818][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
 [2021.06.14-06.12.57:844][523]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.06.14-06.16.43:183][485]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.14-06.16.43:599][485]LogBlueprintEditor: Perf: 0.4 total seconds to load all 6 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.06.14-06.16.43:599][485]LogBlueprintEditor: Perf: 0.2 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2021.06.14-06.16.44:536][485]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 126 classes and 0 folders.
+[2021.06.14-06.16.46:344][485]LogSlate: Took 0.020266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.14-06.16.46:746][486]LogSlate: Took 0.012832 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.14-06.18.59:889][ 65]LogSlate: Took 0.015165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.06.14-06.22.44:070][924]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2021.06.14-06.22.44:072][924]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Golem/Maps/Field' took 0.070
+[2021.06.14-06.22.44:075][924]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Golem/Blueprints/Units/Unit] ([1] browsable assets)...
+[2021.06.14-06.22.44:075][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Golem/Blueprints/Units/Unit]
+[2021.06.14-06.22.44:215][924]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Unit_Auto19E1E55424560D36A39D276AE705DE1EC.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Autosaves/Game/Golem/Blueprints/Units/Unit_Auto1.uasset'
+[2021.06.14-06.22.44:222][924]LogFileHelpers: Auto-saving content packages took 0.150
+[2021.06.14-06.29.12:563][920]LogEditorTransaction: Undo Create Pin Link
+[2021.06.14-06.30.53:985][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.14-06.30.54:155][695]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/UnitCE606BDC496A4DAFCD10ADA9DDCF2E33.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.14-06.30.54:192][695]AssetCheck: New page: Asset Save: Unit
+[2021.06.14-06.30.54:192][695]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.14-06.33.57:689][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.14-06.33.57:832][890]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Unit7C29DF5A431358D39F05A4ADB00C2920.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.14-06.33.57:858][890]AssetCheck: New page: Asset Save: Unit
+[2021.06.14-06.33.57:858][890]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.14-06.36.37:341][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.14-06.36.37:479][164]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Unit39F8B26245D34EFAD49C9CB7D1FABA27.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.14-06.36.37:503][164]AssetCheck: New page: Asset Save: Unit
+[2021.06.14-06.36.37:504][164]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.14-06.38.34:270][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.14-06.38.34:409][  1]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Unit4E88961C4E7CBE4A63DCA7901F76C790.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.14-06.38.34:434][  1]AssetCheck: New page: Asset Save: Unit
+[2021.06.14-06.38.34:434][  1]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.14-06.39.41:240][866]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.14-06.40.02:768][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.14-06.40.02:892][ 42]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_DefenderFC8EB5584FFAF2DFA642B5B51ED498F9.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.14-06.40.02:920][ 42]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.14-06.40.02:920][ 42]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.14-06.40.09:600][385]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.14-06.40.09:617][385]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.14-06.40.09:670][385]LogPlayLevel: [PlayLevel] Compiling Unit before play...
+[2021.06.14-06.40.09:670][385]LogPlayLevel: [PlayLevel]   Compiling U_Bomb as a dependent...
+[2021.06.14-06.40.09:670][385]LogPlayLevel: [PlayLevel]   Compiling U_Defender as a dependent...
+[2021.06.14-06.40.09:670][385]LogPlayLevel: [PlayLevel]   Compiling U_Mage as a dependent...
+[2021.06.14-06.40.09:670][385]LogPlayLevel: [PlayLevel]   Compiling U_Melee as a dependent...
+[2021.06.14-06.40.09:673][385]LogPlayLevel: [PlayLevel]   Compiling U_Ranged as a dependent...
+[2021.06.14-06.40.10:411][385]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2021.06.14-06.40.10:413][385]LogPlayLevel: PlayLevel: Blueprint regeneration took 796 ms (6 blueprints)
+[2021.06.14-06.40.10:413][385]PIE: New page: PIE session: Field (15/06/2021, 6:40:10 am)
+[2021.06.14-06.40.10:415][385]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Field
+[2021.06.14-06.40.10:439][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023739s)
+[2021.06.14-06.40.10:440][385]LogAIModule: Creating AISystem for world Field
+[2021.06.14-06.40.10:440][385]LogPlayLevel: PIE: World Init took: (0.001694s)
+[2021.06.14-06.40.10:441][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Field.Field to /Game/Golem/Maps/UEDPIE_0_Field.Field (0.025715s)
+[2021.06.14-06.40.10:482][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.06.14-06.40.10:483][385]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.06.14-06.40.10:483][385]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.14-06.40.10:483][385]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.14-06.40.10:483][385]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.14-06.40.10:483][385]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.14-06.40.10:483][385]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.14-06.40.10:483][385]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.14-06.40.10:483][385]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.14-06.40.10:483][385]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.14-06.40.10:484][385]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.14-06.40.10:484][385]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.14-06.40.10:490][385]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.14-06.40.10:490][385]LogAudioMixer: Display: 1: FrontRight
+[2021.06.14-06.40.10:524][385]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek High Definition Audio)
+[2021.06.14-06.40.10:525][385]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.14-06.40.10:525][385]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.14-06.40.10:525][385]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.14-06.40.10:525][385]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.14-06.40.10:525][385]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.14-06.40.10:525][385]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.14-06.40.10:555][385]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.14-06.40.10:555][385]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.14-06.40.10:555][385]LogInit: FAudioDevice initialized.
+[2021.06.14-06.40.10:555][385]LogAudio: Display: Audio Device (ID: 3) registered with world 'Field'.
+[2021.06.14-06.40.10:612][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.14-06.40.10:612][385]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.14-06.40.10:622][385]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Field.Field up for play (max tick rate 60) at 2021.06.14-18.40.10
+[2021.06.14-06.40.10:627][385]LogWorld: Bringing up level for play took: 0.014038
+[2021.06.14-06.40.10:627][385]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.06.14-06.40.10:646][385]PIE: Server logged in
+[2021.06.14-06.40.10:649][385]PIE: Play in editor total start time 1.034 seconds.
+[2021.06.14-06.40.13:323][429]LogCharacterMovement: U_Defender_2 is stuck and failed to move! Velocity: X=10.36 Y=-98.84 Z=0.00 Location: X=469.82 Y=-1242.41 Z=295.11 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:4.895 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2021.06.14-06.40.13:571][434]LogBlueprintUserMessages: [U_Defender_2] STOMP
+[2021.06.14-06.40.13:820][439]LogBlueprintUserMessages: [UnitProjectile_C_0] HIT
+[2021.06.14-06.40.13:914][441]LogBlueprintUserMessages: [UnitProjectile_C_0] HIT
+[2021.06.14-06.40.13:915][441]LogBlueprintUserMessages: [UnitProjectile_C_0] HIT
+[2021.06.14-06.40.13:968][442]LogBlueprintUserMessages: [UnitProjectile_C_0] HIT
+[2021.06.14-06.40.13:968][442]LogBlueprintUserMessages: [UnitProjectile_C_0] HIT
+[2021.06.14-06.40.13:968][442]LogBlueprintUserMessages: [UnitProjectile_C_0] HIT
+[2021.06.14-06.40.13:969][442]LogBlueprintUserMessages: [UnitProjectile_C_0] HIT
+[2021.06.14-06.40.14:016][443]LogBlueprintUserMessages: [UnitProjectile_C_0] HIT
+[2021.06.14-06.40.14:017][443]LogBlueprintUserMessages: [UnitProjectile_C_0] HIT
+[2021.06.14-06.40.14:071][444]LogBlueprintUserMessages: [UnitProjectile_C_0] HIT
+[2021.06.14-06.40.14:072][444]LogBlueprintUserMessages: [UnitProjectile_C_0] HIT
+[2021.06.14-06.40.14:072][444]LogBlueprintUserMessages: [UnitProjectile_C_0] HIT
+[2021.06.14-06.40.14:072][444]LogBlueprintUserMessages: [UnitProjectile_C_0] HIT
+[2021.06.14-06.40.15:343][470]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=40.40 Y=33.20 Z=0.00 Location: X=-631.43 Y=524.63 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.049 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2021.06.14-06.40.15:489][473]LogBlueprintUserMessages: [UnitProjectile_C_0] HIT
+[2021.06.14-06.40.15:752][478]LogBlueprintUserMessages: [U_Defender_2] STOMP
+[2021.06.14-06.40.16:395][491]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=231.79 Y=190.46 Z=0.00 Location: X=-631.43 Y=524.63 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.049 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (20 other events since notify)
+[2021.06.14-06.40.16:946][502]LogBlueprintUserMessages: [UnitProjectile_C_1] HIT
+[2021.06.14-06.40.17:192][507]LogBlueprintUserMessages: [UnitProjectile_C_1] HIT
+[2021.06.14-06.40.17:244][508]LogBlueprintUserMessages: [UnitProjectile_C_1] HIT
+[2021.06.14-06.40.17:245][508]LogBlueprintUserMessages: [UnitProjectile_C_1] HIT
+[2021.06.14-06.40.17:300][509]LogBlueprintUserMessages: [UnitProjectile_C_1] HIT
+[2021.06.14-06.40.17:300][509]LogBlueprintUserMessages: [UnitProjectile_C_1] HIT
+[2021.06.14-06.40.17:343][510]LogBlueprintUserMessages: [UnitProjectile_C_1] HIT
+[2021.06.14-06.40.17:395][511]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=231.79 Y=190.46 Z=0.00 Location: X=-631.43 Y=524.63 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.049 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (19 other events since notify)
+[2021.06.14-06.40.17:396][511]LogBlueprintUserMessages: [UnitProjectile_C_1] HIT
+[2021.06.14-06.40.17:396][511]LogBlueprintUserMessages: [UnitProjectile_C_1] HIT
+[2021.06.14-06.40.17:454][512]LogBlueprintUserMessages: [UnitProjectile_C_1] HIT
+[2021.06.14-06.40.17:454][512]LogBlueprintUserMessages: [UnitProjectile_C_1] HIT
+[2021.06.14-06.40.18:002][523]LogCharacterMovement: U_Defender_2 is stuck and failed to move! Velocity: X=6.02 Y=50.90 Z=0.00 Location: X=803.39 Y=-1422.38 Z=295.11 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:4.896 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (1 other events since notify)
+[2021.06.14-06.40.18:250][528]LogBlueprintUserMessages: [U_Defender_2] STOMP
+[2021.06.14-06.40.18:440][532]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=289.95 Y=-77.02 Z=0.00 Location: X=-631.43 Y=524.63 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.049 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (20 other events since notify)
+[2021.06.14-06.40.19:181][547]LogCharacterMovement: U_Defender_2 is stuck and failed to move! Velocity: X=27.16 Y=48.19 Z=0.00 Location: X=757.15 Y=-1440.59 Z=295.11 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:4.896 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2021.06.14-06.40.19:469][553]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=289.95 Y=-77.02 Z=0.00 Location: X=-631.43 Y=524.63 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.049 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (20 other events since notify)
+[2021.06.14-06.40.20:340][571]LogCharacterMovement: U_Defender_2 is stuck and failed to move! Velocity: X=49.29 Y=87.45 Z=0.00 Location: X=757.15 Y=-1440.59 Z=295.11 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:4.896 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (2 other events since notify)
+[2021.06.14-06.40.20:390][572]LogBlueprintUserMessages: [U_Defender_2] STOMP
+[2021.06.14-06.40.20:485][574]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=96.06 Y=284.21 Z=0.00 Location: X=-631.43 Y=524.63 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.049 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (20 other events since notify)
+[2021.06.14-06.40.21:512][595]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=96.06 Y=284.21 Z=0.00 Location: X=-631.43 Y=524.63 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.049 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (20 other events since notify)
+[2021.06.14-06.40.21:661][598]LogBlueprintUserMessages: [UnitProjectile_C_2] HIT
+[2021.06.14-06.40.22:649][618]LogBlueprintUserMessages: [U_Defender_2] STOMP
+[2021.06.14-06.40.22:796][621]LogCharacterMovement: U_Defender_2 is stuck and failed to move! Velocity: X=21.51 Y=52.73 Z=0.00 Location: X=570.18 Y=-1440.59 Z=295.11 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:4.895 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2021.06.14-06.40.23:246][630]LogBlueprintUserMessages: [UnitProjectile_C_3] HIT
+[2021.06.14-06.40.23:557][636]LogBlueprintUserMessages: [UnitProjectile_C_3] HIT
+[2021.06.14-06.40.23:558][636]LogBlueprintUserMessages: [UnitProjectile_C_3] HIT
+[2021.06.14-06.40.23:844][642]LogCharacterMovement: U_Defender_2 is stuck and failed to move! Velocity: X=29.50 Y=90.93 Z=0.00 Location: X=445.54 Y=-1440.59 Z=295.11 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:4.895 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2021.06.14-06.40.24:817][662]LogBlueprintUserMessages: [UnitProjectile_C_4] HIT
+[2021.06.14-06.40.25:369][673]LogCharacterMovement: U_Mage_5 is stuck and failed to move! Velocity: X=69.40 Y=68.54 Z=0.00 Location: X=192.67 Y=-1579.38 Z=214.01 Normal: X=-0.50 Y=-0.51 Z=-0.70 PenetrationDepth:5.781 Actor:UnitProjectile_C_4 Component:ProjectileMesh BoneName:None (0 other events since notify)
+[2021.06.14-06.40.25:370][673]LogBlueprintUserMessages: [UnitProjectile_C_4] HIT
+[2021.06.14-06.40.25:515][676]LogBlueprintUserMessages: [U_Defender_2] STOMP
+[2021.06.14-06.40.26:802][702]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.26:846][703]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.26:847][703]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.26:894][704]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.26:895][704]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.26:944][705]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.26:944][705]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.26:945][705]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.26:946][705]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.26:994][706]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.26:995][706]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.26:995][706]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.26:996][706]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:042][707]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:043][707]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:093][708]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:094][708]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:143][709]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:143][709]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:144][709]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:144][709]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:197][710]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:197][710]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:197][710]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:197][710]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:247][711]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:249][711]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:294][712]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:294][712]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:347][713]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:347][713]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:347][713]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:348][713]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:397][714]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:399][714]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:400][714]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:400][714]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:450][715]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:452][715]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:452][715]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:453][715]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:507][716]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:507][716]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:508][716]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:508][716]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:556][717]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:556][717]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:556][717]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:557][717]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:605][718]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:606][718]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:660][719]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:662][719]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:662][719]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:663][719]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:707][720]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:708][720]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:755][721]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:755][721]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:811][722]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:811][722]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:811][722]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:811][722]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:855][723]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:855][723]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:907][724]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:908][724]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:954][725]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.27:955][725]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.28:007][726]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.28:009][726]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.28:009][726]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.28:010][726]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.28:055][727]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.28:055][727]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.28:103][728]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.28:103][728]LogBlueprintUserMessages: [UnitProjectile_C_5] HIT
+[2021.06.14-06.40.30:580][778]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=53.86 Y=3.44 Z=0.00 Location: X=-984.24 Y=262.15 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.048 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (7 other events since notify)
+[2021.06.14-06.40.31:226][791]LogBlueprintUserMessages: [UnitProjectile_C_6] HIT
+[2021.06.14-06.40.31:620][799]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=299.41 Y=18.84 Z=0.00 Location: X=-984.24 Y=262.15 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.048 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (20 other events since notify)
+[2021.06.14-06.40.32:662][820]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=298.95 Y=25.09 Z=0.00 Location: X=-1004.11 Y=259.90 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.048 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (20 other events since notify)
+[2021.06.14-06.40.32:813][823]LogBlueprintUserMessages: [UnitProjectile_C_7] HIT
+[2021.06.14-06.40.33:691][841]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=228.68 Y=-194.17 Z=0.00 Location: X=-1004.11 Y=259.90 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.022 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (20 other events since notify)
+[2021.06.14-06.40.34:282][853]LogBlueprintUserMessages: [U_Defender_2] STOMP
+[2021.06.14-06.40.34:382][855]LogBlueprintUserMessages: [UnitProjectile_C_8] HIT
+[2021.06.14-06.40.34:724][862]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=217.05 Y=207.10 Z=0.00 Location: X=-1107.95 Y=251.26 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.022 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (9 other events since notify)
+[2021.06.14-06.40.35:743][882]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=208.28 Y=215.92 Z=0.00 Location: X=-1107.95 Y=251.26 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.022 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (19 other events since notify)
+[2021.06.14-06.40.36:779][902]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=199.99 Y=223.61 Z=0.00 Location: X=-1107.95 Y=251.26 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.022 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (19 other events since notify)
+[2021.06.14-06.40.37:641][919]LogBlueprintUserMessages: [UnitProjectile_C_9] HIT
+[2021.06.14-06.40.37:734][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.14-06.40.37:734][920]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Field
+[2021.06.14-06.40.37:734][920]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.14-06.40.37:818][920]LogWorld: UWorld::CleanupWorld for Field, bSessionEnded=true, bCleanupResources=true
+[2021.06.14-06.40.37:820][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.14-06.40.37:835][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.14-06.40.37:844][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.14-06.40.37:894][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.14-06.40.37:895][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.14-06.40.37:936][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.06.14-06.40.37:968][921]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.06.14-06.41.06:429][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.06.14-06.41.06:518][ 68]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Field_Auto25F88FE4542813F77B5AF6984898E8B5F.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Autosaves/Game/Golem/Maps/Field_Auto2.umap'
+[2021.06.14-06.41.06:523][ 68]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Golem/Maps/Field' took 0.161
+[2021.06.14-06.41.06:523][ 68]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.161
+[2021.06.14-06.41.06:524][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Golem/Blueprints/Units/U_Melee] ([1] browsable assets)...
+[2021.06.14-06.41.06:589][ 68]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee]
+[2021.06.14-06.41.06:590][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Golem/Blueprints/Units/U_Melee]
+[2021.06.14-06.41.06:910][ 68]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Melee_Auto249279B494D9C71F9E9D9EDB6157CFA6B.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Autosaves/Game/Golem/Blueprints/Units/U_Melee_Auto2.uasset'
+[2021.06.14-06.41.06:915][ 68]LogFileHelpers: Auto-saving content packages took 0.392
