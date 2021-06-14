@@ -1219,3 +1219,239 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.14-06.41.06:590][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Golem/Blueprints/Units/U_Melee]
 [2021.06.14-06.41.06:910][ 68]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Melee_Auto249279B494D9C71F9E9D9EDB6157CFA6B.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Autosaves/Game/Golem/Blueprints/Units/U_Melee_Auto2.uasset'
 [2021.06.14-06.41.06:915][ 68]LogFileHelpers: Auto-saving content packages took 0.392
+[2021.06.14-06.41.22:167][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.14-06.41.22:485][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Maps/Field" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Maps/Field.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.14-06.41.22:533][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.06.14-06.41.22:607][130]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Field6B84DEE2468E1885575575AFD7C8B1E0.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Maps/Field.umap'
+[2021.06.14-06.41.22:640][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Maps/Field_BuiltData" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Maps/Field_BuiltData.uasset" SILENT=true
+[2021.06.14-06.41.22:994][130]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Field_BuiltDataAADAF5A84E656DA6A49984A0555CD5E8.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Maps/Field_BuiltData.uasset'
+[2021.06.14-06.41.23:020][130]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.14-06.41.23:020][130]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Golem/Maps/Field_BuiltData.Field_BuiltData
+[2021.06.14-06.41.23:020][130]LogContentValidation: Display: Validating World /Game/Golem/Maps/Field.Field
+[2021.06.14-06.42.58:836][169]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Enemies/Enemy.Enemy
+[2021.06.14-06.52.02:478][870]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.06.14-06.52.02:480][870]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Golem/Maps/Field' took 0.070
+[2021.06.14-06.52.02:480][870]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Golem/Blueprints/Units/U_Defender] ([1] browsable assets)...
+[2021.06.14-06.52.02:543][870]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender]
+[2021.06.14-06.52.02:543][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/Golem/Blueprints/Units/U_Defender]
+[2021.06.14-06.52.02:662][870]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Defender_Auto3C5FA721F4D481E63B3CCB3BCA2CFD058.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Autosaves/Game/Golem/Blueprints/Units/U_Defender_Auto3.uasset'
+[2021.06.14-06.52.02:666][870]LogFileHelpers: Auto-saving content packages took 0.187
+[2021.06.14-06.52.31:720][605]LogEditorTransaction: Undo Delete current selection
+[2021.06.14-06.52.32:098][613]LogEditorTransaction: Undo Delete current selection
+[2021.06.14-06.52.32:600][635]LogEditorTransaction: Undo Delete current selection
+[2021.06.14-06.52.32:830][644]LogEditorTransaction: Undo Change Number Pin Value
+[2021.06.14-06.52.33:089][652]LogEditorTransaction: Undo Move Node
+[2021.06.14-06.52.33:313][660]LogEditorTransaction: Undo Create Pin Link
+[2021.06.14-06.52.33:530][668]LogEditorTransaction: Undo Add Node
+[2021.06.14-06.52.33:746][676]LogEditorTransaction: Undo Delete current selection
+[2021.06.14-06.52.33:950][683]LogEditorTransaction: Undo Delete current selection
+[2021.06.14-06.52.34:140][690]LogEditorTransaction: Undo Delete current selection
+[2021.06.14-06.52.34:335][697]LogEditorTransaction: Undo Change Number Pin Value
+[2021.06.14-06.52.34:864][723]LogEditorTransaction: Undo Move Node
+[2021.06.14-06.52.35:163][735]LogEditorTransaction: Undo Move Node
+[2021.06.14-06.52.35:638][759]LogEditorTransaction: Undo Delete current selection
+[2021.06.14-06.52.36:114][782]LogEditorTransaction: Undo Move Node
+[2021.06.14-06.52.36:634][807]LogEditorTransaction: Undo Add Node
+[2021.06.14-06.52.37:950][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.14-06.52.38:075][871]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_DefenderF1D8F02E49FBFD61215A1780D64B42F0.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.14-06.52.38:101][871]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.14-06.52.38:101][871]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.14-06.58.22:865][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.14-06.58.23:014][367]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Unit6742CA5E43969BE9028688A723BD0E43.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.14-06.58.23:040][367]AssetCheck: New page: Asset Save: Unit
+[2021.06.14-06.58.23:040][367]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.14-06.58.40:911][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.14-06.58.41:063][384]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/UnitE58E3EBC4FAEC21D0FD53B88FF396908.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.14-06.58.41:090][384]AssetCheck: New page: Asset Save: Unit
+[2021.06.14-06.58.41:090][384]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.14-06.58.47:953][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.14-06.58.48:100][790]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Unit80D3659D420EA09497B9D59E514367B6.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.14-06.58.48:129][790]AssetCheck: New page: Asset Save: Unit
+[2021.06.14-06.58.48:129][790]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.14-06.58.56:528][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.14-06.58.56:676][270]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Unit98214576471DDA2484A86D8456355D2E.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.14-06.58.56:698][270]AssetCheck: New page: Asset Save: Unit
+[2021.06.14-06.58.56:698][270]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.14-06.59.08:300][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.14-06.59.08:445][933]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Unit69B7AC4249C13DF0EE06C8A4D0B18B0E.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.14-06.59.08:473][933]AssetCheck: New page: Asset Save: Unit
+[2021.06.14-06.59.08:474][933]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.14-06.59.59:044][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.14-06.59.59:168][903]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_DefenderC1BEAC064C82C57D9BBBAB9834A80971.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.14-06.59.59:188][903]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.14-06.59.59:188][903]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.14-07.00.07:500][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.14-07.00.07:620][355]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_DefenderA60AEACB4D0ACC84EA4AE5B02C7BF9D0.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.14-07.00.07:643][355]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.14-07.00.07:643][355]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.14-07.02.05:899][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.14-07.02.06:021][280]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_DefenderEABBDF3C4D97A44BD13FF69F87B8C5A0.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.14-07.02.06:047][280]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.14-07.02.06:047][280]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.14-07.02.21:492][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.14-07.02.21:608][204]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_DefenderC80E9E2D43E018BB7B02AD8E09596700.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.14-07.02.21:633][204]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.14-07.02.21:633][204]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.14-07.02.33:894][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.14-07.02.34:062][887]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_DefenderE16B229149FB4184B1CF56B54AFBEB47.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.14-07.02.34:090][887]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.14-07.02.34:090][887]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.14-07.04.05:375][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.14-07.04.05:499][257]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_DefenderA130326B4359D5FF98AAA3927A0CF6FF.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.14-07.04.05:525][257]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.14-07.04.05:525][257]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.14-07.04.10:233][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.14-07.04.10:357][538]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_DefenderB8AF70D14CDAB5A6212676B39229F8F4.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.14-07.04.10:381][538]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.14-07.04.10:381][538]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.14-07.05.54:147][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.14-07.05.54:268][624]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_DefenderCB208D6D452FEDA78DFD20B3CD3569D1.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.14-07.05.54:297][624]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.14-07.05.54:297][624]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.14-07.05.56:523][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.14-07.05.56:651][756]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Defender0EA8C4FE4157D11E8376CFB2C5FF124F.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.14-07.05.56:673][756]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.14-07.05.56:673][756]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.14-07.07.08:769][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.14-07.07.08:895][ 22]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_DefenderD18586974908DDA1D94C3E956A7AC353.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.14-07.07.08:918][ 22]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.14-07.07.08:918][ 22]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.14-07.09.42:426][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.14-07.09.42:555][133]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Defender7A4EDF864A9CD1895A717091ADF036C9.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.14-07.09.42:580][133]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.14-07.09.42:580][133]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.14-07.10.31:045][391]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Units/U_Bomb.U_Bomb
+[2021.06.14-07.11.01:158][836]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.06.14-07.11.01:158][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.14-07.11.06:541][940]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.14-07.12.56:995][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.14-07.12.57:187][162]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_MeleeD0855EB54457DFC87D5A4D9E09BC0185.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.14-07.12.57:215][162]AssetCheck: New page: Asset Save: U_Melee
+[2021.06.14-07.12.57:215][162]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.14-07.13.10:951][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.14-07.13.11:130][755]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Melee3A222C9E44C64B4513ADB3B4B40A11A2.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.14-07.13.11:152][755]AssetCheck: New page: Asset Save: U_Melee
+[2021.06.14-07.13.11:152][755]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.14-07.13.22:373][ 22]LogSlate: Window 'U_Melee' being destroyed
+[2021.06.14-07.14.53:734][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.14-07.14.53:868][975]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_DefenderEA58CC374FA79CFE116FE0BBEA214CCD.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.14-07.14.53:888][975]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.14-07.14.53:888][975]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.14-07.15.09:290][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.14-07.15.09:427][897]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_DefenderF03D2AB44BAC3422015FE3AC7A77A335.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.14-07.15.09:453][897]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.14-07.15.09:453][897]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.14-07.15.51:766][406]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.06.14-07.15.51:843][406]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Field_Auto442C4C5D44F44A6F6046998AFF73B9F07.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Autosaves/Game/Golem/Maps/Field_Auto4.umap'
+[2021.06.14-07.15.51:847][406]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Golem/Maps/Field' took 0.173
+[2021.06.14-07.15.51:847][406]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.173
+[2021.06.14-07.15.51:849][406]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Golem/Blueprints/Units/U_Defender] ([2] browsable assets)...
+[2021.06.14-07.15.51:911][406]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender]
+[2021.06.14-07.15.51:979][406]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender]
+[2021.06.14-07.15.51:979][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/Golem/Blueprints/Units/U_Defender]
+[2021.06.14-07.15.52:144][406]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Defender_Auto49323400444CD9871DE660C8FC0535669.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Autosaves/Game/Golem/Blueprints/Units/U_Defender_Auto4.uasset'
+[2021.06.14-07.15.52:147][406]LogFileHelpers: Auto-saving content packages took 0.300
+[2021.06.14-07.16.02:188][  6]BlueprintLog: New page: Compile U_Defender
+[2021.06.14-07.16.02:219][  6]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Documents\GitHub\GolemHeart\Golem\Content\Golem\Blueprints\Units\U_Defender.uasset: [Compiler] Could not find the function 'UpdateStats' called from  Update Stats
+[2021.06.14-07.16.02:219][  6]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Documents\GitHub\GolemHeart\Golem\Content\Golem\Blueprints\Units\U_Defender.uasset: [Compiler] Could not find the function 'UpdateStats' called from  Update Stats
+[2021.06.14-07.16.02:220][  6]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Documents\GitHub\GolemHeart\Golem\Content\Golem\Blueprints\Units\U_Defender.uasset: [Compiler] Could not find the function 'UpdateStats' called from  Update Stats
+[2021.06.14-07.16.02:220][  6]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Documents\GitHub\GolemHeart\Golem\Content\Golem\Blueprints\Units\U_Defender.uasset: [Compiler] Could not find the function 'UpdateStats' called from  Update Stats
+[2021.06.14-07.16.02:220][  6]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Documents\GitHub\GolemHeart\Golem\Content\Golem\Blueprints\Units\U_Defender.uasset: [Compiler] Could not find the function 'UpdateStats' called from  Update Stats
+[2021.06.14-07.16.02:221][  6]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Documents\GitHub\GolemHeart\Golem\Content\Golem\Blueprints\Units\U_Defender.uasset: [Compiler] Could not find the function 'UpdateStats' called from  Update Stats
+[2021.06.14-07.16.02:349][  6]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.06.14-07.16.02:556][  6]LogSlate: Took 0.035115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.14-07.16.28:313][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.14-07.16.28:440][482]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Defender8E7692C14DD3EA343803A89F35AADAFC.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.14-07.16.28:463][482]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.14-07.16.28:463][482]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.14-07.16.30:054][576]BlueprintLog: New page: Compile U_Defender
+[2021.06.14-07.16.30:084][576]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Documents\GitHub\GolemHeart\Golem\Content\Golem\Blueprints\Units\U_Defender.uasset: [Compiler] Could not find the function 'UpdateStats' called from  Update Stats
+[2021.06.14-07.16.30:084][576]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Documents\GitHub\GolemHeart\Golem\Content\Golem\Blueprints\Units\U_Defender.uasset: [Compiler] Could not find the function 'UpdateStats' called from  Update Stats
+[2021.06.14-07.16.30:084][576]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Documents\GitHub\GolemHeart\Golem\Content\Golem\Blueprints\Units\U_Defender.uasset: [Compiler] Could not find the function 'UpdateStats' called from  Update Stats
+[2021.06.14-07.16.30:085][576]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Documents\GitHub\GolemHeart\Golem\Content\Golem\Blueprints\Units\U_Defender.uasset: [Compiler] Could not find the function 'UpdateStats' called from  Update Stats
+[2021.06.14-07.16.30:085][576]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Documents\GitHub\GolemHeart\Golem\Content\Golem\Blueprints\Units\U_Defender.uasset: [Compiler] Could not find the function 'UpdateStats' called from  Update Stats
+[2021.06.14-07.16.30:085][576]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Documents\GitHub\GolemHeart\Golem\Content\Golem\Blueprints\Units\U_Defender.uasset: [Compiler] Could not find the function 'UpdateStats' called from  Update Stats
+[2021.06.14-07.16.30:212][576]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.06.14-07.16.38:272][ 41]BlueprintLog: New page: Compile Unit
+[2021.06.14-07.16.38:849][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.06.14-07.16.40:518][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.14-07.16.40:668][109]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/Unit34800DEC4E8C872906E644A5A7791C4C.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.14-07.16.40:694][109]AssetCheck: New page: Asset Save: Unit
+[2021.06.14-07.16.40:694][109]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.14-07.16.42:309][202]BlueprintLog: New page: Compile U_Defender
+[2021.06.14-07.16.42:469][202]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2021.06.14-07.17.37:812][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.14-07.17.37:994][433]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Melee20DB4DBF44722062A2F8288B09633026.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.14-07.17.38:020][433]AssetCheck: New page: Asset Save: U_Melee
+[2021.06.14-07.17.38:020][433]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.14-07.18.59:784][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.14-07.18.59:963][ 90]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Melee3BFC84954CCC982E5031609ABCCB8F85.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.14-07.18.59:988][ 90]AssetCheck: New page: Asset Save: U_Melee
+[2021.06.14-07.18.59:988][ 90]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.14-07.20.08:157][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.14-07.20.08:359][889]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Melee97BF94C14C46852EEC9BFE8E25DDE8AE.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.14-07.20.08:378][889]AssetCheck: New page: Asset Save: U_Melee
+[2021.06.14-07.20.08:378][889]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.14-07.20.25:498][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.14-07.20.25:668][797]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Melee293FB92E494FFFB889E3C6AEAE6CD268.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.14-07.20.25:690][797]AssetCheck: New page: Asset Save: U_Melee
+[2021.06.14-07.20.25:690][797]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.14-07.22.19:809][398]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Units/U_Ranged.U_Ranged
+[2021.06.14-07.23.06:127][ 82]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.06.14-07.23.06:127][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.14-07.24.55:209][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.14-07.24.55:392][333]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_MeleeC9BFB5B14A84F70B4CFD568908719F4A.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.14-07.24.55:415][333]AssetCheck: New page: Asset Save: U_Melee
+[2021.06.14-07.24.55:415][333]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.14-07.25.00:920][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.14-07.25.01:094][660]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Melee6B17491C42B9A2E1D60C57BEA0E2FAA1.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.14-07.25.01:114][660]AssetCheck: New page: Asset Save: U_Melee
+[2021.06.14-07.25.01:115][660]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.14-07.25.08:578][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.14-07.25.08:759][104]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Melee5DFB0D0C4757E4842E25D686E7B6CA63.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.14-07.25.08:785][104]AssetCheck: New page: Asset Save: U_Melee
+[2021.06.14-07.25.08:785][104]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.14-07.25.16:422][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.14-07.25.16:598][515]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Melee32D8F6894AA51548AD7B909DD726227A.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.14-07.25.16:619][515]AssetCheck: New page: Asset Save: U_Melee
+[2021.06.14-07.25.16:619][515]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.14-07.26.16:317][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.14-07.26.16:506][819]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Melee449D809B4D494CECD083799B1E5EDD4C.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.14-07.26.16:529][819]AssetCheck: New page: Asset Save: U_Melee
+[2021.06.14-07.26.16:529][819]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.14-07.27.43:680][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.14-07.27.43:856][614]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Melee503FB2E34A11D6E31B62A48E4ED9AEA1.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.14-07.27.43:876][614]AssetCheck: New page: Asset Save: U_Melee
+[2021.06.14-07.27.43:876][614]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.14-07.27.49:124][927]BlueprintLog: New page: Compile U_Melee
+[2021.06.14-07.27.49:379][927]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.06.14-07.27.54:667][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.14-07.27.54:846][205]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Melee2CD295E7409F22B19133638E36ADC0D1.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.14-07.27.54:867][205]AssetCheck: New page: Asset Save: U_Melee
+[2021.06.14-07.27.54:867][205]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.14-07.28.04:968][798]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.14-07.28.04:968][798]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.06.14-07.28.04:968][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.14-07.28.54:663][540]LogEditorTransaction: Undo Delete current selection
+[2021.06.14-07.28.58:216][716]LogEditorTransaction: Undo Delete current selection
+[2021.06.14-07.28.58:559][722]LogEditorTransaction: Undo Delete current selection
+[2021.06.14-07.29.24:681][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Ranged" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset" SILENT=true
+[2021.06.14-07.29.24:904][234]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Ranged87328F8741DD2942FCDE79A33E4D2A83.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset'
+[2021.06.14-07.29.24:925][234]AssetCheck: New page: Asset Save: U_Ranged
+[2021.06.14-07.29.24:925][234]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Ranged.U_Ranged
+[2021.06.14-07.29.33:188][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Ranged" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset" SILENT=true
+[2021.06.14-07.29.33:402][687]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_Ranged7D488C1848F9922BB0D632A20E08FB6E.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset'
+[2021.06.14-07.29.33:423][687]AssetCheck: New page: Asset Save: U_Ranged
+[2021.06.14-07.29.33:423][687]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Ranged.U_Ranged
+[2021.06.14-07.30.13:941][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Ranged" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset" SILENT=true
+[2021.06.14-07.30.14:164][976]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_RangedBD3DE83948128F4BB0FC8D829445F637.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset'
+[2021.06.14-07.30.14:184][976]AssetCheck: New page: Asset Save: U_Ranged
+[2021.06.14-07.30.14:184][976]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Ranged.U_Ranged
+[2021.06.14-07.30.26:364][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Ranged" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset" SILENT=true
+[2021.06.14-07.30.26:577][692]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_RangedC503F5BE44BB0F2E6BF6C094336B9A7F.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset'
+[2021.06.14-07.30.26:605][692]AssetCheck: New page: Asset Save: U_Ranged
+[2021.06.14-07.30.26:605][692]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Ranged.U_Ranged
+[2021.06.14-07.30.58:775][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Ranged" FILE="../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset" SILENT=true
+[2021.06.14-07.30.58:987][378]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Saved/U_RangedF387696D4CD3628B4A6676BD967DC2FD.tmp' to '../../../../../../Users/Admin/Documents/GitHub/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset'
+[2021.06.14-07.30.59:010][378]AssetCheck: New page: Asset Save: U_Ranged
+[2021.06.14-07.30.59:010][378]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Ranged.U_Ranged
