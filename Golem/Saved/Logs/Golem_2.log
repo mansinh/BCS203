@@ -7261,3 +7261,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.11-10.00.01:491][931]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Sentinel.E_Sentinel
 [2021.06.11-10.00.01:491][931]LogContentValidation: Display: Validating World /Game/Golem/Maps/Field.Field
 [2021.06.11-10.00.01:492][931]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Bomb.E_Bomb
+[2021.06.11-10.34.23:800][ 82]LogAudioMixer: Resetting audio stream to device id 
+[2021.06.11-10.34.24:280][ 82]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.11-10.34.24:280][ 82]LogAudioMixer: Display: 1: FrontRight
+[2021.06.11-11.29.40:436][ 90]LogAudioMixer: Resetting audio stream to device id 
+[2021.06.11-11.29.40:543][ 90]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.11-11.29.40:544][ 90]LogAudioMixer: Display: 1: FrontRight
+[2021.06.11-11.29.41:444][ 93]LogHttp: Warning: 00000278E29F0800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B627548BB-4C93-D54C-D2FA-5AABE6D6F538%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=fed9e47a4424cdbe7d119382c0da8429%7C4d7b79c7d233430e9bcf00c6a8b69b55%7Cda90c9d9-09a6-4d9d-8dea-8cadde8b72d1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.06.11-11.29.41:445][ 93]LogHttp: Warning: 00000278E29F0800: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.06.11-11.29.41:445][ 93]LogHttp: Warning: 00000278E29F0800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2779030feb0 [can pipeline])
+[2021.06.11-11.29.41:445][ 93]LogHttp: Warning: 00000278E29F0800: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.06.11-11.29.41:445][ 93]LogHttp: Warning: 00000278E29F0800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.87.250.99) port 443 (#0))
+[2021.06.11-11.29.41:446][ 93]LogHttp: Warning: 00000278E29F0800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.06.11-11.29.41:446][ 93]LogHttp: Warning: 00000278E29F0800: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.06.11-11.29.41:446][ 93]LogHttp: Warning: 00000278E29F0800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.06.11-11.29.41:446][ 93]LogHttp: Warning: 00000278E29F0800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.06.11-11.29.41:446][ 93]LogHttp: Warning: 00000278E29F0800: libcurl info message cache 7 (Closing connection 0)
+[2021.06.11-11.29.41:734][ 94]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B627548BB-4C93-D54C-D2FA-5AABE6D6F538%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=fed9e47a4424cdbe7d119382c0da8429%7C4d7b79c7d233430e9bcf00c6a8b69b55%7Cda90c9d9-09a6-4d9d-8dea-8cadde8b72d1&AppEnvironment=datacollector-binary&UploadType=eteventstream
