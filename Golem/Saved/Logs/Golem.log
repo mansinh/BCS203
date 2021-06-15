@@ -2755,3 +2755,79 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.15-02.22.41:934][674]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
 [2021.06.15-02.22.41:935][674]LogFileHelpers: Loading map 'Field' took 0.655
 [2021.06.15-02.25.51:265][386]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.06.15-05.13.04:411][940]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.15-05.13.04:443][940]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.15-05.13.04:492][940]LogPlayLevel: [PlayLevel] Compiling U_Ranged before play...
+[2021.06.15-05.13.08:730][940]LogPlayLevel: [PlayLevel] Compiling U_Bomb before play...
+[2021.06.15-05.13.08:994][940]LogPlayLevel: [PlayLevel] Compiling U_Melee before play...
+[2021.06.15-05.13.09:182][940]LogPlayLevel: [PlayLevel] Compiling U_Mage_4 before play...
+[2021.06.15-05.13.09:442][940]LogUObjectHash: Compacting FUObjectHashTables data took  12.74ms
+[2021.06.15-05.13.09:474][940]LogPlayLevel: PlayLevel: Blueprint regeneration took 5032 ms (4 blueprints)
+[2021.06.15-05.13.09:475][940]PIE: New page: PIE session: Field (16/06/2021, 5:13:09 am)
+[2021.06.15-05.13.09:477][940]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Field
+[2021.06.15-05.13.09:513][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035604s)
+[2021.06.15-05.13.09:519][940]LogAIModule: Creating AISystem for world Field
+[2021.06.15-05.13.09:521][940]LogPlayLevel: PIE: World Init took: (0.006506s)
+[2021.06.15-05.13.09:521][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Field.Field to /Game/Golem/Maps/UEDPIE_0_Field.Field (0.043909s)
+[2021.06.15-05.13.09:561][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.06.15-05.13.09:563][940]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.06.15-05.13.09:563][940]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.15-05.13.09:563][940]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.15-05.13.09:564][940]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.15-05.13.09:564][940]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.15-05.13.09:564][940]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.15-05.13.09:564][940]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.15-05.13.09:564][940]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.15-05.13.09:564][940]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.15-05.13.09:566][940]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.15-05.13.09:566][940]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.15-05.13.09:611][940]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.15-05.13.09:611][940]LogAudioMixer: Display: 1: FrontRight
+[2021.06.15-05.13.09:636][940]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.15-05.13.09:668][940]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.15-05.13.09:668][940]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.15-05.13.09:668][940]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.15-05.13.09:673][940]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.15-05.13.09:673][940]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.15-05.13.09:673][940]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.15-05.13.09:678][940]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.15-05.13.09:678][940]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.15-05.13.09:678][940]LogInit: FAudioDevice initialized.
+[2021.06.15-05.13.09:678][940]LogAudio: Display: Audio Device (ID: 10) registered with world 'Field'.
+[2021.06.15-05.13.09:749][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.15-05.13.09:750][940]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.15-05.13.09:761][940]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Field.Field up for play (max tick rate 0) at 2021.06.15-17.13.09
+[2021.06.15-05.13.09:766][940]LogWorld: Bringing up level for play took: 0.013820
+[2021.06.15-05.13.09:768][940]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.06.15-05.13.09:872][940]PIE: Server logged in
+[2021.06.15-05.13.09:875][940]PIE: Play in editor total start time 5.437 seconds.
+[2021.06.15-05.13.09:976][941]LogRenderer: Reallocating scene render targets to support 1192x716 Format 10 NumSamples 1 (Frame:1).
+[2021.06.15-05.13.10:114][943]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=0.50 Y=81.69 Z=0.00 Location: X=-420.01 Y=535.00 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.050 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2021.06.15-05.13.10:192][948]LogCharacterMovement: U_Ranged5_11 is stuck and failed to move! Velocity: X=21.75 Y=26.95 Z=0.00 Location: X=288.41 Y=-36.65 Z=140.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2021.06.15-05.13.10:252][952]LogCharacterMovement: U_Ranged7_17 is stuck and failed to move! Velocity: X=28.60 Y=1.12 Z=0.00 Location: X=321.70 Y=-219.88 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2021.06.15-05.13.10:770][988]LogCharacterMovement: U_Ranged3_5 is stuck and failed to move! Velocity: X=17.44 Y=18.83 Z=0.00 Location: X=163.09 Y=-5.20 Z=140.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2021.06.15-05.13.11:127][ 14]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=1.83 Y=299.99 Z=0.00 Location: X=-420.01 Y=535.00 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.050 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (70 other events since notify)
+[2021.06.15-05.13.11:258][ 24]LogCharacterMovement: U_Ranged5_11 is stuck and failed to move! Velocity: X=14.29 Y=17.60 Z=0.00 Location: X=286.67 Y=-38.80 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (2 other events since notify)
+[2021.06.15-05.13.11:977][ 76]LogCharacterMovement: U_Ranged3_5 is stuck and failed to move! Velocity: X=21.39 Y=22.96 Z=0.00 Location: X=161.42 Y=-6.86 Z=140.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (5 other events since notify)
+[2021.06.15-05.13.12:138][ 88]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=70.82 Y=-65.74 Z=0.00 Location: X=-420.01 Y=535.00 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.050 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (73 other events since notify)
+[2021.06.15-05.13.12:411][108]LogCharacterMovement: U_Ranged5_11 is stuck and failed to move! Velocity: X=18.24 Y=22.29 Z=0.00 Location: X=284.53 Y=-41.42 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (2 other events since notify)
+[2021.06.15-05.13.12:998][152]LogCharacterMovement: U_Ranged3_5 is stuck and failed to move! Velocity: X=18.13 Y=19.35 Z=0.00 Location: X=160.12 Y=-8.58 Z=140.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (1 other events since notify)
+[2021.06.15-05.13.13:138][162]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=137.34 Y=-266.72 Z=0.00 Location: X=-420.01 Y=535.00 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.050 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (73 other events since notify)
+[2021.06.15-05.13.13:225][168]LogCharacterMovement: U_Ranged7_17 is stuck and failed to move! Velocity: X=24.99 Y=0.14 Z=0.00 Location: X=320.78 Y=-219.99 Z=140.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2021.06.15-05.13.13:562][192]LogCharacterMovement: U_Ranged5_11 is stuck and failed to move! Velocity: X=16.03 Y=19.54 Z=0.00 Location: X=283.71 Y=-42.42 Z=140.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (5 other events since notify)
+[2021.06.15-05.13.14:085][232]LogCharacterMovement: U_Ranged3_5 is stuck and failed to move! Velocity: X=19.13 Y=20.33 Z=0.00 Location: X=159.15 Y=-9.91 Z=140.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (6 other events since notify)
+[2021.06.15-05.13.14:155][237]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=2.00 Y=7.94 Z=0.00 Location: X=-420.01 Y=535.00 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.050 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (74 other events since notify)
+[2021.06.15-05.13.14:600][271]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.15-05.13.14:614][271]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Field
+[2021.06.15-05.13.14:615][271]LogWorld: UWorld::CleanupWorld for Field, bSessionEnded=true, bCleanupResources=true
+[2021.06.15-05.13.14:616][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.15-05.13.14:632][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.15-05.13.14:636][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.15-05.13.14:678][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.15-05.13.14:680][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.15-05.13.14:719][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.06.15-05.13.14:747][272]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.06.15-05.13.40:751][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.06.15-05.13.40:840][638]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/Field_Auto527021D544A13119319E1A4AB6D370DAE.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/Autosaves/Game/Golem/Maps/Field_Auto5.umap'
+[2021.06.15-05.13.40:843][638]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Golem/Maps/Field' took 0.130
+[2021.06.15-05.13.40:843][638]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.130
