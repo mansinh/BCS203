@@ -2727,3 +2727,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.15-01.25.38:487][642]AssetCheck: New page: Asset Save: Field_2
 [2021.06.15-01.25.38:487][642]LogContentValidation: Display: Validating World /Game/Golem/Maps/Field_2.Field_2
 [2021.06.15-01.25.53:396][817]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.06.15-01.30.20:019][589]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.15-01.30.20:019][589]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
