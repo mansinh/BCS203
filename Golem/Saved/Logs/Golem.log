@@ -905,3 +905,764 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.15-05.58.51:766][532]LogSlate: Window 'Editor Preferences' being destroyed
 [2021.06.15-05.58.51:770][532]LogSlate: Window 'Editor Preferences' being destroyed
 [2021.06.15-05.58.53:599][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.06.15-06.04.37:012][ 52]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.15-06.04.48:532][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.06.15-06.04.59:743][178]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Enemies/Unit.Unit
+[2021.06.15-06.05.03:334][353]LogSlate: Window 'Unit' being destroyed
+[2021.06.15-06.05.13:870][430]LogContentBrowser: Attempting asset rename: Unit -> EnemyUnit
+[2021.06.15-06.05.13:995][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.SKEL_EnemyUnit_C' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:995][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit_C' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:995][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.SKEL_EnemyUnit_C:MoveUnit' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:995][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.SKEL_EnemyUnit_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:995][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.SKEL_EnemyUnit_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:995][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.SKEL_EnemyUnit_C:Attacked' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:995][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.SKEL_EnemyUnit_C:Selected' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.SKEL_EnemyUnit_C:Repair' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.SKEL_EnemyUnit_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.SKEL_EnemyUnit_C:AngleRange' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.SKEL_EnemyUnit_C:TakeDamage' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.SKEL_EnemyUnit_C:GetDeltaMove' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.SKEL_EnemyUnit_C:ModifyDamageMultiplier' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.SKEL_EnemyUnit_C:ModifyCoolDownMultiplier' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.SKEL_EnemyUnit_C:ModifyDefenceMultiplier' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.SKEL_EnemyUnit_C:ModifyMaxHealthMultiplier' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit_C:Repair' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit_C:Attacked' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit_C:MoveUnit' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit_C:AngleRange' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit_C:TakeDamage' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit_C:GetDeltaMove' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit_C:ModifyDamageMultiplier' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit_C:ModifyCoolDownMultiplier' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit_C:ModifyDefenceMultiplier' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.13:996][430]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit_C:ModifyMaxHealthMultiplier' ref from Metadata '/Game/Golem/Blueprints/Enemies/Unit.PackageMetaData'
+[2021.06.15-06.05.14:046][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/EnemyUnit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset" SILENT=true
+[2021.06.15-06.05.14:324][430]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/EnemyUnit5D6A1BB74ECF0CFB8CA927A1D77950FE.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset'
+[2021.06.15-06.05.14:441][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.06.15-06.05.14:481][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.06.15-06.05.14:509][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.06.15-06.05.14:711][430]AssetCheck: New page: Asset Save: EnemyUnit
+[2021.06.15-06.05.14:711][430]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit
+[2021.06.15-06.05.57:181][368]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.06.15-06.05.57:191][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.15-06.07.27:749][439]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit
+[2021.06.15-06.08.18:569][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/EnemyUnit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset" SILENT=true
+[2021.06.15-06.08.18:657][488]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/EnemyUnitCACFF6CC4E1F089E0C8208BE673BA7B8.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset'
+[2021.06.15-06.08.18:678][488]AssetCheck: New page: Asset Save: EnemyUnit
+[2021.06.15-06.08.18:678][488]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit
+[2021.06.15-06.09.04:890][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/EnemyUnit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset" SILENT=true
+[2021.06.15-06.09.04:969][408]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/EnemyUnit33C92FE84322273E5D4E6C975E98A759.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset'
+[2021.06.15-06.09.04:990][408]AssetCheck: New page: Asset Save: EnemyUnit
+[2021.06.15-06.09.04:990][408]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit
+[2021.06.15-06.09.13:590][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/EnemyUnit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset" SILENT=true
+[2021.06.15-06.09.13:672][996]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/EnemyUnit7BD1DF904D9705E55D5A4CAE894EB7A8.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset'
+[2021.06.15-06.09.13:695][996]AssetCheck: New page: Asset Save: EnemyUnit
+[2021.06.15-06.09.13:695][996]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit
+[2021.06.15-06.09.39:341][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/EnemyUnit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset" SILENT=true
+[2021.06.15-06.09.39:410][673]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/EnemyUnitBF4915CC428E97250102A2838D670644.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset'
+[2021.06.15-06.09.39:434][673]AssetCheck: New page: Asset Save: EnemyUnit
+[2021.06.15-06.09.39:434][673]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit
+[2021.06.15-06.09.42:776][912]BlueprintLog: New page: Compile EnemyUnit
+[2021.06.15-06.09.42:783][912]LogBlueprint: Error: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\Golem-Battle\Golem\Content\Golem\Blueprints\Enemies\EnemyUnit.uasset: [Compiler] Could not find a function named "OnSelected" in 'EnemyUnit_C'.
+Make sure 'EnemyUnit_C' has been compiled for  On Selected
+[2021.06.15-06.09.42:962][912]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.06.15-06.09.43:067][912]LogSlate: Took 0.021858 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.15-06.09.49:542][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/EnemyUnit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset" SILENT=true
+[2021.06.15-06.09.49:610][354]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/EnemyUnit32659A9B4CA1B222F0DDCCAF05193ED4.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset'
+[2021.06.15-06.09.49:627][354]AssetCheck: New page: Asset Save: EnemyUnit
+[2021.06.15-06.09.49:627][354]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit
+[2021.06.15-06.10.31:077][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/EnemyUnit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset" SILENT=true
+[2021.06.15-06.10.31:144][843]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/EnemyUnit59E3E9A74D3F83D18E0FD7BF061CD714.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset'
+[2021.06.15-06.10.31:161][843]AssetCheck: New page: Asset Save: EnemyUnit
+[2021.06.15-06.10.31:161][843]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit
+[2021.06.15-06.10.33:068][951]LogRenderer: Reallocating scene render targets to support 916x536 Format 10 NumSamples 1 (Frame:1).
+[2021.06.15-06.10.35:977][127]BlueprintLog: New page: Compile EnemyUnit
+[2021.06.15-06.10.36:065][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.06.15-06.10.54:835][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/EnemyUnit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset" SILENT=true
+[2021.06.15-06.10.54:905][325]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/EnemyUnitB0BC734345114383411973933DB9B39F.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset'
+[2021.06.15-06.10.54:927][325]AssetCheck: New page: Asset Save: EnemyUnit
+[2021.06.15-06.10.54:927][325]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit
+[2021.06.15-06.11.20:148][596]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged
+[2021.06.15-06.11.26:382][944]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.06.15-06.11.26:383][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.15-06.11.29:379][ 91]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged
+[2021.06.15-06.11.35:207][393]LogContentBrowser: Attempting asset rename: E_Ranged -> E_Rangedold
+[2021.06.15-06.11.35:349][393]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Rangedold.E_Rangedold_C' ref from Metadata '/Game/Golem/Blueprints/Enemies/E_Ranged.PackageMetaData'
+[2021.06.15-06.11.35:349][393]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Rangedold.E_Rangedold:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Golem/Blueprints/Enemies/E_Ranged.PackageMetaData'
+[2021.06.15-06.11.35:349][393]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Rangedold.E_Rangedold:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Golem/Blueprints/Enemies/E_Ranged.PackageMetaData'
+[2021.06.15-06.11.35:349][393]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Rangedold.E_Rangedold:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Golem/Blueprints/Enemies/E_Ranged.PackageMetaData'
+[2021.06.15-06.11.35:349][393]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Rangedold.E_Rangedold:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Golem/Blueprints/Enemies/E_Ranged.PackageMetaData'
+[2021.06.15-06.11.35:349][393]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Rangedold.E_Rangedold:ShootTarget.K2Node_FunctionEntry_1' ref from Metadata '/Game/Golem/Blueprints/Enemies/E_Ranged.PackageMetaData'
+[2021.06.15-06.11.35:349][393]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Rangedold.SKEL_E_Rangedold_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Golem/Blueprints/Enemies/E_Ranged.PackageMetaData'
+[2021.06.15-06.11.35:349][393]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Rangedold.SKEL_E_Rangedold_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Enemies/E_Ranged.PackageMetaData'
+[2021.06.15-06.11.35:349][393]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Rangedold.SKEL_E_Rangedold_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Enemies/E_Ranged.PackageMetaData'
+[2021.06.15-06.11.35:349][393]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Rangedold.SKEL_E_Rangedold_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Enemies/E_Ranged.PackageMetaData'
+[2021.06.15-06.11.35:349][393]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Rangedold.SKEL_E_Rangedold_C' ref from Metadata '/Game/Golem/Blueprints/Enemies/E_Ranged.PackageMetaData'
+[2021.06.15-06.11.35:349][393]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Rangedold.E_Rangedold_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Enemies/E_Ranged.PackageMetaData'
+[2021.06.15-06.11.35:426][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/E_Rangedold" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Rangedold.uasset" SILENT=true
+[2021.06.15-06.11.35:477][393]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/E_Rangedold6EC499584C9C2813725309BE854090B5.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Rangedold.uasset'
+[2021.06.15-06.11.35:569][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.06.15-06.11.35:613][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.06.15-06.11.35:644][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.15-06.11.35:695][393]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/WaveController0F4D50E0408850C43745159C9871184A.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/WaveController.uasset'
+[2021.06.15-06.11.35:737][393]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.15-06.11.35:737][393]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/WaveController.WaveController
+[2021.06.15-06.11.35:737][393]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Rangedold.E_Rangedold
+[2021.06.15-06.11.37:570][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.06.15-06.11.43:044][766]LogContentBrowser: Attempting asset rename: U_Ranged -> E_Ranged
+[2021.06.15-06.11.43:062][766]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Ranged.SKEL_E_Ranged_C' ref from Metadata '/Game/Golem/Blueprints/Enemies/U_Ranged.PackageMetaData'
+[2021.06.15-06.11.43:062][766]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged_C' ref from Metadata '/Game/Golem/Blueprints/Enemies/U_Ranged.PackageMetaData'
+[2021.06.15-06.11.43:062][766]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Ranged.SKEL_E_Ranged_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Golem/Blueprints/Enemies/U_Ranged.PackageMetaData'
+[2021.06.15-06.11.43:062][766]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Ranged.SKEL_E_Ranged_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Enemies/U_Ranged.PackageMetaData'
+[2021.06.15-06.11.43:062][766]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Ranged.SKEL_E_Ranged_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Enemies/U_Ranged.PackageMetaData'
+[2021.06.15-06.11.43:062][766]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Ranged.SKEL_E_Ranged_C:RangedUpgrade' ref from Metadata '/Game/Golem/Blueprints/Enemies/U_Ranged.PackageMetaData'
+[2021.06.15-06.11.43:062][766]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Ranged.SKEL_E_Ranged_C:Ranged Merge' ref from Metadata '/Game/Golem/Blueprints/Enemies/U_Ranged.PackageMetaData'
+[2021.06.15-06.11.43:062][766]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Ranged.SKEL_E_Ranged_C:UserConstructionScript' ref from Metadata '/Game/Golem/Blueprints/Enemies/U_Ranged.PackageMetaData'
+[2021.06.15-06.11.43:063][766]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Ranged.SKEL_E_Ranged_C:ShootTargetSpread' ref from Metadata '/Game/Golem/Blueprints/Enemies/U_Ranged.PackageMetaData'
+[2021.06.15-06.11.43:063][766]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Ranged.SKEL_E_Ranged_C:ShootBeam' ref from Metadata '/Game/Golem/Blueprints/Enemies/U_Ranged.PackageMetaData'
+[2021.06.15-06.11.43:063][766]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged_C:ReceiveBeginPlay' ref from Metadata '/Game/Golem/Blueprints/Enemies/U_Ranged.PackageMetaData'
+[2021.06.15-06.11.43:063][766]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged_C:ReceiveTick' ref from Metadata '/Game/Golem/Blueprints/Enemies/U_Ranged.PackageMetaData'
+[2021.06.15-06.11.43:063][766]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged_C:ShootTargetSpread' ref from Metadata '/Game/Golem/Blueprints/Enemies/U_Ranged.PackageMetaData'
+[2021.06.15-06.11.43:063][766]LogMetaData: Removing '/Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged_C:ShootBeam' ref from Metadata '/Game/Golem/Blueprints/Enemies/U_Ranged.PackageMetaData'
+[2021.06.15-06.11.43:115][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/E_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset" SILENT=true
+[2021.06.15-06.11.43:337][766]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/E_Ranged131E1A494A07F412CCC0AFBD781D7CE0.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset'
+[2021.06.15-06.11.43:450][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.06.15-06.11.43:492][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.06.15-06.11.43:524][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.15-06.11.43:553][766]AssetCheck: New page: Asset Save: E_Ranged
+[2021.06.15-06.11.43:553][766]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged
+[2021.06.15-06.11.45:697][861]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged
+[2021.06.15-06.11.59:497][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/E_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset" SILENT=true
+[2021.06.15-06.11.59:606][326]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/E_Ranged7EE737254A6BE6F35AC9E38280F3CDCE.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset'
+[2021.06.15-06.11.59:627][326]AssetCheck: New page: Asset Save: E_Ranged
+[2021.06.15-06.11.59:627][326]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged
+[2021.06.15-06.12.19:081][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/E_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset" SILENT=true
+[2021.06.15-06.12.19:187][553]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/E_Ranged841590BA49C94349BD901795A7AE134B.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset'
+[2021.06.15-06.12.19:209][553]AssetCheck: New page: Asset Save: E_Ranged
+[2021.06.15-06.12.19:209][553]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged
+[2021.06.15-06.12.28:250][ 58]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::GetPlayerPawn' [Element not found.]
+[2021.06.15-06.12.35:815][496]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.15-06.12.41:194][703]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2021.06.15-06.12.41:199][703]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged from Unit_C to EnemyUnit_C...
+[2021.06.15-06.12.41:273][703]BlueprintLog: New page: Compile E_Ranged
+[2021.06.15-06.12.41:321][703]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'Meshes' for 'MeshParent' in BlueprintGeneratedClass 'E_Ranged_C' (it may have been removed)
+[2021.06.15-06.12.41:442][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.06.15-06.12.43:021][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/E_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset" SILENT=true
+[2021.06.15-06.12.43:125][788]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/E_Ranged2E58AB4D4F4FA43D290DD9A0621F6246.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset'
+[2021.06.15-06.12.43:140][788]AssetCheck: New page: Asset Save: E_Ranged
+[2021.06.15-06.12.43:140][788]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged
+[2021.06.15-06.12.57:650][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/E_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset" SILENT=true
+[2021.06.15-06.12.57:751][680]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/E_Ranged03D4FA084912DE0735A0658D8039F426.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset'
+[2021.06.15-06.12.57:767][680]AssetCheck: New page: Asset Save: E_Ranged
+[2021.06.15-06.12.57:767][680]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged
+[2021.06.15-06.13.15:964][759]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.15-06.13.21:907][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/E_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset" SILENT=true
+[2021.06.15-06.13.22:013][ 85]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/E_RangedB955A0CB4E5682B9D31E8EA90BA340EE.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset'
+[2021.06.15-06.13.22:033][ 85]AssetCheck: New page: Asset Save: E_Ranged
+[2021.06.15-06.13.22:033][ 85]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged
+[2021.06.15-06.13.35:720][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/E_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset" SILENT=true
+[2021.06.15-06.13.35:821][925]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/E_RangedDF22B22D4A7A2C11F5CAED8CF1B25C10.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset'
+[2021.06.15-06.13.35:841][925]AssetCheck: New page: Asset Save: E_Ranged
+[2021.06.15-06.13.35:841][925]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged
+[2021.06.15-06.13.37:231][  3]BlueprintLog: New page: Compile E_Ranged
+[2021.06.15-06.13.37:369][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.06.15-06.16.26:264][615]LogSlate: Window 'Unit' being destroyed
+[2021.06.15-06.16.48:213][360]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Golem/GolemMaterials/Crystal_G.Crystal_G
+[2021.06.15-06.16.49:626][360]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0647 seconds. Added 1 classes and 2 folders.
+[2021.06.15-06.17.09:019][312]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Golem/GolemMaterials/M_crystal.M_crystal
+[2021.06.15-06.17.09:375][312]LogMaterial: Display: Missing cached shader map for material M_crystal, compiling. 
+[2021.06.15-06.17.10:193][312]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.06.15-06.17.12:436][312]LogMaterial: Display: Missing cached shader map for material M_crystal, compiling. 
+[2021.06.15-06.17.12:478][312]LogMaterial: Display: Missing cached shader map for material M_crystal, compiling. 
+[2021.06.15-06.17.12:691][312]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.15-06.17.12:697][312]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.06.15-06.17.12:701][312]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.06.15-06.17.12:705][312]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.15-06.17.47:781][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/E_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset" SILENT=true
+[2021.06.15-06.17.47:886][974]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/E_RangedB37C1BC1402287D2EEA4DAA4939DB86A.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset'
+[2021.06.15-06.17.47:905][974]AssetCheck: New page: Asset Save: E_Ranged
+[2021.06.15-06.17.47:905][974]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged
+[2021.06.15-06.20.08:155][266]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 25
+[2021.06.15-06.20.09:165][280]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 24
+[2021.06.15-06.20.11:392][293]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 23
+[2021.06.15-06.20.12:103][307]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 22
+[2021.06.15-06.20.13:141][325]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 21
+[2021.06.15-06.20.14:325][343]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 20
+[2021.06.15-06.20.15:287][352]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 19
+[2021.06.15-06.20.16:244][370]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 18
+[2021.06.15-06.20.17:151][384]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 17
+[2021.06.15-06.20.20:832][394]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 16
+[2021.06.15-06.20.20:832][394]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 15
+[2021.06.15-06.20.20:832][394]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 14
+[2021.06.15-06.20.22:249][396]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 13
+[2021.06.15-06.20.22:487][396]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 12
+[2021.06.15-06.20.22:487][396]MaterialEditorStats: Base pass shader: 130 instructions
+[2021.06.15-06.20.22:487][396]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.06.15-06.20.22:487][396]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.15-06.20.22:487][396]MaterialEditorStats: Texture samplers: 4/16
+[2021.06.15-06.20.22:487][396]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.06.15-06.20.22:488][396]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.15-06.20.27:128][404]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.06.15-06.20.29:692][416]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 10
+[2021.06.15-06.20.32:791][428]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.06.15-06.20.33:744][437]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 8
+[2021.06.15-06.20.34:379][446]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 7
+[2021.06.15-06.20.36:361][457]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 6
+[2021.06.15-06.20.37:825][470]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 5
+[2021.06.15-06.20.39:295][548]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 4
+[2021.06.15-06.20.39:891][557]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 3
+[2021.06.15-06.20.40:564][567]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 2
+[2021.06.15-06.20.41:190][579]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 1
+[2021.06.15-06.21.25:464][706]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.06.15-06.22.46:393][527]LogMaterial: Display: Missing cached shader map for material M_crystal_2, compiling. 
+[2021.06.15-06.22.46:478][527]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 12
+[2021.06.15-06.22.49:151][657]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Golem/GolemMaterials/M_crystal_2.M_crystal_2
+[2021.06.15-06.22.49:155][657]LogMaterial: Display: Missing cached shader map for material M_crystal_2, compiling. 
+[2021.06.15-06.22.49:334][657]LogMaterial: Display: Missing cached shader map for material M_crystal_2, compiling. 
+[2021.06.15-06.22.49:341][657]LogMaterial: Display: Missing cached shader map for material M_crystal_2, compiling. 
+[2021.06.15-06.22.49:360][657]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.15-06.22.49:365][657]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.06.15-06.22.49:370][657]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.06.15-06.22.49:374][657]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.15-06.22.51:615][773]LogSlate: Window 'M_crystal_2' being destroyed
+[2021.06.15-06.22.51:622][773]LogSlate: Window 'M_crystal_2' being destroyed
+[2021.06.15-06.22.51:703][773]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.06.15-06.22.51:703][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.15-06.23.03:220][832]LogContentBrowser: Attempting asset rename: M_crystal_2 -> M_EnemyCrystal
+[2021.06.15-06.23.10:632][832]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.06.15-06.23.11:193][832]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 10
+[2021.06.15-06.23.11:754][832]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.06.15-06.23.12:315][832]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 8
+[2021.06.15-06.23.12:876][832]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 7
+[2021.06.15-06.23.13:437][832]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 6
+[2021.06.15-06.23.13:437][832]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 5
+[2021.06.15-06.23.13:998][832]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 4
+[2021.06.15-06.23.14:559][832]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 3
+[2021.06.15-06.23.15:120][832]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 2
+[2021.06.15-06.23.15:512][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/GolemMaterials/M_EnemyCrystal" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/GolemMaterials/M_EnemyCrystal.uasset" SILENT=true
+[2021.06.15-06.23.15:522][832]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/M_EnemyCrystal2240833D472C50765034A3913EDB99E2.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/GolemMaterials/M_EnemyCrystal.uasset'
+[2021.06.15-06.23.15:814][832]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2021.06.15-06.23.15:898][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.06.15-06.23.15:940][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.06.15-06.23.15:971][832]AssetCheck: New page: Asset Save: M_EnemyCrystal
+[2021.06.15-06.23.15:971][832]LogContentValidation: Display: Validating Material /Game/Golem/GolemMaterials/M_EnemyCrystal.M_EnemyCrystal
+[2021.06.15-06.23.17:868][948]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Golem/GolemMaterials/M_EnemyCrystal.M_EnemyCrystal
+[2021.06.15-06.23.17:881][948]LogMaterial: Display: Missing cached shader map for material M_EnemyCrystal, compiling. 
+[2021.06.15-06.23.18:034][948]LogMaterial: Display: Missing cached shader map for material M_EnemyCrystal, compiling. 
+[2021.06.15-06.23.18:043][948]LogMaterial: Display: Missing cached shader map for material M_EnemyCrystal, compiling. 
+[2021.06.15-06.23.18:060][948]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.06.15-06.23.18:060][948]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.15-06.23.18:064][948]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.06.15-06.23.18:067][948]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.06.15-06.23.18:071][948]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.15-06.23.21:803][156]LogMaterialEditor: Saving and Compiling material M_EnemyCrystal
+[2021.06.15-06.23.21:833][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/GolemMaterials/M_EnemyCrystal" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/GolemMaterials/M_EnemyCrystal.uasset" SILENT=true
+[2021.06.15-06.23.21:837][156]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/M_EnemyCrystal77C8705B4371E798E149DEBEE60FDE73.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/GolemMaterials/M_EnemyCrystal.uasset'
+[2021.06.15-06.23.21:854][156]AssetCheck: New page: Asset Save: M_EnemyCrystal
+[2021.06.15-06.23.21:854][156]LogContentValidation: Display: Validating Material /Game/Golem/GolemMaterials/M_EnemyCrystal.M_EnemyCrystal
+[2021.06.15-06.23.28:828][531]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.06.15-06.23.28:840][531]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.15-06.23.28:844][531]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.06.15-06.23.28:848][531]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.06.15-06.23.28:852][531]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.15-06.23.28:872][531]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.15-06.23.28:876][531]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.06.15-06.23.28:880][531]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.06.15-06.23.28:884][531]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.15-06.23.28:890][531]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.15-06.23.29:813][580]LogMaterialEditor: Saving and Compiling material M_EnemyCrystal
+[2021.06.15-06.23.37:564][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 24
+[2021.06.15-06.23.37:564][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 23
+[2021.06.15-06.23.37:564][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 22
+[2021.06.15-06.23.37:564][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 21
+[2021.06.15-06.23.37:575][580]LogMaterial: Display: Missing cached shader map for material M_EnemyCrystal, compiling. 
+[2021.06.15-06.23.37:632][580]LogMaterial: Display: Missing cached shader map for material M_EnemyCrystal, compiling. 
+[2021.06.15-06.23.37:752][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.06.15-06.23.37:815][580]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.15-06.23.38:387][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 39
+[2021.06.15-06.23.38:948][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 38
+[2021.06.15-06.23.38:948][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 37
+[2021.06.15-06.23.39:514][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 36
+[2021.06.15-06.23.40:079][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 35
+[2021.06.15-06.23.40:079][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 34
+[2021.06.15-06.23.40:640][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 33
+[2021.06.15-06.23.41:206][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 32
+[2021.06.15-06.23.41:206][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 31
+[2021.06.15-06.23.41:767][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 30
+[2021.06.15-06.23.42:333][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 29
+[2021.06.15-06.23.42:333][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 28
+[2021.06.15-06.23.42:894][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 27
+[2021.06.15-06.23.44:016][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 26
+[2021.06.15-06.23.44:580][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 25
+[2021.06.15-06.23.45:145][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 24
+[2021.06.15-06.23.45:145][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 23
+[2021.06.15-06.23.45:710][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 22
+[2021.06.15-06.23.46:271][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 21
+[2021.06.15-06.23.46:832][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 20
+[2021.06.15-06.23.47:396][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 19
+[2021.06.15-06.23.47:962][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 18
+[2021.06.15-06.23.47:962][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 17
+[2021.06.15-06.23.50:769][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 16
+[2021.06.15-06.23.51:336][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 15
+[2021.06.15-06.23.51:897][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 14
+[2021.06.15-06.23.51:897][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 13
+[2021.06.15-06.23.52:191][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 12
+[2021.06.15-06.23.52:231][580]TextureStreamingBuild: Display: Compiling optional shaders took 14.430 seconds.
+[2021.06.15-06.23.52:362][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.06.15-06.23.57:485][580]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 2
+[2021.06.15-06.23.57:765][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/GolemMaterials/M_EnemyCrystal" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/GolemMaterials/M_EnemyCrystal.uasset" SILENT=true
+[2021.06.15-06.23.57:774][580]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/M_EnemyCrystalA8D590704F39DEDFA7687C954253BE75.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/GolemMaterials/M_EnemyCrystal.uasset'
+[2021.06.15-06.23.57:807][580]AssetCheck: New page: Asset Save: M_EnemyCrystal
+[2021.06.15-06.23.57:807][580]LogContentValidation: Display: Validating Material /Game/Golem/GolemMaterials/M_EnemyCrystal.M_EnemyCrystal
+[2021.06.15-06.23.57:809][580]MaterialEditorStats: Base pass shader: 130 instructions
+[2021.06.15-06.23.57:809][580]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.06.15-06.23.57:809][580]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.15-06.23.57:809][580]MaterialEditorStats: Texture samplers: 5/16
+[2021.06.15-06.23.57:809][580]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.06.15-06.23.57:809][580]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.15-06.24.14:621][730]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.06.15-06.24.14:648][731]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 4
+[2021.06.15-06.24.15:626][777]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.06.15-06.24.15:647][777]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.15-06.24.17:039][843]LogMaterialEditor: Applying material M_EnemyCrystal
+[2021.06.15-06.24.17:661][843]LogMaterial: Display: Missing cached shader map for material M_EnemyCrystal, compiling. 
+[2021.06.15-06.24.17:708][843]LogMaterial: Display: Missing cached shader map for material M_EnemyCrystal, compiling. 
+[2021.06.15-06.24.17:789][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.06.15-06.24.17:797][843]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.15-06.24.18:366][843]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 27
+[2021.06.15-06.24.18:927][843]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 26
+[2021.06.15-06.24.19:488][843]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 25
+[2021.06.15-06.24.19:488][843]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 24
+[2021.06.15-06.24.20:049][843]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 23
+[2021.06.15-06.24.20:610][843]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 22
+[2021.06.15-06.24.21:173][843]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 21
+[2021.06.15-06.24.21:173][843]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 20
+[2021.06.15-06.24.21:734][843]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 19
+[2021.06.15-06.24.22:298][843]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 18
+[2021.06.15-06.24.22:859][843]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 17
+[2021.06.15-06.24.23:420][843]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 16
+[2021.06.15-06.24.23:986][843]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 15
+[2021.06.15-06.24.23:986][843]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 14
+[2021.06.15-06.24.24:394][843]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 13
+[2021.06.15-06.24.24:394][843]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 12
+[2021.06.15-06.24.24:441][843]TextureStreamingBuild: Display: Compiling optional shaders took 6.649 seconds.
+[2021.06.15-06.24.24:554][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.06.15-06.24.43:871][919]LogEditorTransaction: Undo Modify Color Picker Value
+[2021.06.15-06.24.44:250][919]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.06.15-06.24.44:844][937]LogEditorTransaction: Undo Modify Color Picker Value
+[2021.06.15-06.24.44:863][937]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.06.15-06.24.46:271][  1]LogEditorTransaction: Undo Edit Default Value
+[2021.06.15-06.24.46:281][  1]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.06.15-06.24.47:635][ 60]LogMaterialEditor: Saving and Compiling material M_EnemyCrystal
+[2021.06.15-06.24.48:275][ 60]LogMaterial: Display: Missing cached shader map for material M_EnemyCrystal, compiling. 
+[2021.06.15-06.24.48:329][ 60]LogMaterial: Display: Missing cached shader map for material M_EnemyCrystal, compiling. 
+[2021.06.15-06.24.48:421][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.06.15-06.24.48:428][ 60]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.15-06.24.53:493][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 33
+[2021.06.15-06.24.54:059][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 32
+[2021.06.15-06.24.54:059][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 31
+[2021.06.15-06.24.54:620][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 30
+[2021.06.15-06.24.55:191][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 29
+[2021.06.15-06.24.55:191][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 28
+[2021.06.15-06.24.56:877][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 27
+[2021.06.15-06.24.57:438][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 26
+[2021.06.15-06.24.58:001][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 25
+[2021.06.15-06.24.58:562][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 24
+[2021.06.15-06.24.59:123][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 23
+[2021.06.15-06.24.59:684][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 22
+[2021.06.15-06.25.00:245][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 21
+[2021.06.15-06.25.00:810][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 20
+[2021.06.15-06.25.01:373][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 19
+[2021.06.15-06.25.01:936][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 18
+[2021.06.15-06.25.02:503][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 17
+[2021.06.15-06.25.02:503][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 16
+[2021.06.15-06.25.02:944][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 15
+[2021.06.15-06.25.02:944][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 14
+[2021.06.15-06.25.02:948][ 60]TextureStreamingBuild: Display: Compiling optional shaders took 14.525 seconds.
+[2021.06.15-06.25.07:199][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.06.15-06.25.07:273][ 60]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 4
+[2021.06.15-06.25.09:043][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/GolemMaterials/M_EnemyCrystal" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/GolemMaterials/M_EnemyCrystal.uasset" SILENT=true
+[2021.06.15-06.25.09:053][ 60]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/M_EnemyCrystal40FACF4B4C93B5E62F95759BBA6CC332.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/GolemMaterials/M_EnemyCrystal.uasset'
+[2021.06.15-06.25.09:094][ 60]AssetCheck: New page: Asset Save: M_EnemyCrystal
+[2021.06.15-06.25.09:095][ 60]LogContentValidation: Display: Validating Material /Game/Golem/GolemMaterials/M_EnemyCrystal.M_EnemyCrystal
+[2021.06.15-06.25.09:096][ 60]MaterialEditorStats: Base pass shader: 130 instructions
+[2021.06.15-06.25.09:096][ 60]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.06.15-06.25.09:096][ 60]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.15-06.25.09:096][ 60]MaterialEditorStats: Texture samplers: 5/16
+[2021.06.15-06.25.09:096][ 60]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.06.15-06.25.09:096][ 60]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.15-06.25.13:464][320]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.06.15-06.25.13:502][321]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 4
+[2021.06.15-06.25.15:430][414]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.06.15-06.25.15:439][414]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.15-06.25.17:571][518]LogMaterialEditor: Applying material M_EnemyCrystal
+[2021.06.15-06.25.18:201][518]LogMaterial: Display: Missing cached shader map for material M_EnemyCrystal, compiling. 
+[2021.06.15-06.25.18:243][518]LogMaterial: Display: Missing cached shader map for material M_EnemyCrystal, compiling. 
+[2021.06.15-06.25.18:318][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.06.15-06.25.18:324][518]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.15-06.25.18:890][518]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 27
+[2021.06.15-06.25.19:453][518]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 26
+[2021.06.15-06.25.19:453][518]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 25
+[2021.06.15-06.25.20:014][518]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 24
+[2021.06.15-06.25.20:576][518]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 23
+[2021.06.15-06.25.21:145][518]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 22
+[2021.06.15-06.25.21:145][518]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 21
+[2021.06.15-06.25.21:706][518]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 20
+[2021.06.15-06.25.22:267][518]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 19
+[2021.06.15-06.25.22:830][518]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 18
+[2021.06.15-06.25.23:393][518]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 17
+[2021.06.15-06.25.23:954][518]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 16
+[2021.06.15-06.25.24:520][518]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 15
+[2021.06.15-06.25.25:088][518]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 14
+[2021.06.15-06.25.25:088][518]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 13
+[2021.06.15-06.25.25:225][518]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 12
+[2021.06.15-06.25.25:310][518]TextureStreamingBuild: Display: Compiling optional shaders took 6.990 seconds.
+[2021.06.15-06.25.25:401][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.06.15-06.25.32:163][625]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 2
+[2021.06.15-06.25.32:810][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/GolemMaterials/M_EnemyCrystal" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/GolemMaterials/M_EnemyCrystal.uasset" SILENT=true
+[2021.06.15-06.25.32:819][625]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/M_EnemyCrystal0B2EDF2641F89D6E11B5EBAAD1C5C8E4.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/GolemMaterials/M_EnemyCrystal.uasset'
+[2021.06.15-06.25.32:863][625]AssetCheck: New page: Asset Save: M_EnemyCrystal
+[2021.06.15-06.25.32:863][625]LogContentValidation: Display: Validating Material /Game/Golem/GolemMaterials/M_EnemyCrystal.M_EnemyCrystal
+[2021.06.15-06.25.32:864][625]MaterialEditorStats: Base pass shader: 130 instructions
+[2021.06.15-06.25.32:864][625]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.06.15-06.25.32:864][625]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.15-06.25.32:864][625]MaterialEditorStats: Texture samplers: 5/16
+[2021.06.15-06.25.32:864][625]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.06.15-06.25.32:864][625]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.15-06.25.34:656][759]LogSlate: Window 'M_EnemyCrystal' being destroyed
+[2021.06.15-06.26.17:347][257]LogContentBrowser: Attempting asset rename: M_EnemyCrystal -> M_crystalEnemy
+[2021.06.15-06.26.17:426][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/GolemMaterials/M_crystalEnemy" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/GolemMaterials/M_crystalEnemy.uasset" SILENT=true
+[2021.06.15-06.26.17:435][257]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/M_crystalEnemyA15CBEB8452C72ADAE797D83943D39F3.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/GolemMaterials/M_crystalEnemy.uasset'
+[2021.06.15-06.26.17:608][257]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.06.15-06.26.17:691][257]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.06.15-06.26.17:733][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.15-06.26.17:762][257]AssetCheck: New page: Asset Save: M_crystalEnemy
+[2021.06.15-06.26.17:763][257]LogContentValidation: Display: Validating Material /Game/Golem/GolemMaterials/M_crystalEnemy.M_crystalEnemy
+[2021.06.15-06.26.19:494][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/GolemMaterials/M_crystalEnemy" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/GolemMaterials/M_crystalEnemy.uasset" SILENT=true
+[2021.06.15-06.26.19:498][405]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/M_crystalEnemy687CE3CF4EC4A3EDB9BDC3B483F98D5D.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/GolemMaterials/M_crystalEnemy.uasset'
+[2021.06.15-06.26.19:519][405]AssetCheck: New page: Asset Save: M_crystalEnemy
+[2021.06.15-06.26.19:519][405]LogContentValidation: Display: Validating Material /Game/Golem/GolemMaterials/M_crystalEnemy.M_crystalEnemy
+[2021.06.15-06.26.26:442][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/E_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset" SILENT=true
+[2021.06.15-06.26.26:546][ 28]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/E_Ranged98974D564193BE49FD0464809816B5B2.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset'
+[2021.06.15-06.26.26:563][ 28]AssetCheck: New page: Asset Save: E_Ranged
+[2021.06.15-06.26.26:563][ 28]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged
+[2021.06.15-06.26.33:055][639]LogEditorTransaction: Undo Replace component used material
+[2021.06.15-06.26.35:296][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/E_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset" SILENT=true
+[2021.06.15-06.26.35:396][839]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/E_RangedF492C4D8487B8EAB44AF83B611A22FB8.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset'
+[2021.06.15-06.26.35:415][839]AssetCheck: New page: Asset Save: E_Ranged
+[2021.06.15-06.26.35:415][839]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged
+[2021.06.15-06.26.38:901][184]LogEditorTransaction: Redo Replace component used material
+[2021.06.15-06.26.40:896][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/E_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset" SILENT=true
+[2021.06.15-06.26.40:995][367]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/E_RangedA167259A4D7FE5A847D5C08C729A38A3.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset'
+[2021.06.15-06.26.41:013][367]AssetCheck: New page: Asset Save: E_Ranged
+[2021.06.15-06.26.41:013][367]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged
+[2021.06.15-06.26.50:130][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.06.15-06.26.52:245][175]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Golem/Maps/Field.Field
+[2021.06.15-06.26.52:269][175]Cmd: MAP LOAD FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Maps/Field.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.15-06.26.52:289][175]LightingResults: New page: Lighting Build
+[2021.06.15-06.26.52:292][175]LoadErrors: New page: Loading map: Field.umap
+[2021.06.15-06.26.52:322][175]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.15-06.26.52:323][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.15-06.26.52:331][175]MapCheck: New page: Map Check
+[2021.06.15-06.26.52:331][175]LightingResults: New page: Lighting Build
+[2021.06.15-06.26.52:375][175]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.15-06.26.52:415][175]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.06.15-06.26.52:420][175]LogAudio: Display: Audio Device (ID: 1) registered with world 'Field'.
+[2021.06.15-06.26.52:989][175]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.15-06.26.53:004][175]LogAIModule: Creating AISystem for world Field
+[2021.06.15-06.26.53:285][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.06.15-06.26.53:322][175]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.15-06.26.53:323][175]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.198ms to complete.
+[2021.06.15-06.26.53:323][175]LogFileHelpers: Loading map 'Field' took 1.062
+[2021.06.15-06.26.56:656][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.06.15-06.26.56:861][451]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Golem/Maps/Field_2.Field_2
+[2021.06.15-06.26.56:861][451]Cmd: MAP LOAD FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Maps/Field_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.15-06.26.56:862][451]LightingResults: New page: Lighting Build
+[2021.06.15-06.26.56:862][451]LoadErrors: New page: Loading map: Field_2.umap
+[2021.06.15-06.26.56:903][451]LogWorld: UWorld::CleanupWorld for Field, bSessionEnded=true, bCleanupResources=true
+[2021.06.15-06.26.56:903][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.15-06.26.56:903][451]MapCheck: New page: Map Check
+[2021.06.15-06.26.56:903][451]LightingResults: New page: Lighting Build
+[2021.06.15-06.26.56:949][451]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.15-06.26.56:971][451]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.06.15-06.26.56:975][451]LogAudio: Display: Audio Device (ID: 1) registered with world 'Field_2'.
+[2021.06.15-06.26.57:238][451]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.15-06.26.57:238][451]LogAIModule: Creating AISystem for world Field_2
+[2021.06.15-06.26.57:302][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.06.15-06.26.57:317][451]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.15-06.26.57:317][451]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2021.06.15-06.26.57:317][451]LogFileHelpers: Loading map 'Field_2' took 0.455
+[2021.06.15-06.27.03:966][ 34]LogEditorViewport: Clicking on Actor (LMB): U_Mage_C (U_Mage2)
+[2021.06.15-06.27.05:811][159]Cmd: DELETE
+[2021.06.15-06.27.05:835][159]Cmd: ACTOR DELETE
+[2021.06.15-06.27.06:246][159]LogEditorActor: Deleted Actor: U_Mage_C
+[2021.06.15-06.27.06:305][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.06.15-06.27.06:307][159]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2021.06.15-06.27.06:864][211]LogEditorViewport: Clicking on Actor (LMB): U_Mage_2_C (U_Mage_2)
+[2021.06.15-06.27.08:770][214]Cmd: DELETE
+[2021.06.15-06.27.08:770][214]Cmd: ACTOR DELETE
+[2021.06.15-06.27.08:784][214]LogEditorActor: Deleted Actor: U_Mage_2_C
+[2021.06.15-06.27.08:854][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.06.15-06.27.08:855][214]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2021.06.15-06.27.09:618][283]LogEditorViewport: Clicking on Actor (LMB): U_Mage_4_C (U_Mage_4)
+[2021.06.15-06.27.09:989][307]Cmd: DELETE
+[2021.06.15-06.27.09:989][307]Cmd: ACTOR DELETE
+[2021.06.15-06.27.09:996][307]LogEditorActor: Deleted Actor: U_Mage_4_C
+[2021.06.15-06.27.10:045][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.06.15-06.27.10:046][307]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2021.06.15-06.27.10:701][367]LogEditorViewport: Clicking on Actor (LMB): U_Mage_3_C (U_Mage_3)
+[2021.06.15-06.27.10:971][376]Cmd: DELETE
+[2021.06.15-06.27.10:971][376]Cmd: ACTOR DELETE
+[2021.06.15-06.27.10:976][376]LogEditorActor: Deleted Actor: U_Mage_3_C
+[2021.06.15-06.27.11:033][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.06.15-06.27.11:034][376]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2021.06.15-06.27.12:141][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.15-06.27.19:506][ 63]LogEditorViewport: Clicking on Actor (LMB): U_Melee_C (U_Melee3)
+[2021.06.15-06.27.40:322][420]LogObjectTools: Deleting 1 worlds: /Game/Golem/Maps/Field_2.Field_2
+[2021.06.15-06.27.40:322][420]LogObjectTools: Currently 27 active worlds: /Game/Golem/Maps/Field_2.Field_2, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_10, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_16, /Engine/Transient.World_17, /Engine/Transient.World_19, /Engine/Transient.World_20, /Engine/Transient.World_21, /Engine/Transient.World_22, /Engine/Transient.World_23, /Engine/Transient.World_24, /Engine/Transient.World_25, /Engine/Transient.World_26, /Engine/Transient.World_27, /Engine/Transient.World_28
+[2021.06.15-06.27.41:583][420]LogSlate: Window 'Unable to delete level' being destroyed
+[2021.06.15-06.27.41:588][420]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2021.06.15-06.27.42:688][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.06.15-06.27.43:855][499]LogSlate: Window 'Save Content' being destroyed
+[2021.06.15-06.27.43:977][499]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Golem/Maps/Field.Field
+[2021.06.15-06.27.43:978][499]Cmd: MAP LOAD FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Maps/Field.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.15-06.27.43:978][499]LightingResults: New page: Lighting Build
+[2021.06.15-06.27.43:978][499]LoadErrors: New page: Loading map: Field.umap
+[2021.06.15-06.27.44:012][499]LogWorld: UWorld::CleanupWorld for Field_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.15-06.27.44:012][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.15-06.27.44:012][499]MapCheck: New page: Map Check
+[2021.06.15-06.27.44:012][499]LightingResults: New page: Lighting Build
+[2021.06.15-06.27.44:058][499]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.15-06.27.44:068][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.06.15-06.27.44:069][499]LogAudio: Display: Audio Device (ID: 1) registered with world 'Field'.
+[2021.06.15-06.27.44:316][499]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.15-06.27.44:316][499]LogAIModule: Creating AISystem for world Field
+[2021.06.15-06.27.44:373][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.06.15-06.27.44:390][499]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.15-06.27.44:390][499]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
+[2021.06.15-06.27.44:390][499]LogFileHelpers: Loading map 'Field' took 0.413
+[2021.06.15-06.27.45:281][561]LogObjectTools: Deleting 1 worlds: /Game/Golem/Maps/Field_2.Field_2
+[2021.06.15-06.27.45:281][561]LogObjectTools: Currently 27 active worlds: /Game/Golem/Maps/Field.Field, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_10, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_16, /Engine/Transient.World_17, /Engine/Transient.World_19, /Engine/Transient.World_20, /Engine/Transient.World_21, /Engine/Transient.World_22, /Engine/Transient.World_23, /Engine/Transient.World_24, /Engine/Transient.World_25, /Engine/Transient.World_26, /Engine/Transient.World_27, /Engine/Transient.World_28
+[2021.06.15-06.27.45:331][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.06.15-06.27.46:504][561]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.15-06.27.46:536][561]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Golem/Maps/Field_2.Field_2
+[2021.06.15-06.27.49:413][561]LogWorld: UWorld::CleanupWorld for Field_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.15-06.27.49:415][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.15-06.27.49:672][561]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.06.15-06.27.49:920][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.06.15-06.27.49:983][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.06.15-06.27.50:027][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.06.15-06.27.51:996][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.06.15-06.27.53:734][821]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.06.15-06.27.55:048][821]LogSlate: Window 'Save Content' being destroyed
+[2021.06.15-06.27.55:110][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Maps/Field_2" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Maps/Field_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.15-06.27.55:252][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.06.15-06.27.55:341][821]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/Field_2A5FBF5F84B92DE6203A4A7A53CAD6040.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Maps/Field_2.umap'
+[2021.06.15-06.27.55:407][821]LogFileHelpers: Saving map 'Field_2' took 0.326
+[2021.06.15-06.27.55:431][821]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Golem/Maps/Field_2.Field_2
+[2021.06.15-06.27.55:431][821]Cmd: MAP LOAD FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Maps/Field_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.15-06.27.55:432][821]LightingResults: New page: Lighting Build
+[2021.06.15-06.27.55:432][821]LoadErrors: New page: Loading map: Field_2.umap
+[2021.06.15-06.27.55:435][821]LogWorld: UWorld::CleanupWorld for Field, bSessionEnded=true, bCleanupResources=true
+[2021.06.15-06.27.55:435][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.15-06.27.55:435][821]MapCheck: New page: Map Check
+[2021.06.15-06.27.55:435][821]LightingResults: New page: Lighting Build
+[2021.06.15-06.27.55:482][821]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.15-06.27.55:493][821]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.06.15-06.27.55:496][821]LogAudio: Display: Audio Device (ID: 1) registered with world 'Field_2'.
+[2021.06.15-06.27.55:723][821]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.15-06.27.55:724][821]LogAIModule: Creating AISystem for world Field_2
+[2021.06.15-06.27.55:786][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.06.15-06.27.55:801][821]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.15-06.27.55:801][821]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.174ms to complete.
+[2021.06.15-06.27.55:801][821]LogFileHelpers: Loading map 'Field_2' took 0.370
+[2021.06.15-06.27.55:831][821]AssetCheck: New page: Asset Save: Field_2
+[2021.06.15-06.27.55:831][821]LogContentValidation: Display: Validating World /Game/Golem/Maps/Field_2.Field_2
+[2021.06.15-06.27.59:813][169]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (Player)
+[2021.06.15-06.28.00:847][222]LogEditorViewport: Clicking on Actor (LMB): U_Defender_C (U_Defender)
+[2021.06.15-06.28.01:532][269]Cmd: DELETE
+[2021.06.15-06.28.01:532][269]Cmd: ACTOR DELETE
+[2021.06.15-06.28.01:538][269]LogEditorActor: Deleted Actor: U_Defender_C
+[2021.06.15-06.28.01:588][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.06.15-06.28.01:590][269]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2021.06.15-06.28.10:040][ 42]Cmd: TRANSACTION UNDO
+[2021.06.15-06.28.10:040][ 42]LogEditorTransaction: Undo Delete Actors
+[2021.06.15-06.28.16:035][469]Cmd: DELETE
+[2021.06.15-06.28.16:035][469]Cmd: ACTOR DELETE
+[2021.06.15-06.28.16:044][469]LogEditorActor: Deleted Actor: U_Ranged_C
+[2021.06.15-06.28.16:100][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.06.15-06.28.16:102][469]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2021.06.15-06.28.16:810][528]Cmd: DELETE
+[2021.06.15-06.28.16:810][528]Cmd: ACTOR DELETE
+[2021.06.15-06.28.16:819][528]LogEditorActor: Deleted Actor: U_Ranged_C
+[2021.06.15-06.28.16:873][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.06.15-06.28.16:874][528]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2021.06.15-06.28.18:348][651]Cmd: DELETE
+[2021.06.15-06.28.18:348][651]Cmd: ACTOR DELETE
+[2021.06.15-06.28.18:361][651]LogEditorActor: Deleted Actor: U_Melee_C
+[2021.06.15-06.28.18:408][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.06.15-06.28.18:409][651]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2021.06.15-06.28.20:733][858]Cmd: DELETE
+[2021.06.15-06.28.20:733][858]Cmd: ACTOR DELETE
+[2021.06.15-06.28.20:740][858]LogEditorActor: Deleted Actor: U_Mage_C
+[2021.06.15-06.28.20:788][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.06.15-06.28.20:789][858]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2021.06.15-06.28.21:847][952]Cmd: DELETE
+[2021.06.15-06.28.21:847][952]Cmd: ACTOR DELETE
+[2021.06.15-06.28.21:853][952]LogEditorActor: Deleted Actor: U_Ranged_C
+[2021.06.15-06.28.21:904][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.06.15-06.28.21:905][952]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2021.06.15-06.28.22:596][997]Cmd: DELETE
+[2021.06.15-06.28.22:596][997]Cmd: ACTOR DELETE
+[2021.06.15-06.28.22:603][997]LogEditorActor: Deleted Actor: U_Ranged_C
+[2021.06.15-06.28.22:654][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.06.15-06.28.22:655][997]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2021.06.15-06.28.23:193][ 47]Cmd: DELETE
+[2021.06.15-06.28.23:193][ 47]Cmd: ACTOR DELETE
+[2021.06.15-06.28.23:199][ 47]LogEditorActor: Deleted Actor: U_Ranged_C
+[2021.06.15-06.28.23:255][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.06.15-06.28.23:256][ 47]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2021.06.15-06.28.23:787][ 90]Cmd: DELETE
+[2021.06.15-06.28.23:787][ 90]Cmd: ACTOR DELETE
+[2021.06.15-06.28.23:794][ 90]LogEditorActor: Deleted Actor: U_Defender_C
+[2021.06.15-06.28.23:840][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.06.15-06.28.23:841][ 90]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2021.06.15-06.28.25:366][240]Cmd: TRANSACTION UNDO
+[2021.06.15-06.28.25:367][240]LogEditorTransaction: Undo Delete Actors
+[2021.06.15-06.28.26:795][323]Cmd: DELETE
+[2021.06.15-06.28.26:795][323]Cmd: ACTOR DELETE
+[2021.06.15-06.28.26:803][323]LogEditorActor: Deleted Actor: U_Ranged_C
+[2021.06.15-06.28.26:850][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.06.15-06.28.26:852][323]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2021.06.15-06.28.27:669][393]Cmd: DELETE
+[2021.06.15-06.28.27:669][393]Cmd: ACTOR DELETE
+[2021.06.15-06.28.27:675][393]LogEditorActor: Deleted Actor: U_Ranged_C
+[2021.06.15-06.28.27:722][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.06.15-06.28.27:723][393]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2021.06.15-06.28.28:783][486]Cmd: DELETE
+[2021.06.15-06.28.28:783][486]Cmd: ACTOR DELETE
+[2021.06.15-06.28.28:790][486]LogEditorActor: Deleted Actor: U_Ranged_C
+[2021.06.15-06.28.28:837][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.06.15-06.28.28:838][486]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2021.06.15-06.28.30:847][665]Cmd: DELETE
+[2021.06.15-06.28.30:847][665]Cmd: ACTOR DELETE
+[2021.06.15-06.28.30:854][665]LogEditorActor: Deleted Actor: U_Bomb_C
+[2021.06.15-06.28.30:900][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.06.15-06.28.30:902][665]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2021.06.15-06.28.33:760][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Maps/Field_2" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Maps/Field_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.15-06.28.33:813][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.06.15-06.28.33:847][915]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/Field_218799DAA43AD7895E4B769BB6D06D27B.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Maps/Field_2.umap'
+[2021.06.15-06.28.33:877][915]AssetCheck: New page: Asset Save: Field_2
+[2021.06.15-06.28.33:877][915]LogContentValidation: Display: Validating World /Game/Golem/Maps/Field_2.Field_2
+[2021.06.15-06.28.56:056][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.15-06.28.58:056][457]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.15-06.28.58:177][457]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.15-06.28.58:180][457]LogPlayLevel: [PlayLevel] Compiling EnemyUnit before play...
+[2021.06.15-06.28.58:180][457]LogPlayLevel: [PlayLevel]   Compiling E_Ranged as a dependent...
+[2021.06.15-06.28.58:334][457]LogPlayLevel: [PlayLevel] Compiling WaveController before play...
+[2021.06.15-06.28.58:400][457]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.06.15-06.28.58:429][457]LogPlayLevel: PlayLevel: Blueprint regeneration took 225 ms (3 blueprints)
+[2021.06.15-06.28.58:464][457]PIE: New page: PIE session: Field_2 (16/06/2021, 6:28:58 am)
+[2021.06.15-06.28.58:550][457]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.15-06.28.58:622][457]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.06.15-06.28.58:643][457]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.15-06.28.58:694][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050643s)
+[2021.06.15-06.28.58:708][457]LogAIModule: Creating AISystem for world Field_2
+[2021.06.15-06.28.58:738][457]LogPlayLevel: PIE: World Init took: (0.044433s)
+[2021.06.15-06.28.58:738][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Field_2.Field_2 to /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 (0.096041s)
+[2021.06.15-06.28.58:798][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.06.15-06.28.58:800][457]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.06.15-06.28.58:827][457]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.15-06.28.58:827][457]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.15-06.28.58:827][457]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.15-06.28.58:827][457]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.15-06.28.58:827][457]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.15-06.28.58:827][457]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.15-06.28.58:827][457]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.15-06.28.58:842][457]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.15-06.28.58:864][457]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.15-06.28.58:864][457]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.15-06.28.58:896][457]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.15-06.28.58:896][457]LogAudioMixer: Display: 1: FrontRight
+[2021.06.15-06.28.58:920][457]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.15-06.28.58:945][457]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.15-06.28.58:945][457]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.15-06.28.58:945][457]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.15-06.28.58:959][457]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.15-06.28.58:960][457]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.15-06.28.58:960][457]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.15-06.28.58:961][457]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.15-06.28.58:961][457]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.15-06.28.58:961][457]LogInit: FAudioDevice initialized.
+[2021.06.15-06.28.58:961][457]LogAudio: Display: Audio Device (ID: 2) registered with world 'Field_2'.
+[2021.06.15-06.28.59:084][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.15-06.28.59:085][457]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.15-06.28.59:279][457]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 up for play (max tick rate 0) at 2021.06.15-18.28.59
+[2021.06.15-06.28.59:458][457]LogWorld: Bringing up level for play took: 0.240115
+[2021.06.15-06.28.59:460][457]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.06.15-06.28.59:563][457]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0047 seconds. Added 20 classes and 0 folders.
+[2021.06.15-06.28.59:859][457]PIE: Server logged in
+[2021.06.15-06.28.59:861][457]PIE: Play in editor total start time 1.72 seconds.
+[2021.06.15-06.29.00:065][458]LogRenderer: Reallocating scene render targets to support 1128x724 Format 10 NumSamples 1 (Frame:1).
+[2021.06.15-06.29.00:815][460]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=73.92 Y=-52.29 Z=0.00 Location: X=-420.01 Y=535.00 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.050 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2021.06.15-06.29.00:816][460]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=55.92 Y=-71.21 Z=0.00 Location: X=799.98 Y=-859.77 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:40.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2021.06.15-06.29.01:818][534]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=244.91 Y=-173.26 Z=0.00 Location: X=-420.01 Y=535.00 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.050 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (73 other events since notify)
+[2021.06.15-06.29.01:818][534]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=617.63 Y=-786.47 Z=0.00 Location: X=799.98 Y=-859.77 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:40.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (73 other events since notify)
+[2021.06.15-06.29.01:927][542]LogBlueprintUserMessages: [Player] 5.0
+[2021.06.15-06.29.02:818][610]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=182.70 Y=237.95 Z=0.00 Location: X=-420.01 Y=535.00 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.050 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (75 other events since notify)
+[2021.06.15-06.29.02:818][610]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=841.13 Y=-540.83 Z=0.00 Location: X=799.98 Y=-859.77 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:40.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (75 other events since notify)
+[2021.06.15-06.29.03:826][691]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=182.70 Y=237.95 Z=0.00 Location: X=-420.01 Y=535.00 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.050 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (80 other events since notify)
+[2021.06.15-06.29.03:826][691]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=841.13 Y=-540.83 Z=0.00 Location: X=799.98 Y=-859.77 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:40.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (80 other events since notify)
+[2021.06.15-06.29.04:830][773]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=898.67 Y=-438.63 Z=0.00 Location: X=799.98 Y=-859.77 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:40.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (81 other events since notify)
+[2021.06.15-06.29.05:830][854]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=898.67 Y=-438.63 Z=0.00 Location: X=799.98 Y=-859.77 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:40.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (80 other events since notify)
+[2021.06.15-06.29.06:485][906]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=16.59 Y=14.91 Z=0.00 Location: X=-426.86 Y=513.66 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.050 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (56 other events since notify)
+[2021.06.15-06.29.06:844][935]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=355.74 Y=934.58 Z=0.00 Location: X=799.98 Y=-859.77 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:40.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (80 other events since notify)
+[2021.06.15-06.29.07:489][988]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=223.09 Y=200.58 Z=0.00 Location: X=-426.86 Y=513.66 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.050 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (81 other events since notify)
+[2021.06.15-06.29.07:844][ 17]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=355.74 Y=934.58 Z=0.00 Location: X=799.98 Y=-859.77 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:40.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (81 other events since notify)
+[2021.06.15-06.29.08:490][ 70]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=223.09 Y=200.58 Z=0.00 Location: X=-426.86 Y=513.66 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.050 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (81 other events since notify)
+[2021.06.15-06.29.08:848][ 99]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=328.54 Y=944.49 Z=0.00 Location: X=799.98 Y=-859.77 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:40.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (81 other events since notify)
+[2021.06.15-06.29.09:852][182]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=328.54 Y=944.49 Z=0.00 Location: X=799.98 Y=-859.77 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:40.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (82 other events since notify)
+[2021.06.15-06.29.10:854][260]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=141.98 Y=-449.42 Z=0.00 Location: X=799.98 Y=-859.77 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:40.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (77 other events since notify)
+[2021.06.15-06.29.11:871][338]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=249.63 Y=-968.34 Z=0.00 Location: X=799.98 Y=-859.77 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:40.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (77 other events since notify)
+[2021.06.15-06.29.12:640][393]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=26.75 Y=-5.34 Z=0.00 Location: X=-694.50 Y=434.84 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.049 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (8 other events since notify)
+[2021.06.15-06.29.13:061][425]LogCharacterMovement: U_Defender_2 is stuck and failed to move! Velocity: X=37.20 Y=1.45 Z=0.00 Location: X=819.04 Y=-867.22 Z=295.11 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:4.896 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2021.06.15-06.29.13:455][448]LogBlueprintUserMessages: [U_Defender_2] STOMP
+[2021.06.15-06.29.13:640][461]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=294.20 Y=-58.70 Z=0.00 Location: X=-694.50 Y=434.84 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.049 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (67 other events since notify)
+[2021.06.15-06.29.14:647][541]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=294.20 Y=-58.70 Z=0.00 Location: X=-694.50 Y=434.84 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.049 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (79 other events since notify)
+[2021.06.15-06.29.14:686][544]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=24.06 Y=-1.49 Z=0.00 Location: X=664.48 Y=-700.11 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:40.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (57 other events since notify)
+[2021.06.15-06.29.15:568][609]LogCharacterMovement: U_Defender_2 is stuck and failed to move! Velocity: X=7.25 Y=-23.85 Z=0.00 Location: X=-63.70 Y=-1053.06 Z=295.11 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:4.893 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2021.06.15-06.29.15:688][618]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=998.08 Y=-61.90 Z=0.00 Location: X=664.48 Y=-700.11 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:40.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (73 other events since notify)
+[2021.06.15-06.29.15:853][630]LogBlueprintUserMessages: [U_Defender_2] STOMP
+[2021.06.15-06.29.16:691][694]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=998.08 Y=-61.90 Z=0.00 Location: X=664.48 Y=-700.11 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:40.000 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (75 other events since notify)
+[2021.06.15-06.29.18:769][864]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=25.76 Y=-12.60 Z=0.00 Location: X=-1058.01 Y=605.92 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.048 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (7 other events since notify)
+[2021.06.15-06.29.19:772][947]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=222.70 Y=201.01 Z=0.00 Location: X=-1058.01 Y=605.92 Z=150.00 Normal: X=-0.00 Y=-0.00 Z=1.00 PenetrationDepth:0.048 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (82 other events since notify)
+[2021.06.15-06.29.20:849][ 37]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=10.23 Y=-1.92 Z=0.00 Location: X=-1102.03 Y=664.73 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.039 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (33 other events since notify)
+[2021.06.15-06.29.22:844][199]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=22.65 Y=2.15 Z=0.00 Location: X=461.99 Y=-446.70 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:39.999 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (14 other events since notify)
+[2021.06.15-06.29.23:582][259]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=0.22 Y=25.25 Z=0.00 Location: X=-1139.20 Y=426.95 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.039 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (52 other events since notify)
+[2021.06.15-06.29.23:851][282]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=995.52 Y=94.58 Z=0.00 Location: X=461.99 Y=-446.70 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:39.999 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (82 other events since notify)
+[2021.06.15-06.29.24:584][343]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=2.63 Y=299.99 Z=0.00 Location: X=-1139.20 Y=426.95 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.039 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (83 other events since notify)
+[2021.06.15-06.29.24:863][367]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=995.52 Y=94.58 Z=0.00 Location: X=461.99 Y=-446.70 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:39.999 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (84 other events since notify)
+[2021.06.15-06.29.25:603][426]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=2.63 Y=299.99 Z=0.00 Location: X=-1139.20 Y=426.95 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.039 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (82 other events since notify)
+[2021.06.15-06.29.25:866][448]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=504.50 Y=-863.41 Z=0.00 Location: X=461.99 Y=-446.70 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:39.999 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (80 other events since notify)
+[2021.06.15-06.29.26:611][511]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=94.26 Y=284.81 Z=0.00 Location: X=-1139.20 Y=426.95 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.039 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (84 other events since notify)
+[2021.06.15-06.29.26:869][532]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=504.50 Y=-863.41 Z=0.00 Location: X=461.99 Y=-446.70 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:39.999 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (83 other events since notify)
+[2021.06.15-06.29.27:612][595]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=94.26 Y=284.81 Z=0.00 Location: X=-1139.20 Y=426.95 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.039 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (83 other events since notify)
+[2021.06.15-06.29.28:619][678]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=196.03 Y=-227.09 Z=0.00 Location: X=-1139.20 Y=426.95 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.039 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (82 other events since notify)
+[2021.06.15-06.29.28:978][708]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=21.28 Y=-4.25 Z=0.00 Location: X=353.92 Y=-626.49 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:39.999 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (9 other events since notify)
+[2021.06.15-06.29.29:626][762]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=196.03 Y=-227.09 Z=0.00 Location: X=-1139.20 Y=426.95 Z=150.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:0.039 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (83 other events since notify)
+[2021.06.15-06.29.29:979][791]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=980.63 Y=-195.85 Z=0.00 Location: X=353.92 Y=-626.49 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:39.999 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (82 other events since notify)
+[2021.06.15-06.29.30:989][873]LogCharacterMovement: E_Ranged_2 is stuck and failed to move! Velocity: X=980.63 Y=-195.85 Z=0.00 Location: X=353.92 Y=-626.49 Z=140.00 Normal: X=-0.00 Y=0.00 Z=1.00 PenetrationDepth:39.999 Actor:Floor_18 Component:StaticMeshComponent0 BoneName:None (81 other events since notify)
+[2021.06.15-06.29.31:215][891]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.15-06.29.31:274][891]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.15-06.29.31:289][891]LogWorld: UWorld::CleanupWorld for Field_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.15-06.29.31:291][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.15-06.29.31:305][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.15-06.29.31:349][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.15-06.29.31:450][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.15-06.29.31:451][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.15-06.29.31:556][891]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2021.06.15-06.29.31:603][892]LogPlayLevel: Display: Destroying online subsystem :Context_32
