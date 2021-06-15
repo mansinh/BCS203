@@ -2729,3 +2729,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.15-01.25.53:396][817]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2021.06.15-01.30.20:019][589]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2021.06.15-01.30.20:019][589]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.15-02.22.14:252][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.15-02.22.21:087][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.15-02.22.22:387][292]LogUObjectHash: Compacting FUObjectHashTables data took  15.38ms
+[2021.06.15-02.22.22:481][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset" SILENT=true
+[2021.06.15-02.22.22:709][292]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/U_Ranged6E02AFA549FF1BA236C8B79FCDE2BDF7.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset'
+[2021.06.15-02.22.22:734][292]AssetCheck: New page: Asset Save: U_Ranged
+[2021.06.15-02.22.22:734][292]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Ranged.U_Ranged
+[2021.06.15-02.22.37:436][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.15-02.22.41:279][674]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Golem/Maps/Field.Field
+[2021.06.15-02.22.41:279][674]Cmd: MAP LOAD FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Maps/Field.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.15-02.22.41:280][674]LightingResults: New page: Lighting Build
+[2021.06.15-02.22.41:280][674]LoadErrors: New page: Loading map: Field.umap
+[2021.06.15-02.22.41:299][674]LogWorld: UWorld::CleanupWorld for Field_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.15-02.22.41:299][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.15-02.22.41:299][674]MapCheck: New page: Map Check
+[2021.06.15-02.22.41:299][674]LightingResults: New page: Lighting Build
+[2021.06.15-02.22.41:344][674]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.15-02.22.41:433][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.06.15-02.22.41:452][674]LogAudio: Display: Audio Device (ID: 1) registered with world 'Field'.
+[2021.06.15-02.22.41:861][674]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.15-02.22.41:861][674]LogAIModule: Creating AISystem for world Field
+[2021.06.15-02.22.41:912][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.06.15-02.22.41:934][674]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.15-02.22.41:934][674]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
+[2021.06.15-02.22.41:935][674]LogFileHelpers: Loading map 'Field' took 0.655
+[2021.06.15-02.25.51:265][386]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
