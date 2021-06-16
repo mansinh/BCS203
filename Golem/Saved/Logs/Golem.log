@@ -13169,3 +13169,236 @@ Are you sure?
 [2021.06.16-16.53.19:239][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.06.16-16.53.19:275][630]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
 [2021.06.16-16.53.19:304][631]LogPlayLevel: Display: Destroying online subsystem :Context_174
+[2021.06.16-16.54.09:323][109]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.06.16-16.54.11:063][109]LogSlate: Window 'Save Content' being destroyed
+[2021.06.16-16.54.11:115][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Corpses/C_Bomb" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Corpses/C_Bomb.uasset" SILENT=true
+[2021.06.16-16.54.11:126][109]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/C_Bomb7BF5CEDB49862ABB916C14A1FBDF02E4.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Corpses/C_Bomb.uasset'
+[2021.06.16-16.54.11:149][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Corpses/C_Defender" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Corpses/C_Defender.uasset" SILENT=true
+[2021.06.16-16.54.11:158][109]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/C_Defender0A8297C848369DBC30F96697EB7800FD.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Corpses/C_Defender.uasset'
+[2021.06.16-16.54.11:182][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Corpses/C_Mage" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Corpses/C_Mage.uasset" SILENT=true
+[2021.06.16-16.54.11:192][109]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/C_Mage13CA4472412B17250B8D56BA20FC7CA5.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Corpses/C_Mage.uasset'
+[2021.06.16-16.54.11:214][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Corpses/C_Melee" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Corpses/C_Melee.uasset" SILENT=true
+[2021.06.16-16.54.11:224][109]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/C_Melee6E9C0A334E98EB56E439849F18B11433.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Corpses/C_Melee.uasset'
+[2021.06.16-16.54.11:246][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Corpses/C_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Corpses/C_Ranged.uasset" SILENT=true
+[2021.06.16-16.54.11:255][109]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/C_Ranged58BF120A41C5FEE7EDFF0BBBDDFEAFC1.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Corpses/C_Ranged.uasset'
+[2021.06.16-16.54.11:257][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Maps/Field_2" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Maps/Field_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.16-16.54.11:361][109]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.06.16-16.54.11:419][109]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/Field_2962CCB4C4CFEBED0719C5CBAD8268865.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Maps/Field_2.umap'
+[2021.06.16-16.54.11:440][109]LogFileHelpers: Saving map 'Field_2' took 0.183
+[2021.06.16-16.54.11:456][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Bomb" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Units/U_Bomb.uasset" SILENT=true
+[2021.06.16-16.54.11:560][109]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/U_Bomb4C96F9C84AAF6B5BC8AA13B07D39BA35.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Units/U_Bomb.uasset'
+[2021.06.16-16.54.11:598][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.16-16.54.11:699][109]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/U_DefenderFA0BEF864B5985D069F464B937440238.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.16-16.54.11:700][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Mage" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Units/U_Mage.uasset" SILENT=true
+[2021.06.16-16.54.11:739][109]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/U_MageF748C0C044729096CA9D2DA1798B8843.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Units/U_Mage.uasset'
+[2021.06.16-16.54.11:772][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.16-16.54.11:905][109]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/U_MeleeD6C8551147376566619CB3B6CC1FC025.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.16-16.54.11:939][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset" SILENT=true
+[2021.06.16-16.54.12:126][109]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Saved/U_Ranged4CA5425548C3C867EA7DC7AF56482B31.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/Golem-Battle/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset'
+[2021.06.16-16.54.12:166][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.16-16.54.12:166][109]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.12:166][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.12:718][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.16-16.54.12:718][109]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.12:718][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.13:481][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.16-16.54.13:481][109]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.13:481][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.15:409][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.16-16.54.15:409][109]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.15:409][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.16:449][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.16-16.54.16:449][109]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.16:450][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.17:861][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.16-16.54.17:861][109]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.17:862][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.19:164][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.16-16.54.19:164][109]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.19:164][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.20:520][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.16-16.54.20:520][109]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.20:520][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.21:164][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.16-16.54.21:164][109]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.21:164][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.21:724][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.16-16.54.21:724][109]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.21:724][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.22:983][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.16-16.54.22:983][109]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.22:983][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.24:918][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.16-16.54.24:918][109]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.24:918][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.25:886][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.16-16.54.25:886][109]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.25:886][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.27:961][109]LogSlate: Window 'EnemyBehaviourTree' being destroyed
+[2021.06.16-16.54.28:592][109]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.28:592][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.29:640][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.16-16.54.29:641][109]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.29:641][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.31:046][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.16-16.54.31:046][109]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.31:046][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.31:690][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.16-16.54.31:690][109]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.31:690][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.32:425][109]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.32:425][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.32:798][109]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.16-16.54.32:798][109]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.32:798][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-16.54.33:248][109]LogSlate: Window 'Golem - Unreal Editor' being destroyed
+[2021.06.16-16.54.33:269][109]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.16-16.54.35:613][109]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.16-16.54.35:613][109]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Ranged.U_Ranged
+[2021.06.16-16.54.35:613][109]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Corpses/C_Ranged.C_Ranged
+[2021.06.16-16.54.35:614][109]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Corpses/C_Bomb.C_Bomb
+[2021.06.16-16.54.35:614][109]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Bomb.U_Bomb
+[2021.06.16-16.54.35:614][109]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.16-16.54.35:614][109]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Corpses/C_Defender.C_Defender
+[2021.06.16-16.54.35:614][109]LogContentValidation: Display: Validating World /Game/Golem/Maps/Field_2.Field_2
+[2021.06.16-16.54.35:614][109]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Mage.U_Mage
+[2021.06.16-16.54.35:614][109]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Corpses/C_Mage.C_Mage
+[2021.06.16-16.54.35:614][109]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.16-16.54.35:614][109]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Corpses/C_Melee.C_Melee
+[2021.06.16-16.54.35:666][110]Cmd: QUIT_EDITOR
+[2021.06.16-16.54.35:676][110]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.06.16-16.54.35:834][110]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.06.16-16.54.36:199][110]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.06.16-16.54.36:199][110]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.06.16-16.54.36:199][110]LogAudio: Display: Audio Device unregistered from world 'Field_2'.
+[2021.06.16-16.54.36:202][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.16-16.54.36:214][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.16-16.54.36:367][110]LogAudio: Display: Audio Device Manager Shutdown
+[2021.06.16-16.54.36:474][110]LogExit: Preparing to exit.
+[2021.06.16-16.54.37:593][110]LogDeviceProfile: Device profile begin destroy: [0000021F69302F00] Windows
+[2021.06.16-16.54.37:593][110]LogDeviceProfile: Device profile begin destroy: [0000021F69302E00] Default__DeviceProfile
+[2021.06.16-16.54.37:593][110]LogDeviceProfile: Device profile begin destroy: [0000021F692ED300] WindowsNoEditor
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F69301300] WindowsServer
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F692EE700] WindowsClient
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F69302600] IOS
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F692EDC00] iPadAir
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F69301B00] iPadAir2
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F692B8100] IPadPro
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F692B8200] iPadAir3
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F69303000] iPadAir4
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BA800] iPadMini2
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F69301200] iPadMini3
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F692B8600] iPadMini4
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F69301800] iPadMini5
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929F900] iPhone6
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929FA00] iPodTouch6
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BA400] iPhone7
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BA500] iPodTouch7
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929D700] iPhone5S
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F692B8F00] iPhone6Plus
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929FC00] iPhone6S
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BAF00] iPhone6SPlus
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929D300] iPhone7Plus
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BB100] iPhoneSE
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929E300] iPhone8
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F692B8300] iPhone8Plus
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929F600] iPhoneX
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F692B8E00] iPhoneXS
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929D600] iPhoneXSMax
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BBF00] iPhoneXR
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929FF00] iPhone11
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F692B9100] iPhone11Pro
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929D400] iPhone11ProMax
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F692B9300] iPhoneSE2
+[2021.06.16-16.54.37:594][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929F200] iPhone12Mini
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BB200] iPhone12
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929E900] iPhone12Pro
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692B8B00] iPhone12ProMax
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929E100] iPadPro105
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BA900] iPadPro129
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929CE00] iPadPro97
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BA300] iPadPro2_129
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929F000] iPad5
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BB900] iPad6
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929CB00] iPad7
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692B8A00] iPad8
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929D100] iPadPro11
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692B8D00] iPadPro2_11
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929C800] iPadPro3_129
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692B9800] iPadPro4_129
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929FE00] AppleTV
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BBE00] AppleTV4K
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929D800] TVOS
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BB800] Mac
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F6929E000] MacClient
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692B9E00] MacNoEditor
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692ECC00] MacServer
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F6937D100] Linux
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692EF300] LinuxAArch64
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F6937C500] LinuxNoEditor
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692EF400] LinuxAArch64NoEditor
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F6937C100] LinuxClient
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692EC300] LinuxAArch64Client
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F6937C600] LinuxServer
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692EE800] LinuxAArch64Server
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F6937D800] Android
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692EE000] Android_Low
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F6937CC00] Android_Mid
+[2021.06.16-16.54.37:595][110]LogDeviceProfile: Device profile begin destroy: [0000021F692EDA00] Android_High
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F6937D400] Android_Default
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692ED100] Android_Adreno4xx
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BA100] Android_Adreno5xx_Low
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692EF900] Android_Adreno5xx
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BB600] Android_Adreno6xx
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692EF000] Android_Adreno6xx_Vulkan
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BA000] Android_Mali_T6xx
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692ED900] Android_Mali_T7xx
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BB300] Android_Mali_T8xx
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692EC600] Android_Mali_G71
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BBC00] Android_Mali_G72
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692EC900] Android_Mali_G72_Vulkan
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692B8400] Android_Mali_G76
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692EF100] Android_Mali_G76_Vulkan
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BAB00] Android_Mali_G77
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692ED700] Android_Mali_G77_Vulkan
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BAA00] Android_Vulkan_SM5
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692ECD00] Android_PowerVR_G6xxx
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BA200] Android_PowerVR_GT7xxx
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692EF500] Android_PowerVR_GE8xxx
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BAE00] Android_PowerVR_GM9xxx
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692EE100] Android_PowerVR_GM9xxx_Vulkan
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692B8500] Android_TegraK1
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692EF700] Android_Unknown_Vulkan
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BAD00] Lumin
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692ECA00] Lumin_Desktop
+[2021.06.16-16.54.37:596][110]LogDeviceProfile: Device profile begin destroy: [0000021F692BB500] HoloLens
+[2021.06.16-16.54.38:872][110]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.38:881][110]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.38:889][110]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.38:897][110]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.38:906][110]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.38:918][110]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.38:928][110]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.38:936][110]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.38:945][110]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.38:952][110]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.38:961][110]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.38:969][110]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.38:977][110]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.38:985][110]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.38:993][110]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.39:001][110]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.39:010][110]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.39:019][110]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.39:030][110]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.39:041][110]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.39:052][110]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.39:064][110]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.39:075][110]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.39:086][110]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.39:096][110]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.39:107][110]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.39:928][110]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.06.16-16.54.40:615][110]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-16.54.40:635][110]LogExit: Editor shut down
+[2021.06.16-16.54.40:692][110]LogExit: Transaction tracking system shut down
