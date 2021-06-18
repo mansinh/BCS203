@@ -10198,3 +10198,229 @@ Make sure 'EnemyUnit_C' has been compiled for  Get Hover
 [2021.06.18-13.13.25:032][742]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.18-13.13.25:032][742]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Golem/Maps/Field_BuiltData.Field_BuiltData
 [2021.06.18-13.13.25:033][742]LogContentValidation: Display: Validating World /Game/Golem/Maps/Field.Field
+[2021.06.18-13.17.53:191][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/EnemyUnit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset" SILENT=true
+[2021.06.18-13.17.53:290][577]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/EnemyUnit63282B484C9FDA9B36454D856332D02F.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset'
+[2021.06.18-13.17.53:319][577]AssetCheck: New page: Asset Save: EnemyUnit
+[2021.06.18-13.17.53:319][577]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit
+[2021.06.18-13.17.56:090][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.18-13.17.59:500][688]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.06.18-13.18.02:781][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.18-13.18.13:953][301]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.06.18-13.18.31:728][606]LogSlate: Window 'Message' being destroyed
+[2021.06.18-13.18.31:734][606]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Golem/GolemMaterials/M_clay.M_clay
+(Selecting 'No' will cause all changes to be lost!)
+[2021.06.18-13.18.32:391][606]LogMaterial: Display: Missing cached shader map for material M_clay, compiling. 
+[2021.06.18-13.18.32:433][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.06.18-13.18.32:458][606]LogMaterial: Display: Missing cached shader map for material M_clay, compiling. 
+[2021.06.18-13.18.32:649][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.06.18-13.18.32:662][606]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.18-13.18.33:789][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 22
+[2021.06.18-13.18.34:351][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 21
+[2021.06.18-13.18.34:916][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 20
+[2021.06.18-13.18.35:477][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 19
+[2021.06.18-13.18.36:599][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 18
+[2021.06.18-13.18.36:599][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 17
+[2021.06.18-13.18.37:721][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 16
+[2021.06.18-13.18.38:282][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 15
+[2021.06.18-13.18.38:282][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 14
+[2021.06.18-13.18.38:844][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 13
+[2021.06.18-13.18.38:844][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 12
+[2021.06.18-13.18.38:859][606]TextureStreamingBuild: Display: Compiling optional shaders took 6.201 seconds.
+[2021.06.18-13.18.44:515][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.06.18-13.18.45:257][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 2
+[2021.06.18-13.18.52:224][606]LogSlate: Window 'Message' being destroyed
+[2021.06.18-13.18.52:230][606]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Golem/GolemMaterials/M_clay_dead.M_clay_dead
+(Selecting 'No' will cause all changes to be lost!)
+[2021.06.18-13.18.52:888][606]LogMaterial: Display: Missing cached shader map for material M_clay_dead, compiling. 
+[2021.06.18-13.18.52:914][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.06.18-13.18.52:953][606]LogMaterial: Display: Missing cached shader map for material M_clay_dead, compiling. 
+[2021.06.18-13.18.53:769][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.06.18-13.18.53:794][606]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.18-13.18.54:360][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 22
+[2021.06.18-13.18.54:925][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 21
+[2021.06.18-13.18.54:925][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 20
+[2021.06.18-13.18.55:488][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 19
+[2021.06.18-13.18.56:610][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 18
+[2021.06.18-13.18.57:174][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 17
+[2021.06.18-13.18.57:735][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 16
+[2021.06.18-13.18.58:296][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 15
+[2021.06.18-13.18.58:866][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 14
+[2021.06.18-13.18.58:866][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 13
+[2021.06.18-13.18.59:036][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 12
+[2021.06.18-13.18.59:093][606]TextureStreamingBuild: Display: Compiling optional shaders took 5.303 seconds.
+[2021.06.18-13.18.59:206][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.06.18-13.18.59:326][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.06.18-13.19.03:553][606]LogSlate: Window 'Save Content' being destroyed
+[2021.06.18-13.19.03:662][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/GolemMaterials/M_clay" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/GolemMaterials/M_clay.uasset" SILENT=true
+[2021.06.18-13.19.03:671][606]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/M_clayD4B9EBB24B496E4FB9388989701835C5.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/GolemMaterials/M_clay.uasset'
+[2021.06.18-13.19.07:594][606]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 2
+[2021.06.18-13.19.08:124][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/GolemMaterials/M_clay_dead" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/GolemMaterials/M_clay_dead.uasset" SILENT=true
+[2021.06.18-13.19.08:133][606]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/M_clay_dead10393042401C8538F2066CA46409A5DF.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/GolemMaterials/M_clay_dead.uasset'
+[2021.06.18-13.19.08:613][606]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.08:613][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.18-13.19.09:028][606]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.09:028][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.18-13.19.09:198][606]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.09:198][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.18-13.19.10:189][606]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.18-13.19.10:189][606]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.10:189][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.18-13.19.10:843][606]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.18-13.19.10:843][606]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.10:843][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.18-13.19.11:349][606]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.18-13.19.11:349][606]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.11:349][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.18-13.19.11:544][606]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.18-13.19.11:544][606]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.11:544][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.18-13.19.11:747][606]LogSlate: Window 'EnemyUnit' being destroyed
+[2021.06.18-13.19.11:790][606]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.18-13.19.11:790][606]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.11:790][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.18-13.19.11:934][606]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.18-13.19.11:934][606]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.11:934][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.18-13.19.12:039][606]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.12:039][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.18-13.19.12:174][606]LogSlate: Window 'Golem - Unreal Editor' being destroyed
+[2021.06.18-13.19.12:189][606]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.18-13.19.12:805][606]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.18-13.19.12:805][606]LogContentValidation: Display: Validating Material /Game/Golem/GolemMaterials/M_clay.M_clay
+[2021.06.18-13.19.12:805][606]LogContentValidation: Display: Validating Material /Game/Golem/GolemMaterials/M_clay_dead.M_clay_dead
+[2021.06.18-13.19.12:808][607]Cmd: QUIT_EDITOR
+[2021.06.18-13.19.12:808][607]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.06.18-13.19.12:869][607]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.06.18-13.19.14:086][607]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.06.18-13.19.14:086][607]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.06.18-13.19.14:086][607]LogAudio: Display: Audio Device unregistered from world 'Field'.
+[2021.06.18-13.19.14:086][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.18-13.19.14:091][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.18-13.19.14:215][607]LogAudio: Display: Audio Device Manager Shutdown
+[2021.06.18-13.19.14:284][607]LogExit: Preparing to exit.
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28AA300] Windows
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28AA400] Default__DeviceProfile
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284E700] WindowsNoEditor
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28A9500] WindowsServer
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284F400] WindowsClient
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28AA000] IOS
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284D500] iPadAir
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28A9000] iPadAir2
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF27F5F00] IPadPro
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF27F6000] iPadAir3
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284FE00] iPadAir4
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF27F7700] iPadMini2
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284CF00] iPadMini3
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF27F5700] iPadMini4
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284F900] iPadMini5
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280D800] iPhone6
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280D900] iPodTouch6
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28AAC00] iPhone7
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28AAD00] iPodTouch7
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280E600] iPhone5S
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28A8600] iPhone6Plus
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280F100] iPhone6S
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28AAF00] iPhone6SPlus
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280E100] iPhone7Plus
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28A9F00] iPhoneSE
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280CE00] iPhone8
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28AA100] iPhone8Plus
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280FC00] iPhoneX
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284CC00] iPhoneXS
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280D000] iPhoneXSMax
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284D700] iPhoneXR
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280E700] iPhone11
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284DC00] iPhone11Pro
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280F000] iPhone11ProMax
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284DA00] iPhoneSE2
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280DF00] iPhone12Mini
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284E200] iPhone12
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280C100] iPhone12Pro
+[2021.06.18-13.19.15:079][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284C100] iPhone12ProMax
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280EA00] iPadPro105
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284F800] iPadPro129
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280CA00] iPadPro97
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284DD00] iPadPro2_129
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280F500] iPad5
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284D400] iPad6
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280DE00] iPad7
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284F700] iPad8
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280C200] iPadPro11
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284C200] iPadPro2_11
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280D200] iPadPro3_129
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284F600] iPadPro4_129
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280D600] AppleTV
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284DF00] AppleTV4K
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280E300] TVOS
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284ED00] Mac
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280E200] MacClient
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284F300] MacNoEditor
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280FE00] MacServer
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284FB00] Linux
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280CF00] LinuxAArch64
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284C600] LinuxNoEditor
+[2021.06.18-13.19.15:080][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280E400] LinuxAArch64NoEditor
+[2021.06.18-13.19.15:081][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284D000] LinuxClient
+[2021.06.18-13.19.15:081][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280F200] LinuxAArch64Client
+[2021.06.18-13.19.15:081][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284F000] LinuxServer
+[2021.06.18-13.19.15:081][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280EE00] LinuxAArch64Server
+[2021.06.18-13.19.15:081][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284E800] Android
+[2021.06.18-13.19.15:081][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280FB00] Android_Low
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284DB00] Android_Mid
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280F400] Android_High
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284D900] Android_Default
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280CC00] Android_Adreno4xx
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284C800] Android_Adreno5xx_Low
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280CB00] Android_Adreno5xx
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284FA00] Android_Adreno6xx
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280E000] Android_Adreno6xx_Vulkan
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF284E400] Android_Mali_T6xx
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF280E900] Android_Mali_T7xx
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF27F6800] Android_Mali_T8xx
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28A8A00] Android_Mali_G71
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF27F5B00] Android_Mali_G72
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28AA500] Android_Mali_G72_Vulkan
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF27F4800] Android_Mali_G76
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28A9B00] Android_Mali_G76_Vulkan
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF27F5E00] Android_Mali_G77
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28A8500] Android_Mali_G77_Vulkan
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF27F6300] Android_Vulkan_SM5
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28A9400] Android_PowerVR_G6xxx
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF27F7B00] Android_PowerVR_GT7xxx
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28A8900] Android_PowerVR_GE8xxx
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF27F4A00] Android_PowerVR_GM9xxx
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28A8D00] Android_PowerVR_GM9xxx_Vulkan
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF27F7F00] Android_TegraK1
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28A9800] Android_Unknown_Vulkan
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF27F6100] Lumin
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF28AAE00] Lumin_Desktop
+[2021.06.18-13.19.15:082][607]LogDeviceProfile: Device profile begin destroy: [0000011FF27F6900] HoloLens
+[2021.06.18-13.19.16:009][607]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:014][607]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:023][607]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:029][607]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:038][607]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:045][607]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:053][607]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:059][607]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:065][607]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:075][607]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:081][607]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:089][607]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:095][607]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:104][607]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:110][607]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:116][607]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:126][607]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:134][607]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:141][607]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:146][607]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:154][607]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.16:643][607]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.06.18-13.19.17:279][607]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.19.17:279][607]LogExit: Editor shut down
+[2021.06.18-13.19.17:298][607]LogExit: Transaction tracking system shut down
+[2021.06.18-13.19.26:382][607]LogExit: Object subsystem successfully closed.
+[2021.06.18-13.19.26:870][607]LogShaderCompilers: Display: Shaders left to compile 0
