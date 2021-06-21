@@ -5110,3 +5110,1334 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.21-02.49.48:709][614]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/Corpse69EA6D3348F3EE29A08D1BBEA28B3297.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Corpses/Corpse.uasset'
 [2021.06.21-02.49.48:736][614]AssetCheck: New page: Asset Save: Corpse
 [2021.06.21-02.49.48:736][614]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Corpses/Corpse.Corpse
+[2021.06.21-02.51.02:714][340]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2021.06.21-02.51.02:714][340]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2021.06.21-02.53.58:578][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/EnemyUnit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset" SILENT=true
+[2021.06.21-02.53.58:685][589]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/EnemyUnitC6AA0FEF45721FDB1DB1D599972B260F.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset'
+[2021.06.21-02.53.58:724][589]AssetCheck: New page: Asset Save: EnemyUnit
+[2021.06.21-02.53.58:724][589]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit
+[2021.06.21-02.53.59:986][692]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.21-02.53.59:997][692]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.21-02.54.00:044][692]LogPlayLevel: [PlayLevel] Compiling Corpse before play...
+[2021.06.21-02.54.00:044][692]LogPlayLevel: [PlayLevel]   Compiling C_Bomb as a dependent...
+[2021.06.21-02.54.00:044][692]LogPlayLevel: [PlayLevel]   Compiling C_Defender as a dependent...
+[2021.06.21-02.54.00:044][692]LogPlayLevel: [PlayLevel]   Compiling C_Mage as a dependent...
+[2021.06.21-02.54.00:044][692]LogPlayLevel: [PlayLevel]   Compiling C_Meleee as a dependent...
+[2021.06.21-02.54.00:044][692]LogPlayLevel: [PlayLevel]   Compiling C_Queen as a dependent...
+[2021.06.21-02.54.00:044][692]LogPlayLevel: [PlayLevel]   Compiling C_Range as a dependent...
+[2021.06.21-02.54.00:298][692]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.54.00:378][692]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.54.00:423][692]LogPlayLevel: [PlayLevel] Compiling EnemyUnit before play...
+[2021.06.21-02.54.00:423][692]LogPlayLevel: [PlayLevel]   Compiling E_Bomb as a dependent...
+[2021.06.21-02.54.00:423][692]LogPlayLevel: [PlayLevel]   Compiling E_Defender as a dependent...
+[2021.06.21-02.54.00:424][692]LogPlayLevel: [PlayLevel]   Compiling E_Melee as a dependent...
+[2021.06.21-02.54.00:424][692]LogPlayLevel: [PlayLevel]   Compiling E_Queen as a dependent...
+[2021.06.21-02.54.00:424][692]LogPlayLevel: [PlayLevel]   Compiling E_Ranged as a dependent...
+[2021.06.21-02.54.00:809][692]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.54.00:814][692]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.54.00:818][692]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.54.00:875][692]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.54.00:880][692]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.54.00:884][692]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.54.01:328][692]LogUObjectHash: Compacting FUObjectHashTables data took  13.26ms
+[2021.06.21-02.54.01:332][692]LogPlayLevel: PlayLevel: Blueprint regeneration took 1335 ms (13 blueprints)
+[2021.06.21-02.54.01:332][692]PIE: New page: PIE session: Field_2 (22/06/2021, 2:54:01 am)
+[2021.06.21-02.54.01:333][692]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.21-02.54.01:378][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045437s)
+[2021.06.21-02.54.01:381][692]LogAIModule: Creating AISystem for world Field_2
+[2021.06.21-02.54.01:381][692]LogPlayLevel: PIE: World Init took: (0.002898s)
+[2021.06.21-02.54.01:382][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Field_2.Field_2 to /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 (0.048687s)
+[2021.06.21-02.54.01:474][692]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.06.21-02.54.01:475][692]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2021.06.21-02.54.01:475][692]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.21-02.54.01:475][692]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.21-02.54.01:475][692]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.21-02.54.01:475][692]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.21-02.54.01:475][692]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.21-02.54.01:475][692]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.21-02.54.01:475][692]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.21-02.54.01:475][692]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.21-02.54.01:475][692]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.21-02.54.01:476][692]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.21-02.54.01:482][692]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.21-02.54.01:482][692]LogAudioMixer: Display: 1: FrontRight
+[2021.06.21-02.54.01:500][692]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.21-02.54.01:502][692]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.21-02.54.01:502][692]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.21-02.54.01:502][692]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.21-02.54.01:502][692]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.21-02.54.01:503][692]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.21-02.54.01:503][692]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.21-02.54.01:522][692]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.21-02.54.01:522][692]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.21-02.54.01:522][692]LogInit: FAudioDevice initialized.
+[2021.06.21-02.54.01:522][692]LogAudio: Display: Audio Device (ID: 37) registered with world 'Field_2'.
+[2021.06.21-02.54.01:575][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-02.54.01:575][692]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.21-02.54.01:580][692]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 up for play (max tick rate 0) at 2021.06.21-14.54.01
+[2021.06.21-02.54.01:583][692]LogWorld: Bringing up level for play took: 0.007535
+[2021.06.21-02.54.01:583][692]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2021.06.21-02.54.01:601][692]PIE: Server logged in
+[2021.06.21-02.54.01:602][692]PIE: Play in editor total start time 1.607 seconds.
+[2021.06.21-02.54.03:040][735]LogBlueprintUserMessages: [E_Melee_2] 3
+[2021.06.21-02.54.04:379][796]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-02.54.04:719][811]LogBlueprintUserMessages: [E_Defender_2] STOMP
+[2021.06.21-02.54.06:004][869]LogBlueprintUserMessages: [E_Melee3_5] 0
+[2021.06.21-02.54.06:553][894]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-02.54.06:694][900]LogBlueprintUserMessages: [E_Melee_2] 1
+[2021.06.21-02.54.07:916][955]LogBlueprintUserMessages: [E_Melee_2] 3
+[2021.06.21-02.54.08:361][975]LogBlueprintUserMessages: [E_Melee_2] 1
+[2021.06.21-02.54.08:820][997]LogBlueprintUserMessages: [E_Melee_2] 1
+[2021.06.21-02.54.09:075][  8]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-02.54.09:945][ 46]LogBlueprintUserMessages: [E_Defender_2] STOMP
+[2021.06.21-02.54.11:566][120]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-02.54.17:768][418]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.21-02.54.17:806][418]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.21-02.54.17:807][418]LogWorld: UWorld::CleanupWorld for Field_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-02.54.17:808][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-02.54.17:825][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.21-02.54.17:857][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-02.54.17:973][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-02.54.17:975][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-02.54.18:039][418]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2021.06.21-02.54.18:129][419]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2021.06.21-02.54.23:675][775]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.21-02.54.23:687][775]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.21-02.54.23:702][775]LogPlayLevel: [PlayLevel] Compiling EnemyUnit before play...
+[2021.06.21-02.54.23:702][775]LogPlayLevel: [PlayLevel]   Compiling E_Bomb as a dependent...
+[2021.06.21-02.54.23:702][775]LogPlayLevel: [PlayLevel]   Compiling E_Defender as a dependent...
+[2021.06.21-02.54.23:702][775]LogPlayLevel: [PlayLevel]   Compiling E_Melee as a dependent...
+[2021.06.21-02.54.23:702][775]LogPlayLevel: [PlayLevel]   Compiling E_Queen as a dependent...
+[2021.06.21-02.54.23:702][775]LogPlayLevel: [PlayLevel]   Compiling E_Ranged as a dependent...
+[2021.06.21-02.54.24:164][775]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.54.24:170][775]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.54.24:174][775]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.54.24:229][775]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.54.24:233][775]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.54.24:239][775]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.54.24:370][775]LogUObjectHash: Compacting FUObjectHashTables data took   7.13ms
+[2021.06.21-02.54.24:372][775]LogPlayLevel: PlayLevel: Blueprint regeneration took 685 ms (6 blueprints)
+[2021.06.21-02.54.24:372][775]PIE: New page: PIE session: Field_2 (22/06/2021, 2:54:24 am)
+[2021.06.21-02.54.24:373][775]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.21-02.54.24:409][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035902s)
+[2021.06.21-02.54.24:410][775]LogAIModule: Creating AISystem for world Field_2
+[2021.06.21-02.54.24:411][775]LogPlayLevel: PIE: World Init took: (0.001644s)
+[2021.06.21-02.54.24:411][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Field_2.Field_2 to /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 (0.037807s)
+[2021.06.21-02.54.24:501][775]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.06.21-02.54.24:501][775]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2021.06.21-02.54.24:501][775]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.21-02.54.24:501][775]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.21-02.54.24:501][775]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.21-02.54.24:501][775]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.21-02.54.24:501][775]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.21-02.54.24:501][775]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.21-02.54.24:501][775]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.21-02.54.24:501][775]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.21-02.54.24:502][775]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.21-02.54.24:502][775]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.21-02.54.24:509][775]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.21-02.54.24:509][775]LogAudioMixer: Display: 1: FrontRight
+[2021.06.21-02.54.24:525][775]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.21-02.54.24:526][775]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.21-02.54.24:526][775]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.21-02.54.24:526][775]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.21-02.54.24:527][775]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.21-02.54.24:527][775]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.21-02.54.24:527][775]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.21-02.54.24:545][775]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.21-02.54.24:546][775]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.21-02.54.24:546][775]LogInit: FAudioDevice initialized.
+[2021.06.21-02.54.24:546][775]LogAudio: Display: Audio Device (ID: 38) registered with world 'Field_2'.
+[2021.06.21-02.54.24:600][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-02.54.24:601][775]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.21-02.54.24:613][775]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 up for play (max tick rate 0) at 2021.06.21-14.54.24
+[2021.06.21-02.54.24:617][775]LogWorld: Bringing up level for play took: 0.014521
+[2021.06.21-02.54.24:617][775]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2021.06.21-02.54.24:629][775]PIE: Server logged in
+[2021.06.21-02.54.24:631][775]PIE: Play in editor total start time 0.945 seconds.
+[2021.06.21-02.54.25:938][818]LogBlueprintUserMessages: [E_Melee_2] 1
+[2021.06.21-02.54.30:054][  0]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-02.54.37:299][307]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-02.54.37:320][308]LogBlueprintUserMessages: [Player] 5.0
+[2021.06.21-02.54.37:321][308]LogBlueprintUserMessages: [C_Meleee_C_0] SPAWN
+[2021.06.21-02.54.37:323][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.54.38:087][340]LogBlueprintUserMessages: [E_Defender_2] STOMP
+[2021.06.21-02.54.42:282][524]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-02.54.43:715][588]LogBlueprintUserMessages: [E_Defender_2] STOMP
+[2021.06.21-02.54.44:619][629]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-02.54.46:690][724]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-02.54.48:845][821]LogBlueprintUserMessages: [Player] 5.0
+[2021.06.21-02.54.48:846][821]LogBlueprintUserMessages: [C_Meleee_C_1] SPAWN
+[2021.06.21-02.54.48:849][821]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.54.48:850][821]LogBlueprintUserMessages: [C_Defender_C_0] SPAWN
+[2021.06.21-02.54.48:854][821]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.54.54:214][ 64]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.21-02.54.54:238][ 64]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.21-02.54.54:239][ 64]LogWorld: UWorld::CleanupWorld for Field_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-02.54.54:240][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-02.54.54:258][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.21-02.54.54:284][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-02.54.54:381][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-02.54.54:382][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-02.54.54:416][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.06.21-02.54.54:493][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2021.06.21-02.54.55:363][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/EnemyUnit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset" SILENT=true
+[2021.06.21-02.54.55:473][124]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/EnemyUnit58F782054A2768850C081EBF4CC41B25.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset'
+[2021.06.21-02.54.55:498][124]AssetCheck: New page: Asset Save: EnemyUnit
+[2021.06.21-02.54.55:498][124]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit
+[2021.06.21-02.55.27:265][935]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2021.06.21-02.55.27:265][935]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2021.06.21-02.55.52:232][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/EnemyUnit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset" SILENT=true
+[2021.06.21-02.55.52:339][247]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/EnemyUnitF19564B44B22F47D0BF27E9FABD58EBF.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/EnemyUnit.uasset'
+[2021.06.21-02.55.52:361][247]AssetCheck: New page: Asset Save: EnemyUnit
+[2021.06.21-02.55.52:361][247]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/EnemyUnit.EnemyUnit
+[2021.06.21-02.57.22:191][947]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Golem/UI/UnitWidget.UnitWidget
+[2021.06.21-02.57.26:882][198]LogSlate: Took 0.076612 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.06.21-02.57.31:439][295]LogSlate: Window 'Delete widgets' being destroyed
+[2021.06.21-02.57.33:853][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/UI/UnitWidget" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/UI/UnitWidget.uasset" SILENT=true
+[2021.06.21-02.57.33:986][571]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/UnitWidgetC62A3ED147F4DC3CC284EFBB319371EC.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/UI/UnitWidget.uasset'
+[2021.06.21-02.57.34:014][571]AssetCheck: New page: Asset Save: UnitWidget
+[2021.06.21-02.57.34:014][571]LogContentValidation: Display: Validating WidgetBlueprint /Game/Golem/UI/UnitWidget.UnitWidget
+[2021.06.21-02.57.37:351][847]BlueprintLog: New page: Compile UnitWidget
+[2021.06.21-02.57.37:733][847]LogUObjectHash: Compacting FUObjectHashTables data took   8.68ms
+[2021.06.21-02.57.37:827][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.37:847][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.37:851][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.37:868][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.37:875][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.37:881][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.37:889][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.37:899][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.37:909][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.37:916][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.37:928][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.37:933][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.37:937][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.37:980][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.37:985][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.37:988][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.38:005][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.38:013][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.38:019][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.38:027][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.38:036][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.38:045][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.38:052][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.38:066][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.38:070][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.38:074][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.46:807][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/UI/UnitWidget" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/UI/UnitWidget.uasset" SILENT=true
+[2021.06.21-02.57.46:937][389]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/UnitWidget7FDA941A4788F6BA478A59A8D9D85DB7.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/UI/UnitWidget.uasset'
+[2021.06.21-02.57.46:960][389]AssetCheck: New page: Asset Save: UnitWidget
+[2021.06.21-02.57.46:960][389]LogContentValidation: Display: Validating WidgetBlueprint /Game/Golem/UI/UnitWidget.UnitWidget
+[2021.06.21-02.57.47:902][453]LogUObjectHash: Compacting FUObjectHashTables data took   8.59ms
+[2021.06.21-02.57.47:922][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Maps/Field_2" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Maps/Field_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.21-02.57.48:017][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.06.21-02.57.48:147][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/Field_2092C23A44020D37F3818399D975AB71B.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Maps/Field_2.umap'
+[2021.06.21-02.57.48:167][453]LogFileHelpers: Saving map 'Field_2' took 0.245
+[2021.06.21-02.57.48:174][453]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.48:210][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Bomb" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Bomb.uasset" SILENT=true
+[2021.06.21-02.57.48:386][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/U_Bomb452A60944775D5797C50FE9D1E05B655.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Bomb.uasset'
+[2021.06.21-02.57.48:388][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Corpses/C_Bomb" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Corpses/C_Bomb.uasset" SILENT=true
+[2021.06.21-02.57.48:395][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/C_BombCBF679004D9FE85D3F927C97C31CD615.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Corpses/C_Bomb.uasset'
+[2021.06.21-02.57.48:419][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/E_Bomb" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/E_Bomb.uasset" SILENT=true
+[2021.06.21-02.57.48:507][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/E_BombF74A5E02416F6169EFED338B732F5A70.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/E_Bomb.uasset'
+[2021.06.21-02.57.48:543][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.21-02.57.48:753][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/U_Defender46468CC6466416F54B4AD1BF9B9E6E82.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.21-02.57.48:755][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Corpses/C_Defender" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Corpses/C_Defender.uasset" SILENT=true
+[2021.06.21-02.57.48:763][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/C_Defender1E2251004CF466E1302A9080DB17F058.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Corpses/C_Defender.uasset'
+[2021.06.21-02.57.48:770][453]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.57.48:804][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Mage" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Mage.uasset" SILENT=true
+[2021.06.21-02.57.48:965][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/U_Mage1AFFD0594DEE8E8ECB3B7CBD5405C31C.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Mage.uasset'
+[2021.06.21-02.57.48:966][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Corpses/C_Mage" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Corpses/C_Mage.uasset" SILENT=true
+[2021.06.21-02.57.48:972][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/C_Mage0080AFD5427A3765C034C7BBB810688D.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Corpses/C_Mage.uasset'
+[2021.06.21-02.57.49:007][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.21-02.57.49:296][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/U_Melee676D840E422FFB4DFC795A8DE3C64800.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.21-02.57.49:299][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Corpses/C_Meleee" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Corpses/C_Meleee.uasset" SILENT=true
+[2021.06.21-02.57.49:306][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/C_MeleeeF4D268ED44701CDF27BFF98C84879186.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Corpses/C_Meleee.uasset'
+[2021.06.21-02.57.49:341][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset" SILENT=true
+[2021.06.21-02.57.49:551][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/U_Ranged7DCB595740DCC1334BC63A8258BB8A16.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset'
+[2021.06.21-02.57.49:553][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Corpses/C_Range" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Corpses/C_Range.uasset" SILENT=true
+[2021.06.21-02.57.49:560][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/C_RangeA3C918F84FA574BF15A9288F28BB484F.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Corpses/C_Range.uasset'
+[2021.06.21-02.57.49:586][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/E_Defender" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/E_Defender.uasset" SILENT=true
+[2021.06.21-02.57.49:687][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/E_Defender78B4D05144A16E2100A9418CFEAFAA1D.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/E_Defender.uasset'
+[2021.06.21-02.57.49:713][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/E_Melee" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/E_Melee.uasset" SILENT=true
+[2021.06.21-02.57.49:842][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/E_Melee7346737C452BBFEDB14FC09F29BECFB3.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/E_Melee.uasset'
+[2021.06.21-02.57.49:863][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/E_Queen" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/E_Queen.uasset" SILENT=true
+[2021.06.21-02.57.49:893][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/E_Queen2326F89F40E4CD9F6B9064BD226EB50B.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/E_Queen.uasset'
+[2021.06.21-02.57.49:920][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Enemies/E_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset" SILENT=true
+[2021.06.21-02.57.50:030][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/E_Ranged4B5ED652431CFDB8181D14B5B0F69645.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/E_Ranged.uasset'
+[2021.06.21-02.57.50:032][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Corpses/C_Queen" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Corpses/C_Queen.uasset" SILENT=true
+[2021.06.21-02.57.50:038][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/C_Queen4DCE04624CB4AA54B440809546E18FDB.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Corpses/C_Queen.uasset'
+[2021.06.21-02.57.50:057][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStick/Materials/M_Concrete_Poured" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/TwinStick/Materials/M_Concrete_Poured.uasset" SILENT=true
+[2021.06.21-02.57.50:067][453]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/M_Concrete_Poured532BB31E4570689EE23ADDA756F25178.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/TwinStick/Materials/M_Concrete_Poured.uasset'
+[2021.06.21-02.57.50:108][453]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.21-02.57.50:108][453]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Bomb.U_Bomb
+[2021.06.21-02.57.50:108][453]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Corpses/C_Bomb.C_Bomb
+[2021.06.21-02.57.50:108][453]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Bomb.E_Bomb
+[2021.06.21-02.57.50:109][453]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.21-02.57.50:109][453]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Mage.U_Mage
+[2021.06.21-02.57.50:109][453]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Corpses/C_Meleee.C_Meleee
+[2021.06.21-02.57.50:109][453]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.21-02.57.50:109][453]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Corpses/C_Range.C_Range
+[2021.06.21-02.57.50:109][453]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Ranged.U_Ranged
+[2021.06.21-02.57.50:109][453]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Corpses/C_Mage.C_Mage
+[2021.06.21-02.57.50:109][453]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Corpses/C_Defender.C_Defender
+[2021.06.21-02.57.50:109][453]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Defender.E_Defender
+[2021.06.21-02.57.50:109][453]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Melee.E_Melee
+[2021.06.21-02.57.50:109][453]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Queen.E_Queen
+[2021.06.21-02.57.50:109][453]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/E_Ranged.E_Ranged
+[2021.06.21-02.57.50:109][453]LogContentValidation: Display: Validating World /Game/Golem/Maps/Field_2.Field_2
+[2021.06.21-02.57.50:109][453]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Corpses/C_Queen.C_Queen
+[2021.06.21-02.57.50:109][453]LogContentValidation: Display: Validating Material /Game/TwinStick/Materials/M_Concrete_Poured.M_Concrete_Poured
+[2021.06.21-02.58.05:990][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/UI/UnitWidget" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/UI/UnitWidget.uasset" SILENT=true
+[2021.06.21-02.58.06:118][554]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/UnitWidgetB491DBFE4A16A260D0A5858FEFC1EC00.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/UI/UnitWidget.uasset'
+[2021.06.21-02.58.06:141][554]AssetCheck: New page: Asset Save: UnitWidget
+[2021.06.21-02.58.06:141][554]LogContentValidation: Display: Validating WidgetBlueprint /Game/Golem/UI/UnitWidget.UnitWidget
+[2021.06.21-02.58.23:025][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/UI/UnitWidget" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/UI/UnitWidget.uasset" SILENT=true
+[2021.06.21-02.58.23:152][625]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/UnitWidgetA5DD972947538530B23C24B503881DA7.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/UI/UnitWidget.uasset'
+[2021.06.21-02.58.23:176][625]AssetCheck: New page: Asset Save: UnitWidget
+[2021.06.21-02.58.23:176][625]LogContentValidation: Display: Validating WidgetBlueprint /Game/Golem/UI/UnitWidget.UnitWidget
+[2021.06.21-02.58.24:544][711]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2021.06.21-02.58.29:041][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/UI/UnitWidget" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/UI/UnitWidget.uasset" SILENT=true
+[2021.06.21-02.58.29:164][  0]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/UnitWidgetF96175EA4411B5E5B87DB8ACF5F85AA8.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/UI/UnitWidget.uasset'
+[2021.06.21-02.58.29:187][  0]AssetCheck: New page: Asset Save: UnitWidget
+[2021.06.21-02.58.29:187][  0]LogContentValidation: Display: Validating WidgetBlueprint /Game/Golem/UI/UnitWidget.UnitWidget
+[2021.06.21-02.58.48:576][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/UI/UnitWidget" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/UI/UnitWidget.uasset" SILENT=true
+[2021.06.21-02.58.48:714][414]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/UnitWidget6D7603204C6B943118359F82222BB5C8.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/UI/UnitWidget.uasset'
+[2021.06.21-02.58.48:738][414]AssetCheck: New page: Asset Save: UnitWidget
+[2021.06.21-02.58.48:738][414]LogContentValidation: Display: Validating WidgetBlueprint /Game/Golem/UI/UnitWidget.UnitWidget
+[2021.06.21-02.58.49:391][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.06.21-02.58.50:656][532]BlueprintLog: New page: Compile UnitWidget
+[2021.06.21-02.58.50:839][532]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2021.06.21-02.58.50:926][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.50:931][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.50:936][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.50:954][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.50:962][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.50:969][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.50:979][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.50:988][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.50:997][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:005][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:018][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:024][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:028][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:075][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:080][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:084][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:102][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:110][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:117][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:125][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:136][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:145][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:155][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:169][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:174][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:179][532]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.51:978][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/UI/UnitWidget" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/UI/UnitWidget.uasset" SILENT=true
+[2021.06.21-02.58.52:124][566]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/UnitWidget6C81985F4E549B74BDDD248C98F07374.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/UI/UnitWidget.uasset'
+[2021.06.21-02.58.52:146][566]AssetCheck: New page: Asset Save: UnitWidget
+[2021.06.21-02.58.52:146][566]LogContentValidation: Display: Validating WidgetBlueprint /Game/Golem/UI/UnitWidget.UnitWidget
+[2021.06.21-02.58.52:705][607]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.21-02.58.52:716][607]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.21-02.58.52:731][607]LogPlayLevel: [PlayLevel] Compiling EnemyUnit before play...
+[2021.06.21-02.58.52:731][607]LogPlayLevel: [PlayLevel]   Compiling E_Bomb as a dependent...
+[2021.06.21-02.58.52:731][607]LogPlayLevel: [PlayLevel]   Compiling E_Defender as a dependent...
+[2021.06.21-02.58.52:731][607]LogPlayLevel: [PlayLevel]   Compiling E_Melee as a dependent...
+[2021.06.21-02.58.52:731][607]LogPlayLevel: [PlayLevel]   Compiling E_Queen as a dependent...
+[2021.06.21-02.58.52:731][607]LogPlayLevel: [PlayLevel]   Compiling E_Ranged as a dependent...
+[2021.06.21-02.58.53:116][607]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.53:122][607]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.53:126][607]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.53:178][607]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.53:184][607]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.53:189][607]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.58.53:334][607]LogUObjectHash: Compacting FUObjectHashTables data took   8.28ms
+[2021.06.21-02.58.53:336][607]LogPlayLevel: PlayLevel: Blueprint regeneration took 620 ms (6 blueprints)
+[2021.06.21-02.58.53:336][607]PIE: New page: PIE session: Field_2 (22/06/2021, 2:58:53 am)
+[2021.06.21-02.58.53:336][607]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.21-02.58.53:373][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036447s)
+[2021.06.21-02.58.53:374][607]LogAIModule: Creating AISystem for world Field_2
+[2021.06.21-02.58.53:375][607]LogPlayLevel: PIE: World Init took: (0.001853s)
+[2021.06.21-02.58.53:375][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Field_2.Field_2 to /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 (0.038482s)
+[2021.06.21-02.58.53:470][607]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2021.06.21-02.58.53:470][607]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2021.06.21-02.58.53:470][607]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.21-02.58.53:470][607]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.21-02.58.53:471][607]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.21-02.58.53:471][607]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.21-02.58.53:471][607]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.21-02.58.53:471][607]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.21-02.58.53:471][607]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.21-02.58.53:471][607]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.21-02.58.53:471][607]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.21-02.58.53:471][607]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.21-02.58.53:477][607]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.21-02.58.53:477][607]LogAudioMixer: Display: 1: FrontRight
+[2021.06.21-02.58.53:493][607]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.21-02.58.53:494][607]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.21-02.58.53:494][607]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.21-02.58.53:494][607]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.21-02.58.53:495][607]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.21-02.58.53:495][607]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.21-02.58.53:495][607]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.21-02.58.53:513][607]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.21-02.58.53:513][607]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.21-02.58.53:513][607]LogInit: FAudioDevice initialized.
+[2021.06.21-02.58.53:513][607]LogAudio: Display: Audio Device (ID: 39) registered with world 'Field_2'.
+[2021.06.21-02.58.53:541][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-02.58.53:541][607]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.21-02.58.53:547][607]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 up for play (max tick rate 0) at 2021.06.21-14.58.53
+[2021.06.21-02.58.53:551][607]LogWorld: Bringing up level for play took: 0.009200
+[2021.06.21-02.58.53:551][607]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2021.06.21-02.58.53:565][607]PIE: Server logged in
+[2021.06.21-02.58.53:570][607]PIE: Play in editor total start time 0.856 seconds.
+[2021.06.21-02.58.54:732][644]LogBlueprintUserMessages: [E_Melee_2] 0
+[2021.06.21-02.58.55:172][664]LogBlueprintUserMessages: [E_Melee_2] 2
+[2021.06.21-02.58.55:629][684]LogBlueprintUserMessages: [E_Melee_2] 3
+[2021.06.21-02.59.01:082][907]LogScript: Warning: Accessed None trying to read property Button
+	UnitWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_37.HUDWidget_C_0.WidgetTree.UnitWidget_C_0
+	Function /Game/Golem/UI/UnitWidget.UnitWidget_C:ButtonIn:0033
+[2021.06.21-02.59.01:082][907]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Button". Blueprint:  UnitWidget Function:  Button In Graph:  ButtonIn Node:  Set Render Translation
+[2021.06.21-02.59.01:082][907]LogScript: Warning: Accessed None trying to read property Button
+	UnitWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_37.HUDWidget_C_0.WidgetTree.UnitWidget_C_0
+	Function /Game/Golem/UI/UnitWidget.UnitWidget_C:ButtonIn:005E
+[2021.06.21-02.59.01:082][907]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Button". Blueprint:  UnitWidget Function:  Button In Graph:  ButtonIn Node:  Set Is Enabled
+[2021.06.21-02.59.01:082][907]LogBlueprintUserMessages: [UnitWidget_C_0] not merging
+[2021.06.21-02.59.01:082][907]LogBlueprintUserMessages: [UnitWidget_C_0] Not suitable for merge
+[2021.06.21-02.59.16:923][627]LogBlueprintUserMessages: [E_Defender_2] STOMP
+[2021.06.21-02.59.18:091][681]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-02.59.18:837][714]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.21-02.59.18:847][714]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.21-02.59.18:882][714]LogWorld: UWorld::CleanupWorld for Field_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-02.59.19:179][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-02.59.19:227][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.21-02.59.19:265][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-02.59.19:363][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-02.59.19:364][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-02.59.19:398][714]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.06.21-02.59.19:515][715]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2021.06.21-02.59.38:946][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/UI/UnitWidget" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/UI/UnitWidget.uasset" SILENT=true
+[2021.06.21-02.59.39:072][337]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/UnitWidget99ECEEEB41070F69FC0D41953308D999.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/UI/UnitWidget.uasset'
+[2021.06.21-02.59.39:100][337]AssetCheck: New page: Asset Save: UnitWidget
+[2021.06.21-02.59.39:101][337]LogContentValidation: Display: Validating WidgetBlueprint /Game/Golem/UI/UnitWidget.UnitWidget
+[2021.06.21-02.59.41:626][519]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.21-02.59.41:638][519]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.21-02.59.41:654][519]LogPlayLevel: [PlayLevel] Compiling UnitWidget before play...
+[2021.06.21-02.59.41:851][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.41:856][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.41:859][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.41:877][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.41:884][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.41:890][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.41:900][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.41:909][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.41:918][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.41:926][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.41:940][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.41:945][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.41:949][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.42:007][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.42:012][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.42:016][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.42:033][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.42:042][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.42:049][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.42:058][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.42:066][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.42:075][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.42:082][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.42:096][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.42:100][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.42:105][519]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-02.59.42:240][519]LogUObjectHash: Compacting FUObjectHashTables data took   7.90ms
+[2021.06.21-02.59.42:242][519]LogPlayLevel: PlayLevel: Blueprint regeneration took 604 ms (1 blueprints)
+[2021.06.21-02.59.42:242][519]PIE: New page: PIE session: Field_2 (22/06/2021, 2:59:42 am)
+[2021.06.21-02.59.42:243][519]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.21-02.59.42:278][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034651s)
+[2021.06.21-02.59.42:280][519]LogAIModule: Creating AISystem for world Field_2
+[2021.06.21-02.59.42:280][519]LogPlayLevel: PIE: World Init took: (0.002296s)
+[2021.06.21-02.59.42:280][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Field_2.Field_2 to /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 (0.037126s)
+[2021.06.21-02.59.42:376][519]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2021.06.21-02.59.42:376][519]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2021.06.21-02.59.42:376][519]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.21-02.59.42:376][519]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.21-02.59.42:377][519]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.21-02.59.42:377][519]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.21-02.59.42:377][519]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.21-02.59.42:377][519]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.21-02.59.42:377][519]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.21-02.59.42:377][519]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.21-02.59.42:377][519]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.21-02.59.42:377][519]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.21-02.59.42:383][519]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.21-02.59.42:383][519]LogAudioMixer: Display: 1: FrontRight
+[2021.06.21-02.59.42:400][519]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.21-02.59.42:400][519]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.21-02.59.42:400][519]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.21-02.59.42:400][519]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.21-02.59.42:400][519]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.21-02.59.42:400][519]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.21-02.59.42:400][519]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.21-02.59.42:418][519]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.21-02.59.42:418][519]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.21-02.59.42:418][519]LogInit: FAudioDevice initialized.
+[2021.06.21-02.59.42:418][519]LogAudio: Display: Audio Device (ID: 40) registered with world 'Field_2'.
+[2021.06.21-02.59.42:475][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-02.59.42:476][519]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.21-02.59.42:481][519]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 up for play (max tick rate 0) at 2021.06.21-14.59.42
+[2021.06.21-02.59.42:484][519]LogWorld: Bringing up level for play took: 0.007864
+[2021.06.21-02.59.42:484][519]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2021.06.21-02.59.42:500][519]PIE: Server logged in
+[2021.06.21-02.59.42:501][519]PIE: Play in editor total start time 0.864 seconds.
+[2021.06.21-02.59.43:801][559]LogBlueprintUserMessages: [E_Melee_2] 1
+[2021.06.21-02.59.44:256][579]LogBlueprintUserMessages: [E_Melee_2] 1
+[2021.06.21-02.59.45:215][622]LogBlueprintUserMessages: [UnitWidget_C_0] not merging
+[2021.06.21-02.59.45:215][622]LogBlueprintUserMessages: [UnitWidget_C_0] Not suitable for merge
+[2021.06.21-02.59.48:296][758]LogBlueprintUserMessages: [E_Melee_2] 0
+[2021.06.21-02.59.50:857][871]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.21-02.59.50:874][871]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.21-02.59.50:875][871]LogWorld: UWorld::CleanupWorld for Field_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-02.59.50:876][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-02.59.50:893][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.21-02.59.50:920][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-02.59.51:022][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-02.59.51:024][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-02.59.51:056][871]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2021.06.21-02.59.51:098][872]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2021.06.21-02.59.56:746][301]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.21-02.59.56:758][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.21-02.59.56:758][301]PIE: New page: PIE session: Field_2 (22/06/2021, 2:59:56 am)
+[2021.06.21-02.59.56:758][301]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.21-02.59.56:797][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039454s)
+[2021.06.21-02.59.56:799][301]LogAIModule: Creating AISystem for world Field_2
+[2021.06.21-02.59.56:799][301]LogPlayLevel: PIE: World Init took: (0.001900s)
+[2021.06.21-02.59.56:799][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Field_2.Field_2 to /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 (0.041521s)
+[2021.06.21-02.59.56:901][301]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2021.06.21-02.59.56:903][301]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2021.06.21-02.59.56:903][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.21-02.59.56:903][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.21-02.59.56:903][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.21-02.59.56:903][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.21-02.59.56:903][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.21-02.59.56:903][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.21-02.59.56:903][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.21-02.59.56:903][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.21-02.59.56:904][301]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.21-02.59.56:904][301]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.21-02.59.56:910][301]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.21-02.59.56:910][301]LogAudioMixer: Display: 1: FrontRight
+[2021.06.21-02.59.56:927][301]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.21-02.59.56:927][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.21-02.59.56:927][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.21-02.59.56:927][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.21-02.59.56:929][301]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.21-02.59.56:929][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.21-02.59.56:929][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.21-02.59.56:949][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.21-02.59.56:949][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.21-02.59.56:949][301]LogInit: FAudioDevice initialized.
+[2021.06.21-02.59.56:949][301]LogAudio: Display: Audio Device (ID: 41) registered with world 'Field_2'.
+[2021.06.21-02.59.56:992][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-02.59.56:992][301]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.21-02.59.56:997][301]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 up for play (max tick rate 0) at 2021.06.21-14.59.56
+[2021.06.21-02.59.57:002][301]LogWorld: Bringing up level for play took: 0.008160
+[2021.06.21-02.59.57:002][301]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2021.06.21-02.59.57:019][301]PIE: Server logged in
+[2021.06.21-02.59.57:021][301]PIE: Play in editor total start time 0.264 seconds.
+[2021.06.21-02.59.58:728][386]LogBlueprintUserMessages: [E_Melee_2] 3
+[2021.06.21-03.00.00:171][467]LogBlueprintUserMessages: [UnitWidget_C_0] not merging
+[2021.06.21-03.00.00:171][467]LogBlueprintUserMessages: [UnitWidget_C_0] Not suitable for merge
+[2021.06.21-03.00.02:790][614]LogBlueprintUserMessages: [E_Melee_2] 3
+[2021.06.21-03.00.03:139][633]LogBlueprintUserMessages: [UnitWidget_C_0] not merging
+[2021.06.21-03.00.03:139][633]LogBlueprintUserMessages: [UnitWidget_C_0] Not suitable for merge
+[2021.06.21-03.00.06:822][838]LogBlueprintUserMessages: [E_Melee_2] 2
+[2021.06.21-03.00.08:161][913]LogBlueprintUserMessages: [UnitWidget_C_0] not merging
+[2021.06.21-03.00.08:161][913]LogBlueprintUserMessages: [UnitWidget_C_0] Not suitable for merge
+[2021.06.21-03.00.11:071][ 75]LogBlueprintUserMessages: [UnitWidget_C_0] not merging
+[2021.06.21-03.00.11:071][ 75]LogBlueprintUserMessages: [UnitWidget_C_0] Not suitable for merge
+[2021.06.21-03.00.16:929][402]LogBlueprintUserMessages: [E_Defender_2] STOMP
+[2021.06.21-03.00.25:839][903]LogBlueprintUserMessages: [UnitWidget_C_0] not merging
+[2021.06.21-03.00.25:839][903]LogBlueprintUserMessages: [UnitWidget_C_0] Not suitable for merge
+[2021.06.21-03.00.30:306][161]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.21-03.00.30:317][161]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.21-03.00.30:356][161]LogWorld: UWorld::CleanupWorld for Field_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-03.00.30:358][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-03.00.30:378][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.21-03.00.30:403][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-03.00.30:498][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-03.00.30:499][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-03.00.30:532][161]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2021.06.21-03.00.30:661][162]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2021.06.21-03.00.46:200][143]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.00:933][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.21-03.01.01:065][129]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/UnitBCC920C5411C788745FF8D8D7C9531BA.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.21-03.01.01:088][129]AssetCheck: New page: Asset Save: Unit
+[2021.06.21-03.01.01:088][129]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.21-03.01.12:896][783]BlueprintLog: New page: Compile Unit
+[2021.06.21-03.01.13:478][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:482][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:485][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:489][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:492][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:495][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:499][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:503][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:509][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:513][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:519][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:526][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:532][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:537][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:540][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:544][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:547][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:724][783]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2021.06.21-03.01.13:766][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:790][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:795][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:799][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:802][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:819][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:827][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:833][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:843][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:853][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:861][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:870][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:875][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:888][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:894][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:898][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:901][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:949][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:970][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:975][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:979][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.13:999][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.14:006][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.14:013][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.14:021][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.14:031][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.14:042][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.14:050][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.14:064][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.14:071][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.14:076][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.14:177][783]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.01.37:352][203]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Golem/Particles/SelectCircle.SelectCircle
+[2021.06.21-03.01.47:857][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Particles/SelectCircle" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Particles/SelectCircle.uasset" SILENT=true
+[2021.06.21-03.01.47:875][976]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/SelectCircleF021BB2340B51CF7C35557AE2A129892.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Particles/SelectCircle.uasset'
+[2021.06.21-03.01.47:893][976]AssetCheck: New page: Asset Save: SelectCircle
+[2021.06.21-03.01.47:894][976]LogContentValidation: Display: Validating ParticleSystem /Game/Golem/Particles/SelectCircle.SelectCircle
+[2021.06.21-03.01.49:933][127]LogUObjectHash: Compacting FUObjectHashTables data took   7.99ms
+[2021.06.21-03.01.49:951][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Maps/Field_2" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Maps/Field_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.21-03.01.50:045][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.06.21-03.01.50:179][127]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/Field_242EB3167421FA63485868DB4B87EAC60.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Maps/Field_2.umap'
+[2021.06.21-03.01.50:193][127]LogFileHelpers: Saving map 'Field_2' took 0.242
+[2021.06.21-03.01.50:219][127]AssetCheck: New page: Asset Save: Field_2
+[2021.06.21-03.01.50:219][127]LogContentValidation: Display: Validating World /Game/Golem/Maps/Field_2.Field_2
+[2021.06.21-03.01.55:651][448]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.12:851][835]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.12:854][835]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.12:859][835]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.12:863][835]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.12:869][835]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.12:873][835]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.12:903][835]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.12:906][835]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.12:912][835]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.12:915][835]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.12:920][835]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.12:923][835]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.12:975][835]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.16:452][ 69]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.16:455][ 69]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.16:464][ 69]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.16:469][ 69]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.16:476][ 69]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.16:481][ 69]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.16:533][ 69]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.20:866][382]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.20:869][382]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.20:874][382]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.20:879][382]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.20:885][382]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.20:889][382]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.20:943][382]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.21:368][411]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.21:372][411]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.21:376][411]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.21:380][411]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.21:386][411]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.21:390][411]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.21:442][411]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.22:052][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.21-03.02.22:242][449]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/U_DefenderF22CEABA4F2F841847FB6D89535F612D.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.21-03.02.22:271][449]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.21-03.02.22:271][449]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.21-03.02.56:221][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:225][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:229][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:237][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:244][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:252][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:258][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:266][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:274][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:280][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:286][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:290][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:293][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:299][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:303][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:307][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:311][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:314][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:386][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:389][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:394][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:401][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:408][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:417][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:424][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:430][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:439][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:445][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:449][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:454][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:456][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:462][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:467][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:470][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:475][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:477][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.56:535][150]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:486][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:489][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:493][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:502][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:509][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:517][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:523][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:531][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:538][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:544][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:550][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:556][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:558][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:563][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:567][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:572][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:576][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:579][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.02.59:627][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:389][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:393][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:397][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:404][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:411][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:418][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:425][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:431][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:439][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:446][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:451][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:456][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:458][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:464][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:468][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:472][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:476][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:478][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.00:526][416]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:649][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:652][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:656][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:662][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:670][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:677][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:683][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:689][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:698][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:703][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:708][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:713][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:715][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:721][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:725][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:729][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:733][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:735][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.02:784][585]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:023][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:026][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:042][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:049][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:057][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:063][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:070][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:076][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:084][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:089][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:094][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:099][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:101][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:106][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:110][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:114][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:118][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:120][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:172][678]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:816][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:819][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:823][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:830][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:838][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:846][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:852][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:859][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:866][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:872][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:877][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:882][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:884][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:889][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:892][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:897][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:901][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:903][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.04:971][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:633][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:636][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:641][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:648][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:656][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:664][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:670][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:676][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:684][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:690][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:695][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:700][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:702][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:707][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:710][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:715][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:719][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:721][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.05:769][768]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:382][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:386][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:390][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:398][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:405][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:412][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:418][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:424][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:431][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:437][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:442][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:447][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:449][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:453][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:457][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:461][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:465][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:467][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:527][951]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:949][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:952][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:956][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:963][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:971][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:978][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:984][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:990][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.08:998][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.09:004][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.09:009][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.09:013][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.09:016][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.09:020][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.09:024][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.09:028][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.09:033][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.09:035][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.09:082][974]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.09:823][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.21-03.03.09:952][ 30]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/UnitF15AF43B46567532EBDC8D89C197FEB6.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.21-03.03.09:978][ 30]AssetCheck: New page: Asset Save: Unit
+[2021.06.21-03.03.09:978][ 30]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.21-03.03.23:417][962]BlueprintLog: New page: Compile U_Defender
+[2021.06.21-03.03.23:542][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.23:545][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.23:548][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.23:773][962]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2021.06.21-03.03.23:808][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.23:813][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.23:817][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.23:820][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.23:859][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.23:864][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.23:868][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.23:965][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:113][180]BlueprintLog: New page: Compile Unit
+[2021.06.21-03.03.27:672][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:675][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:679][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:683][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:686][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:689][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:692][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:698][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:703][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:707][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:713][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:720][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:727][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:733][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:736][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:740][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:742][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.27:936][180]LogUObjectHash: Compacting FUObjectHashTables data took   8.65ms
+[2021.06.21-03.03.27:979][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:001][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:006][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:009][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:013][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:029][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:037][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:044][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:054][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:062][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:072][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:080][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:085][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:099][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:104][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:108][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:111][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:155][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:177][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:181][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:185][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:202][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:209][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:217][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:225][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:235][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:243][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:251][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:267][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:272][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:276][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.28:374][180]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.29:657][287]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.34:241][612]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-03.03.34:241][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-03.03.38:626][946]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.03.50:689][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.21-03.03.50:959][818]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/U_Melee5E5567AF4A647B3855AA1B892FA4D66F.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.21-03.03.50:997][818]AssetCheck: New page: Asset Save: U_Melee
+[2021.06.21-03.03.50:997][818]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.21-03.03.56:888][240]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.21-03.03.56:899][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.21-03.03.56:900][240]PIE: New page: PIE session: Field_2 (22/06/2021, 3:03:56 am)
+[2021.06.21-03.03.56:900][240]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.21-03.03.56:947][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046623s)
+[2021.06.21-03.03.56:949][240]LogAIModule: Creating AISystem for world Field_2
+[2021.06.21-03.03.56:950][240]LogPlayLevel: PIE: World Init took: (0.003369s)
+[2021.06.21-03.03.56:950][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Field_2.Field_2 to /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 (0.050233s)
+[2021.06.21-03.03.57:079][240]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2021.06.21-03.03.57:088][240]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2021.06.21-03.03.57:089][240]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.21-03.03.57:089][240]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.21-03.03.57:089][240]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.21-03.03.57:089][240]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.21-03.03.57:089][240]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.21-03.03.57:089][240]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.21-03.03.57:089][240]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.21-03.03.57:089][240]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.21-03.03.57:089][240]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.21-03.03.57:089][240]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.21-03.03.57:096][240]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.21-03.03.57:096][240]LogAudioMixer: Display: 1: FrontRight
+[2021.06.21-03.03.57:112][240]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.21-03.03.57:112][240]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.21-03.03.57:113][240]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.21-03.03.57:113][240]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.21-03.03.57:113][240]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.21-03.03.57:113][240]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.21-03.03.57:113][240]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.21-03.03.57:131][240]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.21-03.03.57:131][240]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.21-03.03.57:131][240]LogInit: FAudioDevice initialized.
+[2021.06.21-03.03.57:131][240]LogAudio: Display: Audio Device (ID: 42) registered with world 'Field_2'.
+[2021.06.21-03.03.57:199][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-03.03.57:200][240]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.21-03.03.57:216][240]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 up for play (max tick rate 0) at 2021.06.21-15.03.57
+[2021.06.21-03.03.57:225][240]LogWorld: Bringing up level for play took: 0.022729
+[2021.06.21-03.03.57:225][240]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2021.06.21-03.03.57:247][240]PIE: Server logged in
+[2021.06.21-03.03.57:248][240]PIE: Play in editor total start time 0.35 seconds.
+[2021.06.21-03.03.58:452][292]LogBlueprintUserMessages: [E_Melee_2] 3
+[2021.06.21-03.03.58:845][312]LogBlueprintUserMessages: [E_Melee_2] 1
+[2021.06.21-03.04.05:487][654]LogBlueprintUserMessages: [UnitWidget_C_0] not merging
+[2021.06.21-03.04.05:487][654]LogBlueprintUserMessages: [UnitWidget_C_0] Not suitable for merge
+[2021.06.21-03.04.06:564][710]LogBlueprintUserMessages: [UnitWidget_C_0] not merging
+[2021.06.21-03.04.06:564][710]LogBlueprintUserMessages: [UnitWidget_C_0] Not suitable for merge
+[2021.06.21-03.04.08:451][808]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.21-03.04.08:470][808]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.21-03.04.08:471][808]LogWorld: UWorld::CleanupWorld for Field_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-03.04.08:472][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-03.04.08:492][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.21-03.04.08:522][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-03.04.08:622][808]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.21-03.04.08:623][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-03.04.08:624][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-03.04.08:657][808]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.06.21-03.04.08:859][808]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.04.08:901][809]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2021.06.21-03.04.11:162][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Melee" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset" SILENT=true
+[2021.06.21-03.04.11:427][950]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/U_MeleeDD535F2546E1DF93458D3096A0E6F8E9.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Melee.uasset'
+[2021.06.21-03.04.11:452][950]AssetCheck: New page: Asset Save: U_Melee
+[2021.06.21-03.04.11:453][950]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Melee.U_Melee
+[2021.06.21-03.04.18:677][445]LogCascade: Quitting Cascade. FXSystem=0x00000177FCDAC910
+[2021.06.21-03.04.18:700][445]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-03.04.18:700][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-03.04.20:076][543]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.21-03.04.20:076][543]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-03.04.20:076][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-03.04.21:462][599]LogCascade: Quitting Cascade. FXSystem=0x00000178AEE066B0
+[2021.06.21-03.04.21:475][599]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2021.06.21-03.04.21:475][599]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-03.04.21:475][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-03.04.22:624][686]LogCascade: Quitting Cascade. FXSystem=0x00000178B3720910
+[2021.06.21-03.04.22:633][686]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2021.06.21-03.04.22:633][686]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-03.04.22:633][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-03.04.24:348][794]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-03.04.24:348][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-03.04.32:365][368]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.04.32:383][369]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:448][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:465][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:468][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:472][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:477][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:482][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:499][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:504][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:508][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:512][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:517][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:521][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:547][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:551][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:555][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:559][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:565][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:569][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:587][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:592][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:596][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:600][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:606][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:610][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:627][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:632][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:636][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:640][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:645][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.12:649][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.15:046][319]LogEditorTransaction: Undo Change Collision Profile
+[2021.06.21-03.05.15:054][319]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.15:057][319]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.15:062][319]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.20:491][556]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.20:495][556]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.20:499][556]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.20:503][556]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.20:508][556]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.20:513][556]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.28:800][959]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.28:804][959]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.28:808][959]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.28:812][959]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.28:830][959]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.28:835][959]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.30:628][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Ranged" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset" SILENT=true
+[2021.06.21-03.05.30:813][ 42]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/U_RangedF216464745DBA89FDFACFF8CE15A33AD.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Ranged.uasset'
+[2021.06.21-03.05.30:839][ 42]AssetCheck: New page: Asset Save: U_Ranged
+[2021.06.21-03.05.30:839][ 42]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Ranged.U_Ranged
+[2021.06.21-03.05.33:614][170]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.21-03.05.33:625][170]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.21-03.05.33:631][170]LogPlayLevel: [PlayLevel] Compiling U_Ranged before play...
+[2021.06.21-03.05.33:731][170]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.33:734][170]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.33:737][170]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.33:805][170]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.33:810][170]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.33:815][170]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.33:818][170]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.33:880][170]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.33:885][170]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.33:889][170]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.34:039][170]LogUObjectHash: Compacting FUObjectHashTables data took   9.20ms
+[2021.06.21-03.05.34:050][170]LogPlayLevel: PlayLevel: Blueprint regeneration took 425 ms (1 blueprints)
+[2021.06.21-03.05.34:050][170]PIE: New page: PIE session: Field_2 (22/06/2021, 3:05:34 am)
+[2021.06.21-03.05.34:050][170]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.21-03.05.34:089][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039203s)
+[2021.06.21-03.05.34:091][170]LogAIModule: Creating AISystem for world Field_2
+[2021.06.21-03.05.34:092][170]LogPlayLevel: PIE: World Init took: (0.002528s)
+[2021.06.21-03.05.34:092][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Field_2.Field_2 to /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 (0.041910s)
+[2021.06.21-03.05.34:187][170]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2021.06.21-03.05.34:187][170]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2021.06.21-03.05.34:187][170]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.21-03.05.34:187][170]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.21-03.05.34:187][170]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.21-03.05.34:187][170]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.21-03.05.34:187][170]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.21-03.05.34:187][170]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.21-03.05.34:187][170]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.21-03.05.34:187][170]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.21-03.05.34:188][170]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.21-03.05.34:188][170]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.21-03.05.34:195][170]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.21-03.05.34:195][170]LogAudioMixer: Display: 1: FrontRight
+[2021.06.21-03.05.34:212][170]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.21-03.05.34:214][170]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.21-03.05.34:214][170]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.21-03.05.34:214][170]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.21-03.05.34:214][170]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.21-03.05.34:214][170]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.21-03.05.34:214][170]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.21-03.05.34:232][170]LogInit: FAudioDevice initialized.
+[2021.06.21-03.05.34:232][170]LogAudio: Display: Audio Device (ID: 43) registered with world 'Field_2'.
+[2021.06.21-03.05.34:273][170]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.21-03.05.34:273][170]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.21-03.05.34:278][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-03.05.34:278][170]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.21-03.05.34:284][170]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 up for play (max tick rate 0) at 2021.06.21-15.05.34
+[2021.06.21-03.05.34:288][170]LogWorld: Bringing up level for play took: 0.008920
+[2021.06.21-03.05.34:288][170]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2021.06.21-03.05.34:320][170]PIE: Server logged in
+[2021.06.21-03.05.34:322][170]PIE: Play in editor total start time 0.698 seconds.
+[2021.06.21-03.05.37:579][273]LogBlueprintUserMessages: [UnitWidget_C_0] not merging
+[2021.06.21-03.05.37:579][273]LogBlueprintUserMessages: [UnitWidget_C_0] Not suitable for merge
+[2021.06.21-03.05.40:467][373]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.21-03.05.40:478][373]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.21-03.05.40:479][373]LogWorld: UWorld::CleanupWorld for Field_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-03.05.40:480][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-03.05.40:499][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.21-03.05.40:526][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-03.05.40:627][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-03.05.40:628][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-03.05.40:660][373]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.06.21-03.05.40:714][374]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2021.06.21-03.05.46:037][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.46:040][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.46:044][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.46:048][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.46:054][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.46:059][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.46:063][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.46:069][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.46:076][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.46:082][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.46:090][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.46:097][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.46:105][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.46:112][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.46:118][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.46:123][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.46:125][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.46:148][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:637][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:640][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:644][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:648][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:655][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:660][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:665][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:671][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:679][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:685][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:692][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:699][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:706][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:713][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:718][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:722][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:725][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.50:745][202]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.51:781][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.21-03.05.51:907][293]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/Unit4B58ED1F48B8730B1A226D8DF2DEC630.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.21-03.05.51:929][293]AssetCheck: New page: Asset Save: Unit
+[2021.06.21-03.05.51:929][293]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.21-03.05.52:893][364]BlueprintLog: New page: Compile Unit
+[2021.06.21-03.05.53:487][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:491][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:495][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:498][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:501][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:504][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:509][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:514][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:518][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:526][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:532][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:538][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:544][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:546][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:549][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:552][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:735][364]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2021.06.21-03.05.53:755][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:782][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:789][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:795][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:803][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:812][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:820][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:828][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:834][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:845][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:850][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:854][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:857][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:878][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:908][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:916][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:923][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:931][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:941][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:951][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:959][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:971][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:977][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.53:980][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.54:052][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.05.54:883][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/Unit" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset" SILENT=true
+[2021.06.21-03.05.55:014][428]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/UnitAF67F4A7441E6AEE4188BDB1908C0F2D.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/Unit.uasset'
+[2021.06.21-03.05.55:036][428]AssetCheck: New page: Asset Save: Unit
+[2021.06.21-03.05.55:036][428]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/Unit.Unit
+[2021.06.21-03.05.55:801][494]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.06.09:197][483]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.06.09:214][484]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.06.09:217][484]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.06.11:248][547]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.21-03.06.11:845][547]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.07.06:893][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.21-03.07.07:092][946]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/U_Defender23AD8B3C4B1F27838294F991DE71DEA6.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.21-03.07.07:119][946]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.21-03.07.07:119][946]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
+[2021.06.21-03.07.10:622][104]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.21-03.07.10:634][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.21-03.07.10:634][104]PIE: New page: PIE session: Field_2 (22/06/2021, 3:07:10 am)
+[2021.06.21-03.07.10:634][104]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.21-03.07.10:672][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038064s)
+[2021.06.21-03.07.10:674][104]LogAIModule: Creating AISystem for world Field_2
+[2021.06.21-03.07.10:674][104]LogPlayLevel: PIE: World Init took: (0.001798s)
+[2021.06.21-03.07.10:674][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Field_2.Field_2 to /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 (0.040068s)
+[2021.06.21-03.07.10:793][104]LogUObjectHash: Compacting FUObjectHashTables data took   8.15ms
+[2021.06.21-03.07.10:801][104]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2021.06.21-03.07.10:801][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.21-03.07.10:801][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.21-03.07.10:801][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.21-03.07.10:801][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.21-03.07.10:801][104]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.21-03.07.10:801][104]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.21-03.07.10:801][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.21-03.07.10:801][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.21-03.07.10:801][104]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.21-03.07.10:801][104]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.21-03.07.10:808][104]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.21-03.07.10:808][104]LogAudioMixer: Display: 1: FrontRight
+[2021.06.21-03.07.10:824][104]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.21-03.07.10:824][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.21-03.07.10:824][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.21-03.07.10:824][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.21-03.07.10:825][104]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.21-03.07.10:825][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.21-03.07.10:825][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.21-03.07.10:844][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.21-03.07.10:844][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.21-03.07.10:844][104]LogInit: FAudioDevice initialized.
+[2021.06.21-03.07.10:844][104]LogAudio: Display: Audio Device (ID: 44) registered with world 'Field_2'.
+[2021.06.21-03.07.10:900][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-03.07.10:900][104]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.21-03.07.10:906][104]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Field_2.Field_2 up for play (max tick rate 0) at 2021.06.21-15.07.10
+[2021.06.21-03.07.10:910][104]LogWorld: Bringing up level for play took: 0.009360
+[2021.06.21-03.07.10:910][104]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2021.06.21-03.07.10:925][104]PIE: Server logged in
+[2021.06.21-03.07.10:931][104]PIE: Play in editor total start time 0.298 seconds.
+[2021.06.21-03.07.11:601][120]LogBlueprintUserMessages: [E_Melee_2] 1
+[2021.06.21-03.07.12:018][132]LogBlueprintUserMessages: [E_Melee_2] 3
+[2021.06.21-03.07.14:854][217]LogBlueprintUserMessages: [UnitWidget_C_0] not merging
+[2021.06.21-03.07.14:854][217]LogBlueprintUserMessages: [UnitWidget_C_0] Not suitable for merge
+[2021.06.21-03.07.15:875][248]LogBlueprintUserMessages: [UnitWidget_C_0] not merging
+[2021.06.21-03.07.15:875][248]LogBlueprintUserMessages: [UnitWidget_C_0] Not suitable for merge
+[2021.06.21-03.07.17:215][288]LogBlueprintUserMessages: [UnitWidget_C_0] not merging
+[2021.06.21-03.07.17:215][288]LogBlueprintUserMessages: [UnitWidget_C_0] Not suitable for merge
+[2021.06.21-03.07.17:815][306]LogBlueprintUserMessages: [UnitWidget_C_0] not merging
+[2021.06.21-03.07.17:815][306]LogBlueprintUserMessages: [UnitWidget_C_0] Not suitable for merge
+[2021.06.21-03.07.18:522][327]LogBlueprintUserMessages: [UnitWidget_C_0] not merging
+[2021.06.21-03.07.18:522][327]LogBlueprintUserMessages: [UnitWidget_C_0] Not suitable for merge
+[2021.06.21-03.07.19:096][344]LogBlueprintUserMessages: [UnitWidget_C_0] not merging
+[2021.06.21-03.07.19:096][344]LogBlueprintUserMessages: [UnitWidget_C_0] Not suitable for merge
+[2021.06.21-03.07.19:702][362]LogBlueprintUserMessages: [E_Melee_2] 1
+[2021.06.21-03.07.19:772][364]LogBlueprintUserMessages: [UnitWidget_C_0] not merging
+[2021.06.21-03.07.19:772][364]LogBlueprintUserMessages: [UnitWidget_C_0] Not suitable for merge
+[2021.06.21-03.07.22:295][437]LogBlueprintUserMessages: [E_Melee_2] 0
+[2021.06.21-03.07.22:361][439]LogBlueprintUserMessages: [E_Defender_2] STOMP
+[2021.06.21-03.07.25:077][516]LogCharacterMovement: E_Defender_2 is stuck and failed to move! Velocity: X=-576.13 Y=141.50 Z=0.00 Location: X=-1818.89 Y=-1242.37 Z=207.15 Normal: X=0.23 Y=0.97 Z=0.00 PenetrationDepth:2.498 Actor:U_Bomb_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2021.06.21-03.07.25:212][520]LogBlueprintUserMessages: [E_Melee_2] 1
+[2021.06.21-03.07.25:579][531]LogBlueprintUserMessages: [E_Defender_2] STOMP
+[2021.06.21-03.07.25:614][532]LogBlueprintUserMessages: [E_Melee_2] 1
+[2021.06.21-03.07.25:949][542]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-03.07.27:613][592]LogBlueprintUserMessages: [E_Defender_2] STOMP
+[2021.06.21-03.07.27:977][603]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-03.07.30:613][683]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-03.07.32:598][743]LogBlueprintUserMessages: [E_Defender_2] STOMP
+[2021.06.21-03.07.33:349][766]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-03.07.33:976][785]LogBlueprintUserMessages: [Player] 5.0
+[2021.06.21-03.07.33:977][785]LogBlueprintUserMessages: [C_Range_C_0] SPAWN
+[2021.06.21-03.07.33:981][785]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.07.34:915][813]LogBlueprintUserMessages: [E_Defender_2] STOMP
+[2021.06.21-03.07.35:901][843]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-03.07.37:067][879]LogBlueprintUserMessages: [E_Defender_2] STOMP
+[2021.06.21-03.07.39:387][951]LogBlueprintUserMessages: [E_Defender_2] STOMP
+[2021.06.21-03.07.40:511][986]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-03.07.42:607][ 51]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-03.07.44:842][122]LogBlueprintUserMessages: [Player] 5.0
+[2021.06.21-03.07.44:843][122]LogBlueprintUserMessages: [C_Defender_C_0] SPAWN
+[2021.06.21-03.07.44:845][122]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.07.48:039][219]LogBlueprintUserMessages: [U_Defender_C_0] STOMP
+[2021.06.21-03.07.48:230][225]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-03.07.50:140][285]LogBlueprintUserMessages: [U_Defender_C_0] STOMP
+[2021.06.21-03.07.50:265][289]LogBlueprintUserMessages: [U_Defender_5] STOMP
+[2021.06.21-03.07.51:080][315]LogBlueprintUserMessages: [Player] 5.0
+[2021.06.21-03.07.51:081][315]LogBlueprintUserMessages: [C_Range_C_1] SPAWN
+[2021.06.21-03.07.51:084][315]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.21-03.08.00:164][601]LogBlueprintUserMessages: [U_Defender_C_0] STOMP
+[2021.06.21-03.08.01:215][633]LogBlueprintUserMessages: [E_Melee2_8] 0
+[2021.06.21-03.08.01:737][649]LogBlueprintUserMessages: [E_Melee2_8] 1
+[2021.06.21-03.08.06:488][798]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.21-03.08.06:503][798]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Field_2
+[2021.06.21-03.08.06:504][798]LogWorld: UWorld::CleanupWorld for Field_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-03.08.06:505][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-03.08.06:523][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.21-03.08.06:563][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-03.08.06:666][798]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.21-03.08.06:669][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-03.08.06:670][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-03.08.06:704][798]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2021.06.21-03.08.06:766][799]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2021.06.21-03.08.07:606][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Blueprints/Units/U_Defender" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset" SILENT=true
+[2021.06.21-03.08.07:789][833]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/U_DefenderFA25FC654340512D04C77EB0F218979F.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Units/U_Defender.uasset'
+[2021.06.21-03.08.07:813][833]AssetCheck: New page: Asset Save: U_Defender
+[2021.06.21-03.08.07:813][833]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Units/U_Defender.U_Defender
