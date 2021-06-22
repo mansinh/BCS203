@@ -16266,3 +16266,1033 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.22-05.48.28:142][819]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/Field_3E3D9F0BC4F733C50FFFDA7B5C7C393A4.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Maps/Field_3.umap'
 [2021.06.22-05.48.28:180][819]AssetCheck: New page: Asset Save: Field_3
 [2021.06.22-05.48.28:180][819]LogContentValidation: Display: Validating World /Game/Golem/Maps/Field_3.Field_3
+[2021.06.22-05.48.47:776][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.22-05.49.14:520][868]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.22-05.49.17:716][ 91]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/WaveController69D3E912441115DF20187991CDB71B93.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/WaveController.uasset'
+[2021.06.22-05.49.17:744][ 91]AssetCheck: New page: Asset Save: WaveController
+[2021.06.22-05.49.17:744][ 91]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/WaveController.WaveController
+[2021.06.22-05.50.24:154][495]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/WaveControllerEE2B6BAA40A2C5310DF1EDA3A4219E0A.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/WaveController.uasset'
+[2021.06.22-05.50.24:183][495]AssetCheck: New page: Asset Save: WaveController
+[2021.06.22-05.50.24:183][495]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/WaveController.WaveController
+[2021.06.22-05.50.34:848][336]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/WaveController5D67E1034A78E894BB38EEB927ED5FFB.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/WaveController.uasset'
+[2021.06.22-05.50.34:868][336]AssetCheck: New page: Asset Save: WaveController
+[2021.06.22-05.50.34:869][336]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/WaveController.WaveController
+[2021.06.22-05.51.25:619][515]LogEditorTransaction: Undo Add Node
+[2021.06.22-05.51.26:179][531]LogEditorTransaction: Undo Delete current selection
+[2021.06.22-05.53.48:168][717]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/WaveControllerC20D0A524F75B7C0389B80897FFCD572.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/WaveController.uasset'
+[2021.06.22-05.53.48:192][717]AssetCheck: New page: Asset Save: WaveController
+[2021.06.22-05.53.48:192][717]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/WaveController.WaveController
+[2021.06.22-05.53.54:701][292]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/WaveController6CDF101C4EACC5D3B966968935A4CC58.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/WaveController.uasset'
+[2021.06.22-05.53.54:723][292]AssetCheck: New page: Asset Save: WaveController
+[2021.06.22-05.53.54:723][292]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/WaveController.WaveController
+[2021.06.22-05.54.22:202][854]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/WaveController39C0827841C1804631C7C0891AB00967.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/WaveController.uasset'
+[2021.06.22-05.54.22:226][854]AssetCheck: New page: Asset Save: WaveController
+[2021.06.22-05.54.22:226][854]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/WaveController.WaveController
+[2021.06.22-05.54.37:027][144]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/WaveController5AC0ED434BB335EBBCDDE1950E55DAB7.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/WaveController.uasset'
+[2021.06.22-05.54.37:050][144]AssetCheck: New page: Asset Save: WaveController
+[2021.06.22-05.54.37:050][144]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/WaveController.WaveController
+[2021.06.22-05.54.38:502][261]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.22-05.54.38:520][261]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.22-05.54.38:521][261]LogPlayLevel: [PlayLevel] Compiling WaveController before play...
+[2021.06.22-05.54.38:663][261]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2021.06.22-05.54.38:666][261]LogPlayLevel: PlayLevel: Blueprint regeneration took 146 ms (1 blueprints)
+[2021.06.22-05.54.38:666][261]PIE: New page: PIE session: Field_3 (23/06/2021, 5:54:38 am)
+[2021.06.22-05.54.38:667][261]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Field_3
+[2021.06.22-05.54.38:678][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010764s)
+[2021.06.22-05.54.38:680][261]LogAIModule: Creating AISystem for world Field_3
+[2021.06.22-05.54.38:680][261]LogPlayLevel: PIE: World Init took: (0.002760s)
+[2021.06.22-05.54.38:680][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Field_3.Field_3 to /Game/Golem/Maps/UEDPIE_0_Field_3.Field_3 (0.013711s)
+[2021.06.22-05.54.38:751][261]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.06.22-05.54.38:751][261]LogAudio: Display: Creating Audio Device:                 Id: 92, Scope: Unique, Realtime: True
+[2021.06.22-05.54.38:751][261]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.22-05.54.38:751][261]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.22-05.54.38:751][261]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.22-05.54.38:751][261]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.22-05.54.38:751][261]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.22-05.54.38:751][261]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.22-05.54.38:751][261]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.22-05.54.38:752][261]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.22-05.54.38:752][261]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.22-05.54.38:752][261]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.22-05.54.38:759][261]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.22-05.54.38:759][261]LogAudioMixer: Display: 1: FrontRight
+[2021.06.22-05.54.38:776][261]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.22-05.54.38:776][261]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.22-05.54.38:776][261]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.22-05.54.38:777][261]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.22-05.54.38:777][261]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.22-05.54.38:777][261]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.22-05.54.38:777][261]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.22-05.54.38:796][261]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.22-05.54.38:796][261]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.22-05.54.38:796][261]LogInit: FAudioDevice initialized.
+[2021.06.22-05.54.38:796][261]LogAudio: Display: Audio Device (ID: 92) registered with world 'Field_3'.
+[2021.06.22-05.54.38:846][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-05.54.38:846][261]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.22-05.54.38:848][261]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Field_3.Field_3 up for play (max tick rate 0) at 2021.06.22-17.54.38
+[2021.06.22-05.54.38:849][261]LogWorld: Bringing up level for play took: 0.002734
+[2021.06.22-05.54.38:850][261]LogOnline: OSS: Creating online subsystem instance for: :Context_128
+[2021.06.22-05.54.38:860][261]PIE: Server logged in
+[2021.06.22-05.54.38:862][261]PIE: Play in editor total start time 0.348 seconds.
+[2021.06.22-05.54.42:847][484]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.22-05.54.42:867][484]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Field_3
+[2021.06.22-05.54.42:868][484]LogWorld: UWorld::CleanupWorld for Field_3, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-05.54.42:868][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-05.54.42:882][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.22-05.54.42:910][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-05.54.42:988][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-05.54.42:989][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-05.54.43:017][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.06.22-05.54.43:052][485]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2021.06.22-05.54.47:327][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.06.22-05.54.48:483][691]LogSlate: Window 'Save Content' being destroyed
+[2021.06.22-05.54.48:548][691]LogLinker: Warning: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\GolemHeart\Golem\Content\Golem\Maps\Field.umap: Failed to load '/Game/Golem/Blueprints/Units/FormationGrid': Can't find file.
+[2021.06.22-05.54.48:548][691]LogLinker: Warning: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\GolemHeart\Golem\Content\Golem\Maps\Field.umap: Failed to load '/Game/Golem/Blueprints/Units/FormationGrid': Can't find file.
+[2021.06.22-05.54.48:549][691]LogLinker: Warning: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\GolemHeart\Golem\Content\Golem\Maps\Field.umap: Failed to load '/Game/Golem/Blueprints/Units/FormationGrid': Can't find file.
+[2021.06.22-05.54.48:549][691]LogLinker: Warning: [AssetLog] C:\Users\manhk\OneDrive\Documents\BCS\GolemHeart\Golem\Content\Golem\Maps\Field.umap: Failed to load '/Game/Golem/Blueprints/Units/FormationGrid': Can't find file.
+[2021.06.22-05.54.48:550][691]LogLinker: Warning: Failed to load '/Game/Golem/Blueprints/Units/FormationGrid': Can't find file.
+[2021.06.22-05.54.48:550][691]LogLinker: Warning: Failed to load '/Game/Golem/Blueprints/Units/FormationGrid': Can't find file.
+[2021.06.22-05.54.48:553][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Maps/Field" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Maps/Field.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.22-05.54.48:562][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.48:572][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.48:577][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.48:647][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.06.22-05.54.48:684][691]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/Field28769C5F497D0C81B3C85C9FD7790581.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Maps/Field.umap'
+[2021.06.22-05.54.48:691][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.48:698][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.48:701][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.48:702][691]LogFileHelpers: Saving map 'Field' took 0.149
+[2021.06.22-05.54.48:730][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Maps/Field_2" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Maps/Field_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.22-05.54.49:139][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.49:146][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.49:154][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.49:163][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.49:171][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.49:179][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.49:185][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.49:252][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.49:333][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.06.22-05.54.49:480][691]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/Field_2A86CF9FF498E1AE26DC81E9BCBA8089B.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Maps/Field_2.umap'
+[2021.06.22-05.54.49:504][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.49:510][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.49:515][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.49:524][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.49:530][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.49:536][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.49:540][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.49:584][691]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.54.49:609][691]LogFileHelpers: Saving map 'Field_2' took 0.880
+[2021.06.22-05.54.49:609][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/Maps/Level1" FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.22-05.54.49:697][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.06.22-05.54.49:717][691]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/Level199F6AE4D4B3EEED2DC03E591B3A32F16.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Maps/Level1.umap'
+[2021.06.22-05.54.49:725][691]LogFileHelpers: Saving map 'Level1' took 0.116
+[2021.06.22-05.54.49:768][691]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Golem/Maps/Level1.Level1
+[2021.06.22-05.54.49:768][691]Cmd: MAP LOAD FILE="C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.22-05.54.49:768][691]LightingResults: New page: Lighting Build
+[2021.06.22-05.54.49:769][691]LoadErrors: New page: Loading map: Level1.umap
+[2021.06.22-05.54.49:771][691]LogWorld: UWorld::CleanupWorld for Field_3, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-05.54.49:771][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-05.54.49:771][691]MapCheck: New page: Map Check
+[2021.06.22-05.54.49:771][691]LightingResults: New page: Lighting Build
+[2021.06.22-05.54.49:840][691]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.22-05.54.49:847][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.06.22-05.54.49:918][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.06.22-05.54.49:984][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.06.22-05.54.50:052][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.06.22-05.54.50:052][691]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2021.06.22-05.54.50:254][691]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.22-05.54.50:254][691]LogAIModule: Creating AISystem for world Level1
+[2021.06.22-05.54.50:328][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.06.22-05.54.50:343][691]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.22-05.54.50:343][691]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.181ms to complete.
+[2021.06.22-05.54.50:343][691]LogFileHelpers: Loading map 'Level1' took 0.575
+[2021.06.22-05.54.50:393][691]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.22-05.54.50:393][691]LogContentValidation: Display: Validating World /Game/Golem/Maps/Field_2.Field_2
+[2021.06.22-05.54.50:393][691]LogContentValidation: Display: Validating World /Game/Golem/Maps/Field.Field
+[2021.06.22-05.54.50:393][691]LogContentValidation: Display: Validating World /Game/Golem/Maps/Level1.Level1
+[2021.06.22-05.54.50:399][691]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': FormationGrid_C /Game/Golem/Maps/Field.Field:PersistentLevel.FormationGrid_2
+[2021.06.22-05.54.51:800][780]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.22-05.54.51:816][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.22-05.54.51:816][780]PIE: New page: PIE session: Level1 (23/06/2021, 5:54:51 am)
+[2021.06.22-05.54.51:816][780]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Level1
+[2021.06.22-05.54.51:824][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008138s)
+[2021.06.22-05.54.51:826][780]LogAIModule: Creating AISystem for world Level1
+[2021.06.22-05.54.51:826][780]LogPlayLevel: PIE: World Init took: (0.002034s)
+[2021.06.22-05.54.51:826][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Level1.Level1 to /Game/Golem/Maps/UEDPIE_0_Level1.Level1 (0.010337s)
+[2021.06.22-05.54.51:896][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.06.22-05.54.51:897][780]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2021.06.22-05.54.51:897][780]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.22-05.54.51:897][780]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.22-05.54.51:897][780]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.22-05.54.51:897][780]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.22-05.54.51:897][780]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.22-05.54.51:897][780]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.22-05.54.51:897][780]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.22-05.54.51:897][780]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.22-05.54.51:898][780]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.22-05.54.51:898][780]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.22-05.54.51:904][780]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.22-05.54.51:904][780]LogAudioMixer: Display: 1: FrontRight
+[2021.06.22-05.54.51:920][780]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.22-05.54.51:920][780]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.22-05.54.51:920][780]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.22-05.54.51:920][780]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.22-05.54.51:921][780]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.22-05.54.51:921][780]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.22-05.54.51:921][780]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.22-05.54.51:939][780]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.22-05.54.51:939][780]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.22-05.54.51:939][780]LogInit: FAudioDevice initialized.
+[2021.06.22-05.54.51:939][780]LogAudio: Display: Audio Device (ID: 93) registered with world 'Level1'.
+[2021.06.22-05.54.52:002][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-05.54.52:002][780]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.22-05.54.52:005][780]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.06.22-17.54.52
+[2021.06.22-05.54.52:006][780]LogWorld: Bringing up level for play took: 0.002238
+[2021.06.22-05.54.52:006][780]LogOnline: OSS: Creating online subsystem instance for: :Context_129
+[2021.06.22-05.54.52:032][780]PIE: Server logged in
+[2021.06.22-05.54.52:034][780]PIE: Play in editor total start time 0.224 seconds.
+[2021.06.22-05.54.52:293][787]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.54.52:808][817]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.54.53:310][847]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.54.53:818][877]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.54.54:326][907]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.54.54:829][937]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.54.55:343][968]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.54.55:864][999]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.54.56:380][ 30]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.54.56:886][ 60]LogBlueprintUserMessages: [WaveController_4] 0.005799
+[2021.06.22-05.54.57:398][ 90]LogBlueprintUserMessages: [WaveController_4] 0.035959
+[2021.06.22-05.54.57:913][120]LogBlueprintUserMessages: [WaveController_4] 0.066349
+[2021.06.22-05.54.58:413][149]LogBlueprintUserMessages: [WaveController_4] 0.095911
+[2021.06.22-05.54.58:918][179]LogBlueprintUserMessages: [WaveController_4] 0.125896
+[2021.06.22-05.54.59:431][209]LogBlueprintUserMessages: [WaveController_4] 0.156197
+[2021.06.22-05.54.59:943][239]LogBlueprintUserMessages: [WaveController_4] 0.186309
+[2021.06.22-05.55.00:444][268]LogBlueprintUserMessages: [WaveController_4] 0.215967
+[2021.06.22-05.55.00:953][298]LogBlueprintUserMessages: [WaveController_4] 0.246144
+[2021.06.22-05.55.01:460][328]LogBlueprintUserMessages: [WaveController_4] 0.276128
+[2021.06.22-05.55.01:968][358]LogBlueprintUserMessages: [WaveController_4] 0.30614
+[2021.06.22-05.55.02:480][387]LogBlueprintUserMessages: [WaveController_4] 0.336286
+[2021.06.22-05.55.02:981][416]LogBlueprintUserMessages: [WaveController_4] 0.366013
+[2021.06.22-05.55.03:496][446]LogBlueprintUserMessages: [WaveController_4] 0.396348
+[2021.06.22-05.55.04:010][476]LogBlueprintUserMessages: [WaveController_4] 0.426779
+[2021.06.22-05.55.04:511][505]LogBlueprintUserMessages: [WaveController_4] 0.456364
+[2021.06.22-05.55.05:019][535]LogBlueprintUserMessages: [WaveController_4] 0.486455
+[2021.06.22-05.55.05:536][565]LogBlueprintUserMessages: [WaveController_4] 0.516958
+[2021.06.22-05.55.06:053][595]LogBlueprintUserMessages: [WaveController_4] 0.547502
+[2021.06.22-05.55.06:563][624]LogBlueprintUserMessages: [WaveController_4] 0.577601
+[2021.06.22-05.55.07:079][654]LogBlueprintUserMessages: [WaveController_4] 0.608128
+[2021.06.22-05.55.07:579][683]LogBlueprintUserMessages: [WaveController_4] 0.637732
+[2021.06.22-05.55.08:095][713]LogBlueprintUserMessages: [WaveController_4] 0.668234
+[2021.06.22-05.55.08:611][744]LogBlueprintUserMessages: [WaveController_4] 0.698679
+[2021.06.22-05.55.09:113][774]LogBlueprintUserMessages: [WaveController_4] 0.728418
+[2021.06.22-05.55.09:616][804]LogBlueprintUserMessages: [WaveController_4] 0.758194
+[2021.06.22-05.55.10:127][834]LogBlueprintUserMessages: [WaveController_4] 0.788389
+[2021.06.22-05.55.10:639][864]LogBlueprintUserMessages: [WaveController_4] 0.81853
+[2021.06.22-05.55.11:144][894]LogBlueprintUserMessages: [WaveController_4] 0.848506
+[2021.06.22-05.55.11:649][924]LogBlueprintUserMessages: [WaveController_4] 0.878276
+[2021.06.22-05.55.12:149][954]LogBlueprintUserMessages: [WaveController_4] 0.907891
+[2021.06.22-05.55.12:660][984]LogBlueprintUserMessages: [WaveController_4] 0.937959
+[2021.06.22-05.55.13:161][ 14]LogBlueprintUserMessages: [WaveController_4] 0.967703
+[2021.06.22-05.55.13:672][ 44]LogBlueprintUserMessages: [WaveController_4] 0.99785
+[2021.06.22-05.55.14:182][ 74]LogBlueprintUserMessages: [WaveController_4] 1.027794
+[2021.06.22-05.55.14:693][102]LogBlueprintUserMessages: [WaveController_4] 1.058171
+[2021.06.22-05.55.15:212][131]LogBlueprintUserMessages: [WaveController_4] 1.088849
+[2021.06.22-05.55.15:720][160]LogBlueprintUserMessages: [WaveController_4] 1.118798
+[2021.06.22-05.55.16:228][189]LogBlueprintUserMessages: [WaveController_4] 1.148903
+[2021.06.22-05.55.16:740][218]LogBlueprintUserMessages: [WaveController_4] 1.179155
+[2021.06.22-05.55.17:248][247]LogBlueprintUserMessages: [WaveController_4] 1.209107
+[2021.06.22-05.55.17:752][276]LogBlueprintUserMessages: [WaveController_4] 1.23897
+[2021.06.22-05.55.18:256][304]LogBlueprintUserMessages: [WaveController_4] 1.268678
+[2021.06.22-05.55.18:758][333]LogBlueprintUserMessages: [WaveController_4] 1.298449
+[2021.06.22-05.55.19:273][362]LogBlueprintUserMessages: [WaveController_4] 1.328876
+[2021.06.22-05.55.19:785][391]LogBlueprintUserMessages: [WaveController_4] 1.359068
+[2021.06.22-05.55.20:287][420]LogBlueprintUserMessages: [WaveController_4] 1.388812
+[2021.06.22-05.55.20:800][449]LogBlueprintUserMessages: [WaveController_4] 1.419065
+[2021.06.22-05.55.21:309][478]LogBlueprintUserMessages: [WaveController_4] 1.449242
+[2021.06.22-05.55.21:829][507]LogBlueprintUserMessages: [WaveController_4] 1.479859
+[2021.06.22-05.55.22:337][536]LogBlueprintUserMessages: [WaveController_4] 1.509962
+[2021.06.22-05.55.22:850][565]LogBlueprintUserMessages: [WaveController_4] 1.540194
+[2021.06.22-05.55.23:357][594]LogBlueprintUserMessages: [WaveController_4] 1.570216
+[2021.06.22-05.55.23:869][623]LogBlueprintUserMessages: [WaveController_4] 1.60047
+[2021.06.22-05.55.24:398][649]LogBlueprintUserMessages: [WaveController_4] 1.631805
+[2021.06.22-05.55.24:905][678]LogBlueprintUserMessages: [WaveController_4] 1.661656
+[2021.06.22-05.55.25:415][707]LogBlueprintUserMessages: [WaveController_4] 1.69177
+[2021.06.22-05.55.25:918][736]LogBlueprintUserMessages: [WaveController_4] 1.721633
+[2021.06.22-05.55.26:424][765]LogBlueprintUserMessages: [WaveController_4] 1.75148
+[2021.06.22-05.55.26:936][794]LogBlueprintUserMessages: [WaveController_4] 1.781721
+[2021.06.22-05.55.27:439][823]LogBlueprintUserMessages: [WaveController_4] 1.811483
+[2021.06.22-05.55.27:943][852]LogBlueprintUserMessages: [WaveController_4] 1.841191
+[2021.06.22-05.55.28:452][881]LogBlueprintUserMessages: [WaveController_4] 1.871341
+[2021.06.22-05.55.28:961][910]LogBlueprintUserMessages: [WaveController_4] 1.901402
+[2021.06.22-05.55.29:236][926]LogBlueprintUserMessages: [Player] 5.0
+[2021.06.22-05.55.29:236][926]LogBlueprintUserMessages: [C_Meleee_C_0] SPAWN
+[2021.06.22-05.55.29:239][926]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-05.55.29:472][938]LogBlueprintUserMessages: [WaveController_4] 1.931594
+[2021.06.22-05.55.29:985][966]LogBlueprintUserMessages: [WaveController_4] 1.961888
+[2021.06.22-05.55.30:497][995]LogBlueprintUserMessages: [WaveController_4] 1.992291
+[2021.06.22-05.55.31:007][ 23]LogBlueprintUserMessages: [WaveController_4] 2.02229
+[2021.06.22-05.55.31:528][ 51]LogBlueprintUserMessages: [WaveController_4] 2.053148
+[2021.06.22-05.55.32:047][ 79]LogBlueprintUserMessages: [WaveController_4] 2.083875
+[2021.06.22-05.55.32:556][107]LogBlueprintUserMessages: [WaveController_4] 2.113919
+[2021.06.22-05.55.33:059][133]LogBlueprintUserMessages: [WaveController_4] 2.143644
+[2021.06.22-05.55.33:573][161]LogBlueprintUserMessages: [WaveController_4] 2.173969
+[2021.06.22-05.55.33:842][176]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.22-05.55.33:858][176]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Level1
+[2021.06.22-05.55.33:859][176]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-05.55.33:860][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-05.55.33:870][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.22-05.55.33:877][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-05.55.33:952][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-05.55.33:953][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-05.55.33:985][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.06.22-05.55.34:043][177]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2021.06.22-05.56.54:093][374]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/WaveControllerE39E1C284880570CCF7FC29EBCCB70B5.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/WaveController.uasset'
+[2021.06.22-05.56.54:116][374]AssetCheck: New page: Asset Save: WaveController
+[2021.06.22-05.56.54:116][374]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/WaveController.WaveController
+[2021.06.22-05.56.57:644][660]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.22-05.56.57:662][660]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.22-05.56.57:663][660]LogPlayLevel: [PlayLevel] Compiling WaveController before play...
+[2021.06.22-05.56.57:814][660]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2021.06.22-05.56.57:816][660]LogPlayLevel: PlayLevel: Blueprint regeneration took 153 ms (1 blueprints)
+[2021.06.22-05.56.57:816][660]PIE: New page: PIE session: Level1 (23/06/2021, 5:56:57 am)
+[2021.06.22-05.56.57:816][660]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Level1
+[2021.06.22-05.56.57:824][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008111s)
+[2021.06.22-05.56.57:827][660]LogAIModule: Creating AISystem for world Level1
+[2021.06.22-05.56.57:827][660]LogPlayLevel: PIE: World Init took: (0.002687s)
+[2021.06.22-05.56.57:827][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Level1.Level1 to /Game/Golem/Maps/UEDPIE_0_Level1.Level1 (0.011029s)
+[2021.06.22-05.56.57:899][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.06.22-05.56.57:899][660]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2021.06.22-05.56.57:899][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.22-05.56.57:899][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.22-05.56.57:899][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.22-05.56.57:899][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.22-05.56.57:899][660]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.22-05.56.57:899][660]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.22-05.56.57:899][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.22-05.56.57:899][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.22-05.56.57:900][660]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.22-05.56.57:900][660]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.22-05.56.57:906][660]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.22-05.56.57:906][660]LogAudioMixer: Display: 1: FrontRight
+[2021.06.22-05.56.57:923][660]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.22-05.56.57:923][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.22-05.56.57:923][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.22-05.56.57:923][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.22-05.56.57:924][660]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.22-05.56.57:924][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.22-05.56.57:924][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.22-05.56.57:943][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.22-05.56.57:943][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.22-05.56.57:943][660]LogInit: FAudioDevice initialized.
+[2021.06.22-05.56.57:943][660]LogAudio: Display: Audio Device (ID: 94) registered with world 'Level1'.
+[2021.06.22-05.56.57:970][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-05.56.57:970][660]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.22-05.56.57:972][660]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.06.22-17.56.57
+[2021.06.22-05.56.57:972][660]LogWorld: Bringing up level for play took: 0.001282
+[2021.06.22-05.56.57:972][660]LogOnline: OSS: Creating online subsystem instance for: :Context_130
+[2021.06.22-05.56.57:989][660]PIE: Server logged in
+[2021.06.22-05.56.57:991][660]PIE: Play in editor total start time 0.335 seconds.
+[2021.06.22-05.56.58:190][665]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.56.58:705][695]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.56.59:212][725]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.56.59:716][755]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.57.00:221][785]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.57.00:733][816]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.57.01:234][846]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.57.01:746][877]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.57.02:245][907]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.57.02:752][937]LogBlueprintUserMessages: [WaveController_4] 0.00377
+[2021.06.22-05.57.03:266][968]LogBlueprintUserMessages: [WaveController_4] 0.034043
+[2021.06.22-05.57.03:767][998]LogBlueprintUserMessages: [WaveController_4] 0.063705
+[2021.06.22-05.57.04:268][ 28]LogBlueprintUserMessages: [WaveController_4] 0.093268
+[2021.06.22-05.57.04:784][ 59]LogBlueprintUserMessages: [WaveController_4] 0.123805
+[2021.06.22-05.57.05:298][ 90]LogBlueprintUserMessages: [WaveController_4] 0.15414
+[2021.06.22-05.57.05:801][120]LogBlueprintUserMessages: [WaveController_4] 0.183855
+[2021.06.22-05.57.06:302][150]LogBlueprintUserMessages: [WaveController_4] 0.213504
+[2021.06.22-05.57.06:816][181]LogBlueprintUserMessages: [WaveController_4] 0.243798
+[2021.06.22-05.57.07:318][211]LogBlueprintUserMessages: [WaveController_4] 0.2736
+[2021.06.22-05.57.07:834][242]LogBlueprintUserMessages: [WaveController_4] 0.304086
+[2021.06.22-05.57.08:348][273]LogBlueprintUserMessages: [WaveController_4] 0.334437
+[2021.06.22-05.57.08:852][303]LogBlueprintUserMessages: [WaveController_4] 0.364232
+[2021.06.22-05.57.09:368][334]LogBlueprintUserMessages: [WaveController_4] 0.394672
+[2021.06.22-05.57.09:867][364]LogBlueprintUserMessages: [WaveController_4] 0.424284
+[2021.06.22-05.57.10:384][395]LogBlueprintUserMessages: [WaveController_4] 0.454781
+[2021.06.22-05.57.10:885][425]LogBlueprintUserMessages: [WaveController_4] 0.484369
+[2021.06.22-05.57.11:396][456]LogBlueprintUserMessages: [WaveController_4] 0.514638
+[2021.06.22-05.57.11:901][486]LogBlueprintUserMessages: [WaveController_4] 0.544376
+[2021.06.22-05.57.12:400][516]LogBlueprintUserMessages: [WaveController_4] 0.573933
+[2021.06.22-05.57.12:903][546]LogBlueprintUserMessages: [WaveController_4] 0.603664
+[2021.06.22-05.57.13:418][577]LogBlueprintUserMessages: [WaveController_4] 0.634064
+[2021.06.22-05.57.13:917][607]LogBlueprintUserMessages: [WaveController_4] 0.663626
+[2021.06.22-05.57.14:419][637]LogBlueprintUserMessages: [WaveController_4] 0.693261
+[2021.06.22-05.57.14:927][667]LogBlueprintUserMessages: [WaveController_4] 0.723236
+[2021.06.22-05.57.15:431][697]LogBlueprintUserMessages: [WaveController_4] 0.753077
+[2021.06.22-05.57.15:937][727]LogBlueprintUserMessages: [WaveController_4] 0.783024
+[2021.06.22-05.57.16:439][757]LogBlueprintUserMessages: [WaveController_4] 0.812642
+[2021.06.22-05.57.16:952][788]LogBlueprintUserMessages: [WaveController_4] 0.842913
+[2021.06.22-05.57.17:457][818]LogBlueprintUserMessages: [WaveController_4] 0.872753
+[2021.06.22-05.57.17:964][848]LogBlueprintUserMessages: [WaveController_4] 0.902714
+[2021.06.22-05.57.18:464][878]LogBlueprintUserMessages: [WaveController_4] 0.93228
+[2021.06.22-05.57.18:969][908]LogBlueprintUserMessages: [WaveController_4] 0.962108
+[2021.06.22-05.57.19:470][938]LogBlueprintUserMessages: [WaveController_4] 0.991729
+[2021.06.22-05.57.19:991][969]LogBlueprintUserMessages: [WaveController_4] 1.022194
+[2021.06.22-05.57.20:500][998]LogBlueprintUserMessages: [WaveController_4] 1.052515
+[2021.06.22-05.57.21:016][ 28]LogBlueprintUserMessages: [WaveController_4] 1.083046
+[2021.06.22-05.57.21:527][ 58]LogBlueprintUserMessages: [WaveController_4] 1.113286
+[2021.06.22-05.57.22:037][ 88]LogBlueprintUserMessages: [WaveController_4] 1.143421
+[2021.06.22-05.57.22:553][118]LogBlueprintUserMessages: [WaveController_4] 1.173902
+[2021.06.22-05.57.23:053][147]LogBlueprintUserMessages: [WaveController_4] 1.203518
+[2021.06.22-05.57.23:567][177]LogBlueprintUserMessages: [WaveController_4] 1.233833
+[2021.06.22-05.57.24:071][206]LogBlueprintUserMessages: [WaveController_4] 1.26366
+[2021.06.22-05.57.24:586][236]LogBlueprintUserMessages: [WaveController_4] 1.294141
+[2021.06.22-05.57.25:088][265]LogBlueprintUserMessages: [WaveController_4] 1.323833
+[2021.06.22-05.57.25:599][295]LogBlueprintUserMessages: [WaveController_4] 1.354039
+[2021.06.22-05.57.26:116][325]LogBlueprintUserMessages: [WaveController_4] 1.384488
+[2021.06.22-05.57.26:627][355]LogBlueprintUserMessages: [WaveController_4] 1.414773
+[2021.06.22-05.57.27:129][384]LogBlueprintUserMessages: [WaveController_4] 1.444447
+[2021.06.22-05.57.27:637][413]LogBlueprintUserMessages: [WaveController_4] 1.474439
+[2021.06.22-05.57.28:140][440]LogBlueprintUserMessages: [WaveController_4] 1.504195
+[2021.06.22-05.57.28:648][470]LogBlueprintUserMessages: [WaveController_4] 1.534201
+[2021.06.22-05.57.29:162][500]LogBlueprintUserMessages: [WaveController_4] 1.56456
+[2021.06.22-05.57.29:677][530]LogBlueprintUserMessages: [WaveController_4] 1.594986
+[2021.06.22-05.57.30:180][560]LogBlueprintUserMessages: [WaveController_4] 1.624766
+[2021.06.22-05.57.30:507][579]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.22-05.57.30:524][579]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Level1
+[2021.06.22-05.57.30:524][579]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-05.57.30:525][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-05.57.30:535][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.22-05.57.30:542][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-05.57.30:621][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-05.57.30:623][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-05.57.30:653][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.06.22-05.57.30:688][580]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2021.06.22-05.57.53:381][372]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/WaveController6EBB41084E98F43F39BDA5BDF86EB36F.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/WaveController.uasset'
+[2021.06.22-05.57.53:410][372]AssetCheck: New page: Asset Save: WaveController
+[2021.06.22-05.57.53:410][372]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/WaveController.WaveController
+[2021.06.22-05.58.03:620][235]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.22-05.58.03:639][235]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.22-05.58.03:640][235]LogPlayLevel: [PlayLevel] Compiling WaveController before play...
+[2021.06.22-05.58.03:773][235]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.06.22-05.58.03:774][235]LogPlayLevel: PlayLevel: Blueprint regeneration took 135 ms (1 blueprints)
+[2021.06.22-05.58.03:774][235]PIE: New page: PIE session: Level1 (23/06/2021, 5:58:03 am)
+[2021.06.22-05.58.03:774][235]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Level1
+[2021.06.22-05.58.03:782][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007731s)
+[2021.06.22-05.58.03:784][235]LogAIModule: Creating AISystem for world Level1
+[2021.06.22-05.58.03:784][235]LogPlayLevel: PIE: World Init took: (0.001733s)
+[2021.06.22-05.58.03:784][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Level1.Level1 to /Game/Golem/Maps/UEDPIE_0_Level1.Level1 (0.009678s)
+[2021.06.22-05.58.03:855][235]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.06.22-05.58.03:856][235]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2021.06.22-05.58.03:856][235]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.22-05.58.03:856][235]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.22-05.58.03:856][235]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.22-05.58.03:856][235]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.22-05.58.03:856][235]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.22-05.58.03:856][235]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.22-05.58.03:856][235]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.22-05.58.03:856][235]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.22-05.58.03:856][235]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.22-05.58.03:856][235]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.22-05.58.03:863][235]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.22-05.58.03:863][235]LogAudioMixer: Display: 1: FrontRight
+[2021.06.22-05.58.03:879][235]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.22-05.58.03:880][235]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.22-05.58.03:880][235]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.22-05.58.03:880][235]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.22-05.58.03:880][235]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.22-05.58.03:880][235]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.22-05.58.03:880][235]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.22-05.58.03:898][235]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.22-05.58.03:898][235]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.22-05.58.03:899][235]LogInit: FAudioDevice initialized.
+[2021.06.22-05.58.03:899][235]LogAudio: Display: Audio Device (ID: 95) registered with world 'Level1'.
+[2021.06.22-05.58.03:940][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-05.58.03:940][235]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.22-05.58.03:941][235]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.06.22-17.58.03
+[2021.06.22-05.58.03:942][235]LogWorld: Bringing up level for play took: 0.001301
+[2021.06.22-05.58.03:942][235]LogOnline: OSS: Creating online subsystem instance for: :Context_131
+[2021.06.22-05.58.03:956][235]PIE: Server logged in
+[2021.06.22-05.58.03:958][235]PIE: Play in editor total start time 0.327 seconds.
+[2021.06.22-05.58.04:209][241]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.04:713][271]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.05:216][302]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.05:723][332]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.06:231][364]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.06:664][390]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.22-05.58.06:678][390]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Level1
+[2021.06.22-05.58.06:712][390]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-05.58.06:713][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-05.58.06:725][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.22-05.58.06:733][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-05.58.06:805][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-05.58.06:806][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-05.58.06:836][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.06.22-05.58.06:871][391]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2021.06.22-05.58.24:450][132]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/WaveControllerF0410E5C483A3299859877B9A3C77BF3.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/WaveController.uasset'
+[2021.06.22-05.58.24:486][132]AssetCheck: New page: Asset Save: WaveController
+[2021.06.22-05.58.24:486][132]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/WaveController.WaveController
+[2021.06.22-05.58.26:151][282]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.22-05.58.26:170][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.22-05.58.26:170][282]PIE: New page: PIE session: Level1 (23/06/2021, 5:58:26 am)
+[2021.06.22-05.58.26:170][282]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Level1
+[2021.06.22-05.58.26:178][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007642s)
+[2021.06.22-05.58.26:180][282]LogAIModule: Creating AISystem for world Level1
+[2021.06.22-05.58.26:181][282]LogPlayLevel: PIE: World Init took: (0.002557s)
+[2021.06.22-05.58.26:181][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Level1.Level1 to /Game/Golem/Maps/UEDPIE_0_Level1.Level1 (0.010390s)
+[2021.06.22-05.58.26:253][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.06.22-05.58.26:255][282]LogAudio: Display: Creating Audio Device:                 Id: 96, Scope: Unique, Realtime: True
+[2021.06.22-05.58.26:255][282]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.22-05.58.26:255][282]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.22-05.58.26:255][282]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.22-05.58.26:255][282]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.22-05.58.26:255][282]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.22-05.58.26:255][282]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.22-05.58.26:255][282]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.22-05.58.26:255][282]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.22-05.58.26:255][282]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.22-05.58.26:255][282]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.22-05.58.26:262][282]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.22-05.58.26:262][282]LogAudioMixer: Display: 1: FrontRight
+[2021.06.22-05.58.26:278][282]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.22-05.58.26:278][282]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.22-05.58.26:278][282]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.22-05.58.26:278][282]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.22-05.58.26:278][282]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.22-05.58.26:279][282]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.22-05.58.26:279][282]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.22-05.58.26:296][282]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.22-05.58.26:296][282]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.22-05.58.26:296][282]LogInit: FAudioDevice initialized.
+[2021.06.22-05.58.26:296][282]LogAudio: Display: Audio Device (ID: 96) registered with world 'Level1'.
+[2021.06.22-05.58.26:349][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-05.58.26:349][282]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.22-05.58.26:355][282]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.06.22-17.58.26
+[2021.06.22-05.58.26:355][282]LogWorld: Bringing up level for play took: 0.004593
+[2021.06.22-05.58.26:356][282]LogOnline: OSS: Creating online subsystem instance for: :Context_132
+[2021.06.22-05.58.26:383][282]PIE: Server logged in
+[2021.06.22-05.58.26:384][282]PIE: Play in editor total start time 0.22 seconds.
+[2021.06.22-05.58.26:642][292]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.27:146][326]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.27:652][360]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.28:160][394]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.28:664][428]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.29:167][462]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.29:673][496]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.30:171][530]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.30:682][564]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.31:183][598]LogBlueprintUserMessages: [WaveController_4] 0.006657
+[2021.06.22-05.58.31:692][632]LogBlueprintUserMessages: [WaveController_4] 0.078015
+[2021.06.22-05.58.32:195][666]LogBlueprintUserMessages: [WaveController_4] 0.148702
+[2021.06.22-05.58.32:705][700]LogBlueprintUserMessages: [WaveController_4] 0.220289
+[2021.06.22-05.58.33:221][734]LogBlueprintUserMessages: [WaveController_4] 0.292392
+[2021.06.22-05.58.33:667][764]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.22-05.58.33:686][764]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Level1
+[2021.06.22-05.58.33:687][764]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-05.58.33:687][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-05.58.33:694][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.22-05.58.33:700][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-05.58.33:782][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-05.58.33:783][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-05.58.33:811][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.06.22-05.58.33:843][765]LogPlayLevel: Display: Destroying online subsystem :Context_132
+[2021.06.22-05.58.48:591][192]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.22-05.58.48:611][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.22-05.58.48:611][192]PIE: New page: PIE session: Level1 (23/06/2021, 5:58:48 am)
+[2021.06.22-05.58.48:615][192]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Level1
+[2021.06.22-05.58.48:623][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008031s)
+[2021.06.22-05.58.48:625][192]LogAIModule: Creating AISystem for world Level1
+[2021.06.22-05.58.48:626][192]LogPlayLevel: PIE: World Init took: (0.002680s)
+[2021.06.22-05.58.48:626][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Level1.Level1 to /Game/Golem/Maps/UEDPIE_0_Level1.Level1 (0.010912s)
+[2021.06.22-05.58.48:696][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.06.22-05.58.48:698][192]LogAudio: Display: Creating Audio Device:                 Id: 97, Scope: Unique, Realtime: True
+[2021.06.22-05.58.48:698][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.22-05.58.48:698][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.22-05.58.48:698][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.22-05.58.48:698][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.22-05.58.48:698][192]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.22-05.58.48:698][192]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.22-05.58.48:698][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.22-05.58.48:698][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.22-05.58.48:698][192]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.22-05.58.48:698][192]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.22-05.58.48:705][192]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.22-05.58.48:705][192]LogAudioMixer: Display: 1: FrontRight
+[2021.06.22-05.58.48:722][192]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.22-05.58.48:722][192]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.22-05.58.48:722][192]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.22-05.58.48:722][192]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.22-05.58.48:722][192]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.22-05.58.48:723][192]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.22-05.58.48:723][192]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.22-05.58.48:741][192]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.22-05.58.48:741][192]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.22-05.58.48:741][192]LogInit: FAudioDevice initialized.
+[2021.06.22-05.58.48:741][192]LogAudio: Display: Audio Device (ID: 97) registered with world 'Level1'.
+[2021.06.22-05.58.48:792][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-05.58.48:792][192]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.22-05.58.48:794][192]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.06.22-17.58.48
+[2021.06.22-05.58.48:794][192]LogWorld: Bringing up level for play took: 0.001320
+[2021.06.22-05.58.48:794][192]LogOnline: OSS: Creating online subsystem instance for: :Context_133
+[2021.06.22-05.58.48:811][192]PIE: Server logged in
+[2021.06.22-05.58.48:812][192]PIE: Play in editor total start time 0.208 seconds.
+[2021.06.22-05.58.49:078][203]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.49:589][238]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.50:091][271]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.50:597][305]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.51:095][339]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.51:598][373]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.52:106][408]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.52:615][442]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.53:124][477]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-05.58.53:638][512]LogBlueprintUserMessages: [WaveController_4] 0.008912
+[2021.06.22-05.58.54:136][546]LogBlueprintUserMessages: [WaveController_4] 0.079154
+[2021.06.22-05.58.54:641][580]LogBlueprintUserMessages: [WaveController_4] 0.150088
+[2021.06.22-05.58.55:146][614]LogBlueprintUserMessages: [WaveController_4] 0.220892
+[2021.06.22-05.58.55:647][648]LogBlueprintUserMessages: [WaveController_4] 0.291222
+[2021.06.22-05.58.56:158][682]LogBlueprintUserMessages: [WaveController_4] 0.362968
+[2021.06.22-05.58.56:669][717]LogBlueprintUserMessages: [WaveController_4] 0.434702
+[2021.06.22-05.58.57:175][746]LogBlueprintUserMessages: [WaveController_4] 0.505711
+[2021.06.22-05.58.57:682][780]LogBlueprintUserMessages: [WaveController_4] 0.576932
+[2021.06.22-05.58.58:197][815]LogBlueprintUserMessages: [WaveController_4] 0.649
+[2021.06.22-05.58.58:704][849]LogBlueprintUserMessages: [WaveController_4] 0.720353
+[2021.06.22-05.58.59:218][883]LogBlueprintUserMessages: [WaveController_4] 0.792612
+[2021.06.22-05.58.59:731][917]LogBlueprintUserMessages: [WaveController_4] 0.864059
+[2021.06.22-05.59.00:240][951]LogBlueprintUserMessages: [WaveController_4] 0.936053
+[2021.06.22-05.59.00:758][985]LogBlueprintUserMessages: [WaveController_4] SINGLE
+[2021.06.22-05.59.00:758][985]LogBlueprintUserMessages: [WaveController_4] 1.007899
+[2021.06.22-05.59.01:260][ 17]LogBlueprintUserMessages: [WaveController_4] 1.079164
+[2021.06.22-05.59.01:772][ 50]LogBlueprintUserMessages: [WaveController_4] 1.151086
+[2021.06.22-05.59.02:275][ 83]LogBlueprintUserMessages: [WaveController_4] 1.221638
+[2021.06.22-05.59.02:784][115]LogBlueprintUserMessages: [WaveController_4] 1.292995
+[2021.06.22-05.59.03:295][149]LogBlueprintUserMessages: [WaveController_4] 1.364842
+[2021.06.22-05.59.03:806][182]LogBlueprintUserMessages: [WaveController_4] 1.436312
+[2021.06.22-05.59.04:305][214]LogBlueprintUserMessages: [WaveController_4] 1.506545
+[2021.06.22-05.59.04:814][247]LogBlueprintUserMessages: [WaveController_4] 1.577904
+[2021.06.22-05.59.05:325][280]LogBlueprintUserMessages: [WaveController_4] 1.649797
+[2021.06.22-05.59.05:834][313]LogBlueprintUserMessages: [WaveController_4] 1.721369
+[2021.06.22-05.59.06:347][345]LogBlueprintUserMessages: [WaveController_4] 1.793017
+[2021.06.22-05.59.06:846][377]LogBlueprintUserMessages: [WaveController_4] 1.863366
+[2021.06.22-05.59.07:353][409]LogBlueprintUserMessages: [WaveController_4] 1.93453
+[2021.06.22-05.59.07:866][442]LogBlueprintUserMessages: [WaveController_4] SINGLE
+[2021.06.22-05.59.07:866][442]LogBlueprintUserMessages: [WaveController_4] 2.006011
+[2021.06.22-05.59.08:362][473]LogBlueprintUserMessages: [WaveController_4] 2.076256
+[2021.06.22-05.59.08:869][504]LogBlueprintUserMessages: [WaveController_4] 2.14729
+[2021.06.22-05.59.09:381][537]LogBlueprintUserMessages: [WaveController_4] 2.219334
+[2021.06.22-05.59.09:895][569]LogBlueprintUserMessages: [WaveController_4] 2.29137
+[2021.06.22-05.59.10:402][601]LogBlueprintUserMessages: [WaveController_4] 2.362559
+[2021.06.22-05.59.10:911][633]LogBlueprintUserMessages: [WaveController_4] 2.434075
+[2021.06.22-05.59.11:412][665]LogBlueprintUserMessages: [WaveController_4] 2.504484
+[2021.06.22-05.59.11:922][697]LogBlueprintUserMessages: [WaveController_4] 2.575764
+[2021.06.22-05.59.12:429][730]LogBlueprintUserMessages: [WaveController_4] 2.647233
+[2021.06.22-05.59.12:944][762]LogBlueprintUserMessages: [WaveController_4] 2.719334
+[2021.06.22-05.59.13:447][794]LogBlueprintUserMessages: [WaveController_4] 2.790061
+[2021.06.22-05.59.13:950][826]LogBlueprintUserMessages: [WaveController_4] 2.860663
+[2021.06.22-05.59.14:457][858]LogBlueprintUserMessages: [WaveController_4] 2.931832
+[2021.06.22-05.59.14:973][890]LogBlueprintUserMessages: [WaveController_4] SINGLE
+[2021.06.22-05.59.14:973][890]LogBlueprintUserMessages: [WaveController_4] 3.003758
+[2021.06.22-05.59.15:470][920]LogBlueprintUserMessages: [WaveController_4] 3.074087
+[2021.06.22-05.59.15:984][952]LogBlueprintUserMessages: [WaveController_4] 3.146187
+[2021.06.22-05.59.16:492][984]LogBlueprintUserMessages: [WaveController_4] 3.217446
+[2021.06.22-05.59.17:008][ 16]LogBlueprintUserMessages: [WaveController_4] 3.289668
+[2021.06.22-05.59.17:512][ 48]LogBlueprintUserMessages: [WaveController_4] 3.360735
+[2021.06.22-05.59.18:024][ 80]LogBlueprintUserMessages: [WaveController_4] 3.432403
+[2021.06.22-05.59.18:535][112]LogBlueprintUserMessages: [WaveController_4] 3.504328
+[2021.06.22-05.59.19:050][144]LogBlueprintUserMessages: [WaveController_4] 3.576729
+[2021.06.22-05.59.19:565][176]LogBlueprintUserMessages: [WaveController_4] 3.64896
+[2021.06.22-05.59.20:075][208]LogBlueprintUserMessages: [WaveController_4] 3.720555
+[2021.06.22-05.59.20:585][240]LogBlueprintUserMessages: [WaveController_4] 3.792272
+[2021.06.22-05.59.21:086][271]LogBlueprintUserMessages: [WaveController_4] 3.862592
+[2021.06.22-05.59.21:591][302]LogBlueprintUserMessages: [WaveController_4] 3.933388
+[2021.06.22-05.59.22:098][333]LogBlueprintUserMessages: [WaveController_4] SINGLE
+[2021.06.22-05.59.22:098][333]LogBlueprintUserMessages: [WaveController_4] 4.003699
+[2021.06.22-05.59.22:610][363]LogBlueprintUserMessages: [WaveController_4] 4.076197
+[2021.06.22-05.59.23:126][394]LogBlueprintUserMessages: [WaveController_4] 4.148849
+[2021.06.22-05.59.23:637][425]LogBlueprintUserMessages: [WaveController_4] 4.220527
+[2021.06.22-05.59.24:142][456]LogBlueprintUserMessages: [WaveController_4] 4.291517
+[2021.06.22-05.59.24:642][486]LogBlueprintUserMessages: [WaveController_4] 4.361763
+[2021.06.22-05.59.25:142][516]LogBlueprintUserMessages: [WaveController_4] 4.432019
+[2021.06.22-05.59.25:659][547]LogBlueprintUserMessages: [WaveController_4] 4.504411
+[2021.06.22-05.59.26:175][578]LogBlueprintUserMessages: [WaveController_4] 4.57663
+[2021.06.22-05.59.26:675][608]LogBlueprintUserMessages: [WaveController_4] 4.647122
+[2021.06.22-05.59.27:178][638]LogBlueprintUserMessages: [WaveController_4] 4.71771
+[2021.06.22-05.59.27:682][669]LogBlueprintUserMessages: [WaveController_4] 4.788571
+[2021.06.22-05.59.28:185][699]LogBlueprintUserMessages: [WaveController_4] 4.859088
+[2021.06.22-05.59.28:698][729]LogBlueprintUserMessages: [WaveController_4] 4.930909
+[2021.06.22-05.59.29:213][759]LogBlueprintUserMessages: [WaveController_4] SINGLE
+[2021.06.22-05.59.29:213][759]LogBlueprintUserMessages: [WaveController_4] 5.002562
+[2021.06.22-05.59.29:713][788]LogBlueprintUserMessages: [WaveController_4] 5.073575
+[2021.06.22-05.59.30:224][818]LogBlueprintUserMessages: [WaveController_4] 5.145058
+[2021.06.22-05.59.30:730][848]LogBlueprintUserMessages: [WaveController_4] 5.216214
+[2021.06.22-05.59.31:246][878]LogBlueprintUserMessages: [WaveController_4] 5.288764
+[2021.06.22-05.59.31:751][908]LogBlueprintUserMessages: [WaveController_4] 5.359794
+[2021.06.22-05.59.32:268][939]LogBlueprintUserMessages: [WaveController_4] 5.432186
+[2021.06.22-05.59.32:771][969]LogBlueprintUserMessages: [WaveController_4] 5.502849
+[2021.06.22-05.59.33:284][  0]LogBlueprintUserMessages: [WaveController_4] 5.574853
+[2021.06.22-05.59.33:793][ 30]LogBlueprintUserMessages: [WaveController_4] 5.646379
+[2021.06.22-05.59.34:299][ 60]LogBlueprintUserMessages: [WaveController_4] 5.717263
+[2021.06.22-05.59.34:804][ 90]LogBlueprintUserMessages: [WaveController_4] 5.788275
+[2021.06.22-05.59.35:306][120]LogBlueprintUserMessages: [WaveController_4] 5.858684
+[2021.06.22-05.59.35:810][150]LogBlueprintUserMessages: [WaveController_4] 5.929613
+[2021.06.22-05.59.36:315][180]LogBlueprintUserMessages: [WaveController_4] SINGLE
+[2021.06.22-05.59.36:315][180]LogBlueprintUserMessages: [WaveController_4] 6.000083
+[2021.06.22-05.59.36:823][209]LogBlueprintUserMessages: [WaveController_4] 6.071544
+[2021.06.22-05.59.37:337][239]LogBlueprintUserMessages: [WaveController_4] 6.143741
+[2021.06.22-05.59.37:853][269]LogBlueprintUserMessages: [WaveController_4] 6.216289
+[2021.06.22-05.59.38:368][299]LogBlueprintUserMessages: [WaveController_4] 6.288555
+[2021.06.22-05.59.38:883][329]LogBlueprintUserMessages: [WaveController_4] 6.360804
+[2021.06.22-05.59.39:398][359]LogBlueprintUserMessages: [WaveController_4] 6.432975
+[2021.06.22-05.59.39:910][387]LogBlueprintUserMessages: [WaveController_4] 6.504968
+[2021.06.22-05.59.40:410][415]LogBlueprintUserMessages: [WaveController_4] 6.575257
+[2021.06.22-05.59.40:771][436]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.22-05.59.40:785][436]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Level1
+[2021.06.22-05.59.40:786][436]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-05.59.40:787][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-05.59.40:796][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.22-05.59.40:803][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-05.59.40:882][436]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.22-05.59.40:882][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-05.59.40:883][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-05.59.40:915][436]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.06.22-05.59.40:948][437]LogPlayLevel: Display: Destroying online subsystem :Context_133
+[2021.06.22-06.00.14:072][803]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/WaveControllerA6A8B4414FEB7E518067E2811459E223.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/WaveController.uasset'
+[2021.06.22-06.00.14:094][803]AssetCheck: New page: Asset Save: WaveController
+[2021.06.22-06.00.14:094][803]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/WaveController.WaveController
+[2021.06.22-06.01.22:177][622]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/WaveController4F110FEA44E0AC3A519894AB6C46B470.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/WaveController.uasset'
+[2021.06.22-06.01.22:203][622]AssetCheck: New page: Asset Save: WaveController
+[2021.06.22-06.01.22:203][622]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/WaveController.WaveController
+[2021.06.22-06.01.23:780][743]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.22-06.01.23:798][743]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.22-06.01.23:799][743]LogPlayLevel: [PlayLevel] Compiling WaveController before play...
+[2021.06.22-06.01.23:968][743]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.06.22-06.01.23:969][743]LogPlayLevel: PlayLevel: Blueprint regeneration took 171 ms (1 blueprints)
+[2021.06.22-06.01.23:969][743]PIE: New page: PIE session: Level1 (23/06/2021, 6:01:23 am)
+[2021.06.22-06.01.23:970][743]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Level1
+[2021.06.22-06.01.23:978][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007995s)
+[2021.06.22-06.01.23:979][743]LogAIModule: Creating AISystem for world Level1
+[2021.06.22-06.01.23:980][743]LogPlayLevel: PIE: World Init took: (0.001910s)
+[2021.06.22-06.01.23:980][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Level1.Level1 to /Game/Golem/Maps/UEDPIE_0_Level1.Level1 (0.010152s)
+[2021.06.22-06.01.24:055][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.06.22-06.01.24:056][743]LogAudio: Display: Creating Audio Device:                 Id: 98, Scope: Unique, Realtime: True
+[2021.06.22-06.01.24:056][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.22-06.01.24:056][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.22-06.01.24:056][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.22-06.01.24:056][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.22-06.01.24:056][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.22-06.01.24:056][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.22-06.01.24:056][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.22-06.01.24:056][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.22-06.01.24:056][743]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.22-06.01.24:056][743]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.22-06.01.24:063][743]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.22-06.01.24:063][743]LogAudioMixer: Display: 1: FrontRight
+[2021.06.22-06.01.24:081][743]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.22-06.01.24:081][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.22-06.01.24:081][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.22-06.01.24:081][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.22-06.01.24:082][743]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.22-06.01.24:082][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.22-06.01.24:082][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.22-06.01.24:100][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.22-06.01.24:100][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.22-06.01.24:100][743]LogInit: FAudioDevice initialized.
+[2021.06.22-06.01.24:101][743]LogAudio: Display: Audio Device (ID: 98) registered with world 'Level1'.
+[2021.06.22-06.01.24:159][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-06.01.24:159][743]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.22-06.01.24:163][743]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.06.22-18.01.24
+[2021.06.22-06.01.24:164][743]LogWorld: Bringing up level for play took: 0.003653
+[2021.06.22-06.01.24:165][743]LogOnline: OSS: Creating online subsystem instance for: :Context_134
+[2021.06.22-06.01.24:189][743]PIE: Server logged in
+[2021.06.22-06.01.24:190][743]PIE: Play in editor total start time 0.399 seconds.
+[2021.06.22-06.01.24:416][748]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.01.24:923][778]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.01.25:433][808]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.01.25:941][838]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.01.26:440][868]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.01.26:953][899]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.01.27:467][930]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.01.27:981][961]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.01.28:496][992]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.01.29:007][ 23]LogBlueprintUserMessages: [WaveController_4] 0.013548
+[2021.06.22-06.01.29:506][ 53]LogBlueprintUserMessages: [WaveController_4] 0.083836
+[2021.06.22-06.01.30:016][ 83]LogBlueprintUserMessages: [WaveController_4] 0.155289
+[2021.06.22-06.01.30:519][113]LogBlueprintUserMessages: [WaveController_4] 0.226003
+[2021.06.22-06.01.31:021][143]LogBlueprintUserMessages: [WaveController_4] 0.29634
+[2021.06.22-06.01.31:521][173]LogBlueprintUserMessages: [WaveController_4] 0.366701
+[2021.06.22-06.01.32:031][203]LogBlueprintUserMessages: [WaveController_4] 0.43829
+[2021.06.22-06.01.32:535][233]LogBlueprintUserMessages: [WaveController_4] 0.508805
+[2021.06.22-06.01.33:038][263]LogBlueprintUserMessages: [WaveController_4] 0.579462
+[2021.06.22-06.01.33:551][293]LogBlueprintUserMessages: [WaveController_4] 0.651458
+[2021.06.22-06.01.34:066][323]LogBlueprintUserMessages: [WaveController_4] 0.723742
+[2021.06.22-06.01.34:571][352]LogBlueprintUserMessages: [WaveController_4] 0.794694
+[2021.06.22-06.01.35:083][382]LogBlueprintUserMessages: [WaveController_4] 0.866672
+[2021.06.22-06.01.35:586][412]LogBlueprintUserMessages: [WaveController_4] 0.937064
+[2021.06.22-06.01.36:122][443]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-448.298 Y=-644.706 Z=80.000] for [E_Ranged_C]
+[2021.06.22-06.01.36:122][443]LogBlueprintUserMessages: [WaveController_4] QUEEN!!!
+[2021.06.22-06.01.36:122][443]LogBlueprintUserMessages: [WaveController_4] 1.009464
+[2021.06.22-06.01.36:124][443]LogBlueprintUserMessages: [E_Random_C_0] Queen Heal
+[2021.06.22-06.01.36:124][443]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.01.36:124][443]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.01.36:124][443]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.01.36:124][443]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.01.36:124][443]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.01.36:628][467]LogBlueprintUserMessages: [WaveController_4] 1.083039
+[2021.06.22-06.01.37:131][493]LogBlueprintUserMessages: [WaveController_4] 1.154028
+[2021.06.22-06.01.37:641][519]LogBlueprintUserMessages: [WaveController_4] 1.225473
+[2021.06.22-06.01.38:158][546]LogBlueprintUserMessages: [WaveController_4] 1.29801
+[2021.06.22-06.01.38:661][572]LogBlueprintUserMessages: [WaveController_4] 1.368683
+[2021.06.22-06.01.39:162][598]LogBlueprintUserMessages: [WaveController_4] 1.439005
+[2021.06.22-06.01.39:676][625]LogBlueprintUserMessages: [WaveController_4] 1.511101
+[2021.06.22-06.01.40:176][651]LogBlueprintUserMessages: [WaveController_4] 1.58139
+[2021.06.22-06.01.40:691][678]LogBlueprintUserMessages: [WaveController_4] 1.653732
+[2021.06.22-06.01.41:200][701]LogBlueprintUserMessages: [WaveController_4] 1.725239
+[2021.06.22-06.01.41:715][728]LogBlueprintUserMessages: [WaveController_4] 1.797329
+[2021.06.22-06.01.42:228][755]LogBlueprintUserMessages: [WaveController_4] 1.869472
+[2021.06.22-06.01.42:730][781]LogBlueprintUserMessages: [WaveController_4] 1.939816
+[2021.06.22-06.01.43:239][808]LogBlueprintUserMessages: [WaveController_4] 2.011269
+[2021.06.22-06.01.43:738][835]LogBlueprintUserMessages: [WaveController_4] 2.081712
+[2021.06.22-06.01.44:257][862]LogBlueprintUserMessages: [WaveController_4] 2.154294
+[2021.06.22-06.01.44:764][889]LogBlueprintUserMessages: [WaveController_4] 2.225616
+[2021.06.22-06.01.45:277][916]LogBlueprintUserMessages: [WaveController_4] 2.297249
+[2021.06.22-06.01.45:784][942]LogBlueprintUserMessages: [WaveController_4] 2.368725
+[2021.06.22-06.01.46:112][959]LogBlueprintUserMessages: [E_Random_C_0] Queen Heal
+[2021.06.22-06.01.46:112][959]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.01.46:112][959]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.01.46:112][959]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.01.46:112][959]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.01.46:112][959]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.01.46:294][968]LogBlueprintUserMessages: [WaveController_4] 2.440186
+[2021.06.22-06.01.46:810][995]LogBlueprintUserMessages: [WaveController_4] 2.512755
+[2021.06.22-06.01.47:329][ 22]LogBlueprintUserMessages: [WaveController_4] 2.585608
+[2021.06.22-06.01.47:833][ 47]LogBlueprintUserMessages: [WaveController_4] 2.656299
+[2021.06.22-06.01.48:351][ 74]LogBlueprintUserMessages: [WaveController_4] 2.729268
+[2021.06.22-06.01.48:867][101]LogBlueprintUserMessages: [WaveController_4] 2.80139
+[2021.06.22-06.01.49:380][128]LogBlueprintUserMessages: [WaveController_4] 2.873487
+[2021.06.22-06.01.49:888][155]LogBlueprintUserMessages: [WaveController_4] 2.945066
+[2021.06.22-06.01.50:404][181]LogBlueprintUserMessages: [WaveController_4] 3.017426
+[2021.06.22-06.01.50:923][207]LogBlueprintUserMessages: [WaveController_4] 3.090105
+[2021.06.22-06.01.51:430][234]LogBlueprintUserMessages: [WaveController_4] 3.161476
+[2021.06.22-06.01.51:933][260]LogBlueprintUserMessages: [WaveController_4] 3.231826
+[2021.06.22-06.01.52:433][286]LogBlueprintUserMessages: [WaveController_4] 3.302166
+[2021.06.22-06.01.52:950][313]LogBlueprintUserMessages: [WaveController_4] 3.374695
+[2021.06.22-06.01.53:465][340]LogBlueprintUserMessages: [WaveController_4] 3.446949
+[2021.06.22-06.01.53:850][360]LogCharacterMovement: E_Ranged_C_1 is stuck and failed to move! Velocity: X=7.23 Y=49.47 Z=0.00 Location: X=-807.31 Y=-251.75 Z=87.27 Normal: X=0.76 Y=-0.66 Z=0.00 PenetrationDepth:10.934 Actor:Player Component:Capsule BoneName:None (0 other events since notify)
+[2021.06.22-06.01.53:968][366]LogBlueprintUserMessages: [WaveController_4] 3.517632
+[2021.06.22-06.01.54:344][386]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.22-06.01.54:360][386]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Level1
+[2021.06.22-06.01.54:360][386]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-06.01.54:361][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-06.01.54:371][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.22-06.01.54:379][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-06.01.54:462][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-06.01.54:463][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-06.01.54:493][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.06.22-06.01.54:528][387]LogPlayLevel: Display: Destroying online subsystem :Context_134
+[2021.06.22-06.02.30:087][771]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/WaveController054168574899BA78FFA779A5D5CED77F.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/WaveController.uasset'
+[2021.06.22-06.02.30:111][771]AssetCheck: New page: Asset Save: WaveController
+[2021.06.22-06.02.30:111][771]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/WaveController.WaveController
+[2021.06.22-06.02.33:254][ 50]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.22-06.02.33:275][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.22-06.02.33:275][ 50]PIE: New page: PIE session: Level1 (23/06/2021, 6:02:33 am)
+[2021.06.22-06.02.33:275][ 50]LogPlayLevel: Creating play world package: /Game/Golem/Maps/UEDPIE_0_Level1
+[2021.06.22-06.02.33:283][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008375s)
+[2021.06.22-06.02.33:285][ 50]LogAIModule: Creating AISystem for world Level1
+[2021.06.22-06.02.33:286][ 50]LogPlayLevel: PIE: World Init took: (0.002525s)
+[2021.06.22-06.02.33:286][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Golem/Maps/Level1.Level1 to /Game/Golem/Maps/UEDPIE_0_Level1.Level1 (0.011068s)
+[2021.06.22-06.02.33:359][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.06.22-06.02.33:361][ 50]LogAudio: Display: Creating Audio Device:                 Id: 99, Scope: Unique, Realtime: True
+[2021.06.22-06.02.33:361][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.22-06.02.33:361][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.22-06.02.33:361][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.22-06.02.33:361][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.22-06.02.33:361][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.22-06.02.33:361][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.22-06.02.33:361][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.22-06.02.33:361][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.22-06.02.33:361][ 50]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.22-06.02.33:361][ 50]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.22-06.02.33:368][ 50]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.22-06.02.33:368][ 50]LogAudioMixer: Display: 1: FrontRight
+[2021.06.22-06.02.33:395][ 50]LogAudioMixer: Display: Using Audio Device Philips 220T (NVIDIA High Definition Audio)
+[2021.06.22-06.02.33:396][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.22-06.02.33:396][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.22-06.02.33:396][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.22-06.02.33:397][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.22-06.02.33:397][ 50]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.22-06.02.33:397][ 50]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.22-06.02.33:414][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.22-06.02.33:414][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.22-06.02.33:414][ 50]LogInit: FAudioDevice initialized.
+[2021.06.22-06.02.33:414][ 50]LogAudio: Display: Audio Device (ID: 99) registered with world 'Level1'.
+[2021.06.22-06.02.33:480][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-06.02.33:481][ 50]LogLoad: Game class is 'TwinStickGameMode_C'
+[2021.06.22-06.02.33:484][ 50]LogWorld: Bringing World /Game/Golem/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.06.22-18.02.33
+[2021.06.22-06.02.33:485][ 50]LogWorld: Bringing up level for play took: 0.003131
+[2021.06.22-06.02.33:486][ 50]LogOnline: OSS: Creating online subsystem instance for: :Context_135
+[2021.06.22-06.02.33:513][ 50]PIE: Server logged in
+[2021.06.22-06.02.33:515][ 50]PIE: Play in editor total start time 0.246 seconds.
+[2021.06.22-06.02.33:744][ 58]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.02.34:257][ 92]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.02.34:769][126]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.02.35:269][160]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.02.35:781][195]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.02.36:285][229]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.02.36:801][264]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.02.37:312][299]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.02.37:827][334]LogBlueprintUserMessages: [WaveController_4] 0.0
+[2021.06.22-06.02.38:333][367]LogBlueprintUserMessages: [WaveController_4] 0.013492
+[2021.06.22-06.02.38:842][401]LogBlueprintUserMessages: [WaveController_4] 0.085175
+[2021.06.22-06.02.39:355][436]LogBlueprintUserMessages: [WaveController_4] 0.156988
+[2021.06.22-06.02.39:862][470]LogBlueprintUserMessages: [WaveController_4] 0.228353
+[2021.06.22-06.02.40:377][505]LogBlueprintUserMessages: [WaveController_4] 0.300632
+[2021.06.22-06.02.40:886][539]LogBlueprintUserMessages: [WaveController_4] 0.372054
+[2021.06.22-06.02.41:395][574]LogBlueprintUserMessages: [WaveController_4] 0.443688
+[2021.06.22-06.02.41:906][608]LogBlueprintUserMessages: [WaveController_4] 0.515424
+[2021.06.22-06.02.42:413][643]LogBlueprintUserMessages: [WaveController_4] 0.58637
+[2021.06.22-06.02.42:920][677]LogBlueprintUserMessages: [WaveController_4] 0.657775
+[2021.06.22-06.02.43:433][711]LogBlueprintUserMessages: [WaveController_4] 0.729691
+[2021.06.22-06.02.43:945][745]LogBlueprintUserMessages: [WaveController_4] 0.801646
+[2021.06.22-06.02.44:458][778]LogBlueprintUserMessages: [WaveController_4] 0.873443
+[2021.06.22-06.02.44:960][811]LogBlueprintUserMessages: [WaveController_4] 0.943888
+[2021.06.22-06.02.45:465][845]LogBlueprintUserMessages: [WaveController_4] SINGLE
+[2021.06.22-06.02.45:465][845]LogBlueprintUserMessages: [WaveController_4] 1.014408
+[2021.06.22-06.02.45:962][877]LogBlueprintUserMessages: [WaveController_4] 1.084709
+[2021.06.22-06.02.46:476][910]LogBlueprintUserMessages: [WaveController_4] 1.156862
+[2021.06.22-06.02.46:992][943]LogBlueprintUserMessages: [WaveController_4] 1.229273
+[2021.06.22-06.02.47:493][975]LogBlueprintUserMessages: [WaveController_4] 1.299696
+[2021.06.22-06.02.48:000][  7]LogBlueprintUserMessages: [WaveController_4] 1.370651
+[2021.06.22-06.02.48:509][ 40]LogBlueprintUserMessages: [WaveController_4] 1.442089
+[2021.06.22-06.02.49:014][ 73]LogBlueprintUserMessages: [WaveController_4] 1.513096
+[2021.06.22-06.02.49:517][106]LogBlueprintUserMessages: [WaveController_4] 1.583565
+[2021.06.22-06.02.50:018][138]LogBlueprintUserMessages: [WaveController_4] 1.653921
+[2021.06.22-06.02.50:526][171]LogBlueprintUserMessages: [WaveController_4] 1.725363
+[2021.06.22-06.02.51:031][203]LogBlueprintUserMessages: [WaveController_4] 1.796371
+[2021.06.22-06.02.51:541][234]LogBlueprintUserMessages: [WaveController_4] 1.867814
+[2021.06.22-06.02.52:056][266]LogBlueprintUserMessages: [WaveController_4] 1.940066
+[2021.06.22-06.02.52:559][298]LogBlueprintUserMessages: [WaveController_4] SINGLE
+[2021.06.22-06.02.52:559][298]LogBlueprintUserMessages: [WaveController_4] 2.01034
+[2021.06.22-06.02.53:061][328]LogBlueprintUserMessages: [WaveController_4] 2.081128
+[2021.06.22-06.02.53:571][359]LogBlueprintUserMessages: [WaveController_4] 2.152681
+[2021.06.22-06.02.54:073][390]LogBlueprintUserMessages: [WaveController_4] 2.223273
+[2021.06.22-06.02.54:578][421]LogBlueprintUserMessages: [WaveController_4] 2.294142
+[2021.06.22-06.02.55:087][452]LogBlueprintUserMessages: [WaveController_4] 2.365779
+[2021.06.22-06.02.55:601][483]LogBlueprintUserMessages: [WaveController_4] 2.437647
+[2021.06.22-06.02.56:105][515]LogBlueprintUserMessages: [WaveController_4] 2.508745
+[2021.06.22-06.02.56:617][547]LogBlueprintUserMessages: [WaveController_4] 2.580305
+[2021.06.22-06.02.57:123][579]LogBlueprintUserMessages: [WaveController_4] 2.651536
+[2021.06.22-06.02.57:634][611]LogBlueprintUserMessages: [WaveController_4] 2.72308
+[2021.06.22-06.02.58:139][643]LogBlueprintUserMessages: [WaveController_4] 2.79409
+[2021.06.22-06.02.58:646][675]LogBlueprintUserMessages: [WaveController_4] 2.865382
+[2021.06.22-06.02.59:156][707]LogBlueprintUserMessages: [WaveController_4] 2.936962
+[2021.06.22-06.02.59:555][732]LogBlueprintUserMessages: [Player] 5.0
+[2021.06.22-06.02.59:555][732]LogBlueprintUserMessages: [C_Meleee_C_3] SPAWN
+[2021.06.22-06.02.59:558][732]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (UnitAIController_C)
+[2021.06.22-06.02.59:663][738]LogBlueprintUserMessages: [WaveController_4] SINGLE
+[2021.06.22-06.02.59:663][738]LogBlueprintUserMessages: [WaveController_4] 3.007241
+[2021.06.22-06.03.00:162][767]LogBlueprintUserMessages: [WaveController_4] 3.078258
+[2021.06.22-06.03.00:667][797]LogBlueprintUserMessages: [WaveController_4] 3.148997
+[2021.06.22-06.03.01:167][827]LogBlueprintUserMessages: [WaveController_4] 3.219325
+[2021.06.22-06.03.01:671][858]LogBlueprintUserMessages: [WaveController_4] 3.29007
+[2021.06.22-06.03.02:178][889]LogBlueprintUserMessages: [WaveController_4] 3.361187
+[2021.06.22-06.03.02:683][918]LogBlueprintUserMessages: [WaveController_4] 3.431918
+[2021.06.22-06.03.05:177][ 65]LogBlueprintUserMessages: [WaveController_4] 3.502902
+[2021.06.22-06.03.05:687][ 96]LogBlueprintUserMessages: [WaveController_4] 3.574383
+[2021.06.22-06.03.06:198][127]LogBlueprintUserMessages: [WaveController_4] 3.646112
+[2021.06.22-06.03.06:705][157]LogBlueprintUserMessages: [WaveController_4] 3.717208
+[2021.06.22-06.03.07:221][188]LogBlueprintUserMessages: [WaveController_4] 3.789652
+[2021.06.22-06.03.07:732][219]LogBlueprintUserMessages: [WaveController_4] 3.8615
+[2021.06.22-06.03.08:248][250]LogBlueprintUserMessages: [WaveController_4] 3.933669
+[2021.06.22-06.03.08:760][281]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1060.644 Y=2267.342 Z=80.000] for [E_Ranged_C]
+[2021.06.22-06.03.08:769][281]LogBlueprintUserMessages: [WaveController_4] QUEEN!!!
+[2021.06.22-06.03.08:769][281]LogBlueprintUserMessages: [WaveController_4] 4.004182
+[2021.06.22-06.03.08:770][281]LogBlueprintUserMessages: [E_Random_C_0] Queen Heal
+[2021.06.22-06.03.08:770][281]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.03.08:770][281]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.03.08:770][281]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.03.08:770][281]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.03.08:770][281]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.03.09:264][306]LogBlueprintUserMessages: [WaveController_4] 4.076264
+[2021.06.22-06.03.09:782][333]LogBlueprintUserMessages: [WaveController_4] 4.1489
+[2021.06.22-06.03.10:292][361]LogBlueprintUserMessages: [WaveController_4] 4.220603
+[2021.06.22-06.03.10:792][389]LogBlueprintUserMessages: [WaveController_4] 4.29091
+[2021.06.22-06.03.11:308][417]LogBlueprintUserMessages: [WaveController_4] 4.363447
+[2021.06.22-06.03.11:459][425]LogBlueprintUserMessages: [E_Defender_C_3] STOMP
+[2021.06.22-06.03.11:514][428]LogBlueprintUserMessages: [E_Defender_C_2] STOMP
+[2021.06.22-06.03.11:815][444]LogBlueprintUserMessages: [WaveController_4] 4.434385
+[2021.06.22-06.03.12:320][472]LogBlueprintUserMessages: [WaveController_4] 4.50527
+[2021.06.22-06.03.12:832][500]LogBlueprintUserMessages: [WaveController_4] 4.577197
+[2021.06.22-06.03.13:333][527]LogBlueprintUserMessages: [WaveController_4] 4.647441
+[2021.06.22-06.03.13:837][554]LogBlueprintUserMessages: [WaveController_4] 4.718293
+[2021.06.22-06.03.14:342][582]LogBlueprintUserMessages: [WaveController_4] 4.78928
+[2021.06.22-06.03.14:853][610]LogBlueprintUserMessages: [WaveController_4] 4.860968
+[2021.06.22-06.03.15:359][636]LogBlueprintUserMessages: [WaveController_4] 4.931757
+[2021.06.22-06.03.15:875][662]LogBlueprintUserMessages: [WaveController_4] 5.004238
+[2021.06.22-06.03.16:263][683]LogCharacterMovement: E_Melee_C_1 is stuck and failed to move! Velocity: X=49.78 Y=4.73 Z=0.00 Location: X=875.38 Y=1753.62 Z=87.28 Normal: X=0.30 Y=0.96 Z=0.00 PenetrationDepth:6.217 Actor:E_Melee_C_0 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2021.06.22-06.03.16:377][689]LogBlueprintUserMessages: [WaveController_4] 5.07499
+[2021.06.22-06.03.16:880][715]LogBlueprintUserMessages: [WaveController_4] 5.145398
+[2021.06.22-06.03.17:382][742]LogBlueprintUserMessages: [WaveController_4] 5.215857
+[2021.06.22-06.03.17:892][770]LogBlueprintUserMessages: [WaveController_4] 5.287552
+[2021.06.22-06.03.17:914][771]LogBlueprintUserMessages: [E_Defender_C_2] STOMP
+[2021.06.22-06.03.17:991][775]LogBlueprintUserMessages: [E_Defender_C_3] STOMP
+[2021.06.22-06.03.18:176][785]LogBlueprintUserMessages: [E_Defender_C_0] STOMP
+[2021.06.22-06.03.18:400][797]LogBlueprintUserMessages: [WaveController_4] 5.359025
+[2021.06.22-06.03.18:752][816]LogBlueprintUserMessages: [E_Random_C_0] Queen Heal
+[2021.06.22-06.03.18:752][816]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.03.18:752][816]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.03.18:752][816]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.03.18:752][816]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.03.18:752][816]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.03.18:913][825]LogBlueprintUserMessages: [WaveController_4] 5.430801
+[2021.06.22-06.03.19:419][852]LogBlueprintUserMessages: [WaveController_4] 5.50184
+[2021.06.22-06.03.19:939][880]LogBlueprintUserMessages: [WaveController_4] 5.574741
+[2021.06.22-06.03.20:448][908]LogBlueprintUserMessages: [WaveController_4] 5.646616
+[2021.06.22-06.03.20:471][909]LogCharacterMovement: E_Ranged_C_0 is stuck and failed to move! Velocity: X=449.98 Y=-15.12 Z=0.00 Location: X=439.29 Y=1914.35 Z=87.15 Normal: X=0.85 Y=-0.52 Z=0.00 PenetrationDepth:10.380 Actor:Player Component:Capsule BoneName:None (0 other events since notify)
+[2021.06.22-06.03.20:954][935]LogBlueprintUserMessages: [WaveController_4] 5.717237
+[2021.06.22-06.03.21:464][959]LogBlueprintUserMessages: [WaveController_4] 5.788962
+[2021.06.22-06.03.21:981][987]LogBlueprintUserMessages: [WaveController_4] 5.861554
+[2021.06.22-06.03.22:496][ 15]LogBlueprintUserMessages: [WaveController_4] 5.933886
+[2021.06.22-06.03.23:007][ 43]LogBlueprintUserMessages: [WaveController_4] 6.005826
+[2021.06.22-06.03.23:510][ 70]LogBlueprintUserMessages: [WaveController_4] 6.076291
+[2021.06.22-06.03.24:014][ 97]LogBlueprintUserMessages: [WaveController_4] 6.14695
+[2021.06.22-06.03.24:525][125]LogBlueprintUserMessages: [WaveController_4] 6.21874
+[2021.06.22-06.03.25:033][153]LogBlueprintUserMessages: [WaveController_4] 6.290062
+[2021.06.22-06.03.25:534][180]LogBlueprintUserMessages: [WaveController_4] 6.360281
+[2021.06.22-06.03.26:050][208]LogBlueprintUserMessages: [WaveController_4] 6.432855
+[2021.06.22-06.03.26:564][236]LogBlueprintUserMessages: [WaveController_4] 6.505139
+[2021.06.22-06.03.27:079][264]LogBlueprintUserMessages: [WaveController_4] 6.577331
+[2021.06.22-06.03.27:594][292]LogBlueprintUserMessages: [WaveController_4] 6.649574
+[2021.06.22-06.03.27:883][308]LogBlueprintUserMessages: [E_Defender_C_2] STOMP
+[2021.06.22-06.03.27:938][311]LogBlueprintUserMessages: [E_Defender_C_3] STOMP
+[2021.06.22-06.03.28:106][320]LogBlueprintUserMessages: [WaveController_4] 6.72159
+[2021.06.22-06.03.28:624][348]LogBlueprintUserMessages: [WaveController_4] 6.794171
+[2021.06.22-06.03.28:767][356]LogBlueprintUserMessages: [E_Random_C_0] Queen Heal
+[2021.06.22-06.03.28:767][356]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.03.28:767][356]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.03.28:767][356]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.03.28:767][356]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.03.28:767][356]LogBlueprintUserMessages: [E_Random_C_0] Hello
+[2021.06.22-06.03.29:124][375]LogBlueprintUserMessages: [WaveController_4] 6.864425
+[2021.06.22-06.03.29:626][402]LogBlueprintUserMessages: [WaveController_4] 6.934964
+[2021.06.22-06.03.30:127][429]LogBlueprintUserMessages: [WaveController_4] 7.005163
+[2021.06.22-06.03.30:628][456]LogBlueprintUserMessages: [WaveController_4] 7.075695
+[2021.06.22-06.03.31:145][484]LogBlueprintUserMessages: [WaveController_4] 7.148201
+[2021.06.22-06.03.31:658][512]LogBlueprintUserMessages: [WaveController_4] 7.220305
+[2021.06.22-06.03.32:174][540]LogBlueprintUserMessages: [WaveController_4] 7.292616
+[2021.06.22-06.03.32:350][550]LogBlueprintUserMessages: [E_Defender_C_1] STOMP
+[2021.06.22-06.03.32:676][568]LogBlueprintUserMessages: [WaveController_4] 7.363363
+[2021.06.22-06.03.33:196][596]LogBlueprintUserMessages: [WaveController_4] 7.43631
+[2021.06.22-06.03.33:699][623]LogBlueprintUserMessages: [WaveController_4] 7.506721
+[2021.06.22-06.03.34:207][650]LogBlueprintUserMessages: [WaveController_4] 7.578084
+[2021.06.22-06.03.34:717][677]LogBlueprintUserMessages: [WaveController_4] 7.649567
+[2021.06.22-06.03.35:176][702]LogSlate: Window 'Golem Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.22-06.03.35:200][702]LogWorld: BeginTearingDown for /Game/Golem/Maps/UEDPIE_0_Level1
+[2021.06.22-06.03.35:200][702]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-06.03.35:203][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-06.03.35:212][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.22-06.03.35:220][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-06.03.35:298][702]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.22-06.03.35:298][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-06.03.35:299][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-06.03.35:331][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.06.22-06.03.35:363][703]LogPlayLevel: Display: Destroying online subsystem :Context_135
+[2021.06.22-06.03.54:433][263]LogSavePackage: Moving 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Saved/WaveController8AFDA8674A2FAC7612B9639241EC0D66.tmp' to 'C:/Users/manhk/OneDrive/Documents/BCS/GolemHeart/Golem/Content/Golem/Blueprints/Enemies/WaveController.uasset'
+[2021.06.22-06.03.54:459][263]AssetCheck: New page: Asset Save: WaveController
+[2021.06.22-06.03.54:459][263]LogContentValidation: Display: Validating Blueprint /Game/Golem/Blueprints/Enemies/WaveController.WaveController
