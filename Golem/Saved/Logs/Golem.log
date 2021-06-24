@@ -15811,3 +15811,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.24-06.58.01:784][658]LogContentValidation: Display: Validating WidgetBlueprint /Game/Golem/UI/HUDWidget.HUDWidget
 [2021.06.24-06.58.02:730][714]BlueprintLog: New page: Compile HUDWidget
 [2021.06.24-06.58.02:960][714]LogUObjectHash: Compacting FUObjectHashTables data took   9.84ms
+[2021.06.24-06.58.56:071][  1]AssetReimport: New page: Outstanding source content changes 6:58:56 am
+[2021.06.24-06.58.56:072][  1]LogEditorFactories: Performing atomic reimport of [C:/Users/Admin/Documents/GitHub/Golem-Heart/Golem/Content/Golem/UI/button backs.png]
+[2021.06.24-06.58.56:073][  1]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Admin/Documents/GitHub/Golem-Heart/Golem/Content/Golem/UI/button backs.png)
+[2021.06.24-06.58.56:090][  1]LogEditorFactories: -- imported successfully
+[2021.06.24-06.58.56:092][  1]LogEditorFactories: Performing atomic reimport of [C:/Users/Admin/Documents/GitHub/Golem-Heart/Golem/Content/Golem/UI/button backs.png]
+[2021.06.24-06.58.56:093][  1]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Admin/Documents/GitHub/Golem-Heart/Golem/Content/Golem/UI/button backs.png)
+[2021.06.24-06.58.56:110][  1]LogEditorFactories: -- imported successfully
+[2021.06.24-06.58.56:196][  2]LogEditorFactories: Performing atomic reimport of [C:/Users/Admin/Documents/GitHub/Golem-Heart/Golem/Content/Golem/UI/button hover.png]
+[2021.06.24-06.58.56:197][  2]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Admin/Documents/GitHub/Golem-Heart/Golem/Content/Golem/UI/button hover.png)
+[2021.06.24-06.58.56:216][  2]LogEditorFactories: -- imported successfully
+[2021.06.24-06.58.56:402][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/UI/button_backs" FILE="../../../../../../Users/Admin/Documents/GitHub/Golem-Heart/Golem/Content/Golem/UI/button_backs.uasset" SILENT=true
+[2021.06.24-06.58.56:407][  3]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Golem-Heart/Golem/Saved/button_backs9C1CD6AC4AE5D99D568CD98D99B52880.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Golem-Heart/Golem/Content/Golem/UI/button_backs.uasset'
+[2021.06.24-06.58.56:413][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/UI/button_backs_2" FILE="../../../../../../Users/Admin/Documents/GitHub/Golem-Heart/Golem/Content/Golem/UI/button_backs_2.uasset" SILENT=true
+[2021.06.24-06.58.56:419][  3]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Golem-Heart/Golem/Saved/button_backs_2CAE6283C4BCA4C92820A13BCC97CEB11.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Golem-Heart/Golem/Content/Golem/UI/button_backs_2.uasset'
+[2021.06.24-06.58.56:424][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/UI/button_hover" FILE="../../../../../../Users/Admin/Documents/GitHub/Golem-Heart/Golem/Content/Golem/UI/button_hover.uasset" SILENT=true
+[2021.06.24-06.58.56:430][  3]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Golem-Heart/Golem/Saved/button_hover6950594A43E6E144827260A2CBAE0E1F.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Golem-Heart/Golem/Content/Golem/UI/button_hover.uasset'
+[2021.06.24-06.58.56:560][  4]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.24-06.58.56:561][  4]LogContentValidation: Display: Validating Texture2D /Game/Golem/UI/button_backs_2.button_backs_2
+[2021.06.24-06.58.56:561][  4]LogContentValidation: Display: Validating Texture2D /Game/Golem/UI/button_hover.button_hover
+[2021.06.24-06.58.56:561][  4]LogContentValidation: Display: Validating Texture2D /Game/Golem/UI/button_backs.button_backs
+[2021.06.24-06.58.59:522][161]AssetReimport: Reimported asset button_backs from C:/Users/Admin/Documents/GitHub/Golem-Heart/Golem/Content/Golem/UI/button backs.png.
+[2021.06.24-06.58.59:522][161]AssetReimport: Reimported asset button_backs_2 from C:/Users/Admin/Documents/GitHub/Golem-Heart/Golem/Content/Golem/UI/button backs.png.
+[2021.06.24-06.58.59:523][161]AssetReimport: Reimported asset button_hover from C:/Users/Admin/Documents/GitHub/Golem-Heart/Golem/Content/Golem/UI/button hover.png.
+[2021.06.24-06.59.00:888][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Golem/UI/HUDWidget" FILE="../../../../../../Users/Admin/Documents/GitHub/Golem-Heart/Golem/Content/Golem/UI/HUDWidget.uasset" SILENT=true
+[2021.06.24-06.59.00:920][241]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Golem-Heart/Golem/Saved/HUDWidgetEC87FED34D5C0F3BAE14E2AD9485B4D7.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Golem-Heart/Golem/Content/Golem/UI/HUDWidget.uasset'
+[2021.06.24-06.59.00:947][241]AssetCheck: New page: Asset Save: HUDWidget
+[2021.06.24-06.59.00:947][241]LogContentValidation: Display: Validating WidgetBlueprint /Game/Golem/UI/HUDWidget.HUDWidget
